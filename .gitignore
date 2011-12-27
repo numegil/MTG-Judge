@@ -1,8 +1,8 @@
 .DS_Store
 class
 build
-Android\market\keystore
-Android\MTGJudge\gen
-Android\MTGJudge\bin
+keystore
+gen
+bin
 .settings
 .picasa
