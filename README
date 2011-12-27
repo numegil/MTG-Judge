@@ -1,0 +1,13 @@
+This repository is the source code for both the iPhone and Android versions of the MTGJudge app, and any resource files and update scripts associated with them.  The app is available for free on both App Stores at http://itunes.apple.com/us/app/mtgjudge/id363484335 and https://market.android.com/details?id=com.mtgjudge, respecitvely.  
+
+If you are interested in helping this project in any capacity, I would be glad to accept your help!  Just send me an email at numegil@gmail.com and we'll see what you can do :)
+
+
+
+--------------------------------------------------------------
+
+MTGJudge is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+MTGJudge is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with MTGJudge.  If not, see <http://www.gnu.org/licenses/>.
