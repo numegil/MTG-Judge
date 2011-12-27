@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Uba Mask</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>If a player would draw a card, that player exiles that card face up instead.
+Each player may play cards he or she exiled with Uba Mask this turn.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Uktabi Drake</string>
+		<string>G</string>
+		<string>Creature  - Drake</string>
+		<string>(2/1)</string>
+		<string>Flying, haste
+Echo {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</string>
+		<string>Planar Chaos Common</string>
+	</array>
+	<array>
+		<string>Uktabi Efreet</string>
+		<string>2GG</string>
+		<string>Creature  - Efreet</string>
+		<string>(5/4)</string>
+		<string>Cumulative upkeep {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</string>
+		<string>Weatherlight Common</string>
+	</array>
+	<array>
+		<string>Uktabi Faerie</string>
+		<string>1G</string>
+		<string>Creature  - Faerie</string>
+		<string>(1/1)</string>
+		<string>Flying
+{3}{G}, Sacrifice Uktabi Faerie: Destroy target artifact.</string>
+		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Uktabi Kong</string>
+		<string>5GGG</string>
+		<string>Creature - Ape</string>
+		<string>(8/8)</string>
+		<string>Trample
+When Uktabi Kong comes into play, destroy all artifacts.
+Tap two untapped Apes you control: Put a 1/1 green Ape creature token into play.</string>
+		<string>Unhinged Rare</string>
+	</array>
+	<array>
+		<string>Uktabi Orangutan</string>
+		<string>2G</string>
+		<string>Creature  - Ape</string>
+		<string>(2/2)</string>
+		<string>When Uktabi Orangutan enters the battlefield, destroy target artifact.</string>
+		<string>Classic Sixth Edition Uncommon, Visions Uncommon</string>
+	</array>
+	<array>
+		<string>Uktabi Wildcats</string>
+		<string>4G</string>
+		<string>Creature  - Cat</string>
+		<string>(*/*)</string>
+		<string>Uktabi Wildcats's power and toughness are each equal to the number of Forests you control.
+{G}, Sacrifice a Forest: Regenerate Uktabi Wildcats.</string>
+		<string>Seventh Edition Rare, Classic Sixth Edition Rare, Mirage Rare</string>
+	</array>
+	<array>
+		<string>Ulamog, the Infinite Gyre</string>
+		<string>11</string>
+		<string>Legendary Creature  - Eldrazi</string>
+		<string>(10/10)</string>
+		<string>When you cast Ulamog, the Infinite Gyre, destroy target permanent.
+Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)
+Ulamog is indestructible.
+When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</string>
+		<string>From the Vault: Legends Mythic Rare, Rise of the Eldrazi Mythic Rare</string>
+	</array>
+	<array>
+		<string>Ulamog's Crusher</string>
+		<string>8</string>
+		<string>Creature  - Eldrazi</string>
+		<string>(8/8)</string>
+		<string>Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Ulamog's Crusher attacks each turn if able.</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Ulasht, the Hate Seed</string>
+		<string>2RG</string>
+		<string>Legendary Creature  - Hellion Hydra</string>
+		<string>(0/0)</string>
+		<string>Ulasht, the Hate Seed enters the battlefield with a +1/+1 counter on it for each other red creature you control and a +1/+1 counter on it for each other green creature you control.
+{1}, Remove a +1/+1 counter from Ulasht: Choose one - Ulasht deals 1 damage to target creature; or put a 1/1 green Saproling creature token onto the battlefield.</string>
+		<string>Guildpact Rare</string>
+	</array>
+	<array>
+		<string>Ulvenwald Mystics</string>
+		<string>2GG</string>
+		<string>Creature  - Human Shaman Werewolf</string>
+		<string>(3/3)</string>
+		<string>At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.</string>
+		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Ulvenwald Primordials</string>
+		<string>Creature  - Werewolf</string>
+		<string>(5/5)</string>
+		<string>{G}: Regenerate Ulvenwald Primordials.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.</string>
+		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Umara Raptor</string>
+		<string>2U</string>
+		<string>Creature  - Bird Ally</string>
+		<string>(1/1)</string>
+		<string>Flying
+Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Umbilicus</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.</string>
+		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Umbra Mystic</string>
+		<string>2W</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>Auras attached to permanents you control have totem armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)</string>
+		<string>Rise of the Eldrazi Rare</string>
+	</array>
+	<array>
+		<string>Umbra Stalker</string>
+		<string>4BBB</string>
+		<string>Creature  - Elemental</string>
+		<string>(*/*)</string>
+		<string>Chroma - Umbra Stalker's power and toughness are each equal to the number of black mana symbols in the mana costs of cards in your graveyard.</string>
+		<string>Eventide Rare</string>
+	</array>
+	<array>
+		<string>Umbral Mantle</string>
+		<string>3</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature has "{3}, {Q}: This creature gets +2/+2 until end of turn." ({Q} is the untap symbol.)
+Equip {0}</string>
+		<string>Shadowmoor Uncommon</string>
+	</array>
+	<array>
+		<string>Umezawa's Jitte</string>
+		<string>2</string>
+		<string>Legendary Artifact  - Equipment</string>
+		<string></string>
+		<string>Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.
+Remove a charge counter from Umezawa's Jitte: Choose one -  Equipped creature gets +2/+2 until end of turn; or target creature gets -1/-1 until end of turn; or you gain 2 life.
+Equip {2}</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Unbender Tine</string>
+		<string>2WU</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Untap another target permanent.</string>
+		<string>Archenemy Uncommon, Alara Reborn Uncommon</string>
+	</array>
+	<array>
+		<string>Unblinking Bleb</string>
+		<string>3U</string>
+		<string>Creature  - Illusion</string>
+		<string>(1/3)</string>
+		<string>Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Whenever Unblinking Bleb or another permanent is turned face up, you may scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</string>
+		<string>Future Sight Common</string>
+	</array>
+	<array>
+		<string>Unbreathing Horde</string>
+		<string>2B</string>
+		<string>Creature  - Zombie</string>
+		<string>(0/0)</string>
+		<string>Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.
+If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it.</string>
+		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Unburden</string>
+		<string>1BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player discards two cards.
+Cycling {2} ({2}, Discard this card: Draw a card.)</string>
+		<string>Scourge Common</string>
+	</array>
+	<array>
+		<string>Unburial Rites</string>
+		<string>4B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return target creature card from your graveyard to the battlefield.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Unchecked Growth</string>
+		<string>2G</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Target creature gets +4/+4 until end of turn. If it's a Spirit, it gains trample until end of turn.</string>
+		<string>Betrayers of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Uncle Istvan</string>
+		<string>1BBB</string>
+		<string>Creature  - Human</string>
+		<string>(1/3)</string>
+		<string>Prevent all damage that would be dealt to Uncle Istvan by creatures.</string>
+		<string>Time Spiral "Timeshifted" Special, Fourth Edition Uncommon, The Dark Uncommon</string>
+	</array>
+	<array>
+		<string>Uncontrollable Anger</string>
+		<string>2RR</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +2/+2 and attacks each turn if able.</string>
+		<string>Tenth Edition Common, Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Uncontrolled Infestation</string>
+		<string>1R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant nonbasic land
+When enchanted land becomes tapped, destroy it.</string>
+		<string>Scourge Common</string>
+	</array>
+	<array>
+		<string>Undead Alchemist</string>
+		<string>3U</string>
+		<string>Creature  - Zombie</string>
+		<string>(4/2)</string>
+		<string>If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.
+Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.</string>
+		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Undead Gladiator</string>
+		<string>1BB</string>
+		<string>Creature  - Zombie Barbarian</string>
+		<string>(3/1)</string>
+		<string>{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate this ability only during your upkeep.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Undead Leotau</string>
+		<string>5B</string>
+		<string>Creature  - Zombie Cat</string>
+		<string>(3/4)</string>
+		<string>{R}: Undead Leotau gets +1/-1 until end of turn.
+Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Undead Slayer</string>
+		<string>2W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(2/2)</string>
+		<string>{W}, {T}: Exile target Skeleton, Vampire, or Zombie.</string>
+		<string>Magic 2010 Uncommon</string>
+	</array>
+	<array>
+		<string>Undead Warchief</string>
+		<string>2BB</string>
+		<string>Creature  - Zombie</string>
+		<string>(1/1)</string>
+		<string>Zombie spells you cast cost {1} less to cast.
+Zombie creatures you control get +2/+1.</string>
+		<string>Planechase Uncommon, Time Spiral "Timeshifted" Special, Scourge Uncommon</string>
+	</array>
+	<array>
+		<string>Undercity Shade</string>
+		<string>4B</string>
+		<string>Creature  - Shade</string>
+		<string>(1/1)</string>
+		<string>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{B}: Undercity Shade gets +1/+1 until end of turn.</string>
+		<string>Ravnica: City of Guilds Uncommon</string>
+	</array>
+	<array>
+		<string>Underground River</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.</string>
+		<string>Tenth Edition Rare, Ninth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Underground Sea</string>
+		<string>Land  - Island Swamp</string>
+		<string></string>
+		<string></string>
+		<string>Masters Edition IV Rare, Masters Edition II Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
+	</array>
+	<array>
+		<string>Undergrowth</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>As an additional cost to cast Undergrowth, you may pay {2}{R}.
+Prevent all combat damage that would be dealt this turn. If its additional cost was paid, Undergrowth doesn't affect combat damage that would be dealt by red creatures.</string>
+		<string>Alliances Common, Alliances Common</string>
+	</array>
+	<array>
+		<string>Undermine</string>
+		<string>UUB</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell. Its controller loses 3 life.</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Rare, Invasion Rare</string>
+	</array>
+	<array>
+		<string>Undertaker</string>
+		<string>1B</string>
+		<string>Creature  - Human Spellshaper</string>
+		<string>(1/1)</string>
+		<string>{B}, {T}, Discard a card: Return target creature card from your graveyard to your hand.</string>
+		<string>Time Spiral "Timeshifted" Special, Mercadian Masques Common</string>
+	</array>
+	<array>
+		<string>Undertow</string>
+		<string>2U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Creatures with islandwalk can be blocked as though they didn't have islandwalk.</string>
+		<string>Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Underworld Dreams</string>
+		<string>BBB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.</string>
+		<string>Magic 2010 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Undiscovered Paradise</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add one mana of any color to your mana pool. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand.</string>
+		<string>Visions Rare</string>
+	</array>
+	<array>
+		<string>Undo</string>
+		<string>1UU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return two target creatures to their owners' hands.</string>
+		<string>Starter 1999 Uncommon, Portal Second Age Uncommon, Visions Common</string>
+	</array>
+	<array>
+		<string>Undying Beast</string>
+		<string>3B</string>
+		<string>Creature  - Beast</string>
+		<string>(3/2)</string>
+		<string>When Undying Beast dies, put it on top of its owner's library.</string>
+		<string>Portal Common</string>
+	</array>
+	<array>
+		<string>Undying Flames</string>
+		<string>4RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Exile cards from the top of your library until you exile a nonland card. Undying Flames deals damage to target creature or player equal to that card's converted mana cost.
+Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Undying Rage</string>
+		<string>2R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +2/+2 and can't block.
+When Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner's hand.</string>
+		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Unearth</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
+Cycling {2} ({2}, Discard this card: Draw a card.)</string>
+		<string>Urza's Legacy Common</string>
+	</array>
+	<array>
+		<string>Unearthly Blizzard</string>
+		<string>2R</string>
+		<string>Sorcery  - Arcane</string>
+		<string></string>
+		<string>Up to three target creatures can't block this turn.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Unerring Sling</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}, Tap an untapped creature you control: Unerring Sling deals damage equal to the tapped creature's power to target attacking or blocking creature with flying.</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Unforge</string>
+		<string>2R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target Equipment. If that Equipment was attached to a creature, Unforge deals 2 damage to that creature.</string>
+		<string>Darksteel Common</string>
+	</array>
+	<array>
+		<string>Unfulfilled Desires</string>
+		<string>1UB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{1}, Pay 1 life: Draw a card, then discard a card.</string>
+		<string>Mirage Rare</string>
+	</array>
+	<array>
+		<string>Unhinge</string>
+		<string>2B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player discards a card.
+Draw a card.</string>
+		<string>Torment Common</string>
+	</array>
+	<array>
+		<string>Unholy Citadel</string>
+		<string>Land</string>
+		<string></string>
+		<string>Black legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</string>
+		<string>Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Unholy Fiend</string>
+		<string>Creature  - Horror</string>
+		<string>(3/3)</string>
+		<string>At the beginning of your end step, you lose 1 life.</string>
+		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Unholy Grotto</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{B}, {T}: Put target Zombie card from your graveyard on top of your library.</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Unholy Strength</string>
+		<string>B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +2/+1.</string>
+		<string>Magic 2011 Common, Magic 2010 Common, Duel Decks: Divine vs. Demonic Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common</string>
+	</array>
+	<array>
+		<string>Unified Strike</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile target attacking creature if its power is less than or equal to the number of Soldiers on the battlefield.</string>
+		<string>Onslaught Common</string>
+	</array>
+	<array>
+		<string>Unified Will</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell if you control more creatures than that spell's controller.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Unifying Theory</string>
+		<string>1U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a player casts a spell, that player may pay {2}. If the player does, he or she draws a card.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Unlikely Alliance</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{1}{W}: Target nonattacking, nonblocking creature gets +0/+2 until end of turn.</string>
+		<string>Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Unliving Psychopath</string>
+		<string>2BB</string>
+		<string>Creature  - Zombie Assassin</string>
+		<string>(0/4)</string>
+		<string>{B}: Unliving Psychopath gets +1/-1 until end of turn.
+{B}, {T}: Destroy target creature with power less than Unliving Psychopath's power.</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>Unmake</string>
+		<string>(W/B)(W/B)(W/B)</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile target creature.</string>
+		<string>Archenemy Common, Eventide Common</string>
+	</array>
+	<array>
+		<string>Unmask</string>
+		<string>3B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>You may exile a black card from your hand rather than pay Unmask's mana cost.
+Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Unnatural Hunger</string>
+		<string>3BB</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, Unnatural Hunger deals damage to that player equal to that creature's power unless he or she sacrifices another creature.</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Unnatural Predation</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +1/+1 and gains trample until end of turn.</string>
+		<string>Mirrodin Besieged Common</string>
+	</array>
+	<array>
+		<string>Unnatural Selection</string>
+		<string>1U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{1}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.</string>
+		<string>Apocalypse Rare</string>
+	</array>
+	<array>
+		<string>Unnatural Speed</string>
+		<string>R</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Target creature gains haste until end of turn.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Unnerve</string>
+		<string>3B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each opponent discards two cards.</string>
+		<string>Magic: The Gathering-Commander Common, Battle Royale Box Set Common, Urza's Saga Common</string>
+	</array>
+	<array>
+		<string>Unnerving Assault</string>
+		<string>2(U/R)</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Creatures your opponents control get -1/-0 until end of turn if {U} was spent to cast Unnerving Assault, and creatures you control get +1/+0 until end of turn if {R} was spent to cast it. (Do both if {U}{R} was spent.)</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Unquestioned Authority</string>
+		<string>2W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+When Unquestioned Authority enters the battlefield, draw a card.
+Enchanted creature has protection from creatures.</string>
+		<string>Judgment Uncommon</string>
+	</array>
+	<array>
+		<string>Unruly Mob</string>
+		<string>1W</string>
+		<string>Creature  - Human</string>
+		<string>(1/1)</string>
+		<string>Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.</string>
+		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Unscythe, Killer of Kings</string>
+		<string>UBBR</string>
+		<string>Legendary Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +3/+3 and has first strike.
+Whenever a creature dealt damage by equipped creature this turn dies, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield.
+Equip {2}</string>
+		<string>Alara Reborn Rare</string>
+	</array>
+	<array>
+		<string>Unseen Walker</string>
+		<string>1G</string>
+		<string>Creature  - Dryad</string>
+		<string>(1/1)</string>
+		<string>Forestwalk
+{1}{G}{G}: Target creature gains forestwalk until end of turn.</string>
+		<string>Classic Sixth Edition Uncommon, Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Unspeakable Symbol</string>
+		<string>1BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Pay 3 life: Put a +1/+1 counter on target creature.</string>
+		<string>Scourge Uncommon</string>
+	</array>
+	<array>
+		<string>Unstable Footing</string>
+		<string>R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
+Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.</string>
+		<string>Zendikar Uncommon</string>
+	</array>
+	<array>
+		<string>Unstable Frontier</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{T}: Target land you control becomes the basic land type of your choice until end of turn.</string>
+		<string>Conflux Uncommon</string>
+	</array>
+	<array>
+		<string>Unstable Hulk</string>
+		<string>1RR</string>
+		<string>Creature  - Goblin Mutant</string>
+		<string>(2/2)</string>
+		<string>Morph {3}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Unstable Hulk is turned face up, it gets +6/+6 and gains trample until end of turn. You skip your next turn.</string>
+		<string>Legions Rare</string>
+	</array>
+	<array>
+		<string>Unstable Mutation</string>
+		<string>U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +3/+3.
+At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.</string>
+		<string>Time Spiral "Timeshifted" Special, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Arabian Nights Common</string>
+	</array>
+	<array>
+		<string>Unstable Shapeshifter</string>
+		<string>3U</string>
+		<string>Creature  - Shapeshifter</string>
+		<string>(0/1)</string>
+		<string>Whenever another creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Unstoppable Ash</string>
+		<string>3G</string>
+		<string>Creature  - Treefolk Warrior</string>
+		<string>(5/5)</string>
+		<string>Trample
+Champion a Treefolk or Warrior (When this enters the battlefield, sacrifice it unless you exile another Treefolk or Warrior you control. When this leaves the battlefield, that card returns to the battlefield.)
+Whenever a creature you control becomes blocked, it gets +0/+5 until end of turn.</string>
+		<string>Morningtide Rare</string>
+	</array>
+	<array>
+		<string>Unsummon</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Return target creature to its owner's hand.</string>
+		<string>Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Conflux Common, Tenth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common</string>
+	</array>
+	<array>
+		<string>Untaidake, the Cloud Keeper</string>
+		<string>Legendary Land</string>
+		<string></string>
+		<string>Untaidake, the Cloud Keeper enters the battlefield tapped.
+{T}, Pay 2 life: Add {2} to your mana pool. Spend this mana only to cast legendary spells.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Untamed Might</string>
+		<string>XG</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +X/+X until end of turn.</string>
+		<string>Scars of Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Untamed Wilds</string>
+		<string>2G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.</string>
+		<string>Seventh Edition Uncommon, Starter 1999 Uncommon, Classic Sixth Edition Uncommon, Portal Second Age Uncommon, Portal Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Unwilling Recruit</string>
+		<string>XRRR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Gain control of target creature until end of turn. Untap that creature. It gets +X/+0 and gains haste until end of turn.</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Unwinding Clock</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Untap all artifacts you control during each other player's untap step.</string>
+		<string>New Phyrexia Rare</string>
+	</array>
+	<array>
+		<string>Unworthy Dead</string>
+		<string>1B</string>
+		<string>Creature  - Skeleton</string>
+		<string>(1/1)</string>
+		<string>{B}: Regenerate Unworthy Dead.</string>
+		<string>Urza's Saga Common</string>
+	</array>
+	<array>
+		<string>Unyaro Bee Sting</string>
+		<string>3G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Unyaro Bee Sting deals 2 damage to target creature or player.</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Unyaro Bees</string>
+		<string>GGG</string>
+		<string>Creature  - Insect</string>
+		<string>(0/1)</string>
+		<string>Flying
+{G}: Unyaro Bees gets +1/+1 until end of turn.
+{3}{G}, Sacrifice Unyaro Bees: Unyaro Bees deals 2 damage to target creature or player.</string>
+		<string>Time Spiral Rare</string>
+	</array>
+	<array>
+		<string>Unyaro Griffin</string>
+		<string>3W</string>
+		<string>Creature  - Griffin</string>
+		<string>(2/2)</string>
+		<string>Flying
+Sacrifice Unyaro Griffin: Counter target red instant or sorcery spell.</string>
+		<string>Classic Sixth Edition Uncommon, Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Updraft</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gains flying until end of turn.
+Draw a card at the beginning of the next turn's upkeep.</string>
+		<string>Fifth Edition Common, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Upheaval</string>
+		<string>4UU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return all permanents to their owners' hands.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Uphill Battle</string>
+		<string>2R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Creatures played by your opponents enter the battlefield tapped.</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Uproot</string>
+		<string>3G</string>
+		<string>Sorcery  - Arcane</string>
+		<string></string>
+		<string>Put target land on top of its owner's library.</string>
+		<string>Betrayers of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Upwelling</string>
+		<string>3G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Mana pools don't empty as steps and phases end.</string>
+		<string>Tenth Edition Rare, Scourge Rare</string>
+	</array>
+	<array>
+		<string>Urabrask the Hidden</string>
+		<string>3RR</string>
+		<string>Legendary Creature  - Praetor</string>
+		<string>(4/4)</string>
+		<string>Creatures you control have haste.
+Creatures your opponents control enter the battlefield tapped.</string>
+		<string>New Phyrexia Mythic Rare</string>
+	</array>
+	<array>
+		<string>Urborg</string>
+		<string>Legendary Land</string>
+		<string></string>
+		<string>{T}: Add {B} to your mana pool.
+{T}: Target creature loses first strike or swampwalk until end of turn.</string>
+		<string>Masters Edition III Uncommon, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Urborg Drake</string>
+		<string>1UB</string>
+		<string>Creature  - Drake</string>
+		<string>(2/3)</string>
+		<string>Flying
+Urborg Drake attacks each turn if able.</string>
+		<string>Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>Urborg Elf</string>
+		<string>1G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(1/1)</string>
+		<string>{T}: Add {G}, {U}, or {B} to your mana pool.</string>
+		<string>Apocalypse Common</string>
+	</array>
+	<array>
+		<string>Urborg Emissary</string>
+		<string>2B</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(3/1)</string>
+		<string>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+When Urborg Emissary enters the battlefield, if it was kicked, return target permanent to its owner's hand.</string>
+		<string>Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>Urborg Justice</string>
+		<string>BB</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target opponent sacrifices a creature for each creature put into your graveyard from the battlefield this turn.</string>
+		<string>Weatherlight Rare</string>
+	</array>
+	<array>
+		<string>Urborg Mindsucker</string>
+		<string>2B</string>
+		<string>Creature  - Horror</string>
+		<string>(2/2)</string>
+		<string>{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.</string>
+		<string>Visions Common</string>
+	</array>
+	<array>
+		<string>Urborg Panther</string>
+		<string>2B</string>
+		<string>Creature  - Nightstalker Cat</string>
+		<string>(2/2)</string>
+		<string>{B}, Sacrifice Urborg Panther: Destroy target creature blocking Urborg Panther.
+Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card onto the battlefield. Then shuffle your library.</string>
+		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Urborg Phantom</string>
+		<string>2B</string>
+		<string>Creature  - Spirit Minion</string>
+		<string>(3/1)</string>
+		<string>Urborg Phantom can't block.
+{U}: Prevent all combat damage that would be dealt to and dealt by Urborg Phantom this turn.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Urborg Shambler</string>
+		<string>2BB</string>
+		<string>Creature  - Horror</string>
+		<string>(4/3)</string>
+		<string>Other black creatures get -1/-1.</string>
+		<string>Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>Urborg Skeleton</string>
+		<string>B</string>
+		<string>Creature  - Skeleton</string>
+		<string>(0/1)</string>
+		<string>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+{B}: Regenerate Urborg Skeleton.
+If Urborg Skeleton was kicked, it enters the battlefield with a +1/+1 counter on it.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Urborg Stalker</string>
+		<string>3B</string>
+		<string>Creature  - Horror</string>
+		<string>(2/4)</string>
+		<string>At the beginning of each player's upkeep, if that player controls a nonblack, nonland permanent, Urborg Stalker deals 1 damage to that player.</string>
+		<string>Weatherlight Rare</string>
+	</array>
+	<array>
+		<string>Urborg Syphon-Mage</string>
+		<string>2B</string>
+		<string>Creature  - Human Spellshaper</string>
+		<string>(2/2)</string>
+		<string>{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.</string>
+		<string>Archenemy Common, Duel Decks: Garruk vs. Liliana Common, Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Urborg Uprising</string>
+		<string>4B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return up to two target creature cards from your graveyard to your hand.
+Draw a card.</string>
+		<string>Apocalypse Common</string>
+	</array>
+	<array>
+		<string>Urborg Volcano</string>
+		<string>Land</string>
+		<string></string>
+		<string>Urborg Volcano enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.</string>
+		<string>Eighth Edition Uncommon, Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>Urborg, Tomb of Yawgmoth</string>
+		<string>Legendary Land</string>
+		<string></string>
+		<string>Each land is a Swamp in addition to its other land types.</string>
+		<string>Planar Chaos Rare</string>
+	</array>
+	<array>
+		<string>Ur-Drago</string>
+		<string>3UUBB</string>
+		<string>Legendary Creature  - Elemental</string>
+		<string>(4/4)</string>
+		<string>First strike
+Creatures with swampwalk can be blocked as though they didn't have swampwalk.</string>
+		<string>Legends Rare</string>
+	</array>
+	<array>
+		<string>Urge to Feed</string>
+		<string>BB</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.</string>
+		<string>Worldwake Uncommon</string>
+	</array>
+	<array>
+		<string>Urgent Exorcism</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target Spirit or enchantment.</string>
+		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Ur-Golem's Eye</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Add {2} to your mana pool.</string>
+		<string>Ninth Edition Uncommon, Darksteel Common</string>
+	</array>
+	<array>
+		<string>Uril, the Miststalker</string>
+		<string>2RGW</string>
+		<string>Legendary Creature  - Beast</string>
+		<string>(5/5)</string>
+		<string>Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Uril, the Miststalker gets +2/+2 for each Aura attached to it.</string>
+		<string>Alara Reborn Mythic Rare</string>
+	</array>
+	<array>
+		<string>Ursapine</string>
+		<string>3GG</string>
+		<string>Creature  - Beast</string>
+		<string>(3/3)</string>
+		<string>{G}: Target creature gets +1/+1 until end of turn.</string>
+		<string>Ravnica: City of Guilds Rare</string>
+	</array>
+	<array>
+		<string>Ursine Fylgja</string>
+		<string>4W</string>
+		<string>Creature  - Spirit Bear</string>
+		<string>(3/3)</string>
+		<string>Ursine Fylgja enters the battlefield with four healing counters on it.
+Remove a healing counter from Ursine Fylgja: Prevent the next 1 damage that would be dealt to Ursine Fylgja this turn.
+{2}{W}: Put a healing counter on Ursine Fylgja.</string>
+		<string>Coldsnap Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Armor</string>
+		<string>6</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>If a source would deal damage to you, prevent 1 of that damage.</string>
+		<string>Eighth Edition Rare, Urza's Saga Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Avenger</string>
+		<string>6</string>
+		<string>Artifact Creature  - Shapeshifter</string>
+		<string>(4/4)</string>
+		<string>{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</string>
+		<string>Fifth Edition Rare, Fourth Edition Rare, Antiquities Rare</string>
+	</array>
+	<array>
+		<string>Urza's Bauble</string>
+		<string>0</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.</string>
+		<string>Masters Edition Uncommon, Fifth Edition Uncommon, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Blueprints</string>
+		<string>6</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Echo {6} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+{T}: Draw a card.</string>
+		<string>Urza's Legacy Rare</string>
+	</array>
+	<array>
+		<string>Urza's Chalice</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever a player casts an artifact spell, you may pay {1}. If you do, you gain 1 life.</string>
+		<string>Masters Edition IV Common, Masters Edition Common, Antiquities Common</string>
+	</array>
+	<array>
+		<string>Urza's Contact Lenses</string>
+		<string>0</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Urza's Contact Lenses comes into play tapped and does not untap during its controller's untap phase.
+All players play with their hands face up.
+Clap your hands twice: Tap or untap Urza's Contact Lenses.</string>
+		<string>Unglued Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Engine</string>
+		<string>5</string>
+		<string>Artifact Creature  - Juggernaut</string>
+		<string>(1/5)</string>
+		<string>Trample
+{3}: Urza's Engine gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+{3}: Attacking creatures banded with Urza's Engine gain trample until end of turn.</string>
+		<string>Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Factory</string>
+		<string>Land  - Urza’s</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{7}, {T}: Put a 2/2 colorless Assembly-Worker artifact creature token onto the battlefield.</string>
+		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Filter</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Multicolored spells cost up to {2} less to cast.</string>
+		<string>Invasion Rare</string>
+	</array>
+	<array>
+		<string>Urza's Guilt</string>
+		<string>2UB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player draws two cards, then discards three cards, then loses 4 life.</string>
+		<string>Planeshift Rare</string>
+	</array>
+	<array>
+		<string>Urza's Hot Tub</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}, Discard a card: Search your library for a card that shares a complete word in its name with the discarded card, reveal it, and put it into your hand. Then shuffle your library.</string>
+		<string>Unhinged Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Incubator</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>As Urza's Incubator enters the battlefield, choose a creature type.
+Creature spells of the chosen type cost {2} less to cast.</string>
+		<string>Urza's Destiny Rare</string>
+	</array>
+	<array>
+		<string>Urza's Mine</string>
+		<string>Land  - Urza’s Mine</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</string>
+		<string>Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Ninth Edition Uncommon, Eighth Edition Uncommon, Fifth Edition Common, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Antiquities Uncommon, Antiquities Common, Antiquities Uncommon, Antiquities Common</string>
+	</array>
+	<array>
+		<string>Urza's Miter</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.</string>
+		<string>Masters Edition IV Rare, Antiquities Rare</string>
+	</array>
+	<array>
+		<string>Urza's Power Plant</string>
+		<string>Land  - Urza’s Power-Plant</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</string>
+		<string>Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Ninth Edition Uncommon, Eighth Edition Uncommon, Fifth Edition Common, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Antiquities Uncommon, Antiquities Common, Antiquities Common, Antiquities Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Rage</string>
+		<string>2R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)
+Urza's Rage can't be countered by spells or abilities.
+Urza's Rage deals 3 damage to target creature or player. If Urza's Rage was kicked, instead it deals 10 damage to that creature or player and the damage can't be prevented.</string>
+		<string>Duel Decks: Phyrexia vs. the Coalition Mythic Rare, Invasion Rare</string>
+	</array>
+	<array>
+		<string>Urza's Science Fair Project</string>
+		<string>6</string>
+		<string>Artifact Creature</string>
+		<string>(4/4)</string>
+		<string>o2: Roll a six-sided die for Urza's Science Fair Project.
+1 It gets -2/-2 until end of turn.
+2 It deals no combat damage this turn.
+3 Attacking does not cause it to tap this turn.
+4 It gains first strike until end of turn.
+5 It gains flying until end of turn.
+6 It gets +2/+2 until end of turn.</string>
+		<string>Unglued Uncommon</string>
+	</array>
+	<array>
+		<string>Urza's Tower</string>
+		<string>Land  - Urza’s Tower</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</string>
+		<string>Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Ninth Edition Uncommon, Eighth Edition Uncommon, Fifth Edition Common, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Antiquities Uncommon, Antiquities Common, Antiquities Uncommon, Antiquities Uncommon</string>
+	</array>
+	<array>
+		<string>Uthden Troll</string>
+		<string>2R</string>
+		<string>Creature  - Troll</string>
+		<string>(2/2)</string>
+		<string>{R}: Regenerate Uthden Troll.</string>
+		<string>Time Spiral "Timeshifted" Special, Battle Royale Box Set Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Utopia Mycon</string>
+		<string>G</string>
+		<string>Creature  - Fungus</string>
+		<string>(0/2)</string>
+		<string>At the beginning of your upkeep, put a spore counter on Utopia Mycon.
+Remove three spore counters from Utopia Mycon: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Add one mana of any color to your mana pool.</string>
+		<string>Future Sight Uncommon</string>
+	</array>
+	<array>
+		<string>Utopia Sprawl</string>
+		<string>G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant Forest
+As Utopia Sprawl enters the battlefield, choose a color.
+Whenever enchanted Forest is tapped for mana, its controller adds one mana of the chosen color to his or her mana pool (in addition to the mana the land produces).</string>
+		<string>Dissension Common</string>
+	</array>
+	<array>
+		<string>Utopia Tree</string>
+		<string>1G</string>
+		<string>Creature  - Plant</string>
+		<string>(0/2)</string>
+		<string>{T}: Add one mana of any color to your mana pool.</string>
+		<string>Ninth Edition Rare, Invasion Rare</string>
+	</array>
+	<array>
+		<string>Utopia Vow</string>
+		<string>1G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature can't attack or block.
+Enchanted creature has "{T}: Add one mana of any color to your mana pool."</string>
+		<string>Planar Chaos Common</string>
+	</array>
+	<array>
+		<string>Utvara Scalper</string>
+		<string>1R</string>
+		<string>Creature  - Goblin Scout</string>
+		<string>(1/2)</string>
+		<string>Flying
+Utvara Scalper attacks each turn if able.</string>
+		<string>Dissension Common</string>
+	</array>
+	<array>
+		<string>Uyo, Silent Prophet</string>
+		<string>4UU</string>
+		<string>Legendary Creature  - Moonfolk Wizard</string>
+		<string>(4/4)</string>
+		<string>Flying
+{2}, Return two lands you control to their owner's hand: Copy target instant or sorcery spell. You may choose new targets for the copy.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+</array>
+</plist>

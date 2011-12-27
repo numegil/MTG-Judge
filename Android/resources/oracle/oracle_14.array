@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Oaken Brawler</string>
+		<string>3W</string>
+		<string>Creature  - Treefolk Warrior</string>
+		<string>(2/4)</string>
+		<string>When Oaken Brawler enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Oakenform</string>
+		<string>2G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +3/+3.</string>
+		<string>Magic 2010 Common</string>
+	</array>
+	<array>
+		<string>Oakgnarl Warrior</string>
+		<string>5GG</string>
+		<string>Creature  - Treefolk Warrior</string>
+		<string>(5/7)</string>
+		<string>Vigilance, trample</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Oasis</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Prevent the next 1 damage that would be dealt to target creature this turn.</string>
+		<string>Masters Edition IV Common, Fourth Edition Uncommon, Arabian Nights Uncommon</string>
+	</array>
+	<array>
+		<string>Oath of Druids</string>
+		<string>1G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player may reveal cards from the top of his or her library until he or she reveals a creature card. If he or she does, that player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Oath of Ghouls</string>
+		<string>1B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player chooses target player whose graveyard has fewer creature cards in it than his or her graveyard does and is his or her opponent. The first player may return a creature card from his or her graveyard to his or her hand.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Oath of Lieges</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player chooses target player who controls more lands than he or she does and is his or her opponent. The first player may search his or her library for a basic land card, put that card onto the battlefield, then shuffle his or her library.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Oath of Lim-Dûl</string>
+		<string>3B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dûl unless you discard a card. (Damage dealt to you causes you to lose life.)
+{B}{B}: Draw a card.</string>
+		<string>Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Oath of Mages</string>
+		<string>1R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player chooses target player who has more life than he or she does and is his or her opponent. The first player may have Oath of Mages deal 1 damage to the second player.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Oath of Scholars</string>
+		<string>3U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player chooses target player who has more cards in hand than he or she does and is his or her opponent. The first player may discard his or her hand and draw three cards.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Oathkeeper, Takeno's Daisho</string>
+		<string>3</string>
+		<string>Legendary Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +3/+1.
+Whenever equipped creature dies, return that card to the battlefield under your control if it's a Samurai card.
+When Oathkeeper, Takeno's Daisho is put into a graveyard from the battlefield, exile equipped creature.
+Equip {2}</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Oathsworn Giant</string>
+		<string>4WW</string>
+		<string>Creature  - Giant Soldier</string>
+		<string>(3/4)</string>
+		<string>Vigilance
+Other creatures you control get +0/+2 and have vigilance.</string>
+		<string>Ravnica: City of Guilds Uncommon</string>
+	</array>
+	<array>
+		<string>Ob Nixilis, the Fallen</string>
+		<string>3BB</string>
+		<string>Legendary Creature  - Demon</string>
+		<string>(3/3)</string>
+		<string>Landfall - Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen.</string>
+		<string>Zendikar Mythic Rare</string>
+	</array>
+	<array>
+		<string>Obelisk of Alara</string>
+		<string>6</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}{W}, {T}: You gain 5 life.
+{1}{U}, {T}: Draw a card, then discard a card.
+{1}{B}, {T}: Target creature gets -2/-2 until end of turn.
+{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player.
+{1}{G}, {T}: Target creature gets +4/+4 until end of turn.</string>
+		<string>Conflux Rare</string>
+	</array>
+	<array>
+		<string>Obelisk of Bant</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Add {G}, {W}, or {U} to your mana pool.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Obelisk of Esper</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Add {W}, {U}, or {B} to your mana pool.</string>
+		<string>Archenemy Common, Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Obelisk of Grixis</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Add {U}, {B}, or {R} to your mana pool.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Obelisk of Jund</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Add {B}, {R}, or {G} to your mana pool.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Obelisk of Naya</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Add {R}, {G}, or {W} to your mana pool.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Obelisk of Undoing</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{6}, {T}: Return target permanent you both own and control to your hand.</string>
+		<string>Masters Edition IV Rare, Fifth Edition Rare, Chronicles Rare, Antiquities Rare</string>
+	</array>
+	<array>
+		<string>Oblation</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>The owner of target nonland permanent shuffles it into his or her library, then draws two cards.</string>
+		<string>Magic: The Gathering-Commander Rare, Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Obliterate</string>
+		<string>6RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Obliterate can't be countered.
+Destroy all artifacts, creatures, and lands. They can't be regenerated.</string>
+		<string>Eighth Edition Rare, Invasion Rare</string>
+	</array>
+	<array>
+		<string>Oblivion Crown</string>
+		<string>1B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature has "Discard a card: This creature gets +1/+1 until end of turn."</string>
+		<string>Future Sight Common</string>
+	</array>
+	<array>
+		<string>Oblivion Ring</string>
+		<string>2W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.</string>
+		<string>Magic 2012 Uncommon, Magic: The Gathering-Commander Common, Duel Decks: Knights vs. Dragons Common, Archenemy Common, Planechase Common, Shards of Alara Common, Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Oblivion Stone</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{4}, {T}: Put a fate counter on target permanent.
+{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.</string>
+		<string>Magic: The Gathering-Commander Rare, Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Oboro Breezecaller</string>
+		<string>1U</string>
+		<string>Creature  - Moonfolk Wizard</string>
+		<string>(1/1)</string>
+		<string>Flying
+{2}, Return a land you control to its owner's hand: Untap target land.</string>
+		<string>Saviors of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Oboro Envoy</string>
+		<string>3U</string>
+		<string>Creature  - Moonfolk Wizard</string>
+		<string>(1/3)</string>
+		<string>Flying
+{2}, Return a land you control to its owner's hand: Target creature gets -X/-0 until end of turn, where X is the number of cards in your hand.</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Oboro, Palace in the Clouds</string>
+		<string>Legendary Land</string>
+		<string></string>
+		<string>{T}: Add {U} to your mana pool.
+{1}: Return Oboro, Palace in the Clouds to its owner's hand.</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Obsessive Search</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Draw a card.
+Madness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</string>
+		<string>Torment Common</string>
+	</array>
+	<array>
+		<string>Obsianus Golem</string>
+		<string>6</string>
+		<string>Artifact Creature  - Golem</string>
+		<string>(4/6)</string>
+		<string></string>
+		<string>Masters Edition IV Common, Starter 2000 Uncommon, Classic Sixth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Obsidian Acolyte</string>
+		<string>1W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>Protection from black
+{W}: Target creature gains protection from black until end of turn.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Obsidian Battle-Axe</string>
+		<string>3</string>
+		<string>Tribal Artifact  - Warrior Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +2/+1 and has haste.
+Whenever a Warrior creature enters the battlefield, you may attach Obsidian Battle-Axe to it.
+Equip {3}</string>
+		<string>Morningtide Uncommon</string>
+	</array>
+	<array>
+		<string>Obsidian Fireheart</string>
+		<string>1RRR</string>
+		<string>Creature  - Elemental</string>
+		<string>(4/4)</string>
+		<string>{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has "At the beginning of your upkeep, this land deals 1 damage to you." (The land continues to burn after Obsidian Fireheart has left the battlefield.)</string>
+		<string>Zendikar Mythic Rare</string>
+	</array>
+	<array>
+		<string>Obsidian Giant</string>
+		<string>4R</string>
+		<string>Creature  - Giant</string>
+		<string>(4/4)</string>
+		<string></string>
+		<string>Portal Second Age Uncommon</string>
+	</array>
+	<array>
+		<string>Obstinate Baloth</string>
+		<string>2GG</string>
+		<string>Creature  - Beast</string>
+		<string>(4/4)</string>
+		<string>When Obstinate Baloth enters the battlefield, you gain 4 life.
+If a spell or ability an opponent controls causes you to discard Obstinate Baloth, put it onto the battlefield instead of putting it into your graveyard.</string>
+		<string>Magic 2011 Rare</string>
+	</array>
+	<array>
+		<string>Obstinate Familiar</string>
+		<string>R</string>
+		<string>Creature  - Lizard</string>
+		<string>(1/1)</string>
+		<string>If you would draw a card, you may skip that draw instead.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Ocular Halo</string>
+		<string>3U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has "{T}: Draw a card."
+{W}: Enchanted creature gains vigilance until end of turn.</string>
+		<string>Dissension Common</string>
+	</array>
+	<array>
+		<string>Oculus</string>
+		<string>1U</string>
+		<string>Creature  - Homunculus</string>
+		<string>(1/1)</string>
+		<string>When Oculus dies, you may draw a card.</string>
+		<string>Mirrodin Besieged Common</string>
+	</array>
+	<array>
+		<string>Odds // Ends (Ends)</string>
+		<string>3RW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target player sacrifices two attacking creatures.</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>Odds // Ends (Odds)</string>
+		<string>UR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Flip a coin. If it comes up heads, counter target instant or sorcery spell. If it comes up tails, copy that spell and you may choose new targets for the copy.
+</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>Odious Trow</string>
+		<string>(B/G)</string>
+		<string>Creature  - Troll</string>
+		<string>(1/1)</string>
+		<string>{1}{(b/g)}: Regenerate Odious Trow.</string>
+		<string>Eventide Common</string>
+	</array>
+	<array>
+		<string>Odylic Wraith</string>
+		<string>3B</string>
+		<string>Creature  - Wraith</string>
+		<string>(2/2)</string>
+		<string>Swampwalk
+Whenever Odylic Wraith deals damage to a player, that player discards a card.</string>
+		<string>Weatherlight Uncommon</string>
+	</array>
+	<array>
+		<string>Off Balance</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature can't attack or block this turn.</string>
+		<string>Nemesis Common</string>
+	</array>
+	<array>
+		<string>Offalsnout</string>
+		<string>2B</string>
+		<string>Creature  - Elemental</string>
+		<string>(2/2)</string>
+		<string>Flash
+When Offalsnout leaves the battlefield, exile target card from a graveyard.
+Evoke {B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</string>
+		<string>Morningtide Uncommon</string>
+	</array>
+	<array>
+		<string>Offering to Asha</string>
+		<string>2WU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell unless its controller pays {4}. You gain 4 life.</string>
+		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Ogre Arsonist</string>
+		<string>4R</string>
+		<string>Creature  - Ogre</string>
+		<string>(3/3)</string>
+		<string>When Ogre Arsonist enters the battlefield, destroy target land.</string>
+		<string>Portal Second Age Uncommon</string>
+	</array>
+	<array>
+		<string>Ogre Berserker</string>
+		<string>4R</string>
+		<string>Creature  - Ogre Berserker</string>
+		<string>(4/2)</string>
+		<string>Haste</string>
+		<string>Portal Second Age Common</string>
+	</array>
+	<array>
+		<string>Ogre Enforcer</string>
+		<string>3RR</string>
+		<string>Creature  - Ogre</string>
+		<string>(4/4)</string>
+		<string>Ogre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.</string>
+		<string>Visions Rare</string>
+	</array>
+	<array>
+		<string>Ogre Gatecrasher</string>
+		<string>3R</string>
+		<string>Creature  - Ogre Rogue</string>
+		<string>(3/3)</string>
+		<string>When Ogre Gatecrasher enters the battlefield, destroy target creature with defender.</string>
+		<string>Dissension Common</string>
+	</array>
+	<array>
+		<string>Ogre Geargrabber</string>
+		<string>4RR</string>
+		<string>Creature  - Ogre Warrior</string>
+		<string>(4/4)</string>
+		<string>Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equipment, unattach it.</string>
+		<string>Scars of Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>Ogre Leadfoot</string>
+		<string>4R</string>
+		<string>Creature  - Ogre</string>
+		<string>(3/3)</string>
+		<string>Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature.</string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Ogre Marauder</string>
+		<string>1BB</string>
+		<string>Creature  - Ogre Warrior</string>
+		<string>(3/1)</string>
+		<string>Whenever Ogre Marauder attacks, it gains "Ogre Marauder is unblockable" until end of turn unless defending player sacrifices a creature.</string>
+		<string>Betrayers of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Ogre Menial</string>
+		<string>3R</string>
+		<string>Creature  - Ogre</string>
+		<string>(0/4)</string>
+		<string>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{R}: Ogre Menial gets +1/+0 until end of turn.</string>
+		<string>New Phyrexia Common</string>
+	</array>
+	<array>
+		<string>Ogre Recluse</string>
+		<string>3R</string>
+		<string>Creature  - Ogre Warrior</string>
+		<string>(5/4)</string>
+		<string>Whenever a player casts a spell, tap Ogre Recluse.</string>
+		<string>Betrayers of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Ogre Resister</string>
+		<string>2RR</string>
+		<string>Creature  - Ogre</string>
+		<string>(4/3)</string>
+		<string></string>
+		<string>Mirrodin Besieged Common</string>
+	</array>
+	<array>
+		<string>Ogre Savant</string>
+		<string>4R</string>
+		<string>Creature  - Ogre Wizard</string>
+		<string>(3/2)</string>
+		<string>When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.</string>
+		<string>Guildpact Common</string>
+	</array>
+	<array>
+		<string>Ogre Sentry</string>
+		<string>1R</string>
+		<string>Creature  - Ogre Warrior</string>
+		<string>(3/3)</string>
+		<string>Defender</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Ogre Shaman</string>
+		<string>3RR</string>
+		<string>Creature  - Ogre Shaman</string>
+		<string>(3/3)</string>
+		<string>{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Ogre Taskmaster</string>
+		<string>3R</string>
+		<string>Creature  - Ogre</string>
+		<string>(4/3)</string>
+		<string>Ogre Taskmaster can't block.</string>
+		<string>Masters Edition IV Common, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Mercadian Masques Uncommon, Portal Second Age Uncommon</string>
+	</array>
+	<array>
+		<string>Ogre Warrior</string>
+		<string>3R</string>
+		<string>Creature  - Ogre Warrior</string>
+		<string>(3/3)</string>
+		<string></string>
+		<string>Starter 2000 Common, Starter 1999 Common, Portal Second Age Common</string>
+	</array>
+	<array>
+		<string>Ogre's Cleaver</string>
+		<string>2</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +5/+0.
+Equip {5}</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Ohran Viper</string>
+		<string>1GG</string>
+		<string>Snow Creature  - Snake</string>
+		<string>(1/3)</string>
+		<string>Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.
+Whenever Ohran Viper deals combat damage to a player, you may draw a card.</string>
+		<string>Coldsnap Rare</string>
+	</array>
+	<array>
+		<string>Ohran Yeti</string>
+		<string>3R</string>
+		<string>Snow Creature  - Yeti</string>
+		<string>(3/3)</string>
+		<string>{2}{S}i}: Target snow creature gains first strike until end of turn. ({S}i} can be paid with one mana from a snow permanent.)</string>
+		<string>Coldsnap Common</string>
+	</array>
+	<array>
+		<string>Okiba-Gang Shinobi</string>
+		<string>3BB</string>
+		<string>Creature  - Rat Ninja</string>
+		<string>(3/2)</string>
+		<string>Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.</string>
+		<string>Betrayers of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Okina Nightwatch</string>
+		<string>4G</string>
+		<string>Creature  - Human Monk</string>
+		<string>(4/3)</string>
+		<string>As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3.</string>
+		<string>Saviors of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Okina, Temple to the Grandfathers</string>
+		<string>Legendary Land</string>
+		<string></string>
+		<string>{T}: Add {G} to your mana pool.
+{G}, {T}: Target legendary creature gets +1/+1 until end of turn.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Okk</string>
+		<string>1R</string>
+		<string>Creature  - Goblin</string>
+		<string>(4/4)</string>
+		<string>Okk can't attack unless a creature with greater power also attacks.
+Okk can't block unless a creature with greater power also blocks.</string>
+		<string>Eighth Edition Rare, Seventh Edition Rare, Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Old Fogey</string>
+		<string>GG</string>
+		<string>Summon - Dinosaur</string>
+		<string>(7/7)</string>
+		<string>Phasing, cumulative upkeep {1}, echo, fading 3, bands with other Dinosaurs, protection from Homarids, snow-covered plainswalk, flanking, rampage 2</string>
+		<string>Unhinged Rare</string>
+	</array>
+	<array>
+		<string>Old Ghastbark</string>
+		<string>3(G/W)(G/W)</string>
+		<string>Creature  - Treefolk Warrior</string>
+		<string>(3/6)</string>
+		<string></string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Old Man of the Sea</string>
+		<string>1UU</string>
+		<string>Creature  - Djinn</string>
+		<string>(2/3)</string>
+		<string>You may choose not to untap Old Man of the Sea during your untap step.
+{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.</string>
+		<string>Masters Edition III Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Omega Myr</string>
+		<string>2</string>
+		<string>Artifact Creature  - Myr</string>
+		<string>(1/2)</string>
+		<string></string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Omen</string>
+		<string>1U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Look at the top three cards of your library, then put them back in any order. You may shuffle your library. 
+Draw a card.</string>
+		<string>Portal Common</string>
+	</array>
+	<array>
+		<string>Omen Machine</string>
+		<string>6</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Players can't draw cards.
+At the beginning of each player's draw step, that player exiles the top card of his or her library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.</string>
+		<string>New Phyrexia Rare</string>
+	</array>
+	<array>
+		<string>Omen of Fire</string>
+		<string>3RR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Return all Islands to their owners' hands.
+Each player sacrifices a Plains or a white permanent for each white permanent he or she controls.</string>
+		<string>Alliances Rare</string>
+	</array>
+	<array>
+		<string>Omnath, Locus of Mana</string>
+		<string>2G</string>
+		<string>Legendary Creature  - Elemental</string>
+		<string>(1/1)</string>
+		<string>Green mana doesn't empty from your mana pool as steps and phases end.
+Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.</string>
+		<string>Worldwake Mythic Rare</string>
+	</array>
+	<array>
+		<string>Omnibian</string>
+		<string>1GGU</string>
+		<string>Creature  - Frog</string>
+		<string>(3/3)</string>
+		<string>{T}: Target creature becomes a 3/3 Frog until end of turn.</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>O-Naginata</string>
+		<string>1</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>O-Naginata can be attached only to a creature with 3 or more power.
+Equipped creature gets +3/+0 and has trample.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Once More with Feeling</string>
+		<string>WWWW</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Remove Once More with Feeling from the game as well as all cards in play and in all graveyards. Each player shuffles his or her hand into her or his library, then draws seven cards. Each player's life total is set to 10.
+DCI ruling: This card is restricted. (You cannot play with more than one in a deck.)</string>
+		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Ondu Cleric</string>
+		<string>1W</string>
+		<string>Creature  - Kor Cleric Ally</string>
+		<string>(1/1)</string>
+		<string>Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Ondu Giant</string>
+		<string>3G</string>
+		<string>Creature  - Giant Druid</string>
+		<string>(2/4)</string>
+		<string>When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>One Dozen Eyes</string>
+		<string>5G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose one - Put a 5/5 green Beast creature token onto the battlefield; or put five 1/1 green Insect creature tokens onto the battlefield.
+Entwine {G}{G}{G} (Choose both if you pay the entwine cost.)</string>
+		<string>Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>One with Nature</string>
+		<string>G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.</string>
+		<string>Scourge Uncommon</string>
+	</array>
+	<array>
+		<string>One with Nothing</string>
+		<string>B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Discard your hand.</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Oni of Wild Places</string>
+		<string>5R</string>
+		<string>Creature  - Demon Spirit</string>
+		<string>(6/5)</string>
+		<string>Haste
+At the beginning of your upkeep, return a red creature you control to its owner's hand.</string>
+		<string>Magic: The Gathering-Commander Uncommon, Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Oni Possession</string>
+		<string>2B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+At the beginning of your upkeep, sacrifice a creature.
+Enchanted creature gets +3/+3 and has trample.
+Enchanted creature is a Demon Spirit.</string>
+		<string>Duel Decks: Divine vs. Demonic Uncommon, Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Onslaught</string>
+		<string>R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you cast a creature spell, tap target creature.</string>
+		<string>Exodus Common</string>
+	</array>
+	<array>
+		<string>Onulet</string>
+		<string>3</string>
+		<string>Artifact Creature  - Construct</string>
+		<string>(2/2)</string>
+		<string>When Onulet dies, you gain 2 life.</string>
+		<string>Masters Edition IV Common, Masters Edition Common, Fourth Edition Rare, Revised Edition Rare, Antiquities Uncommon</string>
+	</array>
+	<array>
+		<string>Onyx Goblet</string>
+		<string>2B</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Target player loses 1 life.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Onyx Mage</string>
+		<string>1B</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/1)</string>
+		<string>{1}{B}: Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</string>
+		<string>Magic 2012 Uncommon</string>
+	</array>
+	<array>
+		<string>Onyx Talisman</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever a player casts a black spell, you may pay {3}. If you do, untap target permanent.</string>
+		<string>Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Oona, Queen of the Fae</string>
+		<string>3(U/B)(U/B)(U/B)</string>
+		<string>Legendary Creature  - Faerie Wizard</string>
+		<string>(5/5)</string>
+		<string>Flying
+{X}{(u/b)}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Oona's Blackguard</string>
+		<string>1B</string>
+		<string>Creature  - Faerie Rogue</string>
+		<string>(1/1)</string>
+		<string>Flying
+Each other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.
+Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.</string>
+		<string>Morningtide Uncommon</string>
+	</array>
+	<array>
+		<string>Oona's Gatewarden</string>
+		<string>(U/B)</string>
+		<string>Creature  - Faerie Soldier</string>
+		<string>(2/1)</string>
+		<string>Defender, flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Oona's Grace</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target player draws a card.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</string>
+		<string>Eventide Common</string>
+	</array>
+	<array>
+		<string>Oona's Prowler</string>
+		<string>1B</string>
+		<string>Creature  - Faerie Rogue</string>
+		<string>(3/1)</string>
+		<string>Flying
+Discard a card: Oona's Prowler gets -2/-0 until end of turn. Any player may activate this ability.</string>
+		<string>Lorwyn Rare</string>
+	</array>
+	<array>
+		<string>Ooze Garden</string>
+		<string>1G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{1}{G}, Sacrifice a non-Ooze creature: Put an X/X green Ooze creature token onto the battlefield, where X is the sacrificed creature's power. Activate this ability only any time you could cast a sorcery.</string>
+		<string>Shards of Alara Rare</string>
+	</array>
+	<array>
+		<string>Opal Acrolith</string>
+		<string>2W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature.
+{0}: Opal Acrolith becomes an enchantment.</string>
+		<string>Urza's Saga Uncommon</string>
+	</array>
+	<array>
+		<string>Opal Archangel</string>
+		<string>4W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.</string>
+		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Opal Avenger</string>
+		<string>2W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When you have 10 or less life, if Opal Avenger is an enchantment, Opal Avenger becomes a 3/5 Soldier creature.</string>
+		<string>Urza's Legacy Rare</string>
+	</array>
+	<array>
+		<string>Opal Caryatid</string>
+		<string>W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When an opponent casts a creature spell, if Opal Caryatid is an enchantment, Opal Caryatid becomes a 2/2 Soldier creature.</string>
+		<string>Urza's Saga Common</string>
+	</array>
+	<array>
+		<string>Opal Champion</string>
+		<string>2W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When an opponent casts a creature spell, if Opal Champion is an enchantment, Opal Champion becomes a 3/3 Knight creature with first strike.</string>
+		<string>Urza's Legacy Common</string>
+	</array>
+	<array>
+		<string>Opal Gargoyle</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When an opponent casts a creature spell, if Opal Gargoyle is an enchantment, Opal Gargoyle becomes a 2/2 Gargoyle creature with flying.</string>
+		<string>Urza's Saga Common</string>
+	</array>
+	<array>
+		<string>Opal Guardian</string>
+		<string>WWW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When an opponent casts a creature spell, if Opal Guardian is an enchantment, Opal Guardian becomes a 3/4 Gargoyle creature with flying and protection from red.</string>
+		<string>Time Spiral Rare</string>
+	</array>
+	<array>
+		<string>Opal Titan</string>
+		<string>2WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When an opponent casts a creature spell, if Opal Titan is an enchantment, Opal Titan becomes a 4/4 Giant creature with protection from each of that spell's colors.</string>
+		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Opalescence</string>
+		<string>2WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Each other non-Aura enchantment is a creature with power and toughness each equal to its converted mana cost. It's still an enchantment.</string>
+		<string>Urza's Destiny Rare</string>
+	</array>
+	<array>
+		<string>Opal-Eye, Konda's Yojimbo</string>
+		<string>1WW</string>
+		<string>Legendary Creature  - Fox Samurai</string>
+		<string>(1/4)</string>
+		<string>Defender (This creature can't attack.)
+Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{T}: The next time a source of your choice would deal damage this turn, that damage is dealt to Opal-Eye, Konda's Yojimbo instead.
+{1}{W}: Prevent the next 1 damage that would be dealt to Opal-Eye this turn.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Opaline Bracers</string>
+		<string>4</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Equipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</string>
+		<string>Fifth Dawn Common</string>
+	</array>
+	<array>
+		<string>Opaline Sliver</string>
+		<string>1WU</string>
+		<string>Creature  - Sliver</string>
+		<string>(2/2)</string>
+		<string>All Slivers have "Whenever this permanent becomes the target of a spell an opponent controls, you may draw a card."</string>
+		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Open the Vaults</string>
+		<string>4WW</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return all artifact and enchantment cards from all graveyards to the battlefield under their owners' control. (Auras with nothing to enchant remain in graveyards.)</string>
+		<string>Magic 2010 Rare</string>
+	</array>
+	<array>
+		<string>Ophidian</string>
+		<string>2U</string>
+		<string>Creature  - Snake</string>
+		<string>(1/3)</string>
+		<string>Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.</string>
+		<string>Duel Decks: Jace vs. Chandra Common, Weatherlight Common</string>
+	</array>
+	<array>
+		<string>Ophidian Eye</string>
+		<string>2U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Opportunist</string>
+		<string>2R</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/2)</string>
+		<string>{T}: Opportunist deals 1 damage to target creature that was dealt damage this turn.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Opportunity</string>
+		<string>4UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target player draws four cards.</string>
+		<string>Seventh Edition Uncommon, Battle Royale Box Set Uncommon, Urza's Legacy Uncommon</string>
+	</array>
+	<array>
+		<string>Opposition</string>
+		<string>2UU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Tap an untapped creature you control: Tap target artifact, creature, or land.</string>
+		<string>Seventh Edition Rare, Urza's Destiny Rare</string>
+	</array>
+	<array>
+		<string>Oppression</string>
+		<string>1BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a player casts a spell, that player discards a card.</string>
+		<string>Seventh Edition Rare, Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Oppressive Will</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell unless its controller pays {1} for each card in your hand.</string>
+		<string>Saviors of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Opt</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Look at the top card of your library. You may put that card on the bottom of your library.
+Draw a card.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Oracle en-Vec</string>
+		<string>1W</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>{T}: Target opponent chooses any number of creatures he or she controls. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack. Activate this ability only during your turn.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Oracle of Mul Daya</string>
+		<string>3G</string>
+		<string>Creature  - Elf Shaman</string>
+		<string>(2/2)</string>
+		<string>You may play an additional land on each of your turns.
+Play with the top card of your library revealed.
+You may play the top card of your library if it's a land card.</string>
+		<string>Zendikar Rare</string>
+	</array>
+	<array>
+		<string>Oracle of Nectars</string>
+		<string>2(G/W)</string>
+		<string>Creature  - Elf Cleric</string>
+		<string>(2/2)</string>
+		<string>{X}, {T}: You gain X life.</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Oracle's Attendants</string>
+		<string>3W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/5)</string>
+		<string>{T}: All damage that would be dealt to target creature this turn by a source of your choice is dealt to Oracle's Attendants instead.</string>
+		<string>Ninth Edition Rare, Eighth Edition Rare, Nemesis Rare</string>
+	</array>
+	<array>
+		<string>Oran-Rief Recluse</string>
+		<string>2G</string>
+		<string>Creature  - Spider</string>
+		<string>(1/3)</string>
+		<string>Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+Reach (This creature can block creatures with flying.)
+When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Oran-Rief Survivalist</string>
+		<string>1G</string>
+		<string>Creature  - Human Warrior Ally</string>
+		<string>(1/1)</string>
+		<string>Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Oran-Rief, the Vastwood</string>
+		<string>Land</string>
+		<string></string>
+		<string>Oran-Rief, the Vastwood enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.</string>
+		<string>Zendikar Rare</string>
+	</array>
+	<array>
+		<string>Oraxid</string>
+		<string>3U</string>
+		<string>Creature  - Crab Beast</string>
+		<string>(2/3)</string>
+		<string>Protection from red</string>
+		<string>Nemesis Common</string>
+	</array>
+	<array>
+		<string>Orb of Dreams</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Permanents enter the battlefield tapped.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Orbweaver Kumo</string>
+		<string>4GG</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/4)</string>
+		<string>Reach (This creature can block creatures with flying.)
+Whenever you cast a Spirit or Arcane spell, Orbweaver Kumo gains forestwalk until end of turn.</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Orc General</string>
+		<string>2R</string>
+		<string>Creature  - Orc Warrior</string>
+		<string>(2/2)</string>
+		<string>{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.</string>
+		<string>Masters Edition II Uncommon, The Dark Uncommon</string>
+	</array>
+	<array>
+		<string>Orchard Warden</string>
+		<string>4GG</string>
+		<string>Creature  - Treefolk Shaman</string>
+		<string>(4/6)</string>
+		<string>Whenever another Treefolk creature enters the battlefield under your control, you may gain life equal to that creature's toughness.</string>
+		<string>Morningtide Uncommon</string>
+	</array>
+	<array>
+		<string>Orcish Artillery</string>
+		<string>1RR</string>
+		<string>Creature  - Orc Warrior</string>
+		<string>(1/3)</string>
+		<string>{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.</string>
+		<string>Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Orcish Bloodpainter</string>
+		<string>2R</string>
+		<string>Creature  - Orc Shaman</string>
+		<string>(2/1)</string>
+		<string>{T}, Sacrifice a creature: Orcish Bloodpainter deals 1 damage to target creature or player.</string>
+		<string>Coldsnap Common</string>
+	</array>
+	<array>
+		<string>Orcish Cannonade</string>
+		<string>1RR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Orcish Cannonade deals 2 damage to target creature or player and 3 damage to you.
+Draw a card.</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Orcish Cannoneers</string>
+		<string>1RR</string>
+		<string>Creature  - Orc Warrior</string>
+		<string>(1/3)</string>
+		<string>{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.</string>
+		<string>Masters Edition II Uncommon, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Orcish Captain</string>
+		<string>R</string>
+		<string>Creature  - Orc Warrior</string>
+		<string>(1/1)</string>
+		<string>{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.</string>
+		<string>Masters Edition II Uncommon, Fifth Edition Uncommon, Fallen Empires Uncommon</string>
+	</array>
+	<array>
+		<string>Orcish Conscripts</string>
+		<string>R</string>
+		<string>Creature  - Orc</string>
+		<string>(2/2)</string>
+		<string>Orcish Conscripts can't attack unless at least two other creatures attack.
+Orcish Conscripts can't block unless at least two other creatures block.</string>
+		<string>Masters Edition II Common, Fifth Edition Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Orcish Farmer</string>
+		<string>1RR</string>
+		<string>Creature  - Orc</string>
+		<string>(2/2)</string>
+		<string>{T}: Target land becomes a Swamp until its controller's next untap step.</string>
+		<string>Masters Edition II Common, Fifth Edition Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Orcish Healer</string>
+		<string>RR</string>
+		<string>Creature  - Orc Cleric</string>
+		<string>(1/1)</string>
+		<string>{R}{R}, {T}: Target creature can't be regenerated this turn.
+{B}{B}{R}, {T}: Regenerate target black or green creature.
+{R}{G}{G}, {T}: Regenerate target black or green creature.</string>
+		<string>Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Orcish Librarian</string>
+		<string>1R</string>
+		<string>Creature  - Orc</string>
+		<string>(1/1)</string>
+		<string>{R}, {T}: Look at the top eight cards of your library. Exile four of them at random, then put the rest on top of your library in any order.</string>
+		<string>Time Spiral "Timeshifted" Special, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Orcish Lumberjack</string>
+		<string>R</string>
+		<string>Creature  - Orc</string>
+		<string>(1/1)</string>
+		<string>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.</string>
+		<string>Masters Edition II Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Orcish Mechanics</string>
+		<string>2R</string>
+		<string>Creature  - Orc</string>
+		<string>(1/1)</string>
+		<string>{T}, Sacrifice an artifact: Orcish Mechanics deals 2 damage to target creature or player.</string>
+		<string>Masters Edition IV Uncommon, Masters Edition Uncommon, Antiquities Common</string>
+	</array>
+	<array>
+		<string>Orcish Mine</string>
+		<string>1RR</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant land
+Orcish Mine enters the battlefield with three ore counters on it.
+At the beginning of your upkeep and whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine. If there are no ore counters on Orcish Mine, destroy that land and Orcish Mine deals 2 damage to its controller.</string>
+		<string>Homelands Uncommon</string>
+	</array>
+	<array>
+		<string>Orcish Oriflamme</string>
+		<string>3R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Attacking creatures you control get +1/+0.</string>
+		<string>Seventh Edition Uncommon, Starter 2000 Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Orcish Paratroopers</string>
+		<string>2R</string>
+		<string>Creature - Orc Paratrooper</string>
+		<string>(4/4)</string>
+		<string>When Orcish Paratroopers comes into play, flip it from a height of at least one foot. Sacrifice Orcish Paratroopers unless it lands face up after turning over completely.</string>
+		<string>Unhinged Common</string>
+	</array>
+	<array>
+		<string>Orcish Settlers</string>
+		<string>1R</string>
+		<string>Creature  - Orc</string>
+		<string>(1/1)</string>
+		<string>{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.</string>
+		<string>Weatherlight Uncommon</string>
+	</array>
+	<array>
+		<string>Orcish Spy</string>
+		<string>R</string>
+		<string>Creature  - Orc Rogue</string>
+		<string>(1/1)</string>
+		<string>{T}: Look at the top three cards of target player's library.</string>
+		<string>Eighth Edition Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Orcish Squatters</string>
+		<string>4R</string>
+		<string>Creature  - Orc</string>
+		<string>(2/3)</string>
+		<string>Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.</string>
+		<string>Masters Edition II Rare, Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Orcish Veteran</string>
+		<string>2R</string>
+		<string>Creature  - Orc</string>
+		<string>(2/2)</string>
+		<string>Orcish Veteran can't block white creatures with power 2 or greater.
+{R}: Orcish Veteran gains first strike until end of turn.</string>
+		<string>Masters Edition II Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Order // Chaos (Chaos)</string>
+		<string>2R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Creatures can't block this turn.</string>
+		<string>Planechase Uncommon, Apocalypse Uncommon, Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Order // Chaos (Order)</string>
+		<string>3W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile target attacking creature.
+</string>
+		<string>Planechase Uncommon, Apocalypse Uncommon, Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Order of Leitbur</string>
+		<string>WW</string>
+		<string>Creature  - Human Cleric Knight</string>
+		<string>(2/1)</string>
+		<string>Protection from black
+{W}: Order of Leitbur gains first strike until end of turn.
+{W}{W}: Order of Leitbur gets +1/+0 until end of turn.</string>
+		<string>Masters Edition Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Order of the Ebon Hand</string>
+		<string>BB</string>
+		<string>Creature  - Cleric Knight</string>
+		<string>(2/1)</string>
+		<string>Protection from white
+{B}: Order of the Ebon Hand gains first strike until end of turn.
+{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.</string>
+		<string>Masters Edition Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Order of the Golden Cricket</string>
+		<string>1W</string>
+		<string>Creature  - Kithkin Knight</string>
+		<string>(2/2)</string>
+		<string>Whenever Order of the Golden Cricket attacks, you may pay {W}. If you do, it gains flying until end of turn.</string>
+		<string>Morningtide Common</string>
+	</array>
+	<array>
+		<string>Order of the Sacred Bell</string>
+		<string>3G</string>
+		<string>Creature  - Human Monk</string>
+		<string>(4/3)</string>
+		<string></string>
+		<string>Ninth Edition Common, Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Order of the Sacred Torch</string>
+		<string>1WW</string>
+		<string>Creature  - Human Knight</string>
+		<string>(2/2)</string>
+		<string>{T}, Pay 1 life: Counter target black spell.</string>
+		<string>Masters Edition II Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Order of the Stars</string>
+		<string>W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(0/1)</string>
+		<string>Defender (This creature can't attack.)
+As Order of the Stars enters the battlefield, choose a color.
+Order of the Stars has protection from the chosen color.</string>
+		<string>Guildpact Uncommon</string>
+	</array>
+	<array>
+		<string>Order of the White Shield</string>
+		<string>WW</string>
+		<string>Creature  - Human Knight</string>
+		<string>(2/1)</string>
+		<string>Protection from black
+{W}: Order of the White Shield gains first strike until end of turn.
+{W}{W}: Order of the White Shield gets +1/+0 until end of turn.</string>
+		<string>Masters Edition II Uncommon, Fifth Edition Uncommon, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Order of Whiteclay</string>
+		<string>1WW</string>
+		<string>Creature  - Kithkin Cleric</string>
+		<string>(1/4)</string>
+		<string>{1}{W}{W}, {Q}: Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. ({Q} is the untap symbol.)</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Order of Yawgmoth</string>
+		<string>2BB</string>
+		<string>Creature  - Zombie Knight</string>
+		<string>(2/2)</string>
+		<string>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Order of Yawgmoth deals damage to a player, that player discards a card.</string>
+		<string>Duel Decks: Phyrexia vs. the Coalition Uncommon, Urza's Saga Uncommon</string>
+	</array>
+	<array>
+		<string>Ordered Migration</string>
+		<string>3WU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Domain - Put a 1/1 blue Bird creature token with flying onto the battlefield for each basic land type among lands you control.</string>
+		<string>Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>Ordruun Commando</string>
+		<string>3R</string>
+		<string>Creature  - Minotaur Soldier</string>
+		<string>(4/1)</string>
+		<string>{W}: Prevent the next 1 damage that would be dealt to Ordruun Commando this turn.</string>
+		<string>Ravnica: City of Guilds Common</string>
+	</array>
+	<array>
+		<string>Ore Gorger</string>
+		<string>3RR</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/1)</string>
+		<string>Whenever you cast a Spirit or Arcane spell, you may destroy target nonbasic land.</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Organ Grinder</string>
+		<string>2B</string>
+		<string>Creature  - Zombie</string>
+		<string>(3/1)</string>
+		<string>{T}, Exile three cards from your graveyard: Target player loses 3 life.</string>
+		<string>Torment Common</string>
+	</array>
+	<array>
+		<string>Organ Harvest</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>You and your teammates may sacrifice any number of creatures. For each creature sacrificed in this way, add oBoB to your mana pool.</string>
+		<string>Unglued Common</string>
+	</array>
+	<array>
+		<string>Orgg</string>
+		<string>3RR</string>
+		<string>Creature  - Orgg</string>
+		<string>(6/6)</string>
+		<string>Trample
+Orgg can't attack if defending player controls an untapped creature with power 3 or greater.
+Orgg can't block creatures with power 3 or greater.</string>
+		<string>Time Spiral "Timeshifted" Special, Fifth Edition Rare, Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Origin Spellbomb</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield.
+When Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.</string>
+		<string>Scars of Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Orim, Samite Healer</string>
+		<string>1WW</string>
+		<string>Legendary Creature  - Human Cleric</string>
+		<string>(1/3)</string>
+		<string>{T}: Prevent the next 3 damage that would be dealt to target creature or player this turn.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Orim's Chant</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {W} (You may pay an additional {W} as you cast this spell.)
+Target player can't cast spells this turn.
+If Orim's Chant was kicked, creatures can't attack this turn.</string>
+		<string>Planeshift Rare</string>
+	</array>
+	<array>
+		<string>Orim's Cure</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>If you control a Plains, you may tap an untapped creature you control rather than pay Orim's Cure's mana cost.
+Prevent the next 4 damage that would be dealt to target creature or player this turn.</string>
+		<string>Mercadian Masques Common</string>
+	</array>
+	<array>
+		<string>Orim's Prayer</string>
+		<string>1WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever one or more creatures attack you, you gain 1 life for each attacking creature.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Orim's Thunder</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Destroy target artifact or enchantment. If Orim's Thunder was kicked, it deals damage equal to that permanent's converted mana cost to target creature.</string>
+		<string>Magic: The Gathering-Commander Common, Planechase Common, Apocalypse Common</string>
+	</array>
+	<array>
+		<string>Orim's Touch</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {1} (You may pay an additional {1} as you cast this spell.)
+Prevent the next 2 damage that would be dealt to target creature or player this turn. If Orim's Touch was kicked, prevent the next 4 damage that would be dealt to that creature or player this turn instead.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Oriss, Samite Guardian</string>
+		<string>1WW</string>
+		<string>Legendary Creature  - Human Cleric</string>
+		<string>(1/3)</string>
+		<string>{T}: Prevent all damage that would be dealt to target creature this turn.
+Grandeur - Discard another card named Oriss, Samite Guardian: Target player can't cast spells this turn, and creatures that player controls can't attack this turn.</string>
+		<string>Future Sight Rare</string>
+	</array>
+	<array>
+		<string>Ornate Kanzashi</string>
+		<string>5</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}, {T}: Target opponent exiles the top card of his or her library. You may play that card this turn.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Ornithopter</string>
+		<string>0</string>
+		<string>Artifact Creature  - Thopter</string>
+		<string>(0/2)</string>
+		<string>Flying</string>
+		<string>Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Antiquities Common</string>
+	</array>
+	<array>
+		<string>Orochi Eggwatcher</string>
+		<string>2G</string>
+		<string>Creature  - Snake Shaman</string>
+		<string>(1/1)</string>
+		<string>{2}{G}, {T}: Put a 1/1 green Snake creature token onto the battlefield. If you control ten or more creatures, flip Orochi Eggwatcher.
+</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Orochi Eggwatcher (Shidako, Broodmistress)</string>
+		<string>2G</string>
+		<string>Legendary Creature - Snake Shaman</string>
+		<string>(3/3)</string>
+		<string>{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Orochi Hatchery</string>
+		<string>XX</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Orochi Hatchery enters the battlefield with X charge counters on it.
+{5}, {T}: Put a 1/1 green Snake creature token onto the battlefield for each charge counter on Orochi Hatchery.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Orochi Leafcaller</string>
+		<string>G</string>
+		<string>Creature  - Snake Shaman</string>
+		<string>(1/1)</string>
+		<string>{G}: Add one mana of any color to your mana pool.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Orochi Ranger</string>
+		<string>1G</string>
+		<string>Creature  - Snake Warrior</string>
+		<string>(2/1)</string>
+		<string>Whenever Orochi Ranger deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Orochi Sustainer</string>
+		<string>1G</string>
+		<string>Creature  - Snake Shaman</string>
+		<string>(1/2)</string>
+		<string>{T}: Add {G} to your mana pool.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Oros, the Avenger</string>
+		<string>3WBR</string>
+		<string>Legendary Creature  - Dragon</string>
+		<string>(6/6)</string>
+		<string>Flying
+Whenever Oros, the Avenger deals combat damage to a player, you may pay {2}{W}. If you do, Oros deals 3 damage to each nonwhite creature.</string>
+		<string>Magic: The Gathering-Commander Rare, Planar Chaos Rare</string>
+	</array>
+	<array>
+		<string>Orzhov Basilica</string>
+		<string>Land</string>
+		<string></string>
+		<string>Orzhov Basilica enters the battlefield tapped.
+When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {W}{B} to your mana pool.</string>
+		<string>Magic: The Gathering-Commander Common, Guildpact Common</string>
+	</array>
+	<array>
+		<string>Orzhov Euthanist</string>
+		<string>2B</string>
+		<string>Creature  - Human Assassin</string>
+		<string>(2/2)</string>
+		<string>Haunt (When this creature dies, exile it haunting target creature.)
+When Orzhov Euthanist enters the battlefield or the creature it haunts dies, destroy target creature that was dealt damage this turn.</string>
+		<string>Guildpact Common</string>
+	</array>
+	<array>
+		<string>Orzhov Guildmage</string>
+		<string>(W/B)(W/B)</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>{2}{W}: Target player gains 1 life.
+{2}{B}: Each player loses 1 life.</string>
+		<string>Magic: The Gathering-Commander Uncommon, Guildpact Uncommon</string>
+	</array>
+	<array>
+		<string>Orzhov Pontiff</string>
+		<string>1WB</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>Haunt (When this creature dies, exile it haunting target creature.)
+When Orzhov Pontiff enters the battlefield or the creature it haunts dies, choose one - Creatures you control get +1/+1 until end of turn; or creatures you don't control get -1/-1 until end of turn.</string>
+		<string>Guildpact Rare</string>
+	</array>
+	<array>
+		<string>Orzhov Signet</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}: Add {W}{B} to your mana pool.</string>
+		<string>Magic: The Gathering-Commander Common, Guildpact Common</string>
+	</array>
+	<array>
+		<string>Orzhova, the Church of Deals</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{3}{W}{B}, {T}: Target player loses 1 life and you gain 1 life.</string>
+		<string>Guildpact Uncommon</string>
+	</array>
+	<array>
+		<string>Osai Vultures</string>
+		<string>1W</string>
+		<string>Creature  - Bird</string>
+		<string>(1/1)</string>
+		<string>Flying
+At the beginning of each end step, if a creature died this turn, put a carrion counter on Osai Vultures.
+Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.</string>
+		<string>Masters Edition IV Common, Fourth Edition Uncommon, Legends Common</string>
+	</array>
+	<array>
+		<string>Ostiary Thrull</string>
+		<string>3B</string>
+		<string>Creature  - Thrull</string>
+		<string>(2/2)</string>
+		<string>{W}, {T}: Tap target creature.</string>
+		<string>Guildpact Common</string>
+	</array>
+	<array>
+		<string>Ostracize</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target opponent reveals his or her hand. You choose a creature card from it. That player discards that card.</string>
+		<string>Seventh Edition Common, Urza's Legacy Common</string>
+	</array>
+	<array>
+		<string>Otarian Juggernaut</string>
+		<string>4</string>
+		<string>Artifact Creature  - Juggernaut</string>
+		<string>(2/3)</string>
+		<string>Otarian Juggernaut can't be blocked by Walls.
+Threshold - As long as seven or more cards are in your graveyard, Otarian Juggernaut gets +3/+0 and attacks each turn if able.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Otherworldly Journey</string>
+		<string>1W</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.</string>
+		<string>Duel Decks: Divine vs. Demonic Uncommon, Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Oubliette</string>
+		<string>1BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.
+When Oubliette leaves the battlefield, return the exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the exiled Aura cards to the battlefield under their owner's control attached to that permanent.</string>
+		<string>Masters Edition Common, Arabian Nights Common, Arabian Nights Common</string>
+	</array>
+	<array>
+		<string>Ouphe Vandals</string>
+		<string>2G</string>
+		<string>Creature  - Ouphe Rogue</string>
+		<string>(2/2)</string>
+		<string>{G}, Sacrifice Ouphe Vandals: Counter target activated ability from an artifact source and destroy that artifact if it's on the battlefield. (Mana abilities can't be targeted.)</string>
+		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental</string>
+		<string>1GG</string>
+		<string>Creature - Elemental</string>
+		<string>(2/2)</string>
+		<string>Art rampage 2 (Whenever this becomes blocked by a creature, it gets +2/+2 for each creature in the blocker's art beyond the first.)</string>
+		<string>Unhinged Common</string>
+	</array>
+	<array>
+		<string>Oust</string>
+		<string>W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put target creature into its owner's library second from the top. Its controller gains 3 life.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Outbreak</string>
+		<string>3B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>You may discard a Swamp card rather than pay Outbreak's mana cost.
+Choose a creature type. All creatures of that type get -1/-1 until end of turn.</string>
+		<string>Prophecy Uncommon</string>
+	</array>
+	<array>
+		<string>Outmaneuver</string>
+		<string>XR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>X target blocked creatures assign their combat damage this turn as though they weren't blocked.</string>
+		<string>Urza's Saga Uncommon</string>
+	</array>
+	<array>
+		<string>Outrage Shaman</string>
+		<string>3RR</string>
+		<string>Creature  - Goblin Shaman</string>
+		<string>(2/2)</string>
+		<string>Chroma - When Outrage Shaman enters the battlefield, it deals damage to target creature equal to the number of red mana symbols in the mana costs of permanents you control.</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Outrider en-Kor</string>
+		<string>2W</string>
+		<string>Creature  - Kor Rebel Knight</string>
+		<string>(2/2)</string>
+		<string>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+{0}: The next 1 damage that would be dealt to Outrider en-Kor this turn is dealt to target creature you control instead.</string>
+		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Outrider of Jhess</string>
+		<string>3U</string>
+		<string>Creature  - Human Knight</string>
+		<string>(2/2)</string>
+		<string>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Overabundance</string>
+		<string>1RG</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced, and Overabundance deals 1 damage to him or her.</string>
+		<string>Invasion Rare</string>
+	</array>
+	<array>
+		<string>Overbeing of Myth</string>
+		<string>(G/U)(G/U)(G/U)(G/U)(G/U)</string>
+		<string>Creature  - Spirit Avatar</string>
+		<string>(*/*)</string>
+		<string>Overbeing of Myth's power and toughness are each equal to the number of cards in your hand.
+At the beginning of your draw step, draw an additional card.</string>
+		<string>Eventide Rare</string>
+	</array>
+	<array>
+		<string>Overblaze</string>
+		<string>3R</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Each time target permanent would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.
+Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</string>
+		<string>Betrayers of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Overburden</string>
+		<string>1U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a player puts a nontoken creature onto the battlefield, that player returns a land he or she controls to its owner's hand.</string>
+		<string>Prophecy Rare</string>
+	</array>
+	<array>
+		<string>Overeager Apprentice</string>
+		<string>2B</string>
+		<string>Creature  - Human Minion</string>
+		<string>(1/2)</string>
+		<string>Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.</string>
+		<string>Duel Decks: Divine vs. Demonic Common, Odyssey Common</string>
+	</array>
+	<array>
+		<string>Overgrown Battlement</string>
+		<string>1G</string>
+		<string>Creature  - Wall</string>
+		<string>(0/4)</string>
+		<string>Defender
+{T}: Add {G} to your mana pool for each creature with defender you control.</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Overgrown Estate</string>
+		<string>BGW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Sacrifice a land: You gain 3 life.</string>
+		<string>Apocalypse Rare</string>
+	</array>
+	<array>
+		<string>Overgrown Tomb</string>
+		<string>Land  - Swamp Forest</string>
+		<string></string>
+		<string>({T}: Add {B} or {G} to your mana pool.)
+As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.</string>
+		<string>Ravnica: City of Guilds Rare</string>
+	</array>
+	<array>
+		<string>Overgrowth</string>
+		<string>2G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)
+Whenever enchanted land is tapped for mana, its controller adds {G}{G} to his or her mana pool (in addition to the mana the land produces).</string>
+		<string>Tenth Edition Common, Ninth Edition Common, Stronghold Common</string>
+	</array>
+	<array>
+		<string>Overlaid Terrain</string>
+		<string>2GG</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>As Overlaid Terrain enters the battlefield, sacrifice all lands you control.
+Lands you control have "{T}: Add two mana of any one color to your mana pool."</string>
+		<string>Nemesis Rare</string>
+	</array>
+	<array>
+		<string>Overload</string>
+		<string>R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Destroy target artifact if its converted mana cost is 2 or less. If Overload was kicked, destroy that artifact if its converted mana cost is 5 or less instead.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Overmaster</string>
+		<string>R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.
+Draw a card.</string>
+		<string>Torment Rare</string>
+	</array>
+	<array>
+		<string>Override</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell unless its controller pays {1} for each artifact you control.</string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Overrule</string>
+		<string>XWU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell unless its controller pays {X}. You gain X life.</string>
+		<string>Dissension Common</string>
+	</array>
+	<array>
+		<string>Overrun</string>
+		<string>2GGG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</string>
+		<string>Magic 2012 Uncommon, Duel Decks: Garruk vs. Liliana Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Odyssey Uncommon, Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Oversold Cemetery</string>
+		<string>1B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Oversoul of Dusk</string>
+		<string>(G/W)(G/W)(G/W)(G/W)(G/W)</string>
+		<string>Creature  - Spirit Avatar</string>
+		<string>(5/5)</string>
+		<string>Protection from blue, from black, and from red</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Overtaker</string>
+		<string>1U</string>
+		<string>Creature  - Merfolk Spellshaper</string>
+		<string>(1/1)</string>
+		<string>{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.</string>
+		<string>Mercadian Masques Rare, Promo set for Gatherer Rare</string>
+	</array>
+	<array>
+		<string>Overwhelm</string>
+		<string>5GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Convoke (Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.)
+Creatures you control get +3/+3 until end of turn.</string>
+		<string>Ravnica: City of Guilds Uncommon</string>
+	</array>
+	<array>
+		<string>Overwhelming Forces</string>
+		<string>6BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy all creatures target opponent controls. Draw a card for each creature destroyed this way.</string>
+		<string>Masters Edition IV Rare, Portal Three Kingdoms Rare</string>
+	</array>
+	<array>
+		<string>Overwhelming Instinct</string>
+		<string>2G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you attack with three or more creatures, draw a card.</string>
+		<string>Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Overwhelming Intellect</string>
+		<string>4UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target creature spell. Draw cards equal to that spell's converted mana cost.</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Overwhelming Stampede</string>
+		<string>3GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Until end of turn, creatures you control gain trample and get +X/+X, where X is the greatest power among creatures you control. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</string>
+		<string>Magic 2011 Rare</string>
+	</array>
+	<array>
+		<string>Ovinize</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature loses all abilities and becomes 0/1 until end of turn.</string>
+		<string>Planar Chaos Uncommon</string>
+	</array>
+	<array>
+		<string>Ovinomancer</string>
+		<string>2U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(0/1)</string>
+		<string>When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.
+{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.</string>
+		<string>Time Spiral "Timeshifted" Special, Visions Uncommon</string>
+	</array>
+	<array>
+		<string>Ow</string>
+		<string>B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever any creature damages a player, for each Ow card in play, that player says "Ow" once or Ow deals 1 damage to him or her.</string>
+		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Owl Familiar</string>
+		<string>1U</string>
+		<string>Creature  - Bird</string>
+		<string>(1/1)</string>
+		<string>Flying
+When Owl Familiar enters the battlefield, draw a card, then discard a card.</string>
+		<string>Masters Edition IV Common, Starter 1999 Uncommon, Portal Common</string>
+	</array>
+	<array>
+		<string>Oxidda Daredevil</string>
+		<string>1R</string>
+		<string>Creature  - Goblin Artificer</string>
+		<string>(2/1)</string>
+		<string>Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn.</string>
+		<string>Scars of Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Oxidda Golem</string>
+		<string>6</string>
+		<string>Artifact Creature  - Golem</string>
+		<string>(3/2)</string>
+		<string>Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)
+Haste</string>
+		<string>Duel Decks: Jace vs. Chandra Common, Darksteel Common</string>
+	</array>
+	<array>
+		<string>Oxidda Scrapmelter</string>
+		<string>3R</string>
+		<string>Creature  - Beast</string>
+		<string>(3/3)</string>
+		<string>When Oxidda Scrapmelter enters the battlefield, destroy target artifact.</string>
+		<string>Scars of Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>Oxidize</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target artifact. It can't be regenerated.</string>
+		<string>Darksteel Uncommon</string>
+	</array>
+	<array>
+		<string>Oyobi, Who Split the Heavens</string>
+		<string>6W</string>
+		<string>Legendary Creature  - Spirit</string>
+		<string>(3/6)</string>
+		<string>Flying
+Whenever you cast a Spirit or Arcane spell, put a 3/3 white Spirit creature token with flying onto the battlefield.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+</array>
+</plist>

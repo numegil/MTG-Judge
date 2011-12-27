@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/LinearLayout01"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical">
+	<LinearLayout android:id="@+id/linearLayout2" android:layout_height="wrap_content"
+		android:weightSum="1" android:layout_width="match_parent">
+		<EditText android:layout_height="wrap_content" android:id="@+id/CompRulesSearchText"
+			android:hint="Search" android:inputType="textPhonetic" android:layout_width="246dp" android:layout_weight="1"></EditText>
+		<Button android:text="Cancel" android:layout_width="wrap_content"
+			android:id="@+id/cancel_button" android:layout_height="wrap_content"
+			android:visibility="gone"></Button>
+	</LinearLayout>
+
+	<LinearLayout android:layout_height="wrap_content"
+		android:id="@+id/linearLayout1" android:layout_width="match_parent">
+		<Button android:layout_height="wrap_content" android:id="@+id/glossary_button"
+			android:text="Glossary Entries" android:layout_width="160dp"
+			android:visibility="gone"></Button>
+		<Button android:layout_height="wrap_content" android:id="@+id/rules_button"
+			android:text="Rules Text" android:layout_width="160dp"
+			android:visibility="gone"></Button>
+	</LinearLayout>
+
+	<ListView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@android:id/list"></ListView>
+
+</LinearLayout>

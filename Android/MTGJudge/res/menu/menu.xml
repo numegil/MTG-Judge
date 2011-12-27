@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/quick_ref"
+          android:icon="@drawable/clock"
+          android:title="@string/quick_reference" />
+    <item android:id="@+id/oracle"
+          android:icon="@drawable/lightbulb"
+          android:title="@string/oracle" />
+    <item android:id="@+id/dl_counter" android:icon="@drawable/calculator" android:title="@string/decklist_counter" />
+    <item android:id="@+id/comp_rules"
+          android:icon="@drawable/book"
+          android:title="@string/comp_rules" ></item><item android:id="@+id/ipg" android:title="@string/ipg" android:icon="@drawable/gavel"></item>
+    
+    <item android:id="@+id/mtr"
+          android:title="@string/mtr" android:icon="@drawable/shoebox"/>
+</menu>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Qasali Ambusher</string>
+		<string>1GW</string>
+		<string>Creature  - Cat Warrior</string>
+		<string>(2/3)</string>
+		<string>Reach
+If a creature is attacking you and you control a Forest and a Plains, you may cast Qasali Ambusher without paying its mana cost and as though it had flash.</string>
+		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Qasali Pridemage</string>
+		<string>GW</string>
+		<string>Creature  - Cat Wizard</string>
+		<string>(2/2)</string>
+		<string>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.</string>
+		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Quag Sickness</string>
+		<string>2B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets -1/-1 for each Swamp you control.</string>
+		<string>Magic 2011 Common</string>
+	</array>
+	<array>
+		<string>Quag Vampires</string>
+		<string>B</string>
+		<string>Creature  - Vampire Rogue</string>
+		<string>(1/1)</string>
+		<string>Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.)
+Swampwalk
+Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.</string>
+		<string>Worldwake Common</string>
+	</array>
+	<array>
+		<string>Quagmire</string>
+		<string>2B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Creatures with swampwalk can be blocked as though they didn't have swampwalk.</string>
+		<string>Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Quagmire Druid</string>
+		<string>2B</string>
+		<string>Creature  - Zombie Druid</string>
+		<string>(2/2)</string>
+		<string>{G}, {T}, Sacrifice a creature: Destroy target enchantment.</string>
+		<string>Apocalypse Common</string>
+	</array>
+	<array>
+		<string>Quagmire Lamprey</string>
+		<string>2B</string>
+		<string>Creature  - Fish</string>
+		<string>(1/1)</string>
+		<string>Whenever Quagmire Lamprey becomes blocked by a creature, put a -1/-1 counter on that creature.</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Quagnoth</string>
+		<string>5G</string>
+		<string>Creature  - Beast</string>
+		<string>(4/5)</string>
+		<string>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Shroud (This permanent can't be the target of spells or abilities.)
+When a spell or ability an opponent controls causes you to discard Quagnoth, return it to your hand.</string>
+		<string>Future Sight Rare</string>
+	</array>
+	<array>
+		<string>Quarum Trench Gnomes</string>
+		<string>3R</string>
+		<string>Creature  - Gnome</string>
+		<string>(1/1)</string>
+		<string>{T}: If target Plains is tapped for mana, it produces colorless mana instead of white mana. (This effect lasts indefinitely.)</string>
+		<string>Legends Rare</string>
+	</array>
+	<array>
+		<string>Quash</string>
+		<string>2UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.</string>
+		<string>Betrayers of Kamigawa Uncommon, Urza's Destiny Uncommon</string>
+	</array>
+	<array>
+		<string>Quenchable Fire</string>
+		<string>3R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays {U} before that step.</string>
+		<string>Conflux Common</string>
+	</array>
+	<array>
+		<string>Quest for Ancient Secrets</string>
+		<string>U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a card is put into your graveyard from anywhere, you may put a quest counter on Quest for Ancient Secrets.
+Remove five quest counters from Quest for Ancient Secrets and sacrifice it: Target player shuffles his or her graveyard into his or her library.</string>
+		<string>Zendikar Uncommon</string>
+	</array>
+	<array>
+		<string>Quest for Pure Flame</string>
+		<string>R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.
+Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.</string>
+		<string>Zendikar Uncommon</string>
+	</array>
+	<array>
+		<string>Quest for Renewal</string>
+		<string>1G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature you control becomes tapped, you may put a quest counter on Quest for Renewal.
+As long as there are four or more quest counters on Quest for Renewal, untap all creatures you control during each other player's untap step.</string>
+		<string>Worldwake Uncommon</string>
+	</array>
+	<array>
+		<string>Quest for the Gemblades</string>
+		<string>1G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.
+Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.</string>
+		<string>Zendikar Uncommon</string>
+	</array>
+	<array>
+		<string>Quest for the Goblin Lord</string>
+		<string>R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a Goblin enters the battlefield under your control, you may put a quest counter on Quest for the Goblin Lord.
+As long as Quest for the Goblin Lord has five or more quest counters on it, creatures you control get +2/+0.</string>
+		<string>Worldwake Uncommon</string>
+	</array>
+	<array>
+		<string>Quest for the Gravelord</string>
+		<string>B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature dies, you may put a quest counter on Quest for the Gravelord.
+Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.</string>
+		<string>Zendikar Uncommon</string>
+	</array>
+	<array>
+		<string>Quest for the Holy Relic</string>
+		<string>W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic.
+Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.</string>
+		<string>Zendikar Uncommon</string>
+	</array>
+	<array>
+		<string>Quest for the Nihil Stone</string>
+		<string>B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever an opponent discards a card, you may put a quest counter on Quest for the Nihil Stone.
+At the beginning of each opponent's upkeep, if that player has no cards in hand and Quest for the Nihil Stone has two or more quest counters on it, you may have that player lose 5 life.</string>
+		<string>Worldwake Rare</string>
+	</array>
+	<array>
+		<string>Quest for Ula's Temple</string>
+		<string>U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, you may look at the top card of your library. If it's a creature card, you may reveal it and put a quest counter on Quest for Ula's Temple.
+At the beginning of each end step, if there are three or more quest counters on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or Serpent creature card from your hand onto the battlefield.</string>
+		<string>Worldwake Rare</string>
+	</array>
+	<array>
+		<string>Questing Phelddagrif</string>
+		<string>1GWU</string>
+		<string>Creature  - Phelddagrif</string>
+		<string>(4/4)</string>
+		<string>{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.
+{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.
+{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.</string>
+		<string>Planeshift Rare, Promo set for Gatherer Rare</string>
+	</array>
+	<array>
+		<string>Question Elemental?</string>
+		<string>2UU</string>
+		<string>Creature - Elemental</string>
+		<string>(3/4)</string>
+		<string>Flying
+Are you aware that when you say something that isn't a question, the player who first points out this fact gains control of Question Elemental?</string>
+		<string>Unhinged Uncommon</string>
+	</array>
+	<array>
+		<string>Quick Sliver</string>
+		<string>1G</string>
+		<string>Creature  - Sliver</string>
+		<string>(1/1)</string>
+		<string>Flash
+Any player may play Sliver cards as though they had flash.</string>
+		<string>Premium Deck Series: Slivers Common, Legions Common</string>
+	</array>
+	<array>
+		<string>Quickchange</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature becomes the color or colors of your choice until end of turn.
+Draw a card.</string>
+		<string>Ravnica: City of Guilds Common</string>
+	</array>
+	<array>
+		<string>Quicken</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>The next sorcery card you cast this turn can be cast as though it had flash.
+Draw a card.</string>
+		<string>Guildpact Rare</string>
+	</array>
+	<array>
+		<string>Quickening Licid</string>
+		<string>1W</string>
+		<string>Creature  - Licid</string>
+		<string>(1/1)</string>
+		<string>{1}{W}, {T}: Quickening Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {W} to end this effect.
+Enchanted creature has first strike.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Quicksand</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.</string>
+		<string>Worldwake Common, Tenth Edition Uncommon, Ninth Edition Uncommon, Visions Uncommon</string>
+	</array>
+	<array>
+		<string>Quicksilver Amulet</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{4}, {T}: You may put a creature card from your hand onto the battlefield.</string>
+		<string>Magic 2012 Rare, Urza's Legacy Rare</string>
+	</array>
+	<array>
+		<string>Quicksilver Behemoth</string>
+		<string>6U</string>
+		<string>Creature  - Beast</string>
+		<string>(4/5)</string>
+		<string>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)</string>
+		<string>Darksteel Common</string>
+	</array>
+	<array>
+		<string>Quicksilver Dagger</string>
+		<string>1UR</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has "{T}: This creature deals 1 damage to target player. You draw a card."</string>
+		<string>Apocalypse Common</string>
+	</array>
+	<array>
+		<string>Quicksilver Dragon</string>
+		<string>4UU</string>
+		<string>Creature  - Dragon</string>
+		<string>(5/5)</string>
+		<string>Flying
+{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.
+Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</string>
+		<string>Duel Decks: Jace vs. Chandra Rare, Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Quicksilver Elemental</string>
+		<string>3UU</string>
+		<string>Creature  - Elemental</string>
+		<string>(3/4)</string>
+		<string>{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.)
+You may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities.</string>
+		<string>Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Quicksilver Fountain</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player puts a flood counter on target non-Island land he or she controls of his or her choice. That land is an Island for as long as it has a flood counter on it.
+At the beginning of each end step, if all lands on the battlefield are Islands, remove all flood counters from them.</string>
+		<string>Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Quicksilver Gargantuan</string>
+		<string>5UU</string>
+		<string>Creature  - Shapeshifter</string>
+		<string>(7/7)</string>
+		<string>You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7.</string>
+		<string>Scars of Mirrodin Mythic Rare</string>
+	</array>
+	<array>
+		<string>Quicksilver Geyser</string>
+		<string>4U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Return up to two target nonland permanents to their owners' hands.</string>
+		<string>Mirrodin Besieged Common</string>
+	</array>
+	<array>
+		<string>Quicksilver Wall</string>
+		<string>2U</string>
+		<string>Creature  - Wall</string>
+		<string>(1/6)</string>
+		<string>Defender (This creature can't attack.)
+{4}: Return Quicksilver Wall to its owner's hand. Any player may activate this ability.</string>
+		<string>Prophecy Uncommon</string>
+	</array>
+	<array>
+		<string>Quiet Disrepair</string>
+		<string>1G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant artifact or enchantment
+At the beginning of your upkeep, choose one - Destroy enchanted permanent; or you gain 2 life.</string>
+		<string>Future Sight Common</string>
+	</array>
+	<array>
+		<string>Quiet Purity</string>
+		<string>W</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Destroy target enchantment.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Quiet Speculation</string>
+		<string>1U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles his or her library.</string>
+		<string>Judgment Uncommon</string>
+	</array>
+	<array>
+		<string>Quietus Spike</string>
+		<string>3</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature has deathtouch.
+Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.
+Equip {3}</string>
+		<string>Shards of Alara Rare</string>
+	</array>
+	<array>
+		<string>Quilled Slagwurm</string>
+		<string>4GGG</string>
+		<string>Creature  - Wurm</string>
+		<string>(8/8)</string>
+		<string></string>
+		<string>Mirrodin Besieged Uncommon</string>
+	</array>
+	<array>
+		<string>Quilled Sliver</string>
+		<string>1W</string>
+		<string>Creature  - Sliver</string>
+		<string>(1/1)</string>
+		<string>All Slivers have "{T}: This permanent deals 1 damage to target attacking or blocking creature."</string>
+		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Quillmane Baku</string>
+		<string>4U</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/3)</string>
+		<string>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Quillmane Baku.
+{1}, {T}, Remove X ki counters from Quillmane Baku: Return target creature with converted mana cost X or less to its owner's hand.</string>
+		<string>Betrayers of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Quill-Slinger Boggart</string>
+		<string>3B</string>
+		<string>Creature  - Goblin Warrior</string>
+		<string>(3/2)</string>
+		<string>Whenever a player casts a Kithkin spell, you may have target player lose 1 life.</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Quillspike</string>
+		<string>2(B/G)</string>
+		<string>Creature  - Beast</string>
+		<string>(1/1)</string>
+		<string>{(b/g)}, Remove a -1/-1 counter from a creature you control: Quillspike gets +3/+3 until end of turn.</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Quirion Druid</string>
+		<string>2G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(1/2)</string>
+		<string>{G}, {T}: Target land becomes a 2/2 green creature that's still a land. (This effect lasts indefinitely.)</string>
+		<string>Visions Rare</string>
+	</array>
+	<array>
+		<string>Quirion Dryad</string>
+		<string>1G</string>
+		<string>Creature  - Dryad</string>
+		<string>(1/1)</string>
+		<string>Whenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.</string>
+		<string>Tenth Edition Rare, Planeshift Rare</string>
+	</array>
+	<array>
+		<string>Quirion Elves</string>
+		<string>1G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(1/1)</string>
+		<string>As Quirion Elves enters the battlefield, choose a color.
+{T}: Add {G} to your mana pool.
+{T}: Add one mana of the chosen color to your mana pool.</string>
+		<string>Duel Decks: Phyrexia vs. the Coalition Common, Beatdown Box Set Common, Invasion Common, Mirage Common</string>
+	</array>
+	<array>
+		<string>Quirion Explorer</string>
+		<string>1G</string>
+		<string>Creature  - Elf Druid Scout</string>
+		<string>(1/1)</string>
+		<string>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.</string>
+		<string>Planeshift Common</string>
+	</array>
+	<array>
+		<string>Quirion Ranger</string>
+		<string>G</string>
+		<string>Creature  - Elf</string>
+		<string>(1/1)</string>
+		<string>Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.</string>
+		<string>Visions Common</string>
+	</array>
+	<array>
+		<string>Quirion Sentinel</string>
+		<string>1G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(2/1)</string>
+		<string>When Quirion Sentinel enters the battlefield, add one mana of any color to your mana pool.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Quirion Trailblazer</string>
+		<string>3G</string>
+		<string>Creature  - Elf Scout</string>
+		<string>(1/2)</string>
+		<string>When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Qumulox</string>
+		<string>6UU</string>
+		<string>Creature  - Beast</string>
+		<string>(5/4)</string>
+		<string>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying</string>
+		<string>Duel Decks: Elspeth vs. Tezzeret Uncommon, Planechase Uncommon, Fifth Dawn Uncommon</string>
+	</array>
+</array>
+</plist>

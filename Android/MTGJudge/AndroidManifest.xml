@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.mtgjudge"
+      android:versionCode="5" android:versionName="1.06">
+    <uses-sdk android:minSdkVersion="8"/>
+
+    <application android:label="@string/app_name" android:icon="@drawable/dci_icon">
+        <activity android:name=".QuickReferenceActivity"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CompRulesActivity"></activity>
+        <activity android:name=".CompRulesDetailActivity"></activity>
+        <activity android:name=".CompRulesDisplayActivity"></activity>
+        <activity android:name=".DeckListCounterActivity"></activity>
+        <activity android:name=".IPGActivity"></activity>
+        <activity android:name=".IPGDisplayActivity"></activity>
+        <activity android:name=".IPGDetailActivity"></activity>
+        <activity android:name=".IPGSubDetailActivity"></activity>
+        <activity android:name=".MTRDetailActivity"></activity>
+        <activity android:name=".MTRDisplayActivity"></activity>
+        <activity android:name=".MTRActivity"></activity>
+        <activity android:name=".OracleActivity"></activity>
+        <activity android:name=".QuickReferenceDetailActivity"></activity>
+        <activity android:name="OracleDetailActivity"></activity>
+
+    </application>
+</manifest>

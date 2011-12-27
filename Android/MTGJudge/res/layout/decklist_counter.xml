@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/vertLayout3"
+        android:layout_width="match_parent"
+        android:orientation="vertical" android:layout_weight="2" android:layout_height="wrap_content">
+        <TextView android:layout_gravity="center" android:layout_width="wrap_content" android:text="TextView" android:layout_height="wrap_content" android:id="@+id/textViewLabel" android:layout_weight="0"></TextView>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/horLayout1" android:layout_height="wrap_content" android:layout_width="match_parent" android:baselineAligned="false" android:layout_weight="1">
+            <LinearLayout android:orientation="vertical" android:layout_gravity="fill_vertical" android:id="@+id/vertLayout1" android:layout_height="match_parent" android:layout_width="match_parent" android:layout_weight="1">
+                <Button android:layout_gravity="fill_vertical" android:layout_width="match_parent" android:layout_weight="1" android:id="@+id/button1" android:layout_height="wrap_content" android:text="@string/s1" android:onClick="clicked1"></Button>
+                <Button android:layout_gravity="fill_vertical" android:layout_width="match_parent" android:layout_weight="1" android:id="@+id/button3" android:layout_height="wrap_content" android:text="@string/s3" android:onClick="clicked3"></Button>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_gravity="fill_vertical" android:id="@+id/vertLayout2" android:layout_height="match_parent" android:layout_width="match_parent" android:layout_weight="1">
+                <Button android:layout_width="match_parent" android:layout_weight="1" android:id="@+id/button2" android:layout_height="wrap_content" android:text="@string/s2" android:onClick="clicked2"></Button>
+                <Button android:layout_width="match_parent" android:layout_weight="1" android:id="@+id/button4" android:layout_height="wrap_content" android:text="@string/s4" android:onClick="clicked4"></Button>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/linearLayoutSpacer" android:layout_weight=".1"></LinearLayout>
+        <LinearLayout android:id="@+id/horLayout2" android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_weight=".1">
+            <Button android:layout_width="match_parent" android:layout_weight=".33" android:id="@+id/buttonReset" android:layout_height="wrap_content" android:text="@string/sReset" android:onClick="clickedReset"></Button>
+            <Button android:layout_width="match_parent" android:layout_weight=".33" android:id="@+id/buttonUndo" android:layout_height="wrap_content" android:text="@string/sUndo" android:onClick="clickedUndo"></Button>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

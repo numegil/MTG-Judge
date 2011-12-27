@@ -1,0 +1,125 @@
+Introduction
+
+1. Tournament Fundamentals
+1.1 Tournament Types
+1.2 Publishing Tournament Information
+1.3 Tournament Roles
+1.4 Participation Eligibility
+1.5 DCI Membership Number
+1.6 Tournament Organizer
+1.7 Head Judge
+1.8 Floor Judges
+1.9 Scorekeeper
+1.10 Players
+1.11 Spectators
+
+2. Tournament Mechanics
+2.1 Match Structure
+2.2 Play/Draw Rule
+2.3 Pregame Procedures
+2.4 Conceding or Intentionally Drawing Games or Matches
+2.5 End-of-Match Procedure
+2.6 Time Extensions
+2.7 Deck Registration
+2.8 Deck Checks
+2.9 Taking Notes
+2.10 Dropping from a Tournament
+2.11 Electronic Devices
+2.12 Appeals to the Head Judge
+
+3. Tournament Rules
+3.1 Tiebreakers
+3.2 Format and Ratings Categories
+3.3 Authorized Cards
+3.4 Proxy Cards
+3.5 Innistrad Block Checklist Cards
+3.6 Card Interpretation
+3.7 New Releases
+3.8 Game Markers
+3.9 Card Shuffling
+3.10 Sleeves
+3.11 Marked Cards
+3.12 Hidden Information
+3.13 Tapped/Flipped Cards
+3.14 Graveyard Order
+3.15 Sideboard
+
+4. Communication
+4.1 Player Communication
+4.2 Tournament Shortcuts
+4.3 Out-of-Order Sequencing
+4.4 Team/Two-Headed Giant Communication
+
+5. Tournament Violations
+5.1 Cheating
+5.2 Collusion and Bribery
+5.3 Wagering
+5.4 Unsporting Conduct
+5.5 Slow Play
+
+6. Constructed Tournament Rules
+6.1 Deck Construction Restrictions
+6.2 Sideboard Use
+6.3 Standard Format Deck Construction
+6.4 Extended Format Deck Construction
+6.5 Vintage Format Deck Construction
+6.6 Legacy Format Deck Construction
+6.7 Block Constructed Format Deck Construction
+6.8 Modern Format Deck Construction
+
+7. Limited Tournament Rules
+7.1 Deck Construction Restrictions
+7.2 Sideboard Use
+7.3 Card Use in Limited Tournaments
+7.4 Abnormal Product
+7.5 Sealed Deck Swap
+7.6 Draft Pod Assembly
+7.7 Booster Draft Procedures
+
+8. Team Tournament Rules
+8.1 Team Names
+8.2 Team Composition and Identification
+8.3 Team Ratings
+8.4 Team Communication Rules
+8.5 Unified Deck Construction Rules
+8.6 Team Rochester Draft Tournaments
+8.7 Team Sealed Deck Tournaments
+
+9. Two-Headed Giant Tournament Rules
+9.1 Match Structure
+9.2 Communication Rules
+9.3 Play-Draw Rule
+9.4 Pregame Procedure
+9.5 Two-Headed Giant Constructed Rules
+9.6 Two-Headed Giant Limited Rules
+9.7 Two-Headed Giant Booster Draft Tournaments
+
+10. Sanctioning Rules
+10.1 Participation Minimums
+10.2 Number of Rounds
+10.3 Invitation-Only Tournaments
+10.4 Pairing Algorithm
+
+Appendix A-Changes From Previous Versions
+
+Appendix B-Time Limits
+Introduction
+Booster Draft Timing
+Rochester Draft Timing
+Two-Headed Giant Draft Timing
+
+Appendix C-DCI Rating and Ranking Systems
+ELO Ratings System
+
+Appendix D-Tiebreaker Explanation
+Match Points
+Game Points
+Match-win percentage
+Game-win percentage
+Opponents' match-win percentage
+Opponents' game-win percentages
+Byes
+
+Appendix E-Recommended Booster Mix for Limited Tournaments
+
+Appendix F-Recommended Number of Rounds in Swiss Tournaments

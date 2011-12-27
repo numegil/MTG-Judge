@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Jabari's Banner</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}: Target creature gains flanking until end of turn. (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</string>
+		<string>Weatherlight Uncommon</string>
+	</array>
+	<array>
+		<string>Jabari's Influence</string>
+		<string>3WW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Cast Jabari's Influence only after combat.
+Gain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.</string>
+		<string>Mirage Rare</string>
+	</array>
+	<array>
+		<string>Jace Beleren</string>
+		<string>1UU</string>
+		<string>Planeswalker  - Jace</string>
+		<string>(3)</string>
+		<string>+2: Each player draws a card.
+-1: Target player draws a card.
+-10: Target player puts the top twenty cards of his or her library into his or her graveyard.</string>
+		<string>Magic 2011 Mythic Rare, Magic 2010 Mythic Rare, Duel Decks: Jace vs. Chandra Mythic Rare, Lorwyn Rare</string>
+	</array>
+	<array>
+		<string>Jace, Memory Adept</string>
+		<string>3UU</string>
+		<string>Planeswalker  - Jace</string>
+		<string>(4)</string>
+		<string>+1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.
+0: Target player puts the top ten cards of his or her library into his or her graveyard.
+-7: Any number of target players each draw twenty cards.</string>
+		<string>Magic 2012 Mythic Rare</string>
+	</array>
+	<array>
+		<string>Jace, the Mind Sculptor</string>
+		<string>2UU</string>
+		<string>Planeswalker  - Jace</string>
+		<string>(3)</string>
+		<string>+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
+0: Draw three cards, then put two cards from your hand on top of your library in any order.
+-1: Return target creature to its owner's hand.
+-12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.</string>
+		<string>Worldwake Mythic Rare</string>
+	</array>
+	<array>
+		<string>Jace's Archivist</string>
+		<string>1UU</string>
+		<string>Creature  - Vedalken Wizard</string>
+		<string>(2/2)</string>
+		<string>{U}, {T}: Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.</string>
+		<string>Magic 2012 Rare</string>
+	</array>
+	<array>
+		<string>Jace's Erasure</string>
+		<string>1U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you draw a card, you may have target player put the top card of his or her library into his or her graveyard.</string>
+		<string>Magic 2012 Common, Magic 2011 Common</string>
+	</array>
+	<array>
+		<string>Jace's Ingenuity</string>
+		<string>3UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Draw three cards.</string>
+		<string>Magic 2011 Uncommon</string>
+	</array>
+	<array>
+		<string>Jackal Familiar</string>
+		<string>R</string>
+		<string>Creature  - Hound</string>
+		<string>(2/2)</string>
+		<string>Jackal Familiar can't attack or block alone.</string>
+		<string>Magic 2010 Common</string>
+	</array>
+	<array>
+		<string>Jackal Pup</string>
+		<string>R</string>
+		<string>Creature  - Hound</string>
+		<string>(2/1)</string>
+		<string>Whenever Jackal Pup is dealt damage, it deals that much damage to you.</string>
+		<string>Premium Deck Series: Fire and Lightning Uncommon, Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Jackalope Herd</string>
+		<string>3G</string>
+		<string>Creature  - Rabbit Beast</string>
+		<string>(4/5)</string>
+		<string>When you cast a spell, return Jackalope Herd to its owner's hand.</string>
+		<string>Exodus Common</string>
+	</array>
+	<array>
+		<string>Jack-in-the-Mox</string>
+		<string>0</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>ocT: Roll a six-sided die for Jack-in-the-Mox. On a 1, sacrifice Jack-in-the-Mox and lose 5 life. Otherwise, Jack-in-the-Mox has one of the following effects. Treat this ability as a mana source.
+2 Add oW to your mana pool.
+3 Add oU to your mana pool.
+4 Add oB to your mana pool.
+5 Add oR to your mana pool.
+6 Add oG to your mana pool.</string>
+		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Jacques le Vert</string>
+		<string>1RGW</string>
+		<string>Legendary Creature  - Human Warrior</string>
+		<string>(3/2)</string>
+		<string>Green creatures you control get +0/+2.</string>
+		<string>Masters Edition Rare, Legends Rare</string>
+	</array>
+	<array>
+		<string>Jaddi Lifestrider</string>
+		<string>4G</string>
+		<string>Creature  - Elemental</string>
+		<string>(2/8)</string>
+		<string>When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Jade Idol</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever you cast a Spirit or Arcane spell, Jade Idol becomes a 4/4 Spirit artifact creature until end of turn.</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Jade Leech</string>
+		<string>2GG</string>
+		<string>Creature  - Leech</string>
+		<string>(5/5)</string>
+		<string>Green spells you cast cost {G} more to cast.</string>
+		<string>Invasion Rare</string>
+	</array>
+	<array>
+		<string>Jade Mage</string>
+		<string>1G</string>
+		<string>Creature  - Human Shaman</string>
+		<string>(2/1)</string>
+		<string>{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Uncommon, Magic 2012 Uncommon</string>
+	</array>
+	<array>
+		<string>Jade Monolith</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.</string>
+		<string>Masters Edition IV Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
+	</array>
+	<array>
+		<string>Jade Statue</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.</string>
+		<string>Ninth Edition Rare, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Jaded Response</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell if it shares a color with a creature you control.</string>
+		<string>Apocalypse Common</string>
+	</array>
+	<array>
+		<string>Jagged Lightning</string>
+		<string>3RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Jagged Lightning deals 3 damage to each of two target creatures.</string>
+		<string>Starter 1999 Uncommon, Urza's Saga Uncommon, Portal Second Age Uncommon</string>
+	</array>
+	<array>
+		<string>Jagged Poppet</string>
+		<string>1BR</string>
+		<string>Creature  - Ogre Warrior</string>
+		<string>(3/4)</string>
+		<string>Whenever Jagged Poppet is dealt damage, discard that many cards.
+Hellbent - Whenever Jagged Poppet deals combat damage to a player, if you have no cards in hand, that player discards cards equal to the damage.</string>
+		<string>Dissension Uncommon</string>
+	</array>
+	<array>
+		<string>Jagged-Scar Archers</string>
+		<string>1GG</string>
+		<string>Creature  - Elf Archer</string>
+		<string>(*/*)</string>
+		<string>Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.
+{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.</string>
+		<string>Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Jagwasp Swarm</string>
+		<string>3B</string>
+		<string>Creature  - Insect</string>
+		<string>(3/2)</string>
+		<string>Flying</string>
+		<string>Worldwake Common</string>
+	</array>
+	<array>
+		<string>Jalum Grifter</string>
+		<string>3RR</string>
+		<string>Summon - Legend</string>
+		<string>(3/5)</string>
+		<string>o1oR, ocT: Put Jalum Grifter and two lands you control face down in front of target opponent after revealing each card to him or her. Then, rearrange the order of the three cards as often as you wish, keeping them on the table at all times. That opponent then chooses one of those cards. If a land is chosen, destroy target card in play. Otherwise, sacrifice Jalum Grifter.</string>
+		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Jalum Tome</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}, {T}: Draw a card, then discard a card.</string>
+		<string>Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Chronicles Rare, Antiquities Uncommon</string>
+	</array>
+	<array>
+		<string>Jamuraan Lion</string>
+		<string>2W</string>
+		<string>Creature  - Cat</string>
+		<string>(3/1)</string>
+		<string>{W}, {T}: Target creature can't block this turn.</string>
+		<string>Visions Common</string>
+	</array>
+	<array>
+		<string>Jandor's Ring</string>
+		<string>6</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}, {T}, Discard the last card you drew this turn: Draw a card.</string>
+		<string>Revised Edition Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Jandor's Saddlebags</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}: Untap target creature.</string>
+		<string>Seventh Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Jangling Automaton</string>
+		<string>3</string>
+		<string>Artifact Creature  - Construct</string>
+		<string>(3/2)</string>
+		<string>Whenever Jangling Automaton attacks, untap all creatures defending player controls.</string>
+		<string>Weatherlight Common</string>
+	</array>
+	<array>
+		<string>Jareth, Leonine Titan</string>
+		<string>3WWW</string>
+		<string>Legendary Creature  - Cat Giant</string>
+		<string>(4/7)</string>
+		<string>Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn.
+{W}: Jareth gains protection from the color of your choice until end of turn.</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Jasmine Boreal</string>
+		<string>3GW</string>
+		<string>Legendary Creature  - Human</string>
+		<string>(4/5)</string>
+		<string></string>
+		<string>Time Spiral "Timeshifted" Special, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Jasmine Seer</string>
+		<string>3W</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>{2}{W}, {T}: Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.</string>
+		<string>Urza's Destiny Uncommon</string>
+	</array>
+	<array>
+		<string>Jawbone Skulkin</string>
+		<string>1</string>
+		<string>Artifact Creature  - Scarecrow</string>
+		<string>(1/1)</string>
+		<string>{2}: Target red creature gains haste until end of turn.</string>
+		<string>Eventide Common</string>
+	</array>
+	<array>
+		<string>Jaws of Stone</string>
+		<string>5R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.</string>
+		<string>Duel Decks: Knights vs. Dragons Uncommon, Shadowmoor Uncommon</string>
+	</array>
+	<array>
+		<string>Jaya Ballard, Task Mage</string>
+		<string>1RR</string>
+		<string>Legendary Creature  - Human Spellshaper</string>
+		<string>(2/2)</string>
+		<string>{R}, {T}, Discard a card: Destroy target blue permanent.
+{1}{R}, {T}, Discard a card: Jaya Ballard, Task Mage deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+{5}{R}{R}, {T}, Discard a card: Jaya Ballard deals 6 damage to each creature and each player.</string>
+		<string>Premium Deck Series: Fire and Lightning Rare, Time Spiral Rare</string>
+	</array>
+	<array>
+		<string>Jayemdae Tome</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{4}, {T}: Draw a card.</string>
+		<string>Tenth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
+	</array>
+	<array>
+		<string>Jedit Ojanen</string>
+		<string>4WWU</string>
+		<string>Legendary Creature  - Cat Warrior</string>
+		<string>(5/5)</string>
+		<string></string>
+		<string>Masters Edition III Common, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Jedit Ojanen of Efrava</string>
+		<string>3GGG</string>
+		<string>Legendary Creature  - Cat Warrior</string>
+		<string>(5/5)</string>
+		<string>Forestwalk
+Whenever Jedit Ojanen of Efrava attacks or blocks, put a 2/2 green Cat Warrior creature token with forestwalk onto the battlefield.</string>
+		<string>Planar Chaos Rare</string>
+	</array>
+	<array>
+		<string>Jedit's Dragoons</string>
+		<string>5W</string>
+		<string>Creature  - Cat Soldier</string>
+		<string>(2/5)</string>
+		<string>Vigilance
+When Jedit's Dragoons enters the battlefield, you gain 4 life.</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Jenara, Asura of War</string>
+		<string>GWU</string>
+		<string>Legendary Creature  - Angel</string>
+		<string>(3/3)</string>
+		<string>Flying
+{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.</string>
+		<string>Alara Reborn Mythic Rare</string>
+	</array>
+	<array>
+		<string>Jerrard of the Closed Fist</string>
+		<string>3RGG</string>
+		<string>Legendary Creature  - Human Knight</string>
+		<string>(6/5)</string>
+		<string></string>
+		<string>Masters Edition III Common, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Jeska, Warrior Adept</string>
+		<string>2RR</string>
+		<string>Legendary Creature  - Human Barbarian Warrior</string>
+		<string>(3/1)</string>
+		<string>First strike, haste
+{T}: Jeska, Warrior Adept deals 1 damage to target creature or player.</string>
+		<string>Judgment Rare</string>
+	</array>
+	<array>
+		<string>Jester's Cap</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.</string>
+		<string>From the Vault: Relics Mythic Rare, Ninth Edition Rare, Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Jester's Mask</string>
+		<string>5</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Jester's Mask enters the battlefield tapped.
+{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.</string>
+		<string>Masters Edition II Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Jester's Scepter</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>When Jester's Scepter enters the battlefield, exile the top five cards of target player's library face down. You may look at those cards for as long as they remain exiled.
+{2}, {T}, Put a card exiled with Jester's Scepter into its owner's graveyard: Counter target spell if it has the same name as that card.</string>
+		<string>Coldsnap Rare</string>
+	</array>
+	<array>
+		<string>Jester's Sombrero</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>o2, ocT, Sacrifice Jester's Sombrero: Look through target player's sideboard and remove any three of those cards from it for the remainder of the match.</string>
+		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Jet Medallion</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Black spells you cast cost {1} less to cast.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Jetting Glasskite</string>
+		<string>4UU</string>
+		<string>Creature  - Spirit</string>
+		<string>(4/4)</string>
+		<string>Flying
+Whenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.</string>
+		<string>Betrayers of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Jeweled Amulet</string>
+		<string>0</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.
+{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.</string>
+		<string>Masters Edition II Uncommon, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Jeweled Bird</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Remove Jeweled Bird from your deck before playing if you're not playing for ante.
+{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own from the ante into your graveyard, then draw a card.</string>
+		<string>Chronicles Rare, Arabian Nights Uncommon</string>
+	</array>
+	<array>
+		<string>Jeweled Spirit</string>
+		<string>3WW</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/3)</string>
+		<string>Flying
+Sacrifice two lands: Jeweled Spirit gains protection from artifacts or from the color of your choice until end of turn.</string>
+		<string>Prophecy Rare</string>
+	</array>
+	<array>
+		<string>Jeweled Torque</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>As Jeweled Torque enters the battlefield, choose a color.
+Whenever a player casts a spell of the chosen color, you may pay {2}. If you do, you gain 2 life.</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Jhessian Balmgiver</string>
+		<string>1WU</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+{T}: Target creature is unblockable this turn.</string>
+		<string>Conflux Uncommon</string>
+	</array>
+	<array>
+		<string>Jhessian Infiltrator</string>
+		<string>GU</string>
+		<string>Creature  - Human Rogue</string>
+		<string>(2/2)</string>
+		<string>Jhessian Infiltrator is unblockable.</string>
+		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Jhessian Lookout</string>
+		<string>1U</string>
+		<string>Creature  - Human Scout</string>
+		<string>(2/1)</string>
+		<string></string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Jhessian Zombies</string>
+		<string>4UB</string>
+		<string>Creature  - Zombie</string>
+		<string>(2/4)</string>
+		<string>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Islandcycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Common, Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Jhoira of the Ghitu</string>
+		<string>1UR</string>
+		<string>Legendary Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>{2}, Exile a nonland card from your hand: Put four time counters on the exiled card. If it doesn't have suspend, it gains suspend. (At the beginning of your upkeep, remove a time counter from that card. When the last is removed, cast it without paying its mana cost. If it's a creature, it has haste.)</string>
+		<string>Future Sight Rare</string>
+	</array>
+	<array>
+		<string>Jhoira's Timebug</string>
+		<string>2</string>
+		<string>Artifact Creature  - Insect</string>
+		<string>(1/2)</string>
+		<string>{T}: Choose target permanent you control or suspended card you own. If that permanent or card has a time counter on it, you may remove a time counter from it or put another time counter on it.</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Jhoira's Toolbox</string>
+		<string>2</string>
+		<string>Artifact Creature  - Insect</string>
+		<string>(1/1)</string>
+		<string>{2}: Regenerate target artifact creature.</string>
+		<string>Urza's Legacy Uncommon</string>
+	</array>
+	<array>
+		<string>Jhovall Queen</string>
+		<string>4WW</string>
+		<string>Creature  - Cat Rebel</string>
+		<string>(4/7)</string>
+		<string>Vigilance</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Jhovall Rider</string>
+		<string>4W</string>
+		<string>Creature  - Human Rebel</string>
+		<string>(3/3)</string>
+		<string>Trample</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Jihad</string>
+		<string>WWW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>As Jihad enters the battlefield, choose a color and an opponent. 
+White creatures get +2/+1 as long as the chosen player controls a nontoken permanent of the chosen color. 
+When the chosen player controls no nontoken permanents of the chosen color, sacrifice Jihad.</string>
+		<string>Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Jilt</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
+Return target creature to its owner's hand. If Jilt was kicked, it deals 2 damage to another target creature.</string>
+		<string>Apocalypse Common</string>
+	</array>
+	<array>
+		<string>Jin-Gitaxias, Core Augur</string>
+		<string>8UU</string>
+		<string>Legendary Creature  - Praetor</string>
+		<string>(5/4)</string>
+		<string>Flash
+At the beginning of your end step, draw seven cards.
+Each opponent's maximum hand size is reduced by seven.</string>
+		<string>New Phyrexia Mythic Rare</string>
+	</array>
+	<array>
+		<string>Jinx</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target land becomes the basic land type of your choice until end of turn.
+Draw a card at the beginning of the next turn's upkeep.</string>
+		<string>Homelands Common</string>
+	</array>
+	<array>
+		<string>Jinxed Choker</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your end step, target opponent gains control of Jinxed Choker and puts a charge counter on it.
+At the beginning of your upkeep, Jinxed Choker deals damage to you equal to the number of charge counters on it.
+{3}: Put a charge counter on Jinxed Choker or remove one from it.</string>
+		<string>Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Jinxed Idol</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your upkeep, Jinxed Idol deals 2 damage to you.
+Sacrifice a creature: Target opponent gains control of Jinxed Idol.</string>
+		<string>Magic 2011 Rare, Tempest Rare</string>
+	</array>
+	<array>
+		<string>Jinxed Ring</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever a nontoken permanent is put into your graveyard from the battlefield, Jinxed Ring deals 1 damage to you.
+Sacrifice a creature: Target opponent gains control of Jinxed Ring. (This effect lasts indefinitely.)</string>
+		<string>Stronghold Rare</string>
+	</array>
+	<array>
+		<string>Jiwari, the Earth Aflame</string>
+		<string>3RR</string>
+		<string>Legendary Creature  - Spirit</string>
+		<string>(3/3)</string>
+		<string>{X}{R}, {T}: Jiwari, the Earth Aflame deals X damage to target creature without flying.
+Channel - {X}{R}{R}{R}, Discard Jiwari: Jiwari deals X damage to each creature without flying.</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Jodah's Avenger</string>
+		<string>5U</string>
+		<string>Creature  - Shapeshifter</string>
+		<string>(4/4)</string>
+		<string>{0}: Until end of turn, Jodah's Avenger gets -1/-1 and gains your choice of double strike, protection from red, vigilance, or shadow. (A creature with shadow can block or be blocked by only creatures with shadow.)</string>
+		<string>Planar Chaos Uncommon</string>
+	</array>
+	<array>
+		<string>Johan</string>
+		<string>3RGW</string>
+		<string>Legendary Creature  - Human Wizard</string>
+		<string>(5/4)</string>
+		<string>At the beginning of combat on your turn, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.</string>
+		<string>Chronicles Rare, Legends Rare</string>
+	</array>
+	<array>
+		<string>Johnny, Combo Player</string>
+		<string>2UU</string>
+		<string>Legendary Creature - Human Gamer</string>
+		<string>(1/1)</string>
+		<string>{4}: Search your library for a card and put that card into your hand. Then shuffle your library.</string>
+		<string>Unhinged Rare</string>
+	</array>
+	<array>
+		<string>Johtull Wurm</string>
+		<string>5G</string>
+		<string>Creature  - Wurm</string>
+		<string>(6/6)</string>
+		<string>Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.</string>
+		<string>Masters Edition II Uncommon, Fifth Edition Uncommon, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Join the Ranks</string>
+		<string>3W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put two 1/1 white Soldier Ally creature tokens onto the battlefield.</string>
+		<string>Worldwake Common</string>
+	</array>
+	<array>
+		<string>Joiner Adept</string>
+		<string>1G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(2/1)</string>
+		<string>Lands you control have "{T}: Add one mana of any color to your mana pool."</string>
+		<string>Tenth Edition Rare, Fifth Dawn Rare</string>
+	</array>
+	<array>
+		<string>Jokulhaups</string>
+		<string>4RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy all artifacts, creatures, and lands. They can't be regenerated.</string>
+		<string>Masters Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Jokulmorder</string>
+		<string>4UUU</string>
+		<string>Creature  - Leviathan</string>
+		<string>(12/12)</string>
+		<string>Trample
+Jokulmorder enters the battlefield tapped.
+When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.
+Jokulmorder doesn't untap during your untap step.
+Whenever you play an Island, you may untap Jokulmorder.</string>
+		<string>Coldsnap Rare</string>
+	</array>
+	<array>
+		<string>Jolrael, Empress of Beasts</string>
+		<string>3GG</string>
+		<string>Legendary Creature  - Human Spellshaper</string>
+		<string>(3/3)</string>
+		<string>{2}{G}, {T}, Discard two cards: All lands target player controls become 3/3 creatures until end of turn. They're still lands.</string>
+		<string>Time Spiral "Timeshifted" Special, Prophecy Rare</string>
+	</array>
+	<array>
+		<string>Jolrael's Centaur</string>
+		<string>1GG</string>
+		<string>Creature  - Centaur Archer</string>
+		<string>(2/2)</string>
+		<string>Shroud (This permanent can't be the target of spells or abilities.)
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</string>
+		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Jolrael's Favor</string>
+		<string>1G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Flash
+Enchant creature
+{1}{G}: Regenerate enchanted creature.</string>
+		<string>Prophecy Common</string>
+	</array>
+	<array>
+		<string>Jolt</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>You may tap or untap target artifact, creature, or land.
+Draw a card at the beginning of the next turn's upkeep.</string>
+		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Jolting Merfolk</string>
+		<string>2UU</string>
+		<string>Creature  - Merfolk</string>
+		<string>(2/2)</string>
+		<string>Fading 4 (This creature enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Remove a fade counter from Jolting Merfolk: Tap target creature.</string>
+		<string>Nemesis Uncommon</string>
+	</array>
+	<array>
+		<string>Jor Kadeen, the Prevailer</string>
+		<string>3RW</string>
+		<string>Legendary Creature  - Human Warrior</string>
+		<string>(5/4)</string>
+		<string>First strike
+Metalcraft - Creatures you control get +3/+0 as long as you control three or more artifacts.</string>
+		<string>New Phyrexia Rare</string>
+	</array>
+	<array>
+		<string>Joraga Bard</string>
+		<string>3G</string>
+		<string>Creature  - Elf Rogue Ally</string>
+		<string>(1/4)</string>
+		<string>Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Joraga Treespeaker</string>
+		<string>G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(1/1)</string>
+		<string>Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-4
+1/2
+{T}: Add {G}{G} to your mana pool.
+LEVEL 5+
+1/4
+Elves you control have "{T}: Add {G}{G} to your mana pool."</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Joraga Warcaller</string>
+		<string>G</string>
+		<string>Creature  - Elf Warrior</string>
+		<string>(1/1)</string>
+		<string>Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)
+Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.</string>
+		<string>Worldwake Rare</string>
+	</array>
+	<array>
+		<string>Jotun Grunt</string>
+		<string>1W</string>
+		<string>Creature  - Giant Soldier</string>
+		<string>(4/4)</string>
+		<string>Cumulative upkeep-Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</string>
+		<string>Magic: The Gathering-Commander Uncommon, Coldsnap Uncommon</string>
+	</array>
+	<array>
+		<string>Jotun Owl Keeper</string>
+		<string>2W</string>
+		<string>Creature  - Giant</string>
+		<string>(3/3)</string>
+		<string>Cumulative upkeep {W} or {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Jotun Owl Keeper dies, put a 1/1 white Bird creature token with flying onto the battlefield for each age counter on it.</string>
+		<string>Coldsnap Uncommon</string>
+	</array>
+	<array>
+		<string>Journey of Discovery</string>
+		<string>2G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose one - Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library; or you may play up to two additional lands this turn.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)</string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Journey to Nowhere</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When Journey to Nowhere enters the battlefield, exile target creature.
+When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.</string>
+		<string>Magic: The Gathering-Commander Common, Duel Decks: Elspeth vs. Tezzeret Common, Zendikar Common</string>
+	</array>
+	<array>
+		<string>Journeyer's Kite</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Joven</string>
+		<string>3RR</string>
+		<string>Legendary Creature  - Human Rogue</string>
+		<string>(3/3)</string>
+		<string>{R}{R}{R}, {T}: Destroy target noncreature artifact.</string>
+		<string>Homelands Common</string>
+	</array>
+	<array>
+		<string>Joven's Ferrets</string>
+		<string>G</string>
+		<string>Creature  - Ferret</string>
+		<string>(1/1)</string>
+		<string>Whenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.
+At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.</string>
+		<string>Masters Edition II Uncommon, Homelands Common</string>
+	</array>
+	<array>
+		<string>Joven's Tools</string>
+		<string>6</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{4}, {T}: Target creature can't be blocked this turn except by Walls.</string>
+		<string>Fifth Edition Uncommon, Homelands Uncommon</string>
+	</array>
+	<array>
+		<string>Jovial Evil</string>
+		<string>2B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Jovial Evil deals X damage to target opponent, where X is twice the number of white creatures that player controls.</string>
+		<string>Legends Rare</string>
+	</array>
+	<array>
+		<string>Joyous Respite</string>
+		<string>3G</string>
+		<string>Sorcery  - Arcane</string>
+		<string></string>
+		<string>You gain 1 life for each land you control.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Judge of Currents</string>
+		<string>1W</string>
+		<string>Creature  - Merfolk Wizard</string>
+		<string>(1/1)</string>
+		<string>Whenever a Merfolk you control becomes tapped, you may gain 1 life.</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Judge Unworthy</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose target attacking or blocking creature. Scry 3, then reveal the top card of your library. Judge Unworthy deals damage equal to that card's converted mana cost to that creature. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</string>
+		<string>Future Sight Common</string>
+	</array>
+	<array>
+		<string>Jugan, the Rising Star</string>
+		<string>3GGG</string>
+		<string>Legendary Creature  - Dragon Spirit</string>
+		<string>(5/5)</string>
+		<string>Flying
+When Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Juggernaut</string>
+		<string>4</string>
+		<string>Artifact Creature  - Juggernaut</string>
+		<string>(5/3)</string>
+		<string>Juggernaut attacks each turn if able.
+Juggernaut can't be blocked by Walls.</string>
+		<string>Masters Edition IV Uncommon, Magic 2011 Uncommon, Archenemy Uncommon, Duel Decks: Elspeth vs. Tezzeret Uncommon, Tenth Edition Uncommon, Darksteel Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Juju Bubble</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When you play a card, sacrifice Juju Bubble.
+{2}: You gain 1 life.</string>
+		<string>Visions Uncommon</string>
+	</array>
+	<array>
+		<string>Jukai Messenger</string>
+		<string>G</string>
+		<string>Creature  - Human Monk</string>
+		<string>(1/1)</string>
+		<string>Forestwalk</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Jumbo Imp</string>
+		<string>2B</string>
+		<string>Summon - Imp</string>
+		<string>(0/0)</string>
+		<string>Flying
+When you play Jumbo Imp, roll a six-sided die. Jumbo Imp comes into play with a number of +1/+1 counters on it equal to the die roll.
+During your upkeep, roll a six-sided die and put on Jumbo Imp a number of +1/+1 counters equal to the die roll.
+At the end of your turn, roll a six-sided die and remove from Jumbo Imp a number of +1/+1 counters equal to the die roll.</string>
+		<string>Unglued Uncommon</string>
+	</array>
+	<array>
+		<string>Jump</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gains flying until end of turn.</string>
+		<string>Magic 2010 Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common</string>
+	</array>
+	<array>
+		<string>Jund Battlemage</string>
+		<string>2R</string>
+		<string>Creature  - Human Shaman</string>
+		<string>(2/2)</string>
+		<string>{B}, {T}: Target player loses 1 life.
+{G}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.</string>
+		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Jund Charm</string>
+		<string>BRG</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose one - Exile all cards from target player's graveyard; or Jund Charm deals 2 damage to each creature; or put two +1/+1 counters on target creature.</string>
+		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Jund Hackblade</string>
+		<string>(B/G)R</string>
+		<string>Creature  - Goblin Berserker</string>
+		<string>(2/1)</string>
+		<string>As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.</string>
+		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Jund Panorama</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{1}, {T}, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then shuffle your library.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Jund Sojourners</string>
+		<string>BRG</string>
+		<string>Creature  - Viashino Shaman</string>
+		<string>(3/2)</string>
+		<string>When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to target creature or player.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)</string>
+		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Jungle Barrier</string>
+		<string>2GU</string>
+		<string>Creature  - Plant Wall</string>
+		<string>(2/6)</string>
+		<string>Defender (This creature can't attack.)
+When Jungle Barrier enters the battlefield, draw a card.</string>
+		<string>Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Jungle Basin</string>
+		<string>Land</string>
+		<string></string>
+		<string>Jungle Basin enters the battlefield tapped.
+When Jungle Basin enters the battlefield, sacrifice it unless you return an untapped Forest you control to its owner's hand.
+{T}: Add {1}{G} to your mana pool.</string>
+		<string>Visions Uncommon</string>
+	</array>
+	<array>
+		<string>Jungle Lion</string>
+		<string>G</string>
+		<string>Creature  - Cat</string>
+		<string>(2/1)</string>
+		<string>Jungle Lion can't block.</string>
+		<string>Masters Edition III Common, Portal Common</string>
+	</array>
+	<array>
+		<string>Jungle Patrol</string>
+		<string>3G</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(3/2)</string>
+		<string>{1}{G}, {T}:  Put a 0/1 green Wall creature token with defender named Wood onto the battlefield.
+Sacrifice a token named Wood: Add {R} to your mana pool.</string>
+		<string>Mirage Rare</string>
+	</array>
+	<array>
+		<string>Jungle Shrine</string>
+		<string>Land</string>
+		<string></string>
+		<string>Jungle Shrine enters the battlefield tapped.
+{T}: Add {R}, {G}, or {W} to your mana pool.</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Uncommon, Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Jungle Troll</string>
+		<string>1RG</string>
+		<string>Creature  - Troll</string>
+		<string>(2/1)</string>
+		<string>{R}: Regenerate Jungle Troll.
+{G}: Regenerate Jungle Troll.</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Jungle Weaver</string>
+		<string>5GG</string>
+		<string>Creature  - Spider</string>
+		<string>(5/6)</string>
+		<string>Reach (This can block creatures with flying.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Jungle Wurm</string>
+		<string>3GG</string>
+		<string>Creature  - Wurm</string>
+		<string>(5/5)</string>
+		<string>Whenever Jungle Wurm becomes blocked, it gets -1/-1 until end of turn for each creature blocking it beyond the first.</string>
+		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Juniper Order Advocate</string>
+		<string>2W</string>
+		<string>Creature  - Human Knight</string>
+		<string>(1/2)</string>
+		<string>As long as Juniper Order Advocate is untapped, green creatures you control get +1/+1.</string>
+		<string>Masters Edition II Uncommon, Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Juniper Order Druid</string>
+		<string>2G</string>
+		<string>Creature  - Human Cleric Druid</string>
+		<string>(1/1)</string>
+		<string>{T}: Untap target land.</string>
+		<string>Ice Age Common</string>
+	</array>
+	<array>
+		<string>Juniper Order Ranger</string>
+		<string>3GW</string>
+		<string>Creature  - Human Knight</string>
+		<string>(2/4)</string>
+		<string>Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.</string>
+		<string>Duel Decks: Knights vs. Dragons Uncommon, Coldsnap Uncommon</string>
+	</array>
+	<array>
+		<string>Junk Diver</string>
+		<string>3</string>
+		<string>Artifact Creature  - Bird</string>
+		<string>(1/1)</string>
+		<string>Flying
+When Junk Diver dies, return another target artifact card from your graveyard to your hand.</string>
+		<string>Urza's Destiny Rare</string>
+	</array>
+	<array>
+		<string>Junk Golem</string>
+		<string>4</string>
+		<string>Artifact Creature  - Golem</string>
+		<string>(0/0)</string>
+		<string>Junk Golem enters the battlefield with three +1/+1 counters on it.
+At the beginning of your upkeep, sacrifice Junk Golem unless you remove a +1/+1 counter from it.
+{1}, Discard a card: Put a +1/+1 counter on Junk Golem.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Junktroller</string>
+		<string>4</string>
+		<string>Artifact Creature  - Golem</string>
+		<string>(0/6)</string>
+		<string>Defender (This creature can't attack.)
+{T}: Put target card from a graveyard on the bottom of its owner's library.</string>
+		<string>Ravnica: City of Guilds Uncommon</string>
+	</array>
+	<array>
+		<string>Junkyo Bell</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your upkeep, you may have target creature you control get +X/+X until end of turn, where X is the number of creatures you control. If you do, sacrifice that creature at the beginning of the next end step.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Juntu Stakes</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Creatures with power 1 or less don't untap during their controllers' untap steps.</string>
+		<string>Invasion Rare</string>
+	</array>
+	<array>
+		<string>Junún Efreet</string>
+		<string>1BB</string>
+		<string>Creature  - Efreet</string>
+		<string>(3/3)</string>
+		<string>Flying
+At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.</string>
+		<string>Masters Edition IV Uncommon, Fourth Edition Uncommon, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Jushi Apprentice</string>
+		<string>1U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/2)</string>
+		<string>{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip Jushi Apprentice.
+</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Jushi Apprentice (Tomoya the Revealer)</string>
+		<string>1U</string>
+		<string>Legendary Creature - Human Wizard</string>
+		<string>(2/3)</string>
+		<string>{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Just Fate</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Cast Just Fate only during the declare attackers step and only if you've been attacked this step.
+Destroy target attacking creature.</string>
+		<string>Masters Edition IV Common, Portal Second Age Rare</string>
+	</array>
+	<array>
+		<string>Justice</string>
+		<string>2WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, sacrifice Justice unless you pay {W}{W}.
+Whenever a red creature or spell deals damage, Justice deals that much damage to that creature's or spell's controller.</string>
+		<string>Fifth Edition Uncommon, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Juvenile Gloomwidow</string>
+		<string>GG</string>
+		<string>Creature  - Spider</string>
+		<string>(1/3)</string>
+		<string>Reach (This can block creatures with flying.)
+Wither (This deals damage to creatures in the form of -1/-1 counters.)</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Juxtapose</string>
+		<string>3U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.</string>
+		<string>Masters Edition Uncommon, Classic Sixth Edition Rare, Fifth Edition Rare, Chronicles Rare, Legends Rare</string>
+	</array>
+	<array>
+		<string>Juzam Djinn</string>
+		<string>2BB</string>
+		<string>Creature  - Djinn</string>
+		<string>(5/5)</string>
+		<string>At the beginning of your upkeep, Juzam Djinn deals 1 damage to you.</string>
+		<string>Masters Edition Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Jwar Isle Refuge</string>
+		<string>Land</string>
+		<string></string>
+		<string>Jwar Isle Refuge enters the battlefield tapped.
+When Jwar Isle Refuge enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B} to your mana pool.</string>
+		<string>Magic: The Gathering-Commander Uncommon, Zendikar Uncommon</string>
+	</array>
+	<array>
+		<string>Jwari Scuttler</string>
+		<string>2U</string>
+		<string>Creature  - Crab</string>
+		<string>(2/3)</string>
+		<string></string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Jwari Shapeshifter</string>
+		<string>1U</string>
+		<string>Creature  - Shapeshifter Ally</string>
+		<string>(0/0)</string>
+		<string>You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.</string>
+		<string>Worldwake Rare</string>
+	</array>
+</array>
+</plist>

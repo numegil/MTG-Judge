@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MTGJudgeActivity!</string>
+    <string name="app_name">MTGJudge</string>
+    <string name="string4"></string>
+    <string name="s4">4</string>
+    <string name="s3">3</string>
+    <string name="s2">2</string>
+    <string name="s1">1</string>
+    <string name="sUndo">Undo</string>
+    <string name="sReset">Reset</string>
+    <string name="quick_reference">Quick Ref.</string>
+    <string name="oracle">Oracle</string>
+    <string name="ipg">IPG</string>
+    <string name="comp_rules">Comp. Rules</string>
+    <string name="decklist_counter">DL Counter</string>
+    <string name="mtr">MTR</string>
+</resources>

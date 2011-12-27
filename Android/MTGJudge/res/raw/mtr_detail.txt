@@ -1,0 +1,1688 @@
+Introduction
+
+The DCI is a worldwide organization dedicated to organized play. It promotes, enforces, and develops rules and policies using the goals and philosophies defined in this document and the Magic: The Gathering Infraction Procedure Guide. It constantly reviews these rules and policies to ensure its goals are met.
+
+The purpose of this document is to provide the infrastructure used to run Magic: The Gathering ("Magic") tournaments by defining appropriate rules, responsibilities, and procedures to be followed in all DCI-sanctioned Magic tournaments. DCI-sanctioned tournaments are to be run consistently regardless of their location. This ensures equal treatment of players in different regions and also enables their smooth transition to international tournaments.
+
+All players are treated equally and share responsibilities according to the Rules Enforcement Level (REL) of the tournament. For more information about Rules Enforcement Levels, see the Magic Infraction Procedure Guide at http://www.wizards.com/wpn/Events/Rules.aspx. Both players and officials should cooperate to achieve their common goal of running a proper DCI-sanctioned tournament. Players and officials must treat each other in a fair and respectful manner, following both the rules and the spirit in which those rules were created. They are responsible for following the most current version of the Magic Tournament Rules and any other applicable regulatory documents, including the Comprehensive Rules and the Infraction Procedure Guide. Spectators have their own set of responsibilities. Individuals violating DCI rules are subject to the appropriate provisions of the Infraction Procedure Guide.
+
+Information in this document may contradict (or have information not contained in) the Magic: The Gathering Comprehensive Rules. In such cases, this document takes precedence.
+
+Tournament fact sheets for specific tournaments may define alternative or additional policies or procedures. If a contradiction exists between this document and a fact sheet, the information in the fact sheet takes precedence.
+
+1. Tournament Fundamentals
+
+1.1 Tournament Types
+Sanctioned tournaments are divided into two types: Premier and non-Premier. Premier tournaments are run by Wizards of the Coast or select Tournament Organizers. They have unique names and features. Non-Premier tournaments are tournaments that are not explicitly Premier.
+
+There are two major tournament formats: Limited and Constructed. Each has rules specific to its format. In Limited tournaments, all product for play is provided during the tournament. In Constructed tournaments, players compete using decks prepared beforehand. Some Premier tournaments may consist of multiple formats within the same tournament.
+
+1.2 Publishing Tournament Information
+Wizards of the Coast reserves the right to publish DCI-sanctioned tournament information at any time (including during the tournament). Tournament information includes, but is not limited to, the contents of one or more players' decks, descriptions of strategies or play, transcripts, and video reproductions. Tournament Organizers are also allowed to publish this information once their tournament is complete.
+
+Wizards of the Coast reserves the right to publish penalty and suspension information.
+
+1.3 Tournament Roles
+The following roles are defined for tournament purposes:
+
+	Tournament Organizer
+
+	Head Judge
+
+	Floor Judge
+
+	Scorekeeper
+
+	Player
+
+	Spectator
+
+The first four roles above are considered tournament officials. The Head Judge and floor judges are collectively considered judges. A single individual may act in any combination of tournament official roles. Individuals who are not judges at a tournament are acting as spectators in any match they are not playing in. Members of the press are also considered spectators.
+
+1.4 Participation Eligibility
+Anyone is eligible to participate as a player in a DCI-sanctioned tournament with the exception of:
+
+	Individuals currently suspended by the DCI. The current DCI suspended player list is located at http://www.wizards.com/wpn/Document.aspx?x=WPN_Suspended_Player_List. Individuals currently suspended from the DCI may not act as tournament officials.
+
+	Other individuals specifically prohibited from participation by DCI or Wizards of the Coast policy.
+
+	Anyone prohibited by local laws, the rules of the Tournament Organizer, or the venue's management.
+
+	Any person, including temporary and contract workers, whose place of employment is a Wizards of the Coast or Hasbro office.
+
+	Immediate family members of Wizards of the Coast and Hasbro employees.
+
+	Former Wizards of the Coast and Hasbro corporate employees until thirty days after their last day of employment. Former corporate employees may not play in Prerelease tournaments until 6 months after their last day of employment with Wizards of the Coast or Hasbro.
+
+	Employees of distribution (or similar) companies responsible for organized play in a region. (for example, Devir.)
+
+	Certain employees of companies identified by the DCI as strategic business partners.
+
+Play testers, reviewers and other business partners with significant knowledge of a card set may not play in Prerelease tournaments for that card set.
+
+Anyone is eligible to participate as a tournament official (Tournament Organizer, Head Judge, floor judge or Scorekeeper) for a tournament with the exception of:
+
+	Individuals currently suspended by the DCI.
+
+	Anyone who has played in the tournament, unless it is a tournament that explicitly allows tournament officials to play while acting as a tournament official.
+
+Tournament officials may play in a DCI-sanctioned tournament for which they are a tournament official if (and only if) the tournament is of the following event types:
+
+	Friday Night Magic
+
+	Prerelease
+
+	Launch Party
+
+	Magic Game Day
+
+	Other non-Premier Magic Tournaments
+
+	Tournaments in which the official Wizards of the Coast tournament fact sheet specifically permits officials of that tournament to play
+
+If one or more tournament officials play in the tournament, it must be run at Regular REL. If tournament officials play in the tournament and the tournament is not one of the allowed event types listed above, the tournament will be invalidated. Tournament officials are required to officiate tournaments fairly and without regard to their own self-interest.
+
+Some tournaments have additional criteria regarding player and tournament official eligibility (e.g. invitation-only tournaments, such as Pro Tour events).
+
+The Premier Event Invitation Policy defines specific eligibility rules with regards to certain types of invitation-only Premier Tournaments (e.g. Pro Tours).
+
+Individuals with questions regarding their tournament eligibility should contact the DCI policy manager (Scott.Larabee@wizards.com).
+
+1.5 DCI Membership Number
+Tournament participants must provide their DCI membership number to the Scorekeeper during registration. Players without a DCI membership number must request one from the Tournament Organizer. There is no cost associated with joining the DCI, but members are only allowed one DCI membership number. Results containing temporary player numbers, temporary player names, or placeholders may not be reported to the DCI.
+
+1.6 Tournament Organizer
+The Tournament Organizer of a tournament is responsible for all tournament logistics including:
+
+	Securing a sanctioning number from the DCI.
+
+	Providing a site for the tournament that meets the tournament's expected needs.
+
+	Advertising the tournament in advance of the tournament date.
+
+	Staffing the tournament with appropriate tournament officials.
+
+	Providing all materials necessary to operate the tournament (e.g. product for limited format tournaments).
+
+	Reporting the tournament results to the DCI.
+
+1.7 Head Judge
+Sanctioned tournaments require the physical presence of a Head Judge during play to adjudicate disputes, interpret rules, and make other official decisions. The Head Judge is the final judicial authority at any DCI-sanctioned tournament and all tournament participants are expected to follow his or her interpretations. Although it is beneficial, the Head Judge does not have to be DCI-certified.
+
+The Head Judge's responsibilities include:
+
+	Ensuring that all necessary steps are taken to deal with game or policy rule violations that he or she notices or are brought to his or her attention.
+
+	Issuing the final ruling in all appeals, potentially overturning the ruling of a floor judge.
+
+	Coordinating and delegating tasks to floor judges as needed.
+
+If necessary, the Head Judge may temporarily transfer his or her duties to any judge if he or she is unable to fulfill them for a period of time. Also, in exceptional circumstances, if the tournament's integrity would be damaged otherwise, the Tournament Organizer may replace the Head Judge.
+
+Certain Premier tournaments have multiple Head Judges and/or different Head Judges for different portions of the tournament. All Head Judges share the same responsibilities and exercise the same authority while they are serving as a Head Judge.
+
+1.8 Floor Judges
+Floor judges are available to players and spectators to answer questions, deal with illegal plays, or assist with reasonable requests. They do not have to be DCI-certified.
+
+Judges will not generally assist players in determining the current game state but can answer questions about the rules, interactions between cards, or provide the Oracle wordings of relevant cards. At Regular REL, the judge may assist the player in understanding the game state in the interest of education. If a player wishes to ask his or her question away from the table, the request will usually be honored. Players may not request specific judges to answer their calls, but may request a tournament official to help translate. This request may be honored at the discretion of the original judge.
+
+Judges do not intervene in a game to prevent illegal actions, but do intervene as soon as a rule has been broken or to prevent a situation from escalating. More information on floor judge responsibilities can be found in the Magic Infraction Procedure Guide.
+
+1.9 Scorekeeper
+The Scorekeeper ensures the correct generation of pairings and all other tournament records throughout the tournament. The Scorekeeper's responsibilities include:
+
+	Generating correct pairings each round and accurately entering the results of those rounds.
+
+	Solving all scorekeeping problems that arise in consultation with the Head Judge.
+
+	Making sure all necessary information is included in the tournament's report to be submitted to the DCI.
+
+The Head Judge has the final authority in determining corrective action for scorekeeping errors.
+
+1.10 Players
+Players are responsible for:
+
+	Behaving in a respectful manner toward tournament officials, other tournament participants, and spectators and refraining from unsporting conduct at all times.
+
+	Maintaining a clear and legal game state.
+
+	Complying with announced start times and time limits.
+
+	Bringing to a judge's attention any rules or policy infraction they notice in their matches.
+
+	Bringing to a judge's attention any discrepancies in their tournament match record.
+
+	Informing the DCI of any discrepancies in their overall match history, rankings, or ratings as soon as they become aware of it. If players believe there is an anomaly in their match history, rating, or ranking they should refer to the DCI Appeals Policy, located at http://www.wizards.com/default.asp?x=dci/appeals.
+
+	Having a single DCI membership number. Individuals holding more than one number must contact Wizards of the Coast Customer Service at http://www.wizards.com/customerservice so that their numbers can be merged.
+
+	Refraining from enrolling in tournaments they are not allowed by policy to participate in (e.g. the winner of a Magic: The Gathering Pro Tour Qualifier is barred from playing in further Pro Tour Qualifiers that season).
+
+	Being familiar with the rules contained within this document.
+
+A player must bring the following items to a tournament in order to participate:
+
+	A physical, visible, and reliable method to maintain and record game information (tokens, score counters, pen and paper, and so on).
+
+	A valid DCI membership number registered in the participant's name. New players may register for DCI membership when enrolling in the tournament.
+
+	Any materials specifically required for a particular tournament format, such as assembled decks and/or decklists for constructed tournaments.
+
+Players retain their responsibilities even if a judge provides them with extra assistance.
+
+The individual members of a team are considered players, and are equally responsible for required tournament procedures, such as accurately filling out their match result slips. However, players are only responsible for the games they play themselves and not separate games being played by their teammates.
+
+Players who do not fulfill their responsibilities may be subject to penalties and review by the DCI. Wizards of the Coast and the DCI reserve the right to suspend or revoke a player's membership without prior notice for any reason they deem necessary.
+
+1.11 Spectators
+Spectators are responsible for:
+
+	Remaining silent and passive during matches and other official tournament sections, such as Limited deck construction, in which players are also required to be silent. If spectators believe they have observed a rules or policy violation, they are encouraged to alert a judge as soon as possible. At Regular or Competitive REL, spectators are permitted to ask the players to pause the match while they alert a judge. At Professional REL, spectators must not interfere with the match directly.
+
+Players may request that a spectator not observe their matches. Such requests must be made through a judge. Tournament officials may also instruct a spectator not observe a match or matches.
+
+2. Tournament Mechanics
+
+2.1 Match Structure
+A Magic match consists of a series of games that are played until one side has won an announced number. Drawn games do not count toward this goal, and the match continues for as many games as necessary or until time ends for the round, in which case the winner of the match is the player who has won the most games at that point. If both players have equal game wins, the match is a draw. The default number of games required for winning a match is two. The Tournament Organizer may define single-elimination final rounds to be played until one player has won at least three games, but this choice must be announced before the tournament begins. Match results, not individual game results, are reported to the DCI for inclusion in worldwide ratings and rankings.
+
+2.2 Play/Draw Rule
+For the first game of a match, the winner of a random method (such as a die roll or coin toss) chooses either to play first or to play second. The winner must state this choice before looking at his or her hand. If the winner states no choice, it is assumed that he or she is playing first. The player who plays first skips the draw step of his or her first turn. This is referred to as the play/draw rule.
+
+After each game in a match, the loser of that game decides whether to play first in the next game. They may wait until after sideboarding to make the decision. If the previous game was a draw, the player who decided to play or draw at the beginning of the drawn game chooses.
+
+2.3 Pregame Procedures
+The following steps must be performed before each game begins:
+
+1. Players may exchange cards in their decks for cards in their sideboards (only after the first or subsequent game of the match and not for games that are restarted).
+
+2. Players shuffle their decks. Steps 1 and 2 may be repeated.
+
+3. Players present their decks to their opponents for additional shuffling. The sideboard (if any) is also presented at this time.
+
+4. After the first or subsequent game of the match, the relevant player must decide whether to play first or second at this point, if he or she hasn't done so already. If that player doesn't choose before looking at the cards in his or her hand, then he or she is considered to have chosen to play first.
+
+5. Players shuffle their opponents' decks.
+
+6. Each player draws seven cards. Optionally, these cards may be dealt face down on the table.
+
+7. Each player, in turn order, decides whether to mulligan. (Rules on mulligans can be found in the Magic Comprehensive rules, Section 103.4)
+
+Players may not use more than three minutes to perform steps 1 through 3. Steps 4 through 7 must be performed in a timely manner.
+
+The game is considered to have begun once all players have completed their mulligans. Pregame procedures may be performed before time for the match has officially begun.
+
+2.4 Conceding or Intentionally Drawing Games or Matches
+If a game or match is not completed, players may concede or mutually agree to a draw in that game or match. A match is considered complete once the result slip is filled out or, if match slips are not being used, a player leaves the table after game play is finished. Until that point, either player may concede to or draw with the other, though if the conceding player won a game in the match, the match must be reported as 2-1. Intentional draws are always reported as 0-0-3.
+
+Players may not agree to a concession or draw in exchange for any reward or incentive. Doing so will be considered Bribery (see section 5.2).
+
+If a player refuses to play, it is assumed that he or she has conceded the match.
+
+2.5 End-of-Match Procedure
+If the match time limit is reached before a winner is determined, the player whose turn it is finishes his or her turn and five additional turns are played in total. This usually means that one player takes three turns and the other two, but a player taking additional turns may modify this. Team tournaments featuring multiple players playing together (such as Two-Headed Giant) use three turns instead of five.
+
+If the game is incomplete at the end of additional turns, the game is considered a draw.
+
+If a judge assigned a time extension (because of a long ruling, deck check, or other reason) the end-of-match procedure does not begin until the end of the time extension.
+
+In single-elimination rounds, matches may not end in a draw. If all players have equal game wins, the player with the highest life total wins the current game. In the event all players have equal life totals (or are between games and the game wins are tied), the game/match continues with an additional state-based action: if a player does not have the highest life total, he or she loses the game. Two-Headed Giant teams are treated as a single player for determining a game winner.
+
+2.6 Time Extensions
+If a judge pauses a match for more than one minute while the round clock is running, he or she should extend the match time appropriately. If the match was interrupted to perform a deck check, players are awarded time equal to the time the deck check took plus three minutes.
+
+Certain slow play penalties add turns rather than a time extension. These additional turns are added to the end-of-match additional turns.
+
+2.7 Deck Registration
+Players are required to register their decks and sideboards (if applicable) in Competitive and Professional REL tournaments. The Head Judge may require registration in Regular REL tournaments.
+
+Players in individual Limited tournaments using decklists must refrain from communicating with, or revealing hidden information to, any players or spectators until after they hand in their decklists.
+
+Registered decklists record the original composition of each deck and sideboard (if applicable). Once your decklist has been accepted by a Tournament Official it may not be altered.
+
+Players have the right to request to see their decklist between matches. Such a request will be honored if logistically possible.
+
+Decklists are not public information and are not shared with other players during a tournament. However, in some multi-day, Professional REL tournaments, to offset any advantage one or more players may gain from outside publication of decklists for development or media purposes, the Head Judge may elect to distribute copies of all remaining players' decklists at some point, usually during the single elimination playoff rounds.
+
+2.8 Deck Checks
+Deck checks must be performed at all Competitive and Professional REL tournaments, and the Head Judge has the option to perform deck checks at Regular REL tournaments. The DCI recommends that at least ten percent of all decks be checked over the course of the tournament. If a player has drawn an opening hand and potentially made mulligan decisions, the contents of the hand will be preserved unless a game loss is issued as a result of the deck check. Players may not sideboard after a deck check, though they may continue to mulligan if they had not finished the process.
+
+2.9 Taking Notes
+Players are allowed to take written notes during a match and may refer to those notes while that match is in progress. At the beginning of a match, each player's note sheet must be empty and must remain visible throughout the match. Players do not have to explain or reveal notes to other players. Judges may ask to see a player's notes and/or request that the player explain his or her notes. Players may not refer to outside notes during games. This includes notes from previous matches.
+
+Between games, players may refer to a brief set of notes made before the match. They are not required to reveal these notes to their opponents. These notes must be removed from the play area before the beginning of the next game. Excessive quantities of notes (more than a sheet or two) are not allowed and may be penalized as slow play.
+
+Players and spectators (exception: authorized press) may not make notes while drafting or registering a card pool. However, they are allowed to do so when constructing a deck.
+
+Artistic modifications to cards that indirectly provide minor strategic information are acceptable. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament.
+
+2.10 Dropping from a Tournament
+Players choosing to drop from a tournament must inform the Scorekeeper by the means provided for that tournament before the pairings for the next round are generated. Players wanting to drop after the Scorekeeper begins pairing for the next round will be paired for that round. If a player does not show up for his or her match, he or she will be automatically dropped from the tournament unless they report to the Scorekeeper.
+
+If a player drops from a tournament after a cut has been made, such as a cut to the top 8 in a Magic Pro Tour Qualifier, no other player is advanced as a replacement. That player's opponent receives a bye for the round. A cut is considered to have been made once the cut itself or pairings for the round following the cut have been posted or announced.
+
+Players who have dropped may reenter a tournament at the discretion of the Head Judge. Players may not reenter a portion of the tournament that requires a deck they did not draft or build. Players may not reenter a tournament after any cut has been made.
+
+Players may not drop from a tournament in exchange for or influenced by the offer of any reward or incentive. Doing so will be considered Bribery (see section 5.2).
+
+At Limited tournaments, players that drop during the time between a draft or deck construction and the beginning of the next round receive a match loss for that round unless the player receives a bye for that round.
+
+2.11 Electronic Devices
+Electronic devices may not be used to communicate or access remote information during a match.
+
+During a game, any content accessed by an electronic device must be made available to all players. If a player wishes to view information on an electronic device in private, they must get permission from a judge.
+
+The Head Judge may choose to restrict or forbid the use of electronic devices during a tournament.
+
+2.12 Appeals to the Head Judge
+If a player disagrees with a judge's ruling, he or she may appeal the ruling to the Head Judge. Players may not appeal before the full ruling is made by the responding floor judge. Under unusual circumstances the Head Judge may appoint another judge as his or her proxy to issue a second ruling. Players still retain the right to appeal to the Head Judge.
+
+3. Tournament Rules
+
+3.1 Tiebreakers
+The following tiebreakers are used to determine how a player ranks in a tournament:
+
+1. Match points
+
+2. Opponents' match-win percentage
+
+3. Game-win percentage
+
+4. Opponents' game-win percentage
+
+Definitions of these tiebreakers can be found in Appendix D. Not all of these tiebreakers may be used in formats with single-game matches.
+
+3.2 Format and Ratings Categories
+Wizards of the Coast sanctions the following formats as individual, three-person team, or Two-Headed Giant tournaments:
+
+Constructed Formats
+
+	Standard
+
+	Extended
+
+	Block Constructed
+	
+	Modern
+
+Eternal Constructed Formats
+
+	Vintage
+
+	Legacy
+
+Limited Formats
+
+	Sealed Deck
+
+	Booster Draft (individual and Two-Headed Giant only)
+
+	Rochester Draft (three-person team only)
+
+Wizards of the Coast maintains the following Planeswalker Points rating categories:
+	
+	Lifetime
+	
+	Competitive
+	
+	Friday Night Magic
+	
+	Professional
+	
+For complete information about Planeswalker Points, visit the Planeswalker Points website at http://www.wizards.com/Magic/PlaneswalkerPoints
+	
+Wizards of the Coast maintains the following ELO ratings categories:
+
+Individual
+
+	Constructed (includes all Standard, Extended, and Block Constructed individual matches)
+
+	Eternal (includes all Vintage and Legacy individual matches)
+
+	Limited (includes all Limited individual matches)
+
+	Total (includes all Constructed, Eternal, and Limited individual matches)
+
+Three-Player Teams
+
+	Trios - Constructed
+
+	Trios - Limited
+
+Two-Headed Giant
+
+	Two-Headed Giant - Constructed
+
+	Two-Headed Giant - Limited
+
+In the team tournaments (Team Constructed, Team Limited), each team member plays a one-on-one match against a member of the other team, and the individual results comprise the team's collective match result. In a Two-Headed Giant tournament, all players from the two teams play in the same game.
+
+3.3 Authorized Cards
+Players may use any cards from Magic: The Gathering expansions, core sets, special sets, supplements, and promotional printings that, unaltered, meet the following conditions:
+
+	The card is published by Wizards of the Coast
+
+	The card has a standard Magic back or is a double-faced card.
+
+	The card does not have squared corners
+
+	The card has black or white borders
+
+	The card is not a token card
+
+	The card is not damaged or modified in a way that might make it marked
+
+	The card is otherwise legal for the tournament as defined by the format
+
+Unglued and Unhinged basic land cards are allowed in sanctioned Magic tournaments.
+
+Players may use cards from the Alpha printing only if the deck is in opaque sleeves.
+
+Players may use otherwise-legal non-English and/or misprinted cards provided they are not using them to create an advantage by using misleading text or pictures. Official promotional textless spells are allowed in DCI-sanctioned Magic tournaments in which they would otherwise be legal. Artistic modifications are acceptable, provided that the modifications do not make the card unrecognizable or contain substantial strategic advice.
+
+The Head Judge is the final authority on acceptable cards for a tournament.
+
+3.4 Proxy Cards
+A proxy card is used during competition to represent another card that has been accidentally damaged or excessively worn in the current tournament (including damaged or misprinted Limited product) at the discretion of the Head Judge. Proxies are not provided for cards damaged intentionally or through negligence.
+
+Players may not create proxies. When a judge creates a proxy, it is included in the player's deck. The original card is kept nearby during the match and replaces the proxy while in a public zone as long as it is recognizable.
+
+The term "proxy" includes counterfeit cards or any card that is not a genuine game card. Counterfeit cards and other counterfeit game materials are prohibited in all DCI-sanctioned tournaments. Counterfeiters will be prosecuted to the fullest extent of the law.
+
+Official checklist cards in the Innistrad Block are not proxies and cannot be replaced by a proxy.
+
+3.5 Innistrad Block Checklist Cards
+
+Official Innistrad Block checklist cards are used to represent double-faced cards. Only official checklist cards may be used to represent double-faced cards in a deck.
+
+The use of checklist cards is required if a player has double-faced cards in his or her deck and is not using completely opaque sleeves.
+
+If a player uses a checklist card to represent a double-faced card in his or her deck, then all of the double-faced cards in the deck must be represented by checklist cards, and double-faced cards in a hidden zone are considered to not exist for purposes of determining deck legality.
+
+Each individual checklist card used must have one (and only one) of the items checked.
+
+A checklist card is only used while the card it represents is in a hidden zone. The card represented by a checklist card is not a playable Magic card until the checklist card has been placed in a public zone. Multiple checklists cannot be used to represent a single copy of the actual card. For each checklist card used, the player must have a copy of the actual card available, though they are not considered sideboard cards and are not presented to their opponent.
+
+3.6 Card Interpretation
+The official text of any card is the Oracle text corresponding to the name of the card. Players have the right to request access to the official wording of a card only if they can uniquely identify that card, although the card does not necessarily have to be identified by name. That request will be honored if logistically possible.  Identifying a double-faced or flip card by either name on it is acceptable, as long as the ability that requires the name does not refer to an object on the battlefield.
+
+Players may not use errors or omissions in Oracle to abuse the rules. The Head Judge is the final authority for card interpretations, and he or she may overrule Oracle if an error is discovered.
+
+Certain cards refer to "a (card or cards) you own from outside the game." In tournament play, a card "you own from outside the game" is a card in that player's sideboard.
+
+3.7 New Releases
+Card sets scheduled for release during 2011 become tournament legal for sanctioned tournaments on the following dates:
+
+	Innistrad September 30, 2011
+	
+	Dark Ascension February 3, 2012
+
+For certain Limited tournaments, such as official Prerelease tournaments (including their public events), new sets are legal for use before the official format legal date. In these cases, any rules updates listed in the fact sheets for these tournaments shall be in effect at these tournaments.
+
+These dates may be subject to change. Any changes will be announced at http://www.magicthegathering.com.
+
+3.8 Game Markers
+Small items (e.g. glass beads) may be used as markers and placed on top of a player's own library or graveyard as a reminder for in-game effects. These markers may not disguise the number of cards remaining in that zone nor completely obscure any card.
+
+Players using markers to represent in-game components (e.g. permanents) must have a way of clearly representing any in-game status, such as whether a permanent is tapped. Sleeves or card backs that appear similar to any player's sleeves or card backs may not be used as markers. A tournament official may disallow the use of game markers that can cause confusion or that are deemed inappropriate or offensive.
+
+3.9 Card Shuffling
+Decks must be randomized at the start of every game and whenever an instruction requires it. Randomization is defined as bringing the deck to a state where no player can have any information regarding the order or position of cards in any portion of the deck. Pile shuffling alone is not sufficiently random.
+
+Once the deck is randomized, it must be presented to an opponent. By this action, players state that their decks are legal and randomized. The opponent may then shuffle it additionally. Cards and sleeves must not be in danger of being damaged during this process. If the opponent does not believe the player made a reasonable effort to randomize his or her deck, the opponent must notify a judge. Players may request to have a judge shuffle their cards rather than the opponent; this request will be honored only at a judge's discretion.
+
+If a player has had the opportunity to see any of the card faces of the deck being shuffled, the deck is no longer considered randomized and must be randomized again.
+
+At Competitive and Professional REL tournaments, players are required to shuffle their opponents' decks after their owners have shuffled them. The Head Judge can require this at Regular REL tournaments as well.
+
+3.10 Sleeves
+Players may use plastic card sleeves or other protective devices on cards. If a player chooses to use card sleeves, all sleeves must be identical and all cards in his or her deck must be placed in the sleeves in an identical manner. If the sleeves feature holograms or other similar markings, cards must be inserted into the sleeves so these markings appear only on the faces of the cards.
+
+During a match, a player may request that a judge inspect an opponent's card sleeves. The judge may disallow the card sleeves if he or she believes they are marked, worn, or otherwise in a condition or of a design that interferes with shuffling or game play. In the interest of efficiency, the judge may choose to delay any change of sleeves until the end of the match.
+
+Competitive and Professional REL tournaments impose additional restrictions on sleeves. Highly reflective backs are not allowed; sleeves with artwork on their backs are only acceptable if there is a single color at the sleeves' edges; sleeves with holograms across some or all of the sleeve front or back are not allowed.
+
+When using sleeves on double-faced cards, sleeves must be completely opaque.  The Head Judge is the final authority on what sleeves are allowed.
+
+3.11 Marked Cards
+Players are responsible for ensuring that their cards and/or card sleeves are not marked during the course of the tournament. A card or sleeve is considered marked if it bears something that makes it possible to identify the card without seeing its face, including scratches, discoloration, and bends.
+
+If a player's cards are sleeved, the cards must be examined while in the sleeves to determine if they are marked. Players should use care when sleeving their decks and should randomize their decks prior to sleeving them to reduce the possibility of cards becoming marked with a pattern. Players should also keep in mind that cards or sleeves may become worn and potentially marked through play during the course of a tournament.
+
+The Head Judge has the authority to determine if a card in a player's deck is marked. Judges may request that a player remove his or her current sleeves or replace any of the deck's current sleeves immediately, or before the next round.
+
+If a player is required to replace a card in his or her deck and is unable to find a replacement, the player may replace the card with a basic land card of his or her choice. Once the player does this, he or she may not revert back to the original configuration, even if the player finds an acceptable replacement. This also applies to cards that are lost.
+
+3.12 Hidden Information
+Throughout the match, a draft, and pregame procedures, players are responsible for keeping their cards above the level of the playing surface and for making reasonable efforts to prevent hidden information from being revealed. However, players may choose to reveal their hands or any other hidden information available only to them, unless specifically prohibited by the rules. Players must not actively attempt to gain information hidden from them.
+
+3.13 Tapped/Flipped Cards
+If a card must be tapped or flipped, it must be turned approximately 90 degrees (tapped) or 180 degrees (flipped), whichever is appropriate.
+
+3.14 Graveyard Order
+In formats involving only cards from Urza's Saga and later, players may change the order of their graveyard at any time. A player may not change the order of an opponent's graveyard.
+
+3.15 Sideboard
+A sideboard is a group of additional cards the player may use to modify his or her deck between games of a match. The player may use these cards in his or her main deck during all games after the first one in a match.  Other items (token cards, double-faced card represented in the deck by a checklist card, etc) should be kept separate from the sideboard during game play.
+
+Before the beginning of the second or subsequent game in a match, players may change the composition of their deck by exchanging cards from their deck for cards in their sideboard. If players restart a game due to an in-game effect, the composition of their decks must remain the same for the restarted game.
+
+Before each game begins, players must present their sideboard (if any) face down and, if requested, allow their opponents to count the number of cards in their sideboard. Players are not required to reveal how many cards they have swapped from their main deck to their sideboard.
+
+During a game, players may look at their own sideboard and the sideboard of any players they currently control. The sideboard must remain clearly distinguishable from other cards.
+
+The deck and sideboard must each be returned to their original compositions before the first game of each match.
+
+Restrictions on the composition and use of a sideboard can be found in the deck construction rules for a particular format type.
+
+If a penalty causes a player to lose the first game in a match before that game has begun, neither player may use cards from his or her sideboard for the second game in the match.
+
+4. Communication
+
+4.1 Player Communication
+Communication between players is essential to the successful play of any game that involves virtual objects or hidden information. While bluffing may be an aspect of games, there need to be clear lines as to what is, and is not, acceptable for players to say or otherwise represent. Officials and highly competitive players should understand the line between bluffing and fraud. This will confirm expectations of both sporting and competitive players during a game.
+
+The philosophy of the DCI is that a player should have an advantage due to better understanding of the rules of a game, greater awareness of the interactions in the current game state, and superior tactical planning. Players are under no obligation to assist their opponents in playing the game. Regardless of anything else, players are expected to treat their opponents politely and with respect. Failure to do so may lead to Unsporting Conduct penalties.
+
+There are three categories of information: free, derived and private.
+
+Free information is information to which all players are entitled access without contamination or omissions made by their opponents. If a player is ever unable or unwilling to provide free information to an opponent that has requested it, he or she should call a judge and explain the situation. Free information includes:
+
+	Details of current game actions and past game actions that still affect the game state.
+
+	The name of any object in a public zone.
+
+	The physical status (tapped/flipped) and current zone of any object.
+
+	Player life totals, poison counter totals, and the game score of the current match.
+
+	The current step and/or phase and which player(s) are active.
+
+Derived information is information to which all players are entitled access, but opponents are not obliged to assist in determining and may require some skill or calculation to determine. Derived information includes:
+
+	The number of any type of objects present in any game zone.
+
+	All characteristics of objects in public zones that are not defined as free information.
+
+	Game Rules, Tournament Policy, Oracle content and any other official information pertaining to the current tournament. Cards are considered to have their Oracle text printed on them.
+
+Private information is information to which players have access only if they are able to determine it from the current visual game state or their own record of previous game actions.
+
+	Any information that is not free or derived is automatically private information.
+
+The following rules govern player communication:
+
+	Players must answer all questions asked of them by a judge completely and honestly, regardless of the type of information requested. Players may request to do so away from the match.
+
+	Players may not represent derived or free information incorrectly.
+
+	Players must answer completely and honestly any specific questions pertaining to free information.
+
+	At Regular REL, all derived information is instead considered free.
+
+Judges are encouraged to help players in determining free information, but must avoid assisting players with derived information about the game state.
+
+4.2 Tournament Shortcuts
+A tournament shortcut is an action taken by players to skip parts of the technical play sequence without explicitly announcing them. Tournament shortcuts are essential for the smooth play of a game, as they allow players to play in a clear fashion without getting bogged down in the minutia of the rules. Most tournament shortcuts involve skipping one or more priority passes to the mutual understanding of all players; if a player wishes to demonstrate or use a new tournament shortcut entailing any number of priority passes, he or she must be clear where the game state will end up as part of the request.
+
+A player may interrupt a tournament shortcut by explaining how he or she is deviating from it or at which point in the middle he or she wishes to take an action. A player may interrupt their own shortcut in this manner. A player is not allowed to use a previously undeclared tournament shortcut, or to modify an in-use tournament shortcut without announcing the modification, in order to create ambiguity in the game.
+
+A player may not request priority and take no action with it. If a player decides he or she does not wish to do anything, the request is nullified and priority is returned to the player that originally had it.
+
+Certain conventional tournament shortcuts used in Magic are detailed below. If a player wishes to deviate from these, he or she should be explicit about doing so. Note that some of these are exceptions to the policy above in that they do cause non-explicit priority passes.
+
+	The statement "Go" (and equivalents such as "Your turn" and "Done") offers to keep passing priority until an opponent has priority in the end step. Opponents are assumed to be acting then unless they specify otherwise.
+
+	A statement such as "I'm ready for combat" or "Declare attackers?" offers to keep passing priority until an opponent has priority in the beginning of combat step. Opponents are assumed to be acting then unless they specify otherwise.
+
+	Whenever a player adds an object to the stack, he or she is assumed to be passing priority unless he or she explicitly announces that he or she intends to retain it. If he or she adds a group of objects to the stack without explicitly retaining priority and a player wishes to take an action at a point in the middle, the actions should be reversed up to that point.
+
+	"No attacks" or similar statements by the active player during combat offers to pass priority until an opponent has priority in the end of combat step.
+
+	If a player casts a spell or activates an ability with X in its mana cost without specifying the value of X, it is assumed to be for all mana currently available in his or her pool.
+
+	If a player casts a spell or activates an ability and announces choices for it that are not normally made until resolution, the player must adhere to those choices unless an opponent responds to that spell or ability. If an opponent inquires about choices made during resolution, that player is assumed to be passing priority and allowing that spell or ability to resolve.
+
+	A player is assumed to have paid any cost of 0 unless he or she announces otherwise.
+
+	A player is assumed to have assigned all combat damage possible to the defending player or planeswalker from an attacking creature with trample unless stated otherwise.
+
+	A player who casts a spell or activates an ability that targets an object on the stack is assumed to target the legal target closest to the top of the stack unless the player specifies otherwise.
+
+	A player is assumed to be attacking another player and not any planeswalkers that player may control unless the attacking player specifies otherwise.
+
+	A player who chooses a planeswalker as the target of a spell or ability that would deal damage is assumed to be targeting the planeswalker's controller and redirecting the damage on resolution. The player must adhere to that choice unless an opponent responds.
+
+	In the Two-Headed Giant format, attacking creatures are assumed to be assigning combat damage to the defending team's primary head, unless the creature's controller specifies otherwise.
+
+4.3 Out-of-Order Sequencing
+Due to the complexity of accurately representing a game of Magic, it is acceptable for players to engage in a block of actions that, while technically in an incorrect order, arrive at a legal and clearly understood game state once they are complete.
+
+All actions taken must be legal if they were executed in the correct order, and any opponent can ask the player to do the actions in the correct sequence so that he or she can respond at the appropriate time (at which point players will not be held to any still-pending actions).
+
+An out-of-order sequence must not result in a player prematurely gaining information which could reasonably affect decisions made later in that sequence.
+
+Players may not try to use opponent's reactions to some portion of an out-of-order sequence to see if he or she should modify actions or try to take additional ones. Nor may players use out-of-order sequencing to try to retroactively take an action they missed at the appropriate time. In general, any substantial pause at the end of a completed batch is an indication that all actions have been taken, the sequence is complete and the game has moved to the appropriate point at the end of the sequence.
+
+Examples
+
+1. A player discards a card to pay for Masticore's upkeep cost before untapping his or her land.
+
+2. A player resolves Harrow and puts the card into his or her graveyard, then searches.
+
+3. While resolving Restore Balance, a player discards before sacrificing lands and creatures.
+
+4. A player with two creatures being put into the graveyard due to state-based actions resolves the leaves-the-battlefield triggered ability on one of them before putting the other creature in the graveyard.
+
+5. A player declares a blocker, animates a Treetop Village, and then attempts to block with that Treetop Village.
+
+4.4 Team/Two-Headed Giant Communication
+Members of the same team may, at all times, communicate between one another verbally. This includes during play, during drafting, and during deck construction of Limited tournaments. However, team members that have an opportunity to acquire hidden information (e.g. by speaking to spectators following their own match while a teammate is still playing), are restricted from communicating with teammates for the duration of that match.
+
+Prohibitions against written notes of any kind during drafts apply to team drafts as well.
+
+5. Tournament Violations
+
+5.1 Cheating
+Cheating will not be tolerated. The Head Judge reviews all cheating allegations, and if he or she believes that a player has cheated, he or she will issue the appropriate penalty based on the Infraction Procedure Guide. All disqualifications are subject to DCI review and further penalties may be assessed.
+
+5.2 Collusion and Bribery
+The decision to drop, concede, or agree to an intentional draw cannot be made in exchange for or influenced by the offer of any reward or incentive. Making such an offer is prohibited. Unless the player receiving such an offer calls for a judge immediately, both players will be penalized in the same manner.
+
+Players are allowed to share prizes they have not yet received in the current tournament as they wish and may agree as such before or during their match, as long as any such sharing does not occur in exchange for any game or match result or the dropping of a player from the tournament. As an exception, players in the announced last round of the single-elimination portion of a tournament may agree to divide tournament prizes as they wish. In that case, one of the players at each table must agree to drop from the tournament. Players are then awarded prizes according to their resulting ranking. DCI ratings will not be affected because no match will have been played. Such an agreement may never include a concession or an intentional draw.
+
+The result of a match or game may not be randomly or arbitrarily determined through any means other than the normal progress of the game in play. Examples include (but are not limited to) rolling a die, flipping a coin, arm wrestling, or playing any other game.
+
+Players may not reach an agreement in conjunction with other matches. Players can make use of information regarding match or game scores of other tables. However, players are not allowed to leave their seats during their match or go to great lengths to obtain this information.
+
+Players in the single-elimination rounds of a tournament offering only cash and/or unopened product as prizes may, with the permission of the Tournament Organizer, agree to split the prizes evenly. The players may end the tournament at that point, or continue to play with only ratings points at stake. All players still in the tournament must agree to the arrangement.
+
+Example: Before the semifinals of a tournament (in which first place gets 12 packs, second place gets 8 packs and 3rd and 4th get 4 packs each) begins, the players may get permission from the Tournament Organizer to end the tournament, with each player receiving 7 packs.
+
+Example: In the finals of a 1-slot Pro Tour Qualifier that offers a travel award and an invitation to the winner, the two finalists may agree to split the tournament prizes, but this agreement cannot alter the results of the match. One player must drop from the tournament, leaving the travel award and the invitation to the player who did not drop from the tournament. That player is then free to split the remainder of the prizes as agreed upon. The travel award and invitation are a single item and may not be split.
+
+5.3 Wagering
+Tournament participants, tournament officials, and spectators may not wager, ante, or bet on any portion (including the outcome) of a tournament, match, or game.
+
+5.4 Unsporting Conduct
+Unsporting conduct will not be tolerated at any time. Tournament participants must behave in a polite and respectful manner. Unsporting conduct includes, but is not limited to:
+
+	Using profanity
+
+	Acting in a threatening manner
+
+	Arguing with, acting belligerently toward, or harassing tournament officials, players or spectators
+
+	Failure to follow the instructions of a tournament official
+
+All incidents of unsporting conduct are subject to further DCI review.
+
+5.5 Slow Play
+Players must take their turns in a timely fashion regardless of the complexity of the play situation and adhere to time limits specified for the tournament. Players must maintain a pace to allow the match to be finished in the announced time limit. Stalling is not acceptable. Players may ask a judge to watch their game for slow play; such a request will be granted if feasible.
+
+6. Constructed Tournament Rules
+
+6.1 Deck Construction Restrictions
+Constructed decks must contain a minimum of sixty cards. There is no maximum deck size. If a player chooses to use a sideboard, it must contain exactly fifteen cards.
+
+With the exception of cards with the basic supertype or cards with text that specifies otherwise, a player's combined deck and sideboard may not contain more than four of any individual card, based on its English card title.
+
+A card may only be used in a particular format if the card is from a set that is legal in that format or has the same name as a card from a set that is legal in that format.
+
+Cards banned in a specific format may not be used in decks for that format. Cards restricted in a specific format may only have one copy in a deck, including sideboard.
+
+6.2 Sideboard Use
+Any card exchange between deck and sideboard must be made on a one-for-one basis to ensure that the sideboard remains at exactly fifteen cards. There are no restrictions on the number of cards a player may exchange this way.
+
+6.3 Standard Format Deck Construction
+The following card sets are permitted in Standard tournaments:
+
+	Scars of Mirrodin
+
+	Mirrodin Besieged
+
+	New Phyrexia
+
+	Magic 2012
+
+	Innistrad (effective September 30, 2011)
+	
+	Dark Ascension (effective February 3, 2012)
+
+There are currently no banned cards in Standard tournaments.
+
+6.4 Extended Format Deck Construction
+The following card sets are permitted in Extended tournaments:
+
+	Shards of Alara
+
+	Conflux
+
+	Alara Reborn
+
+	Magic 2010
+
+	Zendikar
+
+	Worldwake
+
+	Rise of the Eldrazi
+
+	Magic 2011
+
+	Scars of Mirrodin
+
+	Mirrodin Besieged
+
+	New Phyrexia
+
+	Magic 2012
+
+	Innistrad (effective September 30, 2011)
+	
+	Dark Ascension (effective February 3, 2012)
+
+The following cards are banned in Extended tournaments:
+	
+	Jace, the Mind Sculptor (effective October 1, 2011)
+	
+	Mental Misstep (effective October 1, 2011)
+	
+	Ponder (effective October 1, 2011)
+	
+	Preordain (effective October 1, 2011)
+	
+	Stoneforge Mystic (effective October 1, 2011)
+
+6.5 Vintage Format Deck Construction
+Vintage decks may consist of cards from all Magic card sets, any edition of the core set, and all special sets, supplements, and promotional printings released by Wizards of the Coast.
+
+Cards from expansions and special sets (like From the Vault, Magic: The Gathering - Commander, etc) are legal in the Vintage format on the date of release of the expansion or special set.
+
+All promotional cards are legal in the Vintage format on the date of the release of the promotional card.
+
+The following cards are banned in Vintage tournaments:
+
+	Amulet of Quoz
+
+	Bronze Tablet
+
+	Chaos Orb
+
+	Contract from Below
+
+	Darkpact
+
+	Demonic Attorney
+
+	Falling Star
+
+	Jeweled Bird
+
+	Rebirth
+
+	Shahrazad
+
+	Tempest Efreet
+
+	Timmerian Fiends
+
+The following cards are restricted in Vintage tournaments:
+
+	Ancestral Recall
+
+	Balance
+
+	Black Lotus
+
+	Brainstorm
+
+	Burning Wish
+
+	Channel
+
+	Demonic Consultation
+
+	Demonic Tutor
+
+	Fact or Fiction (unrestricted effective October 1, 2011)
+
+	Fastbond
+
+	Flash
+
+	Gifts Ungiven
+
+	Imperial Seal
+
+	Library of Alexandria
+
+	Lion's Eye Diamond
+
+	Lotus Petal
+
+	Mana Crypt
+
+	Mana Vault
+
+	Memory Jar
+
+	Merchant Scroll
+
+	Mind's Desire
+
+	Mox Emerald
+
+	Mox Jet
+
+	Mox Pearl
+
+	Mox Ruby
+
+	Mox Sapphire
+
+	Mystical Tutor
+
+	Necropotence
+
+	Ponder
+
+	Regrowth
+
+	Sol Ring
+
+	Strip Mine
+
+	Thirst for Knowledge
+
+	Time Vault
+
+	Time Walk
+
+	Timetwister
+
+	Tinker
+
+	Tolarian Academy
+
+	Trinisphere
+
+	Vampiric Tutor
+
+	Wheel of Fortune
+
+	Windfall
+
+	Yawgmoth's Bargain
+
+	Yawgmoth's Will
+
+6.6 Legacy Format Deck Construction
+Legacy decks may consist of cards from all Magic card sets, any edition of the core set, and all special sets, supplements, and promotional printings released by Wizards of the Coast.
+
+Cards from expansions and special sets (like From the Vault, Magic: The Gathering - Commander, etc) are legal in the Legacy format on the date of release of the expansion or special set.
+
+All promotional cards are legal in the Legacy format on the date of the release of the promotional card.
+
+The following cards are banned in Legacy tournaments:
+
+	Amulet of Quoz
+
+	Ancestral Recall
+
+	Balance
+
+	Bazaar of Baghdad
+
+	Black Lotus
+
+	Black Vise
+
+	Bronze Tablet
+
+	Channel
+
+	Chaos Orb
+
+	Contract from Below
+
+	Darkpact
+
+	Demonic Attorney
+
+	Demonic Consultation
+
+	Demonic Tutor
+
+	Earthcraft
+
+	Falling Star
+
+	Fastbond
+
+	Flash
+
+	Frantic Search
+
+	Goblin Recruiter
+
+	Gush
+
+	Hermit Druid
+
+	Imperial Seal
+
+	Jeweled Bird
+
+	Land Tax
+
+	Library of Alexandria
+
+	Mana Crypt
+
+	Mana Drain
+
+	Mana Vault
+	
+	Mental Misstep (effective October 1, 2011)
+
+	Memory Jar
+
+	Mind Twist
+
+	Mind's Desire
+
+	Mishra's Workshop
+
+	Mox Emerald
+
+	Mox Jet
+
+	Mox Pearl
+
+	Mox Ruby
+
+	Mox Sapphire
+
+	Mystical Tutor
+
+	Necropotence
+
+	Oath of Druids
+
+	Rebirth
+
+	Shahrazad
+
+	Skullclamp
+
+	Sol Ring
+
+	Survival of the Fittest
+
+	Strip Mine
+
+	Tempest Efreet
+
+	Time Vault
+
+	Time Walk
+
+	Timetwister
+
+	Timmerian Fiends
+
+	Tinker
+
+	Tolarian Academy
+
+	Vampiric Tutor
+
+	Wheel of Fortune
+
+	Windfall
+
+	Worldgorger Dragon
+
+	Yawgmoth's Bargain
+
+	Yawgmoth's Will
+
+6.7 Block Constructed Format Deck Construction
+Block Constructed decks consist of cards taken from a restricted set of expansions.
+
+The DCI sanctions the following Block Constructed formats:
+
+	Innistrad Block (Innistrad, Dark Ascension [effective February 3, 2011])
+	
+	Scars of Mirrodin Block (Scars of Mirrodin, Mirrodin Besieged, New Phyrexia)
+
+	Zendikar-Rise of the Eldrazi block (Zendikar, Worldwake, Rise of the Eldrazi)
+
+	Shards of Alara block (Shards of Alara, Conflux, Alara Reborn)
+
+	Lorwyn-Shadowmoor block (Lorwyn, Morningtide, Shadowmoor, Eventide)
+
+	Time Spiral block (Time Spiral, Planar Chaos, Future Sight)
+
+	Ravnica block (Ravnica: City of Guilds, Guildpact, Dissension)
+
+	Kamigawa block (Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa)
+
+	Mirrodin block (Mirrodin, Darksteel, Fifth Dawn)
+
+	Onslaught block (Onslaught, Legions, Scourge)
+
+	Odyssey block (Odyssey, Torment, Judgment)
+
+	Invasion block (Invasion, Planeshift, Apocalypse)
+
+	Masques block (Mercadian Masques, Nemesis, Prophecy)
+
+	Urza block (Urza's Saga, Urza's Legacy, Urza's Destiny)
+
+	Tempest block (Tempest, Stronghold, Exodus)
+
+	Mirage block (Mirage, Visions, Weatherlight)
+
+	Ice Age block (Ice Age, Alliances, Coldsnap)
+
+The following cards are banned in Block Constructed tournaments:
+
+	Ather Vial (Mirrodin block)
+
+	Ancient Den (Mirrodin block)
+
+	Arcbound Ravager (Mirrodin block)
+
+	Darksteel Citadel (Mirrodin block)
+
+	Disciple of the Vault (Mirrodin block)
+
+	Great Furnace (Mirrodin block)
+
+	Seat of the Synod (Mirrodin block)
+
+	Tree of Tales (Mirrodin block)
+
+	Vault of Whispers (Mirrodin block)
+
+	Skullclamp (Mirrodin block)
+
+	Lin Sivvi, Defiant Hero (Masques block)
+
+	Rishadan Port (Masques block)
+
+	Gaea's Cradle (Urza block)
+
+	Memory Jar (Urza block)
+
+	Serra's Sanctum (Urza block)
+
+	Time Spiral (Urza block)
+
+	Tolarian Academy (Urza block)
+
+	Voltaic Key (Urza block)
+
+	Windfall (Urza block)
+
+	Cursed Scroll (Tempest block)
+
+	Squandered Resources (Mirage block)
+
+	Amulet of Quoz (Ice Age block)
+
+	Thawing Glaciers (Ice Age block)
+
+	Zuran Orb (Ice Age block)
+
+6.8 Modern Format Deck Construction
+The following card sets are permitted in Modern tournaments:
+
+	Eighth Edition
+	
+	Mirrodin
+	
+	Darksteel
+
+	Fifth Dawn
+	
+	Champions of Kamigawa
+
+	Betrayers of Kamigawa
+
+	Saviors of Kamigawa
+
+	Ninth Edition
+	
+	Ravnica: City of Guilds
+
+	Guildpact
+
+	Dissension
+
+	Coldsnap
+	
+	Time Spiral
+
+	Planar Chaos
+
+	Future Sight
+
+	Tenth Edition
+	
+	Lorwyn
+	
+	Morningtide
+	
+	Shadowmoor
+	
+	Eventide
+
+	Shards of Alara
+
+	Conflux
+
+	Alara Reborn
+
+	Magic 2010
+
+	Zendikar
+
+	Worldwake
+
+	Rise of the Eldrazi
+
+	Magic 2011
+
+	Scars of Mirrodin
+
+	Mirrodin Besieged
+
+	New Phyrexia
+
+	Magic 2012
+
+	Innistrad (effective September 30, 2011)
+
+	Dark Ascension (effective February 3,
+	2012)
+	
+The following cards are banned in Modern tournaments:
+	
+	Ancestral Vision
+
+	Ancient Den
+
+	Bitterblossum
+
+	Blazing Shoal (effective October 1, 2011)
+
+	Chrome Mox
+
+	Cloudpost (effective October 1, 2011)
+
+	Dark Depths
+
+	Dread Return
+
+	Glimpse of Nature
+
+	Golgari Grave-Troll
+
+	Great Furnace
+
+	Green Sun’s Zenith (effective October 1, 2011)
+	
+	Hypergenesis
+
+	Jace, the Mind Sculptor
+	
+	Mental Misstep
+
+	Ponder (effective October 1, 2011)
+
+	Preordain (effective October 1, 2011)
+
+	Rite of Flame (effective October 1,	2011)
+
+	Seat of the Synod
+
+	Sensei’s Divining Top
+
+	Stoneforge Mystic
+
+	Skullclamp
+
+	Sword of the Meek
+
+	Tale of Trees
+
+	Umezawa’s Jitte
+
+	Valakut, the Molten Pinnacle
+
+	Vault of Whispers
+	
+7. Limited Tournament Rules
+
+7.1 Deck Construction Restrictions
+Limited decks must contain a minimum of forty cards. There is no maximum deck size.
+
+Players are not restricted to four of any one card in Limited tournament play.
+
+7.2 Sideboard Use
+Any drafted or opened cards not used in a player's Limited deck function as his or her sideboard.
+
+Players may request additional basic land cards for their sideboard. There are no restrictions on the number of cards a player may exchange this way as long as the main deck contains at least forty cards. Cards do not need to be exchanged on a one-for-one basis.
+
+Players participating in Limited tournaments that do not use decklists may freely change the composition of their decks between matches by exchanging cards from their deck for cards in their sideboard without being required to return their deck to its original composition before their next match. The Head Judge or Tournament Organizer must inform players if this option is not being used prior to the start of deckbuilding. This option is not available at Competitive or Professional REL tournaments.
+
+7.3 Card Use in Limited Tournaments
+Cards must be received directly from tournament officials. This product must be new and previously unopened. Some Pro Tour, Grand Prix, and National Championship events may have had boosters opened in order to stamp them. Each player (or team) must be given exactly the same quantity and type of product as all other players participating in the tournament. For example, if one player receives three Scars of Mirrodin boosters for a booster draft, all other players must also receive three Scars of Mirrodin boosters.
+
+Other than basic land, only cards from the expansions of the boosters opened (and only cards opened in that player's pool) may be used in a player's deck. For example, in a Magic 2011 Sealed Deck tournament, any card in a booster other then the Magic 2011 game cards received by the player and basic land may not be used in a player's deck during that tournament.
+
+The DCI recommends that 6 boosters per player are used for individual format Sealed Deck tournaments and 3 boosters per player are used for individual Booster or Team Rochester Draft tournaments. For the recommended product mix for the current block, refer to Appendix E.
+
+If the Tournament Organizer allows players to provide their own product, that product must be pooled with the rest of the product for the tournament and randomly distributed. Players are not considered to own the cards until the tournament finishes or they legally drop.
+
+Players may use only the cards they receive or draft and basic land cards provided by the Tournament Organizer. Players may ask a judge for permission to replace a card with an exact copy.
+
+If the Tournament Organizer is not providing basic land cards for use in a Limited tournament, he or she must announce this before tournament registration. Tournament Organizers may require players to return basic land cards when they leave the tournament. If the Tournament Organizer does not have sufficient basic land cards, players may use their own during the tournament as long as they are in good condition and are not marked.
+
+Players may add an unlimited number of basic land cards to their decks during deck construction. They may not add additional snow land cards (e.g. Snow-Covered Forest, etc), even in formats in which they are legal.
+
+7.4 Abnormal Product
+Neither Wizards of the Coast nor the Tournament Organizer guarantee any specific distribution of card rarities or frequency in a particular booster pack or tournament pack. If a player receives an unconventional distribution of rarities or frequencies in a particular booster pack or deck, he or she must call a judge. The final decision to replace or allow the atypical product is at the discretion of the Head Judge and the Tournament Organizer.
+
+7.5 Sealed Deck Swap
+In Sealed Deck tournaments, the Head Judge may require players to perform a deck swap prior to deck construction. Players receive unopened product and register the contents (except non-foil basic land cards) on decklists. Foil basic land cards must be registered and kept with the registered card pool. Any card in a booster that is not a card from the expansion of the opened booster is retained by the player that registers the cards (e.g., a player that registers the contents of a booster during a deck swap keeps the token card, if any). Players who drop from the tournament before fulfilling this duty will receive a match loss in the first round. Tournament officials then collect the recorded card pools and redistribute them randomly. A player may randomly receive the product he or she registered. The Head Judge should require players to sort the cards they register according to some criteria (e.g. by color and then alphabetically) to assist the player receiving the pool.
+
+7.6 Draft Pod Assembly
+For Booster Draft and Team Rochester Draft tournaments, players assemble into random drafting circles (called pods) of roughly equal size at the direction of the Head Judge. Tournament officials then distribute identical sets of booster packs to each player.
+
+Players within a pod may play only against other players within that pod. In Regular REL tournaments, the Tournament Organizer may elect to lift this restriction. This must be announced before the tournament starts.
+
+Players may not communicate in any way with, or reveal hidden information to, other individuals during a draft, apart from tournament officials. This applies as soon as the draft pod pairings are posted and lasts until players hand in their decklists.
+
+7.7 Booster Draft Procedures
+All players must open and draft the same type of booster at the same time. Players open their first booster pack and count the cards face down, removing token cards, rules cards, and any other non-game cards. Players who receive an erroneous number of cards at any time must immediately notify a judge. After picking up the booster, players should remove and keep any non-foil basic land cards and/or any other cards that are not from the expansion of the opened booster. Foil basic land cards should be left in the booster and drafted with the other cards. Players choose one card from their current booster pack and then pass the remaining cards face down to the player on their left until all cards are drafted. Once a player has removed a card from the pack and put it on top of his or her single, front face-down drafted pile, it is considered selected and may not be returned to the pack.
+
+Players may not reveal the front face of their card selections or the contents of their current packs to other participants in the draft and must make a reasonable effort to keep that information from the sight of other players. Players are not permitted to reveal hidden information of any kind to other participants in the draft regarding their own picks or what they want others to pick. (Exception: This does not apply to double-faced cards, both faces of which may be revealed at any time during a draft.)
+
+Players and teams may not look at their drafted cards between or during picks at Competitive and Professional RELs. At Regular REL, players are allowed to review their drafted cards between or during picks as long as they are holding no other cards at the same time. The Head Judge may choose to disallow this provided he or she announces it before the first draft. Between boosters there is a review period in which players may review their picks.
+
+If the draft is not being timed, and two players do not wish to make a pick before the other player, the player closer to providing the other player with the pack picks first. If the players are equidistant, then the player in the lower seat number picks first.
+
+After the first pack is drafted and the review period completed, players open the next pack and draft in the same fashion, except that the direction of drafting is reversed—it now proceeds to the right. This process is repeated, reversing the direction of drafting for each booster pack until all cards in all booster packs are drafted.
+
+If a player is unable or unwilling to continue drafting, he or she is suspended from drafting and must construct a deck from whatever cards he or she has drafted thus far. For the remainder of the current booster pack, a tournament official randomly makes picks instead of the suspended player.
+
+8. Team Tournament Rules
+
+8.1 Team Names
+Wizards of the Coast reserves the right to disallow any team name it deems offensive and/or obscene. Tournament officials may disallow teams from registering team names that may be considered offensive and/or obscene.
+
+8.2 Team Composition and Identification
+A valid team consists of two or three members, as appropriate to the format. A team is identified by the individual DCI membership numbers of its respective members and all teams must provide the Tournament Organizer with the full information when registering for the tournament. Individual DCI members may be members of more than one team. If a player drops or is disqualified from the tournament, the entire team is dropped from the tournament.
+
+Teams must designate player positions during tournament registration. For example, in a three-player team tournament, each team must designate who is player A, player B, and player C. Players retain these designations throughout the entire tournament.
+
+When two teams are paired against each other during the course of a tournament, the team members designated as player A play against each other, the team members designated as player B play against each other, and so on.
+
+8.3 Team Ratings
+Tournament results for all Team Constructed tournaments (Vintage, Legacy, Extended, Block Constructed, and Standard) are merged into one set of Constructed ratings for each team size. Team Constructed tournaments may also be run in which the team members play decks of different formats (for example, Standard, Extended, and Legacy). If a tournament is run where all team members do not play the same format, each team member must play a different format.
+
+Tournament results for each DCI-sanctioned team Limited tournament (Sealed Deck and Rochester Draft) are merged into one set of Limited ratings for each team size.
+
+8.4 Team Communication Rules
+Teammates may communicate with each other at any time, unless they leave the play area. If they leave the play area, they may not return until the end of the match.
+
+8.5 Unified Deck Construction Rules
+Team Constructed tournaments use Unified Deck Construction rules: With the exception of cards with the basic supertype or cards with text that specifies otherwise, a team's combined decks may not contain more than four of any individual card, based on its English card title. (For example, if one player is using four copies of Naturalize in a Team Constructed tournament, no other player on that team may have a Naturalize in his or her deck.) If a card is restricted in a particular format, no more than one of that card may be used by the team. No players may use cards that are banned in a particular format.
+
+Unified Deck Construction rules are only applied when all members of a team have decks of the same format.
+
+8.6 Team Rochester Draft Tournaments
+Team Rochester Draft tournaments require teams of three players each. Two teams are seated at each table for the draft. Team members sit clockwise in A-B-C order around the table. (For example, in a three-person team tournament, players sit around the table clockwise in this order: 1A, 1B, 1C, 2A, 2B, 2C.)
+
+A team determined at random chooses either to pick first or to allow the other team to pick first. Player B of the team that picks first lays out the first pack.
+
+The draft begins with the first player opening his or her first booster pack and laying out the entire contents of the pack face up on the table as directed by tournament officials, with the cards facing him or her. After reviewing the cards, drafting proceeds with each player selecting a single card in turn. Once a player has selected a card and placed it with his or her other drafted cards, he or she may not select a different card. If a player fails to select a card in the time given, a tournament official selects for that player the "oldest" card still remaining from the booster pack (the card on the table the longest).
+
+The player drafting first from the cards presented on the table is called the active player. The first active player is the participant who opened the first booster of the draft, as designated by a tournament official. All players in each drafting pod serve as the active player once for each group of booster packs. The identity of the active player moves in a horseshoe pattern, clockwise for the first and third boosters and counter-clockwise for the second. The player who was last to open a booster pack from a group is the first to open the booster pack from the next group.
+
+The draft order also begins moving in a horseshoe pattern, clockwise for the first and third boosters and counter-clockwise for the second, beginning with the active player, continuing around the table to the last player in the group to draft a card. The last player in the group selects two cards sequentially, and then drafting continues in reverse order, moving back to the player who began the drafting. If there are still cards remaining, the player who began the drafting selects two cards, and drafting continues again in the opposite direction.
+
+Example: Team 1 and Team 2 are seated around a table. They are numbered 1A-1B-1C-2A-2B-2C in a clockwise order. Team 2 wins the coin toss, and the members of Team 2 choose to let Team 1 pick first. The active player for the first pack is Player 1B. The first booster pack for Player 1B is opened and placed face up in front of Player 1B. After the 20-second review period has expired, the draft order is as follows:
+
+Player 1B-card 1 Player 1A-card 6 Player 1C-card 11
+
+Player 1C-card 2 Player 1A-card 7 Player 1B-card 12
+
+Player 2A-card 3 Player 2C-card 8 Player 1B-card 13
+
+Player 2B-card 4 Player 2B-card 9 Player 1C-card 14
+
+Player 2C-card 5 Player 2A-card 10 Player 2A-card 15
+
+During card selection, players must display the most recent card they drafted from the current pack. At all other times, players may leave one of their drafted cards face up on their draft pile, or may leave all cards face down. Players may not review their draft picks while drafting proceeds or at any other time specifically indicated by tournament officials.
+
+8.7 Team Sealed Deck Tournaments
+All the rules for individual Limited tournaments (Section 7) apply to Team Sealed Deck tournaments except as follows.
+
+Each team must receive the same product mix. For example, if one team receives twelve Scars of Mirrodin boosters, every team must receive twelve Scars of Mirrodin boosters.
+
+The DCI recommends that eight boosters per team are used for two-person team tournaments, and twelve boosters per team for three-person team tournaments. For the recommended product mix for the current block, refer to Appendix E.
+
+All cards must be assigned to a player's deck or sideboard during deck construction and cannot be transferred to another player during that tournament. (Players do not share main deck or sideboard cards.) Players may exchange cards in their pool between rounds in Regular REL tournaments that do not use decklists, but only between matches.
+
+9. Two-Headed Giant Tournament Rules
+
+9.1 Match Structure
+Two-Headed Giant matches consist of one game.
+
+Drawn games (games without a winner) do not count toward the one game. As long as match time allows, the match continues until a team has won a game.
+
+9.2 Communication Rules
+Teammates may communicate with each other at any time.
+
+9.3 Play-Draw Rule
+A team determined at random chooses either to play first or to play second. The choice must be made before either player on that team looks at his or her hand. If either player on that team looks at his or her hand before their choice is made, that team plays first. The team who plays first skips the draw step of their first turn.
+
+9.4 Pregame Procedure
+1. Players decide which teammate will be the primary player and which teammate will be the secondary player. Players should be seated with the primary player to the right of his or her teammate. Players can choose a different primary and secondary player before each match.
+
+2. Players shuffle their decks.
+
+3. Players present their decks to their opponents for additional shuffling.
+
+4. Each player draws seven cards. Optionally, these cards may be dealt face down on the table.
+
+5. Each player, in turn order, decides whether to mulligan. (Rules on Two-Headed Giant mulligans can be found in the Magic Comprehensive Rules, Section 806.6a)
+
+Once players have completed their mulligans, the game can begin.
+
+9.5 Two-Headed Giant Constructed Rules
+Two-Headed Giant Constructed tournaments use Unified Deck Construction rules (see section 8.5).
+
+In addition to cards banned in particular formats, the following card is banned in ALL Two-Headed Giant Constructed tournaments (Vintage, Legacy, Extended, and Block Constructed):
+
+	Erayo, Soratami Ascendant
+
+Sideboards are not allowed in constructed Two-Headed Giant tournaments.
+
+9.6 Two-Headed Giant Limited Rules
+All the rules for Limited Tournaments (Section 7) apply, except as described below.
+
+The DCI recommends that each team receive eight boosters per team for Two-Headed Giant Sealed Deck tournaments and six boosters per team for Two-Headed Giant Booster Draft tournaments. For the recommended product mix for the current block, refer to Appendix E.
+
+Cards not used in a team's starting decks are considered a shared sideboard by the two players that both players can access.
+
+9.7 Two-Headed Giant Booster Draft Tournaments
+Teams (not players) assemble into random drafting circles (called pods) of roughly equal size at the direction of the Head Judge. Teammates sit next to each other. Tournament officials then distribute identical booster packs to each team in the pod.
+
+After opening and counting the cards in their first pack, the team chooses two cards from the booster pack then passes the remaining cards face down to the team on its left. Selected cards may be placed into one or two piles. The cards chosen are not assigned to a particular player; they become part of a pool out of which both players will build their decks. The open packs are passed around the drafting pod-with each team taking two cards from each before passing-until all cards are drafted.
+
+For the second pack, the direction of drafting is reversed as usual. Thus, the overall draft direction is left-right-left-right-left-right.
+
+10. Sanctioning Rules
+
+10.1 Participation Minimums
+Participation minimums for a tournament to be sanctioned by the DCI are as follows:
+
+	For individual tournaments, a minimum of eight (8) players must participate.
+
+	For team and Two-Headed Giant tournaments, a minimum of four (4) teams must participate.
+
+If the participation minimum is not met, the tournament is no longer DCI-sanctioned and will not be included in DCI ratings. If participation minimums are not met for any DCI-sanctioned tournament, the Tournament Organizer should report the tournament to the DCI as "Did Not Occur."
+
+10.2 Number of Rounds
+The DCI requires a minimum number of rounds for a tournament to be sanctioned and included as part of a player's official ratings and rankings. The minimum number of rounds required is as follows:
+
+	For individual tournaments, a minimum of three (3) rounds
+
+	For team and Two-Headed Giant tournaments, a minimum of two (2) rounds
+
+If the minimum number of rounds is not met, the tournament is no longer DCI-sanctioned and will not be included in DCI ratings. If the minimum number of rounds is not met for any DCI-sanctioned tournament, the Tournament Organizer should report the tournament to the DCI as "Did Not Occur."
+
+The number of rounds should be announced at or before the beginning of the first round; once announced, it cannot be changed. A variable number of rounds can be announced instead, with specific criteria for ending the tournament. For example, a tournament with 20 players can be announced as five rounds unless only one player has four match wins after four rounds.
+
+The recommended number of rounds for Swiss tournaments can be found in Appendix F.
+
+10.3 Invitation-Only Tournaments
+Invitation-only tournaments have additional qualification criteria for player participation. The invitation list for Premier tournaments is defined in the DCI Premier Event Invitation Policy. Tournament Organizers may hold and sanction invitation-only non-Premier tournaments normally, as long as they offer a sufficient number of qualifying tournaments in advance to ensure that all players have a chance to qualify.
+
+10.4 Pairing Algorithm
+Unless otherwise announced, tournaments are assumed to follow the Swiss pairing algorithm. Some tournaments may proceed to single-elimination playoff rounds between the top 2, 4, 8, 16, or 32 players after the Swiss rounds are over. The Swiss pairing algorithm is modified in Booster Draft tournaments as explained in section 7.6.
+
+Appendix A-Changes From Previous Versions
+
+Wizards of the Coast reserves the right to alter these rules, as well as the right to interpret, modify, clarify, or otherwise issue official changes to these rules without prior notice.
+
+This document is scheduled to be updated every 3 months on March 20, June 20, September 20, and December 20.
+
+The latest versions are available at http://www.wizards.com/wpn/Events/Rules.aspx
+
+Only changes from the current version and the previous version of this document will be displayed in this appendix.
+
+September 20, 2011
+
+Section 3.2: Modern added to section. Planeswalker Points rating categories added to section.
+
+Section 3.3: Language updated. Double-faced card language added.
+
+Section 3.4: Innistrad checklist card clarified.
+
+Section 3.5: Rules about checklist cards added.
+
+Sections 3.6-3.15: Sections renumbered.
+
+Section 3.6: Clarifies double-faced and flip cards.
+
+Section 3.7: New releases updated.
+
+Section 3.10: Rules about sleeves and double-faced cards added.
+
+Section 3.12: Definition added.
+
+Section 3.15: Definition updated.
+
+Section 4.3: Added text to clarify when a pause indicates all actions have been taken.
+
+Section 6.3: Standard format updated.
+
+Section 6.4: Extended format updated. Banned cards added.
+
+Section 6.5: Restricted cards updated.
+
+Section 6.6: Banned cards added.
+
+Section 6.7: Block Constructed format updated.
+
+Section 6.8: Modern format added.
+
+Section 7.7: Drafting language clarified. Language relating to double-faced cards added.
+
+Appendix E: Innistrad Limited product mix added. Magic 2011 Limited product mixes removed.
+
+June 20, 2011
+
+Introduction: Website updated.
+
+Section 2.3: Clause added to cover situations involving restated games. Clause added to specify when a player must have chosen play/draw.
+
+Section 3.6: New releases updated. Website updated.
+
+Section 3.14: Sideboard use in restated games clarified.
+
+Section 4.2: Added text to clarify that a player can interrupt their own shortcut.
+
+Section 6.3: Standard format updated. Banned cards added. Exception added.
+
+Section 6.4: Extended format updated.
+
+Section 6.5: Cards allowed in Vintage clarified.
+
+Section 6.6: Cards allowed in Legacy clarified.
+
+Section 6.7: Block Constructed format updated.
+
+Appendix A: Website updated.
+
+Appendix E: Magic 2012 Limited product mix added. "Action" replaced with New Phyrexia. Rise of the Eldrazi and Zendikar Block Limited product mixes removed.
+
+March 20, 2011
+
+Section 1.8: Language clarified
+
+Section 2.7: Language clarified
+
+Section 2.11: Section re-written to have more specific rules on use of electronic devices
+
+Section 3.6: New releases updated
+
+Section 3.7: Language clarified
+
+Section 3.8: Language clarified
+
+Section 3.13: Language clarified
+
+Section 4.1: Free Information list updated
+
+Section 4.2: Shortcut interruption language changed, 2HG combat shortcut updated
+
+Section 6.3: Standard format updated
+
+Section 6.4: Extended format updated
+
+Section 6.6: Legacy format updated
+
+Section 6.7: Block Constructed format updated
+
+Appendix E: Scars of Mirrodin block draft with "Action" added
+
+Appendix B-Time Limits
+
+Introduction
+The required minimum time limit for any match is 40 minutes.
+
+The following time limits are recommended for each round of a tournament:
+
+	Constructed and Limited tournaments-50 minutes
+
+	Single-elimination quarterfinal or semifinal matches-90 minutes
+
+	Single-elimination final matches-no time limit
+
+The following additional time limits are recommended for Limited tournaments:
+
+	Sealed Deck-20 minutes for deck registration and 30 minutes for deck construction
+
+	Draft-30 minutes for deck registration and construction
+
+	Team Sealed Deck-20 minutes for deck registration and 60 minutes for deck construction
+
+	Team Draft-40 minutes for deck construction and registration
+
+	Two-Headed Giant Draft-40 minutes for deck construction and registration
+
+The Head Judge of the tournament is the final authority on time limits for a tournament. However, any deviation from these recommendations must be announced prior to and during tournament registration.
+
+Magic Premier Tournaments may have different time limits. These time limits can be found in the tournament or tournament series fact sheet.
+
+In timed rounds, players must wait for the officially tracked time to begin before starting their match.
+
+Booster Draft Timing
+Individual booster drafts have the following default time limits for each pick:
+
+Cards remaining in pack	Time allotted
+15 cards				40 seconds
+14 cards				40 seconds
+13 cards				35 seconds
+12 cards				30 seconds
+11 cards				25 seconds
+10 cards				25 seconds
+9 cards					20 seconds
+8 cards					20 seconds
+7 cards					15 seconds
+6 cards					10 seconds
+5 cards					10 seconds
+4 cards					5 seconds
+3 cards					5 seconds
+2 cards					5 seconds
+1 card					N/A
+
+30 seconds will be used for the review period between boosters. That time is increased by 15 seconds after each booster pack.
+
+Rochester Draft Timing
+The review period for a booster after it has been laid out on the table and before the first card is drafted is 20 seconds. Players have 5 seconds for each pick.
+
+Two-Headed Giant Draft Timing
+Two-Headed Giant booster drafts have the following default time limits for each pick:
+
+Cards remaining in pack
+15-Card Booster	14-Card Booster	Time allotted
+15				14				50 seconds
+13				12				45 seconds
+11				10				40 seconds
+9				8				30 seconds
+7				6				20 seconds
+5				4				10 seconds
+3				-				5 seconds
+1				2				N/A
+
+In addition, players receive 60 seconds to review their drafted cards in between booster packs.
+
+Appendix C-DCI Rating and Ranking Systems
+
+ELO Ratings System
+The ELO player-rating system compares players' match records against their opponents' match records and determines the probability of the player winning the matchup. This probability factor determines how many points a players' rating goes up or down based on the results of each match. When a player defeats an opponent with a higher rating, the player's rating goes up more than if he or she defeated a player with a lower rating (since players should defeat opponents who have lower ratings). All new players start out with a base rating of 1600. The DCI uses the following equation to determine a player's win probability in each match:
+
+Personal Calculation:
+
+Win Probability = 1 / (10 * ((Opponent's Rating - Player's Rating) / 400) + 1)
+
+This probability is then used to recalculate each player's rating after the match. In the equation below, players receive 1 point if they win the match, 0 if they lose, and 0.5 for a draw. Players' new ratings are determined as follows:
+
+Player's New Rating = Player's Old Rating + (K-value * (Scoring Points - Player's Win Probability))
+
+The K-value is the maximum number of points a player's rating may go up or down based on the results of a single match.
+
+Team Calculation:
+
+Win Probability = 1 / (10 * ((Average of Opponent's Rating - Player's Rating) / 400) + 1)
+
+This probability is then used to recalculate each player's rating after the match. In the equation below, players receive 1 point if they win the match, 0 if they lose, and 0.5 for a draw. Players' new ratings are determined as follows:
+
+Player's New Rating = Player's Old Rating + (K-value * (Scoring Points - Player's Win Probability))
+
+The default K-value of all Magic tournaments is 16. Specific tournaments may have a higher or lower K-value. These can be found in that tournament or tournament series fact sheet.
+
+All players are rated at the beginning with the first match in which they play. Further ratings are calculated chronologically from that first match.
+
+The DCI ranks players in geographic regions (continent, country, state, city, and so on) based on their ELO ratings to determine the top players in each area.
+
+Appendix D-Tiebreaker Explanation
+
+Match Points
+Players earn 3 match points for each match win, 0 points for each match loss and 1 match point for each match ending in a draw. Players receiving byes are considered to have won the match.
+
+	A player's record is 6-2-0 (Wins-Losses-Draws). That player has 18 match points (6*3, 2*0, 0*1).
+
+	A player's record is 4-2-2. That player has 14 match points (4*3, 2*0, 2*1).
+
+Game Points
+Game points are similar to match points in that players earn 3 game points for each game they win and 1 point for each game that ends in a draw, and 0 points for any game lost. Unfinished games are considered draws. Unplayed games are worth 0 points.
+
+	A player wins a match 2-0-0, so she earns 6 game points and her opponent receives 0 game points from the match.
+
+	A player wins a match 2-1-0, so she earns 6 game points and her opponent earns 3 game points from the match.
+
+	A player wins a match 2-0-1, so he earns 7 game points and his opponent earns 1 game point from the match.
+
+Match-win percentage
+A player's match-win percentage is that player's accumulated match points divided by the total match points possible in those rounds (generally, 3 times the number of rounds played). If this number is lower than 0.33, use 0.33 instead. The minimum match-win percentage of 0.33 limits the effect low performances have when calculating and comparing opponents' match-win percentage.
+
+Examples:
+
+These three players competed in an 8-round tournament, although only the first player completed all rounds.
+
+Tournament Record	Match Points	Rounds Played	Match-win Percentage
+5-2-1				16				8				16/(8*3) = 0.667
+1-3-0, then			3				4				3/(4*3) = 0.25, so 
+withdraws											0.33 is used.
+3-2-0, including a 	9				5				9/(5*3) = 0.60
+first-round bye, 
+then withdraws
+
+Game-win percentage
+Similar to the match-win percentage, a player's game-win percentage is the total number of game points he or she earned divided by the total game points possible (generally, 3 times the number of games played). Again, use 0.33 if the actual game-win percentage is lower than that.
+These two players competed in a four-round tournament:
+Game Record by Match					
+Round 1: 2 wins (6 game points)
+Round 2: 2 wins and 1 loss (6 game points)
+Round 3: 1 win and 2 losses (3 game points)
+Round 4: 2 wins (6 game points)
+Game Points
+21
+Games Played
+10
+Game-win Percentage
+21/(3*10) = 0.70
+Game Record by Match
+Round 1: 1 win and 2 losses (3 game points)
+Round 2: 1 win and 2 losses (3 game points)
+Round 3: 2 losses (0 game points)
+Round 4: 1 win and 2 losses (3 game points)
+Game Points
+9
+Games Played
+11
+Game-win Percentage
+9/(3*11) = 0.27, so 0.33 is used.
+
+Opponents' match-win percentage
+A player's opponents' match-win percentage is the average match-win percentage of each opponent that player faced (ignoring those rounds for which the player received a bye). Use the match-win percentage definition listed above when calculating each individual opponent's match-win percentage.
+
+Examples:
+	A player's record in an eight-round tournament is 6-2-0. Her opponents' match records were: 4-4-0, 7-1-0, 1-3-1, 3-3-1, 6-2-0, 5-2-1, 4-3-1, and 6-1-1, so her opponents' match-win percentage is: 
+	((12/24) + (21/24) + (4/15) + (10/21) + (18/24) + (16/24) + (13/24) + (19/24)) / (8 opponents)
+	Translated to the decimal system, this equation is:
+	(0.50 + 0.88 + 0.33(raised from 0.27) + 0.48 + 0.75 + 0.67 + 0.54 + 0.79) / 8
+	With the individual match-win percentages added together, this equation becomes:
+	4.94/8
+	This player's opponents' match-win percentage is 0.62.	
+	Another player's record at the same tournament was 6-2-0. His opponents' records were: bye, 7-1-0, 1-3-1, 3-3-1, 6-2-0, 5-2-1, 4-3-1, and 6-1-1, so his opponents' match-win percentage is: 
+	(0.88 + 0.33(raised from 0.27) + 0.48 + 0.75 + 0.67 + 0.54 + 0.79) / 7
+	With the individual match-win percentages added together, this equation becomes:
+	4.44/7
+	This player's opponents' match-win percentage is 0.63.
+
+Opponents' game-win percentages
+Similar to opponents' match-win percentage, a player's opponents' game-win percentage is simply the average game-win percentage of all of that player's opponents. And, as with opponents' match-win percentage, each opponent has a minimum game-win percentage of 0.33.
+
+Byes
+When a player is assigned a bye for a round, he or she is considered to have won the match 2-0.
+
+Thus, that player earns 3 match points and 6 game points. A player's byes are ignored when computing his or her opponents' match-win and opponents' game-win percentages.
+
+Appendix E-Recommended Booster Mix for Limited Tournaments
+
+For Magic 2012, the recommended booster mix for Limited tournaments is (effective July 15, 2011):
+	Individual Sealed Deck - 6 Magic 2012
+	Individual Booster Draft or Team Rochester Draft - 3 Magic 2012 (per player)
+	Three-Person Team Sealed - 12 Magic 2012 (per team)
+	Two-Headed Giant Sealed Deck - 8 Magic 2012 (per team)
+	Two-Headed Giant Booster Draft - 6 Magic 2012 (per team)
+
+For Scars of Mirrodin block, the recommended booster mix for Limited tournaments is:
+	Individual Sealed Deck - 2 Scars of Mirrodin, 2 Mirrodin Besieged, 2 New Phyrexia
+	Individual Booster Draft or Team Rochester Draft - 1 New Phyrexia, 1 Mirrodin Besieged, 1 Scars of Mirrodin (per player) - Boosters are drafted in that order.
+	Three-Person Team Sealed - 4 Scars of Mirrodin, 4 Mirrodin Besieged, 4 New Phyrexia (per team)
+	Two-Headed Giant Sealed Deck - 3 Scars of Mirrodin, 3 Mirrodin Besieged, 2 New Phyrexia (per team)
+	Two-Headed Giant Booster Draft - 2 New Phyrexia, 2 Mirrodin Besieged, 2 Scars of Mirrodin, (per team) - Boosters are drafted in that order.
+
+For Magic 2011, the recommended booster mix for Limited tournaments is:
+	Individual Sealed Deck - 6 Magic 2011
+	Individual Booster Draft or Team Rochester Draft - 3 Magic 2011 (per player)
+	Three-Person Team Sealed - 12 Magic 2011 (per team)
+	Two-Headed Giant Sealed Deck - 8 Magic 2011 (per team)
+	Two-Headed Giant Booster Draft - 6 Magic 2011 (per team)
+
+Appendix F-Recommended Number of Rounds in Swiss Tournaments
+
+The following number of Swiss rounds is often required for Premier tournaments. It may be used at the Tournament Organizer's discretion for non-Premier tournaments. It is included here for reference only.
+	Players		Rounds
+	8			3
+	9-16		4
+	17-32		5
+	33-64		6
+	65-128		7
+	129-226		8
+	227-409		9
+	410+		10
+
+Team tournaments consider each team as a single player for this purpose. Individual or team tournaments that cut to top 4 should be run with one extra round. Individual or team tournaments that cut to top 2 should be run with two extra rounds.
