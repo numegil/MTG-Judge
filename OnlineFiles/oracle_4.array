@@ -1,0 +1,3536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Eager Cadet</string>
+		<string>W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/1)</string>
+		<string></string>
+		<string>Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Starter 1999 Common</string>
+	</array>
+	<array>
+		<string>Early Frost</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Tap up to three target lands.</string>
+		<string>Fifth Dawn Common</string>
+	</array>
+	<array>
+		<string>Early Harvest</string>
+		<string>1GG</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target player untaps all basic lands he or she controls.</string>
+		<string>Ninth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Mirage Rare</string>
+	</array>
+	<array>
+		<string>Earnest Fellowship</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Each creature has protection from its colors.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Earsplitting Rats</string>
+		<string>3B</string>
+		<string>Creature  - Rat</string>
+		<string>(2/1)</string>
+		<string>When Earsplitting Rats enters the battlefield, each player discards a card.
+Discard a card: Regenerate Earsplitting Rats.</string>
+		<string>Judgment Common</string>
+	</array>
+	<array>
+		<string>Earth Elemental</string>
+		<string>3RR</string>
+		<string>Creature  - Elemental</string>
+		<string>(4/5)</string>
+		<string></string>
+		<string>Tenth Edition Uncommon, Starter 1999 Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Earth Rift</string>
+		<string>3R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target land.
+Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Odyssey Common</string>
+	</array>
+	<array>
+		<string>Earth Servant</string>
+		<string>5R</string>
+		<string>Creature  - Elemental</string>
+		<string>(4/4)</string>
+		<string>Earth Servant gets +0/+1 for each Mountain you control.</string>
+		<string>Magic 2011 Uncommon</string>
+	</array>
+	<array>
+		<string>Earth Surge</string>
+		<string>3G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Each land gets +2/+2 as long as it's a creature.</string>
+		<string>Guildpact Rare</string>
+	</array>
+	<array>
+		<string>Earthbind</string>
+		<string>R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."</string>
+		<string>Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common</string>
+	</array>
+	<array>
+		<string>Earthblighter</string>
+		<string>1B</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>{2}{B}, {T}, Sacrifice a Goblin: Destroy target land.</string>
+		<string>Legions Uncommon</string>
+	</array>
+	<array>
+		<string>Earthbrawn</string>
+		<string>1G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +3/+3 until end of turn.
+Reinforce 1-{1}{G} ({1}{G}, Discard this card: Put a +1/+1 counter on target creature.)</string>
+		<string>Morningtide Common</string>
+	</array>
+	<array>
+		<string>Earthcraft</string>
+		<string>1G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Tap an untapped creature you control: Untap target basic land.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Earthen Goo</string>
+		<string>2R</string>
+		<string>Creature  - Ooze</string>
+		<string>(2/2)</string>
+		<string>Trample
+Cumulative upkeep {R} or {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Earthen Goo gets +1/+1 for each age counter on it.</string>
+		<string>Coldsnap Uncommon</string>
+	</array>
+	<array>
+		<string>Earthlink</string>
+		<string>3BRG</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, sacrifice Earthlink unless you pay {2}.
+Whenever a creature dies, that creature's controller sacrifices a land.</string>
+		<string>Masters Edition II Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Earthlore</string>
+		<string>G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant land you control
+Enchanted land has "{T}: Target blocking creature gets +1/+2 until end of turn."</string>
+		<string>Ice Age Common</string>
+	</array>
+	<array>
+		<string>Earthquake</string>
+		<string>XR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Earthquake deals X damage to each creature without flying and each player.</string>
+		<string>Magic: The Gathering-Commander Rare, Magic 2010 Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Portal Second Age Rare, Portal Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
+	</array>
+	<array>
+		<string>Earthshaker</string>
+		<string>4RR</string>
+		<string>Creature  - Spirit</string>
+		<string>(4/5)</string>
+		<string>Whenever you cast a Spirit or Arcane spell, Earthshaker deals 2 damage to each creature without flying.</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Earwig Squad</string>
+		<string>3BB</string>
+		<string>Creature  - Goblin Rogue</string>
+		<string>(5/3)</string>
+		<string>Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.</string>
+		<string>Morningtide Rare</string>
+	</array>
+	<array>
+		<string>Eastern Paladin</string>
+		<string>2BB</string>
+		<string>Creature  - Zombie Knight</string>
+		<string>(3/3)</string>
+		<string>{B}{B}, {T}: Destroy target green creature.</string>
+		<string>Eighth Edition Rare, Seventh Edition Rare, Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Eater of Days</string>
+		<string>4</string>
+		<string>Artifact Creature  - Leviathan</string>
+		<string>(9/8)</string>
+		<string>Flying, trample
+When Eater of Days enters the battlefield, you skip your next two turns.</string>
+		<string>Darksteel Rare</string>
+	</array>
+	<array>
+		<string>Eater of the Dead</string>
+		<string>4B</string>
+		<string>Creature  - Horror</string>
+		<string>(3/4)</string>
+		<string>{0}: If Eater of the Dead is tapped, exile target creature card from a graveyard and untap Eater of the Dead.</string>
+		<string>Masters Edition Uncommon, The Dark Uncommon</string>
+	</array>
+	<array>
+		<string>Ebon Dragon</string>
+		<string>5BB</string>
+		<string>Creature  - Dragon</string>
+		<string>(5/4)</string>
+		<string>Flying
+When Ebon Dragon enters the battlefield, you may have target opponent discard a card.</string>
+		<string>Masters Edition IV Rare, From the Vault: Dragons Rare, Portal Rare</string>
+	</array>
+	<array>
+		<string>Ebon Drake</string>
+		<string>2B</string>
+		<string>Creature  - Drake</string>
+		<string>(3/3)</string>
+		<string>Flying
+Whenever a player casts a spell, you lose 1 life.</string>
+		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Ebon Praetor</string>
+		<string>4BB</string>
+		<string>Creature  - Avatar Praetor</string>
+		<string>(5/5)</string>
+		<string>First strike, trample
+At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.
+Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.</string>
+		<string>Masters Edition II Rare, Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Ebon Stronghold</string>
+		<string>Land</string>
+		<string></string>
+		<string>Ebon Stronghold enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.</string>
+		<string>Masters Edition II Uncommon, Beatdown Box Set Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fallen Empires Uncommon</string>
+	</array>
+	<array>
+		<string>Ebonblade Reaper</string>
+		<string>2B</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>Whenever Ebonblade Reaper attacks, you lose half your life, rounded up.
+Whenever Ebonblade Reaper deals combat damage to a player, that player loses half his or her life, rounded up.
+Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Ebony Charm</string>
+		<string>B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose one - Target opponent loses 1 life and you gain 1 life; or exile up to three target cards from a single graveyard; or target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</string>
+		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Ebony Horse</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</string>
+		<string>Masters Edition IV Common, Fourth Edition Rare, Revised Edition Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Ebony Owl Netsuke</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of each opponent's upkeep, if that player has seven or more cards in hand, Ebony Owl Netsuke deals 4 damage to him or her.</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Ebony Rhino</string>
+		<string>7</string>
+		<string>Artifact Creature  - Rhino</string>
+		<string>(4/5)</string>
+		<string>Trample</string>
+		<string>Masters Edition IV Common, Homelands Common</string>
+	</array>
+	<array>
+		<string>Ebony Treefolk</string>
+		<string>1BG</string>
+		<string>Creature  - Treefolk</string>
+		<string>(3/3)</string>
+		<string>{B}{G}: Ebony Treefolk gets +1/+1 until end of turn.</string>
+		<string>Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Echo Chamber</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{4}, {T}: An opponent chooses target creature he or she controls. Put a token that's a copy of that creature onto the battlefield. That token gains haste until end of turn. Exile the token at the beginning of the next end step. Activate this ability only any time you could cast a sorcery.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Echo Circlet</string>
+		<string>2</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature can block an additional creature.
+Equip {1}</string>
+		<string>Scars of Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Echo Mage</string>
+		<string>1UU</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/3)</string>
+		<string>Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-3
+2/4
+{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.
+LEVEL 4+
+2/5
+{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.</string>
+		<string>Rise of the Eldrazi Rare</string>
+	</array>
+	<array>
+		<string>Echo Tracer</string>
+		<string>2U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Echo Tracer is turned face up, return target creature to its owner's hand.</string>
+		<string>Legions Common</string>
+	</array>
+	<array>
+		<string>Echoing Calm</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target enchantment and all other enchantments with the same name as that enchantment.</string>
+		<string>Darksteel Common</string>
+	</array>
+	<array>
+		<string>Echoing Courage</string>
+		<string>1G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.</string>
+		<string>Darksteel Common</string>
+	</array>
+	<array>
+		<string>Echoing Decay</string>
+		<string>1B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.</string>
+		<string>Darksteel Common</string>
+	</array>
+	<array>
+		<string>Echoing Ruin</string>
+		<string>1R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target artifact and all other artifacts with the same name as that artifact.</string>
+		<string>Darksteel Common</string>
+	</array>
+	<array>
+		<string>Echoing Truth</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.</string>
+		<string>Duel Decks: Elspeth vs. Tezzeret Common, Darksteel Common</string>
+	</array>
+	<array>
+		<string>Edge of Autumn</string>
+		<string>1G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+Cycling-Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)</string>
+		<string>Duel Decks: Knights vs. Dragons Common, Future Sight Common</string>
+	</array>
+	<array>
+		<string>Edge of the Divinity</string>
+		<string>(W/B)</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+As long as enchanted creature is white, it gets +1/+2.
+As long as enchanted creature is black, it gets +2/+1.</string>
+		<string>Eventide Common</string>
+	</array>
+	<array>
+		<string>Edgewalker</string>
+		<string>1WB</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(2/2)</string>
+		<string>Cleric spells you cast cost {W}{B} less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Cleric spell with mana cost {1}{W}, it costs {1} to cast.)</string>
+		<string>Scourge Uncommon</string>
+	</array>
+	<array>
+		<string>Edric, Spymaster of Trest</string>
+		<string>1GU</string>
+		<string>Legendary Creature  - Elf Rogue</string>
+		<string>(2/2)</string>
+		<string>Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.</string>
+		<string>Magic: The Gathering-Commander Rare</string>
+	</array>
+	<array>
+		<string>Eel Umbra</string>
+		<string>1U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +1/+1.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Eerie Procession</string>
+		<string>2U</string>
+		<string>Sorcery  - Arcane</string>
+		<string></string>
+		<string>Search your library for an Arcane card, reveal that card, and put it into your hand. Then shuffle your library.</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Ego Erasure</string>
+		<string>2U</string>
+		<string>Tribal Instant  - Shapeshifter</string>
+		<string></string>
+		<string>Changeling (This card is every creature type at all times.)
+Creatures target player controls get -2/-0 and lose all creature types until end of turn.</string>
+		<string>Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Eiganjo Castle</string>
+		<string>Legendary Land</string>
+		<string></string>
+		<string>{T}: Add {W} to your mana pool.
+{W}, {T}: Prevent the next 2 damage that would be dealt to target legendary creature this turn.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Eiganjo Free-Riders</string>
+		<string>3W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(3/4)</string>
+		<string>Flying
+At the beginning of your upkeep, return a white creature you control to its owner's hand.</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Eight-and-a-Half-Tails</string>
+		<string>WW</string>
+		<string>Legendary Creature  - Fox Cleric</string>
+		<string>(2/2)</string>
+		<string>{1}{W}: Target permanent you control gains protection from white until end of turn.
+{1}: Target spell or permanent becomes white until end of turn.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Eightfold Maze</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Cast Eightfold Maze only during the declare attackers step and only if you've been attacked this step.
+Destroy target attacking creature.</string>
+		<string>Masters Edition III Uncommon, Portal Three Kingdoms Rare</string>
+	</array>
+	<array>
+		<string>Ekundu Cyclops</string>
+		<string>3R</string>
+		<string>Creature  - Cyclops</string>
+		<string>(3/4)</string>
+		<string>If a creature you control attacks, Ekundu Cyclops also attacks if able.</string>
+		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Ekundu Griffin</string>
+		<string>3W</string>
+		<string>Creature  - Griffin</string>
+		<string>(2/2)</string>
+		<string>Flying, first strike</string>
+		<string>Classic Sixth Edition Common, Mirage Common</string>
+	</array>
+	<array>
+		<string>Eladamri, Lord of Leaves</string>
+		<string>GG</string>
+		<string>Legendary Creature  - Elf Warrior</string>
+		<string>(2/2)</string>
+		<string>Other Elf creatures have forestwalk.
+Other Elves have shroud. (They can't be the targets of spells or abilities.)</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Eladamri's Call</string>
+		<string>GW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</string>
+		<string>Planeshift Rare</string>
+	</array>
+	<array>
+		<string>Eladamri's Vineyard</string>
+		<string>G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's precombat main phase, add {G}{G} to that player's mana pool.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Eland Umbra</string>
+		<string>1W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +0/+4.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Elder Cathar</string>
+		<string>2W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/2)</string>
+		<string>When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.</string>
+		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Elder Druid</string>
+		<string>3G</string>
+		<string>Creature  - Elf Cleric Druid</string>
+		<string>(2/2)</string>
+		<string>{3}{G}, {T}: You may tap or untap target artifact, creature, or land.</string>
+		<string>Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Elder Land Wurm</string>
+		<string>4WWW</string>
+		<string>Creature  - Dragon Wurm</string>
+		<string>(5/5)</string>
+		<string>Defender, trample
+When Elder Land Wurm blocks, it loses defender.</string>
+		<string>Masters Edition Uncommon, Fourth Edition Rare, Legends Rare</string>
+	</array>
+	<array>
+		<string>Elder Mastery</string>
+		<string>3UBR</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +3/+3 and has flying.
+Whenever enchanted creature deals damage to a player, that player discards two cards.</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Uncommon, Conflux Uncommon</string>
+	</array>
+	<array>
+		<string>Elder of Laurels</string>
+		<string>2G</string>
+		<string>Creature  - Human Advisor</string>
+		<string>(2/3)</string>
+		<string>{3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.</string>
+		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Elder Pine of Jukai</string>
+		<string>2G</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/1)</string>
+		<string>Whenever you cast a Spirit or Arcane spell, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order.
+Soulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)</string>
+		<string>Saviors of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Elder Spawn</string>
+		<string>4UUU</string>
+		<string>Creature  - Spawn</string>
+		<string>(6/6)</string>
+		<string>At the beginning of your upkeep, unless you sacrifice an Island, sacrifice Elder Spawn and it deals 6 damage to you.
+Elder Spawn can't be blocked by red creatures.</string>
+		<string>Legends Rare</string>
+	</array>
+	<array>
+		<string>Eldrazi Conscription</string>
+		<string>8</string>
+		<string>Tribal Enchantment  - Eldrazi Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)</string>
+		<string>Rise of the Eldrazi Rare</string>
+	</array>
+	<array>
+		<string>Eldrazi Monument</string>
+		<string>5</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Creatures you control get +1/+1, have flying, and are indestructible.
+At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.</string>
+		<string>Zendikar Mythic Rare</string>
+	</array>
+	<array>
+		<string>Eldrazi Temple</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.</string>
+		<string>Rise of the Eldrazi Rare</string>
+	</array>
+	<array>
+		<string>Electric Eel</string>
+		<string>U</string>
+		<string>Creature  - Fish</string>
+		<string>(1/1)</string>
+		<string>When Electric Eel enters the battlefield, it deals 1 damage to you.
+{R}{R}: Electric Eel gets +2/+0 until end of turn and deals 1 damage to you.</string>
+		<string>The Dark Uncommon</string>
+	</array>
+	<array>
+		<string>Electrolyze</string>
+		<string>1UR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.
+Draw a card.</string>
+		<string>Magic: The Gathering-Commander Uncommon, Guildpact Uncommon</string>
+	</array>
+	<array>
+		<string>Electropotence</string>
+		<string>2R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature enters the battlefield under your control, you may pay {2}{R}. If you do, that creature deals damage equal to its power to target creature or player.</string>
+		<string>Zendikar Rare</string>
+	</array>
+	<array>
+		<string>Electrostatic Bolt</string>
+		<string>R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Electrostatic Bolt deals 2 damage to target creature. If it's an artifact creature, Electrostatic Bolt deals 4 damage to it instead.</string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Electryte</string>
+		<string>3RR</string>
+		<string>Creature  - Beast</string>
+		<string>(3/3)</string>
+		<string>Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature.</string>
+		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Elemental</string>
+		<string>Creature - Elemental</string>
+		<string>(7/7)</string>
+		<string>Trample</string>
+		<string>Duel Decks: Elves vs. Goblins Common</string>
+	</array>
+	<array>
+		<string>Elemental Appeal</string>
+		<string>RRRR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step. If Elemental Appeal was kicked, that creature gets +7/+0 until end of turn.</string>
+		<string>Zendikar Rare</string>
+	</array>
+	<array>
+		<string>Elemental Augury</string>
+		<string>UBR</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{3}: Look at the top three cards of target player's library, then put them back in any order.</string>
+		<string>Masters Edition II Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Elemental Mastery</string>
+		<string>3R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has "{T}: Put X 1/1 red Elemental creature tokens with haste onto the battlefield, where X is this creature's power. Exile them at the beginning of the next end step."</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Elemental Resonance</string>
+		<string>2GG</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant permanent
+At the beginning of your precombat main phase, add mana equal to enchanted permanent's mana cost to your mana pool. (Mana cost includes color. If a mana symbol has multiple colors, choose one.)</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>Elemental Shaman</string>
+		<string>Creature - Elemental Shaman</string>
+		<string>(3/1)</string>
+		<string></string>
+		<string>Duel Decks: Jace vs. Chandra Common</string>
+	</array>
+	<array>
+		<string>Elephant</string>
+		<string>Creature - Elephant</string>
+		<string>(3/3)</string>
+		<string></string>
+		<string>Duel Decks: Garruk vs. Liliana Common</string>
+	</array>
+	<array>
+		<string>Elephant Ambush</string>
+		<string>2GG</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put a 3/3 green Elephant creature token onto the battlefield.
+Flashback {6}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Odyssey Common</string>
+	</array>
+	<array>
+		<string>Elephant Grass</string>
+		<string>G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Black creatures can't attack you.
+Nonblack creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.</string>
+		<string>Visions Uncommon</string>
+	</array>
+	<array>
+		<string>Elephant Graveyard</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{T}: Regenerate target Elephant.</string>
+		<string>Masters Edition IV Uncommon, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Elephant Guide</string>
+		<string>2G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +3/+3.
+When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.</string>
+		<string>Duel Decks: Garruk vs. Liliana Uncommon, Judgment Uncommon</string>
+	</array>
+	<array>
+		<string>Elephant Resurgence</string>
+		<string>1G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player puts a green Elephant creature token onto the battlefield. Those creatures have "This creature's power and toughness are each equal to the number of creature cards in its controller's graveyard."</string>
+		<string>Prophecy Rare</string>
+	</array>
+	<array>
+		<string>Elesh Norn, Grand Cenobite</string>
+		<string>5WW</string>
+		<string>Legendary Creature  - Praetor</string>
+		<string>(4/7)</string>
+		<string>Vigilance
+Other creatures you control get +2/+2.
+Creatures your opponents control get -2/-2.</string>
+		<string>New Phyrexia Mythic Rare</string>
+	</array>
+	<array>
+		<string>Elf Replica</string>
+		<string>3</string>
+		<string>Artifact Creature  - Elf</string>
+		<string>(2/2)</string>
+		<string>{1}{G}, Sacrifice Elf Replica: Destroy target enchantment.</string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Elf Warrior</string>
+		<string>Creature - Elf Warrior</string>
+		<string>(1/1)</string>
+		<string></string>
+		<string>Duel Decks: Elves vs. Goblins Common</string>
+	</array>
+	<array>
+		<string>Elfhame Palace</string>
+		<string>Land</string>
+		<string></string>
+		<string>Elfhame Palace enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.</string>
+		<string>Duel Decks: Phyrexia vs. the Coalition Uncommon, Eighth Edition Uncommon, Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>Elfhame Sanctuary</string>
+		<string>1G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, you skip your draw step this turn and shuffle your library.</string>
+		<string>Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>El-Hajjâj</string>
+		<string>1BB</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>Whenever El-Hajjâj deals damage, you gain that much life.</string>
+		<string>Fourth Edition Rare, Revised Edition Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Elite Archers</string>
+		<string>5W</string>
+		<string>Creature  - Human Soldier Archer</string>
+		<string>(3/3)</string>
+		<string>{T}: Elite Archers deals 3 damage to target attacking or blocking creature.</string>
+		<string>Eighth Edition Rare, Seventh Edition Rare, Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Elite Cat Warrior</string>
+		<string>2G</string>
+		<string>Creature  - Cat Warrior</string>
+		<string>(2/3)</string>
+		<string>Forestwalk</string>
+		<string>Masters Edition IV Common, Portal Common, Portal Common</string>
+	</array>
+	<array>
+		<string>Elite Inquisitor</string>
+		<string>WW</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/2)</string>
+		<string>First strike, vigilance
+Protection from Vampires, from Werewolves, and from Zombies</string>
+		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Elite Javelineer</string>
+		<string>2W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/2)</string>
+		<string>Whenever Elite Javelineer blocks, it deals 1 damage to target attacking creature.</string>
+		<string>Eighth Edition Uncommon, Tempest Common</string>
+	</array>
+	<array>
+		<string>Elite Vanguard</string>
+		<string>W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/1)</string>
+		<string></string>
+		<string>Magic 2012 Uncommon, Magic 2011 Uncommon, Duel Decks: Elspeth vs. Tezzeret Uncommon, Magic 2010 Uncommon</string>
+	</array>
+	<array>
+		<string>Elixir of Immortality</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.</string>
+		<string>Magic 2012 Uncommon, Magic 2011 Uncommon, Duel Decks: Elspeth vs. Tezzeret Uncommon</string>
+	</array>
+	<array>
+		<string>Elixir of Vitality</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Elixir of Vitality enters the battlefield tapped.
+{T}, Sacrifice Elixir of Vitality: You gain 4 life.
+{8}, {T}, Sacrifice Elixir of Vitality: You gain 8 life.</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Elkin Bottle</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.</string>
+		<string>Masters Edition II Rare, Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Elkin Lair</string>
+		<string>3R</string>
+		<string>World Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player exiles a card at random from his or her hand. The player may play that card this turn. At the beginning of the next end step, if the player hasn't played the card, he or she puts it into his or her graveyard.</string>
+		<string>Visions Rare</string>
+	</array>
+	<array>
+		<string>Elsewhere Flask</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>When Elsewhere Flask enters the battlefield, draw a card.
+Sacrifice Elsewhere Flask: Choose a basic land type. Each land you control becomes that type until end of turn.</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Elspeth Tirel</string>
+		<string>3WW</string>
+		<string>Planeswalker  - Elspeth</string>
+		<string>(4)</string>
+		<string>+2: You gain 1 life for each creature you control.
+-2: Put three 1/1 white Soldier creature tokens onto the battlefield.
+-5: Destroy all other permanents except for lands and tokens.</string>
+		<string>Scars of Mirrodin Mythic Rare</string>
+	</array>
+	<array>
+		<string>Elspeth, Knight-Errant</string>
+		<string>2WW</string>
+		<string>Planeswalker  - Elspeth</string>
+		<string>(4)</string>
+		<string>+1: Put a 1/1 white Soldier creature token onto the battlefield.
++1: Target creature gets +3/+3 and gains flying until end of turn.
+-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control are indestructible."</string>
+		<string>Duel Decks: Elspeth vs. Tezzeret Mythic Rare, Shards of Alara Mythic Rare</string>
+	</array>
+	<array>
+		<string>Elven Cache</string>
+		<string>2GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return target card from your graveyard to your hand.</string>
+		<string>Classic Sixth Edition Common, Portal Common, Visions Common</string>
+	</array>
+	<array>
+		<string>Elven Fortress</string>
+		<string>G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{1}{G}: Target blocking creature gets +0/+1 until end of turn.</string>
+		<string>Fallen Empires Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Elven Lyre</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.</string>
+		<string>Masters Edition II Common, Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Elven Palisade</string>
+		<string>G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Sacrifice a Forest: Target attacking creature gets -3/-0 until end of turn.</string>
+		<string>Exodus Uncommon</string>
+	</array>
+	<array>
+		<string>Elven Riders</string>
+		<string>3GG</string>
+		<string>Creature  - Elf</string>
+		<string>(3/3)</string>
+		<string>Elven Riders can't be blocked except by Walls and/or creatures with flying.</string>
+		<string>Tenth Edition Uncommon, Onslaught Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Legends Rare</string>
+	</array>
+	<array>
+		<string>Elven Rite</string>
+		<string>1G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Distribute two +1/+1 counters among one or two target creatures.</string>
+		<string>Stronghold Uncommon</string>
+	</array>
+	<array>
+		<string>Elven Warhounds</string>
+		<string>3G</string>
+		<string>Creature  - Hound</string>
+		<string>(2/2)</string>
+		<string>Whenever Elven Warhounds becomes blocked by a creature, put that creature on top of its owner's library.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Elves of Deep Shadow</string>
+		<string>G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(1/1)</string>
+		<string>{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.</string>
+		<string>Masters Edition III Common, Ravnica: City of Guilds Common, The Dark Uncommon</string>
+	</array>
+	<array>
+		<string>Elvish Aberration</string>
+		<string>5G</string>
+		<string>Creature  - Elf Mutant</string>
+		<string>(4/5)</string>
+		<string>{T}: Add {G}{G}{G} to your mana pool.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)</string>
+		<string>Magic: The Gathering-Commander Uncommon, Scourge Uncommon</string>
+	</array>
+	<array>
+		<string>Elvish Archdruid</string>
+		<string>1GG</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(2/2)</string>
+		<string>Other Elf creatures you control get +1/+1.
+{T}: Add {G} to your mana pool for each Elf you control.</string>
+		<string>Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare</string>
+	</array>
+	<array>
+		<string>Elvish Archers</string>
+		<string>1G</string>
+		<string>Creature  - Elf Archer</string>
+		<string>(2/1)</string>
+		<string>First strike</string>
+		<string>Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
+	</array>
+	<array>
+		<string>Elvish Bard</string>
+		<string>3GG</string>
+		<string>Creature  - Elf Shaman</string>
+		<string>(2/4)</string>
+		<string>All creatures able to block Elvish Bard do so.</string>
+		<string>Ninth Edition Uncommon, Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Elvish Berserker</string>
+		<string>G</string>
+		<string>Creature  - Elf Berserker</string>
+		<string>(1/1)</string>
+		<string>Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</string>
+		<string>Tenth Edition Common, Ninth Edition Common, Exodus Common</string>
+	</array>
+	<array>
+		<string>Elvish Branchbender</string>
+		<string>2G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(2/2)</string>
+		<string>{T}: Until end of turn, target Forest becomes an X/X Treefolk creature in addition to its other types, where X is the number of Elves you control.</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Elvish Champion</string>
+		<string>1GG</string>
+		<string>Creature  - Elf</string>
+		<string>(2/2)</string>
+		<string>Other Elf creatures get +1/+1 and have forestwalk. (They're unblockable as long as defending player controls a Forest.)</string>
+		<string>Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Invasion Rare</string>
+	</array>
+	<array>
+		<string>Elvish Eulogist</string>
+		<string>G</string>
+		<string>Creature  - Elf Shaman</string>
+		<string>(1/1)</string>
+		<string>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.</string>
+		<string>Duel Decks: Elves vs. Goblins Common, Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Elvish Farmer</string>
+		<string>1G</string>
+		<string>Creature  - Elf</string>
+		<string>(0/2)</string>
+		<string>At the beginning of your upkeep, put a spore counter on Elvish Farmer.
+Remove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: You gain 2 life.</string>
+		<string>Masters Edition II Rare, Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Elvish Fury</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target creature gets +2/+2 until end of turn.</string>
+		<string>Tempest Common</string>
+	</array>
+	<array>
+		<string>Elvish Guidance</string>
+		<string>2G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool for each Elf on the battlefield (in addition to the mana the land produces).</string>
+		<string>Onslaught Common</string>
+	</array>
+	<array>
+		<string>Elvish Handservant</string>
+		<string>G</string>
+		<string>Creature  - Elf Warrior</string>
+		<string>(1/1)</string>
+		<string>Whenever a player casts a Giant spell, you may put a +1/+1 counter on Elvish Handservant.</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Elvish Harbinger</string>
+		<string>2G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(1/2)</string>
+		<string>When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.
+{T}: Add one mana of any color to your mana pool.</string>
+		<string>Duel Decks: Elves vs. Goblins Uncommon, Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Elvish Healer</string>
+		<string>2W</string>
+		<string>Creature  - Elf Cleric</string>
+		<string>(1/2)</string>
+		<string>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. If that creature is green, prevent the next 2 damage instead.</string>
+		<string>Ice Age Common</string>
+	</array>
+	<array>
+		<string>Elvish Herder</string>
+		<string>G</string>
+		<string>Creature  - Elf</string>
+		<string>(1/1)</string>
+		<string>{G}: Target creature gains trample until end of turn.</string>
+		<string>Urza's Saga Common</string>
+	</array>
+	<array>
+		<string>Elvish Hexhunter</string>
+		<string>(G/W)</string>
+		<string>Creature  - Elf Shaman</string>
+		<string>(1/1)</string>
+		<string>{(g/w)}, {T}, Sacrifice Elvish Hexhunter: Destroy target enchantment.</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Elvish House Party</string>
+		<string>4GG</string>
+		<string>Creature - Elf Rogue</string>
+		<string>(*/*)</string>
+		<string>Elvish House Party's power and toughness are each equal to the current hour, using the twelve-hour system.</string>
+		<string>Unhinged Uncommon</string>
+	</array>
+	<array>
+		<string>Elvish Hunter</string>
+		<string>1G</string>
+		<string>Creature  - Elf Archer</string>
+		<string>(1/1)</string>
+		<string>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.</string>
+		<string>Masters Edition II Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Elvish Impersonators</string>
+		<string>3G</string>
+		<string>Summon - Elves</string>
+		<string>(*/*)</string>
+		<string>When you play Elvish Impersonators, roll two six-sided dice one after the other. Elvish Impersonators comes into play with power equal to the first die roll and toughness equal to the second.</string>
+		<string>Unglued Common</string>
+	</array>
+	<array>
+		<string>Elvish Lookout</string>
+		<string>G</string>
+		<string>Creature  - Elf</string>
+		<string>(1/1)</string>
+		<string>Shroud (This permanent can't be the target of spells or abilities.)</string>
+		<string>Urza's Destiny Common</string>
+	</array>
+	<array>
+		<string>Elvish Lyrist</string>
+		<string>G</string>
+		<string>Creature  - Elf</string>
+		<string>(1/1)</string>
+		<string>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.</string>
+		<string>Eighth Edition Uncommon, Seventh Edition Uncommon, Battle Royale Box Set Uncommon, Urza's Saga Common</string>
+	</array>
+	<array>
+		<string>Elvish Pathcutter</string>
+		<string>3G</string>
+		<string>Creature  - Elf Scout</string>
+		<string>(1/2)</string>
+		<string>{2}{G}: Target Elf creature gains forestwalk until end of turn.</string>
+		<string>Onslaught Common</string>
+	</array>
+	<array>
+		<string>Elvish Pioneer</string>
+		<string>G</string>
+		<string>Creature  - Elf Druid</string>
+		<string>(1/1)</string>
+		<string>When Elvish Pioneer enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped.</string>
+		<string>Eighth Edition Common, Onslaught Common</string>
+	</array>
+	<array>
+		<string>Elvish Piper</string>
+		<string>3G</string>
+		<string>Creature  - Elf Shaman</string>
+		<string>(1/1)</string>
+		<string>{G}, {T}: You may put a creature card from your hand onto the battlefield.</string>
+		<string>Magic 2010 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Urza's Destiny Rare</string>
+	</array>
+	<array>
+		<string>Elvish Promenade</string>
+		<string>3G</string>
+		<string>Tribal Sorcery  - Elf</string>
+		<string></string>
+		<string>Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.</string>
+		<string>Duel Decks: Elves vs. Goblins Uncommon, Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Elvish Ranger</string>
+		<string>2G</string>
+		<string>Creature  - Elf</string>
+		<string>(4/1)</string>
+		<string></string>
+		<string>Masters Edition II Common, Portal Common, Alliances Common, Alliances Common</string>
+	</array>
+	<array>
+		<string>Elvish Scout</string>
+		<string>G</string>
+		<string>Creature  - Elf Scout</string>
+		<string>(1/1)</string>
+		<string>{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.</string>
+		<string>Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Elvish Scrapper</string>
+		<string>G</string>
+		<string>Creature  - Elf</string>
+		<string>(1/1)</string>
+		<string>{G}, {T}, Sacrifice Elvish Scrapper: Destroy target artifact.</string>
+		<string>Eighth Edition Uncommon, Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Elvish Skysweeper</string>
+		<string>G</string>
+		<string>Creature  - Elf Warrior</string>
+		<string>(1/1)</string>
+		<string>{4}{G}, Sacrifice a creature: Destroy target creature with flying.</string>
+		<string>Ravnica: City of Guilds Common</string>
+	</array>
+	<array>
+		<string>Elvish Soultiller</string>
+		<string>3GG</string>
+		<string>Creature  - Elf Mutant</string>
+		<string>(5/4)</string>
+		<string>When Elvish Soultiller dies, choose a creature type. Shuffle all creature cards of that type from your graveyard into your library.</string>
+		<string>Legions Rare</string>
+	</array>
+	<array>
+		<string>Elvish Spirit Guide</string>
+		<string>2G</string>
+		<string>Creature  - Elf Spirit</string>
+		<string>(2/2)</string>
+		<string>Exile Elvish Spirit Guide from your hand: Add {G} to your mana pool.</string>
+		<string>Masters Edition II Uncommon, Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Elvish Vanguard</string>
+		<string>1G</string>
+		<string>Creature  - Elf Warrior</string>
+		<string>(1/1)</string>
+		<string>Whenever another Elf enters the battlefield, put a +1/+1 counter on Elvish Vanguard.</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Elvish Visionary</string>
+		<string>1G</string>
+		<string>Creature  - Elf Shaman</string>
+		<string>(1/1)</string>
+		<string>When Elvish Visionary enters the battlefield, draw a card.</string>
+		<string>Magic 2010 Common, Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Elvish Warrior</string>
+		<string>GG</string>
+		<string>Creature  - Elf Warrior</string>
+		<string>(2/3)</string>
+		<string></string>
+		<string>Morningtide Common, Duel Decks: Elves vs. Goblins Common, Ninth Edition Common, Onslaught Common</string>
+	</array>
+	<array>
+		<string>Embalmed Brawler</string>
+		<string>2B</string>
+		<string>Creature  - Zombie</string>
+		<string>(2/2)</string>
+		<string>Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)
+Whenever Embalmed Brawler attacks or blocks, you lose 1 life for each +1/+1 counter on it.</string>
+		<string>Legions Common</string>
+	</array>
+	<array>
+		<string>Embargo</string>
+		<string>3U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Nonland permanents don't untap during their controllers' untap steps.
+At the beginning of your upkeep, you lose 2 life.</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Ember Beast</string>
+		<string>2R</string>
+		<string>Creature  - Beast</string>
+		<string>(3/4)</string>
+		<string>Ember Beast can't attack or block alone.</string>
+		<string>Odyssey Common</string>
+	</array>
+	<array>
+		<string>Ember Gale</string>
+		<string>3R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Creatures target player controls can't block this turn. Ember Gale deals 1 damage to each white and/or blue creature that player controls.</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Ember Hauler</string>
+		<string>RR</string>
+		<string>Creature  - Goblin</string>
+		<string>(2/2)</string>
+		<string>{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to target creature or player.</string>
+		<string>Magic 2011 Uncommon</string>
+	</array>
+	<array>
+		<string>Ember Shot</string>
+		<string>6R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Ember Shot deals 3 damage to target creature or player.
+Draw a card.</string>
+		<string>Judgment Common</string>
+	</array>
+	<array>
+		<string>Ember Weaver</string>
+		<string>2G</string>
+		<string>Creature  - Spider</string>
+		<string>(2/3)</string>
+		<string>Reach (This can block creatures with flying.)
+As long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.</string>
+		<string>Conflux Common</string>
+	</array>
+	<array>
+		<string>Ember-Fist Zubera</string>
+		<string>1R</string>
+		<string>Creature  - Zubera Spirit</string>
+		<string>(1/2)</string>
+		<string>When Ember-Fist Zubera dies, it deals damage to target creature or player equal to the number of Zubera that died this turn.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Embermage Goblin</string>
+		<string>3R</string>
+		<string>Creature  - Goblin Wizard</string>
+		<string>(1/1)</string>
+		<string>When Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, and put it into your hand. If you do, shuffle your library.
+{T}: Embermage Goblin deals 1 damage to target creature or player.</string>
+		<string>Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Embersmith</string>
+		<string>1R</string>
+		<string>Creature  - Human Artificer</string>
+		<string>(2/1)</string>
+		<string>Whenever you cast an artifact spell, you may pay {1}. If you do, Embersmith deals 1 damage to target creature or player.</string>
+		<string>Scars of Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>Emberstrike Duo</string>
+		<string>1(B/R)</string>
+		<string>Creature  - Elemental Warrior Shaman</string>
+		<string>(1/1)</string>
+		<string>Whenever you cast a black spell, Emberstrike Duo gets +1/+1 until end of turn.
+Whenever you cast a red spell, Emberstrike Duo gains first strike until end of turn.</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Emberwilde Augur</string>
+		<string>1R</string>
+		<string>Creature  - Goblin Shaman</string>
+		<string>(2/1)</string>
+		<string>Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Activate this ability only during your upkeep.</string>
+		<string>Duel Decks: Elves vs. Goblins Common, Future Sight Common</string>
+	</array>
+	<array>
+		<string>Emberwilde Caliph</string>
+		<string>2UR</string>
+		<string>Creature  - Djinn</string>
+		<string>(4/4)</string>
+		<string>Flying, trample
+Emberwilde Caliph attacks each turn if able.
+Whenever Emberwilde Caliph deals damage, you lose that much life.</string>
+		<string>Mirage Rare</string>
+	</array>
+	<array>
+		<string>Emberwilde Djinn</string>
+		<string>2RR</string>
+		<string>Creature  - Djinn</string>
+		<string>(5/4)</string>
+		<string>Flying
+At the beginning of each player's upkeep, that player may pay {R}{R} or 2 life. If he or she does, the player gains control of Emberwilde Djinn.</string>
+		<string>Mirage Rare</string>
+	</array>
+	<array>
+		<string>Emblazoned Golem</string>
+		<string>2</string>
+		<string>Artifact Creature  - Golem</string>
+		<string>(1/2)</string>
+		<string>Kicker {X} (You may pay an additional {X} as you cast this spell.)
+Spend only colored mana on X. No more than one mana of each color may be spent this way.
+If Emblazoned Golem was kicked, it enters the battlefield with X +1/+1 counters on it.</string>
+		<string>Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Emblem of the Warmind</string>
+		<string>1R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature you control
+Creatures you control have haste.</string>
+		<string>Future Sight Uncommon</string>
+	</array>
+	<array>
+		<string>Embolden</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Prevent the next 4 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Odyssey Common</string>
+	</array>
+	<array>
+		<string>Emcee</string>
+		<string>2W</string>
+		<string>Creature - Human Rogue</string>
+		<string>(0/1)</string>
+		<string>Whenever another creature comes into play, you may stand up and say in a deep, booming voice "Presenting . . . " and that creature's name. If you do, put a +1/+1 counter on that creature.</string>
+		<string>Unhinged Uncommon</string>
+	</array>
+	<array>
+		<string>Emerald Charm</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose one - Untap target permanent; or destroy target non-Aura enchantment; or target creature loses flying until end of turn.</string>
+		<string>Visions Common</string>
+	</array>
+	<array>
+		<string>Emerald Dragonfly</string>
+		<string>1G</string>
+		<string>Creature  - Insect</string>
+		<string>(1/1)</string>
+		<string>Flying
+{G}{G}: Emerald Dragonfly gains first strike until end of turn.</string>
+		<string>Chronicles Common, Legends Common</string>
+	</array>
+	<array>
+		<string>Emerald Medallion</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Green spells you cast cost {1} less to cast.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Emerald Oryx</string>
+		<string>3G</string>
+		<string>Creature  - Antelope</string>
+		<string>(2/3)</string>
+		<string>Forestwalk (This creature is unblockable as long as defending player controls a Forest.)</string>
+		<string>Magic 2010 Common</string>
+	</array>
+	<array>
+		<string>Emerge Unscathed</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature you control gains protection from the color of your choice until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Emeria Angel</string>
+		<string>2WW</string>
+		<string>Creature  - Angel</string>
+		<string>(3/3)</string>
+		<string>Flying
+Landfall - Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.</string>
+		<string>Zendikar Rare</string>
+	</array>
+	<array>
+		<string>Emeria, the Sky Ruin</string>
+		<string>Land</string>
+		<string></string>
+		<string>Emeria, the Sky Ruin enters the battlefield tapped.
+At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.
+{T}: Add {W} to your mana pool.</string>
+		<string>Zendikar Rare</string>
+	</array>
+	<array>
+		<string>Emissary of Despair</string>
+		<string>1BB</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/1)</string>
+		<string>Flying
+Whenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact he or she controls.</string>
+		<string>Darksteel Uncommon</string>
+	</array>
+	<array>
+		<string>Emissary of Hope</string>
+		<string>1WW</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/1)</string>
+		<string>Flying
+Whenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.</string>
+		<string>Darksteel Uncommon</string>
+	</array>
+	<array>
+		<string>Emmessi Tome</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{5}, {T}: Draw two cards, then discard a card.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Emperor Crocodile</string>
+		<string>3G</string>
+		<string>Creature  - Crocodile</string>
+		<string>(5/5)</string>
+		<string>When you control no other creatures, sacrifice Emperor Crocodile.</string>
+		<string>Ninth Edition Rare, Eighth Edition Rare, Urza's Destiny Rare</string>
+	</array>
+	<array>
+		<string>Empress Galina</string>
+		<string>3UU</string>
+		<string>Legendary Creature  - Merfolk</string>
+		<string>(1/3)</string>
+		<string>{U}{U}, {T}: Gain control of target legendary permanent. (This effect lasts indefinitely.)</string>
+		<string>Invasion Rare</string>
+	</array>
+	<array>
+		<string>Empty City Ruse</string>
+		<string>W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target opponent skips all combat phases of his or her next turn.</string>
+		<string>Portal Three Kingdoms Uncommon</string>
+	</array>
+	<array>
+		<string>Empty the Catacombs</string>
+		<string>3B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player returns all creature cards from his or her graveyard to his or her hand.</string>
+		<string>Ravnica: City of Guilds Rare</string>
+	</array>
+	<array>
+		<string>Empty the Warrens</string>
+		<string>3R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put two 1/1 red Goblin creature tokens onto the battlefield.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Empty-Shrine Kannushi</string>
+		<string>W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>Empty-Shrine Kannushi has protection from the colors of permanents you control.</string>
+		<string>Betrayers of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Empyrial Archangel</string>
+		<string>4GWWU</string>
+		<string>Creature  - Angel</string>
+		<string>(5/8)</string>
+		<string>Flying, shroud
+All damage that would be dealt to you is dealt to Empyrial Archangel instead.</string>
+		<string>Shards of Alara Mythic Rare</string>
+	</array>
+	<array>
+		<string>Empyrial Armor</string>
+		<string>1WW</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +1/+1 for each card in your hand.</string>
+		<string>Weatherlight Common</string>
+	</array>
+	<array>
+		<string>Empyrial Plate</string>
+		<string>2</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +1/+1 for each card in your hand.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</string>
+		<string>Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Emrakul, the Aeons Torn</string>
+		<string>15</string>
+		<string>Legendary Creature  - Eldrazi</string>
+		<string>(15/15)</string>
+		<string>Emrakul, the Aeons Torn can't be countered.
+When you cast Emrakul, take an extra turn after this one.
+Flying, protection from colored spells, annihilator 6
+When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</string>
+		<string>Rise of the Eldrazi Mythic Rare</string>
+	</array>
+	<array>
+		<string>Emrakul's Hatcher</string>
+		<string>4R</string>
+		<string>Creature  - Eldrazi Drone</string>
+		<string>(3/3)</string>
+		<string>When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Enatu Golem</string>
+		<string>6</string>
+		<string>Artifact Creature  - Golem</string>
+		<string>(3/5)</string>
+		<string>When Enatu Golem dies, you gain 4 life.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Enchanted Being</string>
+		<string>1WW</string>
+		<string>Creature  - Human</string>
+		<string>(2/2)</string>
+		<string>Prevent all combat damage that would be dealt to Enchanted Being by enchanted creatures.</string>
+		<string>Legends Common</string>
+	</array>
+	<array>
+		<string>Enchanted Evening</string>
+		<string>3(W/U)(W/U)</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>All permanents are enchantments in addition to their other types.</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Enchantment Alteration</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Attach target Aura attached to a creature or land to another permanent of that type.</string>
+		<string>Urza's Saga Uncommon, Chronicles Uncommon, Legends Common</string>
+	</array>
+	<array>
+		<string>Enchantress's Presence</string>
+		<string>2G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you cast an enchantment spell, draw a card.</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Enclave Cryptologist</string>
+		<string>U</string>
+		<string>Creature  - Merfolk Wizard</string>
+		<string>(0/1)</string>
+		<string>Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+0/1
+{T}: Draw a card, then discard a card.
+LEVEL 3+
+0/1
+{T}: Draw a card.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Enclave Elite</string>
+		<string>2U</string>
+		<string>Creature  - Merfolk Soldier</string>
+		<string>(2/2)</string>
+		<string>Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)
+Islandwalk
+Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.</string>
+		<string>Worldwake Common</string>
+	</array>
+	<array>
+		<string>Encroach</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player reveals his or her hand. You choose a nonbasic land card from it. That player discards that card.</string>
+		<string>Urza's Destiny Uncommon</string>
+	</array>
+	<array>
+		<string>Endangered Armodon</string>
+		<string>2GG</string>
+		<string>Creature  - Elephant</string>
+		<string>(4/5)</string>
+		<string>When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.</string>
+		<string>Stronghold Common</string>
+	</array>
+	<array>
+		<string>Endbringer's Revel</string>
+		<string>2B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{4}: Return target creature card from a graveyard to its owner's hand. Any player may activate this ability but only any time he or she could cast a sorcery.</string>
+		<string>Prophecy Uncommon</string>
+	</array>
+	<array>
+		<string>Endemic Plague</string>
+		<string>3B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>As an additional cost to cast Endemic Plague, sacrifice a creature.
+Destroy all creatures that share a creature type with the sacrificed creature. They can't be regenerated.</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Endless Cockroaches</string>
+		<string>1BB</string>
+		<string>Creature  - Insect</string>
+		<string>(1/1)</string>
+		<string>When Endless Cockroaches dies, return it to its owner's hand.</string>
+		<string>Portal Rare</string>
+	</array>
+	<array>
+		<string>Endless Horizons</string>
+		<string>3W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When Endless Horizons enters the battlefield, search your library for any number of Plains cards and exile them. Then shuffle your library.
+At the beginning of your upkeep, you may put a card you own exiled with Endless Horizons into your hand.</string>
+		<string>Eventide Rare</string>
+	</array>
+	<array>
+		<string>Endless Ranks of the Dead</string>
+		<string>2BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down.</string>
+		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Endless Scream</string>
+		<string>XB</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Endless Scream enters the battlefield with X scream counters on it.
+Enchanted creature gets +1/+0 for each scream counter on Endless Scream.</string>
+		<string>Tempest Common</string>
+	</array>
+	<array>
+		<string>Endless Swarm</string>
+		<string>5GGG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put a 1/1 green Snake creature token onto the battlefield for each card in your hand.
+Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Endless Whispers</string>
+		<string>2BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Each creature has "When this creature dies, choose target opponent. That player returns this card from that graveyard to the battlefield under his or her control at the beginning of the next end step."</string>
+		<string>Fifth Dawn Rare</string>
+	</array>
+	<array>
+		<string>Endless Wurm</string>
+		<string>3GG</string>
+		<string>Creature  - Wurm</string>
+		<string>(9/9)</string>
+		<string>Trample
+At the beginning of your upkeep, sacrifice Endless Wurm unless you sacrifice an enchantment.</string>
+		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Endoskeleton</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>You may choose not to untap Endoskeleton during your untap step.
+{2}, {T}: Target creature gets +0/+3 for as long as Endoskeleton remains tapped.</string>
+		<string>Urza's Saga Uncommon</string>
+	</array>
+	<array>
+		<string>Endrek Sahr, Master Breeder</string>
+		<string>4B</string>
+		<string>Legendary Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>Whenever you cast a creature spell, put X 1/1 black Thrull creature tokens onto the battlefield, where X is that spell's converted mana cost.
+When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.</string>
+		<string>Time Spiral Rare</string>
+	</array>
+	<array>
+		<string>Endure</string>
+		<string>3WW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Prevent all damage that would be dealt to you and permanents you control this turn.</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Enduring Ideal</string>
+		<string>5WW</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search your library for an enchantment card and put it onto the battlefield. Then shuffle your library.
+Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Enduring Renewal</string>
+		<string>2WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Play with your hand revealed.
+If you would draw a card, reveal the top card of your library instead. If it's a creature card, put it into your graveyard. Otherwise, draw a card.
+Whenever a creature is put into your graveyard from the battlefield, return it to your hand.</string>
+		<string>Time Spiral "Timeshifted" Special, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Enemy of the Guildpact</string>
+		<string>4B</string>
+		<string>Creature  - Spirit</string>
+		<string>(4/2)</string>
+		<string>Protection from multicolored</string>
+		<string>Dissension Common</string>
+	</array>
+	<array>
+		<string>Energizer</string>
+		<string>4</string>
+		<string>Artifact Creature  - Juggernaut</string>
+		<string>(2/2)</string>
+		<string>{2}, {T}: Put a +1/+1 counter on Energizer.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Energy Arc</string>
+		<string>WU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Untap any number of target creatures. Prevent all combat damage that would be dealt to and dealt by those creatures this turn.</string>
+		<string>Masters Edition Uncommon, Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Energy Bolt</string>
+		<string>XRW</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose one - Energy Bolt deals X damage to target player; or target player gains X life.</string>
+		<string>Mirage Rare</string>
+	</array>
+	<array>
+		<string>Energy Chamber</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your upkeep, choose one - Put a +1/+1 counter on target artifact creature; or put a charge counter on target noncreature artifact.</string>
+		<string>Duel Decks: Elspeth vs. Tezzeret Uncommon, Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Energy Field</string>
+		<string>1U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Prevent all damage that would be dealt to you by sources you don't control.
+When a card is put into your graveyard from anywhere, sacrifice Energy Field.</string>
+		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Energy Flux</string>
+		<string>2U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."</string>
+		<string>Masters Edition IV Uncommon, Mercadian Masques Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Antiquities Uncommon</string>
+	</array>
+	<array>
+		<string>Energy Storm</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Prevent all damage that would be dealt by instant and sorcery spells.
+Creatures with flying don't untap during their controllers' untap steps.</string>
+		<string>Masters Edition II Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Energy Tap</string>
+		<string>U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Tap target untapped creature you control. If you do, add {X} to your mana pool, where X is that creature's converted mana cost.</string>
+		<string>Fourth Edition Common, Legends Common</string>
+	</array>
+	<array>
+		<string>Energy Vortex</string>
+		<string>3UU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>As Energy Vortex enters the battlefield, choose an opponent.
+At the beginning of your upkeep, remove all energy counters from Energy Vortex.
+At the beginning of the chosen player's upkeep, Energy Vortex deals 3 damage to that player unless he or she pays {1} for each energy counter on Energy Vortex.
+{X}: Put X energy counters on Energy Vortex. Activate this ability only during your upkeep.</string>
+		<string>Mirage Rare</string>
+	</array>
+	<array>
+		<string>Enervate</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Tap target artifact, creature, or land.
+Draw a card at the beginning of the next turn's upkeep.</string>
+		<string>Masters Edition II Common, Fifth Edition Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Enfeeblement</string>
+		<string>BB</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets -2/-2.</string>
+		<string>Ninth Edition Common, Classic Sixth Edition Common, Tempest Common, Mirage Common</string>
+	</array>
+	<array>
+		<string>Engineered Explosives</string>
+		<string>X</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.</string>
+		<string>Fifth Dawn Rare</string>
+	</array>
+	<array>
+		<string>Engineered Plague</string>
+		<string>2B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>As Engineered Plague enters the battlefield, choose a creature type.
+All creatures of the chosen type get -1/-1.</string>
+		<string>Seventh Edition Uncommon, Urza's Legacy Uncommon</string>
+	</array>
+	<array>
+		<string>Engulfing Flames</string>
+		<string>R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Odyssey Uncommon</string>
+	</array>
+	<array>
+		<string>Engulfing Slagwurm</string>
+		<string>5GG</string>
+		<string>Creature  - Wurm</string>
+		<string>(7/7)</string>
+		<string>Whenever Engulfing Slagwurm blocks or becomes blocked by a creature, destroy that creature. You gain life equal to that creature's toughness.</string>
+		<string>Scars of Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Enigma Eidolon</string>
+		<string>3U</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/2)</string>
+		<string>{U}, Sacrifice Enigma Eidolon: Target player puts the top three cards of his or her library into his or her graveyard.
+Whenever you cast a multicolored spell, you may return Enigma Eidolon from your graveyard to your hand.</string>
+		<string>Dissension Common</string>
+	</array>
+	<array>
+		<string>Enigma Sphinx</string>
+		<string>4WUB</string>
+		<string>Artifact Creature  - Sphinx</string>
+		<string>(5/4)</string>
+		<string>Flying
+When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</string>
+		<string>Alara Reborn Rare</string>
+	</array>
+	<array>
+		<string>Enlightened Tutor</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</string>
+		<string>Classic Sixth Edition Uncommon, Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Enlisted Wurm</string>
+		<string>4GW</string>
+		<string>Creature  - Wurm</string>
+		<string>(5/5)</string>
+		<string>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</string>
+		<string>Alara Reborn Uncommon</string>
+	</array>
+	<array>
+		<string>Enlistment Officer</string>
+		<string>3W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/3)</string>
+		<string>First strike
+When Enlistment Officer enters the battlefield, reveal the top four cards of your library. Put all Soldier cards revealed this way into your hand and the rest on the bottom of your library in any order.</string>
+		<string>Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Enormous Baloth</string>
+		<string>6G</string>
+		<string>Creature  - Beast</string>
+		<string>(7/7)</string>
+		<string></string>
+		<string>Magic 2010 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Legions Uncommon</string>
+	</array>
+	<array>
+		<string>Enrage</string>
+		<string>XR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +X/+0 until end of turn.</string>
+		<string>Ninth Edition Uncommon, Eighth Edition Uncommon, Scourge Uncommon</string>
+	</array>
+	<array>
+		<string>Enraging Licid</string>
+		<string>1R</string>
+		<string>Creature  - Licid</string>
+		<string>(1/1)</string>
+		<string>{R}, {T}: Enraging Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {R} to end this effect.
+Enchanted creature has haste.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Enshrined Memories</string>
+		<string>XG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Reveal the top X cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Enslave</string>
+		<string>4BB</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.</string>
+		<string>New Phyrexia Uncommon, Duel Decks: Garruk vs. Liliana Uncommon, Planar Chaos Uncommon</string>
+	</array>
+	<array>
+		<string>Enslaved Dwarf</string>
+		<string>R</string>
+		<string>Creature  - Dwarf</string>
+		<string>(1/1)</string>
+		<string>{R}, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn.</string>
+		<string>Torment Common</string>
+	</array>
+	<array>
+		<string>Enslaved Horror</string>
+		<string>3B</string>
+		<string>Creature  - Horror</string>
+		<string>(4/4)</string>
+		<string>When Enslaved Horror enters the battlefield, each other player may return a creature card from his or her graveyard to the battlefield.</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Enslaved Scout</string>
+		<string>2R</string>
+		<string>Creature  - Goblin Scout</string>
+		<string>(2/2)</string>
+		<string>{2}: Enslaved Scout gains mountainwalk until end of turn.</string>
+		<string>Alliances Common, Alliances Common</string>
+	</array>
+	<array>
+		<string>Ensnare</string>
+		<string>3U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>You may return two Islands you control to their owner's hand rather than pay Ensnare's mana cost.
+Tap all creatures.</string>
+		<string>Nemesis Uncommon</string>
+	</array>
+	<array>
+		<string>Ensnaring Bridge</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Creatures with power greater than the number of cards in your hand can't attack.</string>
+		<string>Eighth Edition Rare, Seventh Edition Rare, Stronghold Rare</string>
+	</array>
+	<array>
+		<string>Ensouled Scimitar</string>
+		<string>3</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>{3}: Ensouled Scimitar becomes a 1/5 Spirit artifact creature with flying until end of turn. (Equipment that's a creature can't equip a creature.)
+Equipped creature gets +1/+5.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</string>
+		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Entangler</string>
+		<string>2WW</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature can block any number of creatures.</string>
+		<string>Prophecy Uncommon</string>
+	</array>
+	<array>
+		<string>Entangling Trap</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you clash, tap target creature an opponent controls. If you won, that creature doesn't untap during its controller's next untap step. (This ability triggers after the clash ends.)</string>
+		<string>Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Entangling Vines</string>
+		<string>3G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant tapped creature
+Enchanted creature doesn't untap during its controller's untap step.</string>
+		<string>Magic 2010 Common</string>
+	</array>
+	<array>
+		<string>Enter the Dungeon</string>
+		<string>BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Players play a Magic subgame under the table starting at 5 life, using their libraries as their decks. After the subgame ends, the winner searches his or her library for two cards, puts those cards into his or her hand, then shuffles his or her library.</string>
+		<string>Unhinged Rare</string>
+	</array>
+	<array>
+		<string>Entomb</string>
+		<string>B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Search your library for a card and put that card into your graveyard. Then shuffle your library.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Entomber Exarch</string>
+		<string>2BB</string>
+		<string>Creature  - Cleric</string>
+		<string>(2/2)</string>
+		<string>When Entomber Exarch enters the battlefield, choose one - Return target creature card from your graveyard to your hand; or target opponent reveals his or her hand, you choose a noncreature card from it, then that player discards that card.</string>
+		<string>New Phyrexia Uncommon</string>
+	</array>
+	<array>
+		<string>Entrails Feaster</string>
+		<string>B</string>
+		<string>Creature  - Zombie Cat</string>
+		<string>(1/1)</string>
+		<string>At the beginning of your upkeep, you may exile a creature card from a graveyard. If you do, put a +1/+1 counter on Entrails Feaster. If you don't, tap Entrails Feaster.</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Entropic Eidolon</string>
+		<string>3B</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/2)</string>
+		<string>{B}, Sacrifice Entropic Eidolon: Target player loses 1 life and you gain 1 life.
+Whenever you cast a multicolored spell, you may return Entropic Eidolon from your graveyard to your hand.</string>
+		<string>Dissension Common</string>
+	</array>
+	<array>
+		<string>Entropic Specter</string>
+		<string>3BB</string>
+		<string>Creature  - Specter Spirit</string>
+		<string>(*/*)</string>
+		<string>Flying
+As Entropic Specter enters the battlefield, choose an opponent.
+Entropic Specter's power and toughness are each equal to the number of cards in the chosen player's hand.
+Whenever Entropic Specter deals damage to a player, that player discards a card.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Envelop</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target sorcery spell.</string>
+		<string>Judgment Common</string>
+	</array>
+	<array>
+		<string>Eon Hub</string>
+		<string>5</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Players skip their upkeep steps.</string>
+		<string>Fifth Dawn Rare</string>
+	</array>
+	<array>
+		<string>Ephemeron</string>
+		<string>4UU</string>
+		<string>Creature  - Illusion</string>
+		<string>(4/4)</string>
+		<string>Flying
+Discard a card: Return Ephemeron to its owner's hand.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Epic Proportions</string>
+		<string>4GG</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Flash
+Enchant creature
+Enchanted creature gets +5/+5 and has trample.</string>
+		<string>Lorwyn Rare</string>
+	</array>
+	<array>
+		<string>Epic Struggle</string>
+		<string>2GG</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, if you control twenty or more creatures, you win the game.</string>
+		<string>Judgment Rare</string>
+	</array>
+	<array>
+		<string>Epicenter</string>
+		<string>4R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player sacrifices a land.
+Threshold - All players sacrifice all lands instead if seven or more cards are in your graveyard.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Epochrasite</string>
+		<string>2</string>
+		<string>Artifact Creature  - Construct</string>
+		<string>(1/1)</string>
+		<string>Epochrasite enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand.
+When Epochrasite dies, exile it with three time counters on it and it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last is removed, cast this card without paying its mana cost. It has haste.)</string>
+		<string>Future Sight Rare</string>
+	</array>
+	<array>
+		<string>Equal Treatment</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.
+Draw a card.</string>
+		<string>Torment Uncommon</string>
+	</array>
+	<array>
+		<string>Equilibrium</string>
+		<string>1UU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you cast a creature spell, you may pay {1}. If you do, return target creature to its owner's hand.</string>
+		<string>Seventh Edition Rare, Exodus Rare</string>
+	</array>
+	<array>
+		<string>Equinox</string>
+		<string>W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant land
+Enchanted land has "{T}: Counter target spell if it would destroy a land you control."</string>
+		<string>Legends Common</string>
+	</array>
+	<array>
+		<string>Equipoise</string>
+		<string>2W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, for each land target player controls in excess of the number you control, choose a land he or she controls, then the chosen permanents phase out. Repeat this process for artifacts and creatures. (While they're phased out, they're treated as though they don't exist. They phase in before that player untaps during his or her next untap step.)</string>
+		<string>Visions Rare</string>
+	</array>
+	<array>
+		<string>Eradicate</string>
+		<string>2BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles his or her library.</string>
+		<string>Betrayers of Kamigawa Uncommon, Urza's Destiny Uncommon</string>
+	</array>
+	<array>
+		<string>Erase</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile target enchantment.</string>
+		<string>Urza's Legacy Common</string>
+	</array>
+	<array>
+		<string>Erase (Not the Urza's Legacy One)</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>If you control two or more white permanents that share an artist, you may play Erase (Not the Urza's Legacy One) without paying its mana cost.
+Remove target enchantment from the game.</string>
+		<string>Unhinged Common</string>
+	</array>
+	<array>
+		<string>Erayo, Soratami Ascendant</string>
+		<string>1U</string>
+		<string>Legendary Creature  - Moonfolk Monk</string>
+		<string>(1/1)</string>
+		<string>Flying
+Whenever the fourth spell of a turn is cast, flip Erayo, Soratami Ascendant.
+</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Erayo, Soratami Ascendant (Erayo's Essence)</string>
+		<string>1U</string>
+		<string>Legendary Enchantment</string>
+		<string></string>
+		<string>Whenever an opponent casts a spell for the first time in a turn, counter that spell.</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Erg Raiders</string>
+		<string>1B</string>
+		<string>Creature  - Human Warrior</string>
+		<string>(2/3)</string>
+		<string>At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.</string>
+		<string>Masters Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Arabian Nights Common, Arabian Nights Common</string>
+	</array>
+	<array>
+		<string>Erhnam Djinn</string>
+		<string>3G</string>
+		<string>Creature  - Djinn</string>
+		<string>(4/5)</string>
+		<string>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.</string>
+		<string>Judgment Rare, Beatdown Box Set Uncommon, Chronicles Uncommon, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Erithizon</string>
+		<string>2GG</string>
+		<string>Creature  - Beast</string>
+		<string>(4/4)</string>
+		<string>Whenever Erithizon attacks, put a +1/+1 counter on target creature of defending player's choice.</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Eron the Relentless</string>
+		<string>3RR</string>
+		<string>Legendary Creature  - Human Rogue</string>
+		<string>(5/2)</string>
+		<string>Haste
+{R}{R}{R}: Regenerate Eron the Relentless.</string>
+		<string>Time Spiral "Timeshifted" Special, Homelands Uncommon</string>
+	</array>
+	<array>
+		<string>Erosion</string>
+		<string>UUU</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant land
+At the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays {1} or 1 life.</string>
+		<string>Fourth Edition Common, The Dark Common</string>
+	</array>
+	<array>
+		<string>Errand of Duty</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put a 1/1 white Knight creature token with banding onto the battlefield. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</string>
+		<string>Masters Edition II Uncommon, Alliances Common, Alliances Common</string>
+	</array>
+	<array>
+		<string>Errant Doomsayers</string>
+		<string>1W</string>
+		<string>Creature  - Human Rebel</string>
+		<string>(1/1)</string>
+		<string>{T}: Tap target creature with toughness 2 or less.</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Errant Ephemeron</string>
+		<string>6U</string>
+		<string>Creature  - Illusion</string>
+		<string>(4/4)</string>
+		<string>Flying
+Suspend 4-{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</string>
+		<string>Duel Decks: Jace vs. Chandra Common, Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Errant Minion</string>
+		<string>2U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, that player may pay any amount of mana. Errant Minion deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way.</string>
+		<string>Ice Age Common</string>
+	</array>
+	<array>
+		<string>Errantry</string>
+		<string>1R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +3/+0 and can only attack alone.</string>
+		<string>Masters Edition II Common, Fifth Edition Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Erratic Explosion</string>
+		<string>2R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.</string>
+		<string>Onslaught Common</string>
+	</array>
+	<array>
+		<string>Erratic Mutation</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.</string>
+		<string>Planar Chaos Common</string>
+	</array>
+	<array>
+		<string>Erratic Portal</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Ersatz Gnomes</string>
+		<string>3</string>
+		<string>Artifact Creature  - Gnome</string>
+		<string>(1/1)</string>
+		<string>{T}: Target spell becomes colorless.
+{T}: Target permanent becomes colorless until end of turn.</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Ertai, the Corrupted</string>
+		<string>2WUB</string>
+		<string>Legendary Creature  - Human Wizard</string>
+		<string>(3/4)</string>
+		<string>{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.</string>
+		<string>Planeshift Rare, Planeshift Rare</string>
+	</array>
+	<array>
+		<string>Ertai, Wizard Adept</string>
+		<string>2U</string>
+		<string>Legendary Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>{2}{U}{U}, {T}: Counter target spell.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Ertai's Familiar</string>
+		<string>1U</string>
+		<string>Creature  - Illusion</string>
+		<string>(2/2)</string>
+		<string>Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+When Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard.
+{U}: Until your next upkeep, Ertai's Familiar can't phase out.</string>
+		<string>Weatherlight Rare</string>
+	</array>
+	<array>
+		<string>Ertai's Meddling</string>
+		<string>XU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>X can't be 0. 
+Target spell's controller exiles it with X delay counters on it.
+At the beginning of each of that player's upkeeps, if that card is exiled, remove a delay counter from it. If the card has no delay counters on it, he or she puts it onto the stack as a copy of the original spell.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Ertai's Trickery</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell if it was kicked.</string>
+		<string>Planeshift Uncommon</string>
+	</array>
+	<array>
+		<string>Escape Artist</string>
+		<string>1U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>Escape Artist is unblockable.
+{U}, Discard a card: Return Escape Artist to its owner's hand.</string>
+		<string>Odyssey Common</string>
+	</array>
+	<array>
+		<string>Escape Routes</string>
+		<string>2U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{2}{U}: Return target white or black creature you control to its owner's hand.</string>
+		<string>Planeshift Common</string>
+	</array>
+	<array>
+		<string>Escaped Null</string>
+		<string>3B</string>
+		<string>Creature  - Zombie Berserker</string>
+		<string>(1/2)</string>
+		<string>Lifelink
+Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Escaped Shapeshifter</string>
+		<string>3UU</string>
+		<string>Creature  - Shapeshifter</string>
+		<string>(3/4)</string>
+		<string>As long as an opponent controls a creature with flying not named Escaped Shapeshifter, Escaped Shapeshifter has flying. The same is true for first strike, trample, and protection from any color.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Esper Battlemage</string>
+		<string>2U</string>
+		<string>Artifact Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>{W}, {T}: Prevent the next 2 damage that would be dealt to you this turn.
+{B}, {T}: Target creature gets -1/-1 until end of turn.</string>
+		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Esper Charm</string>
+		<string>WUB</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose one - Destroy target enchantment; or draw two cards; or target player discards two cards.</string>
+		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Esper Cormorants</string>
+		<string>2WU</string>
+		<string>Artifact Creature  - Bird</string>
+		<string>(3/3)</string>
+		<string>Flying</string>
+		<string>Conflux Common</string>
+	</array>
+	<array>
+		<string>Esper Panorama</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{1}, {T}, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped. Then shuffle your library.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Esper Sojourners</string>
+		<string>WUB</string>
+		<string>Artifact Creature  - Vedalken Wizard</string>
+		<string>(2/3)</string>
+		<string>When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)</string>
+		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Esper Stormblade</string>
+		<string>(W/B)U</string>
+		<string>Artifact Creature  - Vedalken Wizard</string>
+		<string>(2/1)</string>
+		<string>As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.</string>
+		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Esperzoa</string>
+		<string>2U</string>
+		<string>Artifact Creature  - Jellyfish</string>
+		<string>(4/3)</string>
+		<string>Flying
+At the beginning of your upkeep, return an artifact you control to its owner's hand.</string>
+		<string>Duel Decks: Elspeth vs. Tezzeret Uncommon, Conflux Uncommon</string>
+	</array>
+	<array>
+		<string>Essence Bottle</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}: Put an elixir counter on Essence Bottle.
+{T}, Remove all elixir counters from Essence Bottle: You gain 2 life for each elixir counter removed this way.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Essence Drain</string>
+		<string>4B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Essence Drain deals 3 damage to target creature or player and you gain 3 life.</string>
+		<string>Tenth Edition Common, Darksteel Common</string>
+	</array>
+	<array>
+		<string>Essence Feed</string>
+		<string>5B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Essence Filter</string>
+		<string>1GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy all enchantments or all nonwhite enchantments.</string>
+		<string>Masters Edition II Uncommon, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Essence Flare</string>
+		<string>U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +2/+0.
+At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.</string>
+		<string>Masters Edition II Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Essence Fracture</string>
+		<string>3UU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return two target creatures to their owners' hands.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)</string>
+		<string>Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Essence Leak</string>
+		<string>U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant permanent
+As long as enchanted permanent is red or green, it has "At the beginning of your upkeep, sacrifice this permanent unless you pay its mana cost."</string>
+		<string>Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>Essence of the Wild</string>
+		<string>3GGG</string>
+		<string>Creature  - Avatar</string>
+		<string>(6/6)</string>
+		<string>Creatures you control enter the battlefield as a copy of Essence of the Wild.</string>
+		<string>Innistrad Mythic Rare</string>
+	</array>
+	<array>
+		<string>Essence Scatter</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target creature spell.</string>
+		<string>Magic 2010 Common</string>
+	</array>
+	<array>
+		<string>Essence Sliver</string>
+		<string>3W</string>
+		<string>Creature  - Sliver</string>
+		<string>(3/3)</string>
+		<string>Whenever a Sliver deals damage, its controller gains that much life.</string>
+		<string>Time Spiral "Timeshifted" Special, Legions Rare</string>
+	</array>
+	<array>
+		<string>Essence Vortex</string>
+		<string>1UB</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target creature unless its controller pays life equal to its toughness. A creature destroyed this way can't be regenerated.</string>
+		<string>Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Essence Warden</string>
+		<string>G</string>
+		<string>Creature  - Elf Shaman</string>
+		<string>(1/1)</string>
+		<string>Whenever another creature enters the battlefield, you gain 1 life.</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Common, Planar Chaos Common</string>
+	</array>
+	<array>
+		<string>Etched Champion</string>
+		<string>3</string>
+		<string>Artifact Creature  - Soldier</string>
+		<string>(2/2)</string>
+		<string>Metalcraft - Etched Champion has protection from all colors as long as you control three or more artifacts.</string>
+		<string>Scars of Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Etched Monstrosity</string>
+		<string>5</string>
+		<string>Artifact Creature  - Golem</string>
+		<string>(10/10)</string>
+		<string>Etched Monstrosity enters the battlefield with five -1/-1 counters on it.
+{W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.</string>
+		<string>New Phyrexia Mythic Rare</string>
+	</array>
+	<array>
+		<string>Etched Oracle</string>
+		<string>4</string>
+		<string>Artifact Creature  - Wizard</string>
+		<string>(0/0)</string>
+		<string>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.</string>
+		<string>Planechase Uncommon, Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Eternal Dominion</string>
+		<string>7UUU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search target opponent's library for an artifact, creature, enchantment, or land card. Put that card onto the battlefield under your control. Then that player shuffles his or her library.
+Epic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Eternal Dragon</string>
+		<string>5WW</string>
+		<string>Creature  - Dragon Spirit</string>
+		<string>(5/5)</string>
+		<string>Flying
+{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)</string>
+		<string>Scourge Rare</string>
+	</array>
+	<array>
+		<string>Eternal Flame</string>
+		<string>2RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Eternal Flame deals X damage to target opponent, where X is the number of Mountains you control. It deals half X damage, rounded up, to you.</string>
+		<string>The Dark Rare</string>
+	</array>
+	<array>
+		<string>Eternal Warrior</string>
+		<string>R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has vigilance.</string>
+		<string>Fifth Edition Common, Fourth Edition Common, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Eternal Witness</string>
+		<string>1GG</string>
+		<string>Creature  - Human Shaman</string>
+		<string>(2/1)</string>
+		<string>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.</string>
+		<string>Magic: The Gathering-Commander Uncommon, Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Eternity Snare</string>
+		<string>5U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+When Eternity Snare enters the battlefield, draw a card.
+Enchanted creature doesn't untap during its controller's untap step.</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Eternity Vessel</string>
+		<string>6</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Eternity Vessel enters the battlefield with X charge counters on it, where X is your life total.
+Landfall - Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on Eternity Vessel.</string>
+		<string>Zendikar Mythic Rare</string>
+	</array>
+	<array>
+		<string>Ether Well</string>
+		<string>3U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put target creature on top of its owner's library. If that creature is red, you may put it on the bottom of its owner's library instead.</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Ethercaste Knight</string>
+		<string>WU</string>
+		<string>Artifact Creature  - Human Knight</string>
+		<string>(1/3)</string>
+		<string>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</string>
+		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Ethereal Champion</string>
+		<string>2WWW</string>
+		<string>Creature  - Avatar</string>
+		<string>(3/4)</string>
+		<string>Pay 1 life: Prevent the next 1 damage that would be dealt to Ethereal Champion this turn.</string>
+		<string>Classic Sixth Edition Rare, Mirage Rare</string>
+	</array>
+	<array>
+		<string>Ethereal Haze</string>
+		<string>W</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Prevent all damage that would be dealt by creatures this turn.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Ethereal Usher</string>
+		<string>5U</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/3)</string>
+		<string>{U}, {T}: Target creature is unblockable this turn.
+Transmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)</string>
+		<string>Ravnica: City of Guilds Uncommon</string>
+	</array>
+	<array>
+		<string>Ethereal Whiskergill</string>
+		<string>3U</string>
+		<string>Creature  - Elemental</string>
+		<string>(4/3)</string>
+		<string>Flying
+Ethereal Whiskergill can't attack unless defending player controls an Island.</string>
+		<string>Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Etherium Abomination</string>
+		<string>3UB</string>
+		<string>Artifact Creature  - Horror</string>
+		<string>(4/3)</string>
+		<string>Unearth {1}{U}{B} ({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</string>
+		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Etherium Astrolabe</string>
+		<string>2U</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Flash
+{B}, {T}, Sacrifice an artifact: Draw a card.</string>
+		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Etherium Sculptor</string>
+		<string>1U</string>
+		<string>Artifact Creature  - Vedalken Artificer</string>
+		<string>(1/2)</string>
+		<string>Artifact spells you cast cost {1} less to cast.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Ethersworn Adjudicator</string>
+		<string>4U</string>
+		<string>Artifact Creature  - Vedalken Knight</string>
+		<string>(4/4)</string>
+		<string>Flying
+{1}{W}{B}, {T}: Destroy target creature or enchantment.
+{2}{U}: Untap Ethersworn Adjudicator.</string>
+		<string>Conflux Mythic Rare</string>
+	</array>
+	<array>
+		<string>Ethersworn Canonist</string>
+		<string>1W</string>
+		<string>Artifact Creature  - Human Cleric</string>
+		<string>(2/2)</string>
+		<string>Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.</string>
+		<string>Shards of Alara Rare</string>
+	</array>
+	<array>
+		<string>Ethersworn Shieldmage</string>
+		<string>1WU</string>
+		<string>Artifact Creature  - Vedalken Wizard</string>
+		<string>(2/2)</string>
+		<string>Flash
+When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.</string>
+		<string>Archenemy Common, Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Etherwrought Page</string>
+		<string>1WUB</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your upkeep, choose one - You gain 2 life; or look at the top card of your library, then you may put that card into your graveyard; or each opponent loses 1 life.</string>
+		<string>Alara Reborn Uncommon</string>
+	</array>
+	<array>
+		<string>Eunuchs' Intrigues</string>
+		<string>2R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.</string>
+		<string>Portal Three Kingdoms Uncommon</string>
+	</array>
+	<array>
+		<string>Eureka</string>
+		<string>2GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Starting with you, each player may put a permanent card from his or her hand onto the battlefield. Repeat this process until no one puts a card onto the battlefield.</string>
+		<string>Masters Edition Rare, Legends Rare</string>
+	</array>
+	<array>
+		<string>Evacuation</string>
+		<string>3UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Return all creatures to their owners' hands.</string>
+		<string>Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Stronghold Rare</string>
+	</array>
+	<array>
+		<string>Evangelize</string>
+		<string>4W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Buyback {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Gain control of target creature of an opponent's choice that he or she controls.</string>
+		<string>Time Spiral Rare</string>
+	</array>
+	<array>
+		<string>Evaporate</string>
+		<string>2R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Evaporate deals 1 damage to each white and/or blue creature.</string>
+		<string>Homelands Uncommon</string>
+	</array>
+	<array>
+		<string>Evasive Action</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Domain - Counter target spell unless its controller pays {1} for each basic land type among lands you control.</string>
+		<string>Duel Decks: Phyrexia vs. the Coalition Uncommon, Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Even the Odds</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Cast Even the Odds only if you control fewer creatures than each opponent.
+Put three 1/1 white Soldier creature tokens onto the battlefield.</string>
+		<string>Future Sight Uncommon</string>
+	</array>
+	<array>
+		<string>Everbark Shaman</string>
+		<string>4G</string>
+		<string>Creature  - Treefolk Shaman</string>
+		<string>(3/5)</string>
+		<string>{T}, Exile a Treefolk card from your graveyard: Search your library for two Forest cards and put them onto the battlefield tapped. Then shuffle your library.</string>
+		<string>Morningtide Common</string>
+	</array>
+	<array>
+		<string>Everflowing Chalice</string>
+		<string>0</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)
+Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
+{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.</string>
+		<string>Archenemy Uncommon, Duel Decks: Elspeth vs. Tezzeret Uncommon, Worldwake Uncommon</string>
+	</array>
+	<array>
+		<string>Everglades</string>
+		<string>Land</string>
+		<string></string>
+		<string>Everglades enters the battlefield tapped.
+When Everglades enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand.
+{T}: Add {1}{B} to your mana pool.</string>
+		<string>Visions Uncommon</string>
+	</array>
+	<array>
+		<string>Everglove Courier</string>
+		<string>2G</string>
+		<string>Creature  - Elf</string>
+		<string>(2/1)</string>
+		<string>You may choose not to untap Everglove Courier during your untap step.
+{2}{G}, {T}: Target Elf creature gets +2/+2 and has trample for as long as Everglove Courier remains tapped.</string>
+		<string>Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Everlasting Torment</string>
+		<string>2(B/R)</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Players can't gain life.
+Damage can't be prevented.
+All damage is dealt as though its source had wither. (A source with wither deals damage to creatures in the form of -1/-1 counters.)</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Evermind</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>(Nonexistent mana costs can't be paid.)
+Draw a card.
+Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Evershrike</string>
+		<string>3(W/B)(W/B)</string>
+		<string>Creature  - Elemental Spirit</string>
+		<string>(2/2)</string>
+		<string>Flying
+Evershrike gets +2/+2 for each Aura attached to it.
+{X}{(w/b){(w/b)}: Return Evershrike from your graveyard to the battlefield. You may put an Aura card with converted mana cost X or less from your hand onto the battlefield attached to it. If you don't, exile Evershrike.</string>
+		<string>Eventide Rare</string>
+	</array>
+	<array>
+		<string>Evil Eye of Orms-by-Gore</string>
+		<string>4B</string>
+		<string>Creature  - Eye</string>
+		<string>(3/6)</string>
+		<string>Non-Eye creatures you control can't attack.
+Evil Eye of Orms-by-Gore can't be blocked except by Walls.</string>
+		<string>Time Spiral "Timeshifted" Special, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Evil Eye of Urborg</string>
+		<string>4B</string>
+		<string>Creature  - Eye</string>
+		<string>(6/3)</string>
+		<string>Non-Eye creatures you control can't attack.
+Whenever Evil Eye of Urborg becomes blocked by a creature, destroy that creature.</string>
+		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Evil Presence</string>
+		<string>B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant land
+Enchanted land is a Swamp.</string>
+		<string>New Phyrexia Common, Masters Edition III Common, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Evil Twin</string>
+		<string>2UB</string>
+		<string>Creature  - Shapeshifter</string>
+		<string>(0/0)</string>
+		<string>You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains "{U}{B}, {T}: Destroy target creature with the same name as this creature."</string>
+		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Evincar's Justice</string>
+		<string>2BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Evincar's Justice deals 2 damage to each creature and each player.</string>
+		<string>Magic: The Gathering-Commander Common, Tempest Common</string>
+	</array>
+	<array>
+		<string>Eviscerator</string>
+		<string>3BB</string>
+		<string>Creature  - Horror</string>
+		<string>(5/5)</string>
+		<string>Protection from white
+When Eviscerator enters the battlefield, you lose 5 life.</string>
+		<string>Urza's Legacy Rare</string>
+	</array>
+	<array>
+		<string>Evolution Charm</string>
+		<string>1G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose one - Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library; or return target creature card from your graveyard to your hand; or target creature gains flying until end of turn.</string>
+		<string>Planar Chaos Common</string>
+	</array>
+	<array>
+		<string>Evolution Vat</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}: Tap target creature and put a +1/+1 counter on it. Until end of turn, that creature gains "{2}{G}{U}: Double the number of +1/+1 counters on this creature."</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>Evolving Wilds</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Common, Magic: The Gathering-Commander Common, Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Exalted Angel</string>
+		<string>4WW</string>
+		<string>Creature  - Angel</string>
+		<string>(4/5)</string>
+		<string>Flying
+Whenever Exalted Angel deals damage, you gain that much life.
+Morph {2}{W}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Exalted Dragon</string>
+		<string>4WW</string>
+		<string>Creature  - Dragon</string>
+		<string>(5/5)</string>
+		<string>Flying
+Exalted Dragon can't attack unless you sacrifice a land.</string>
+		<string>Exodus Rare</string>
+	</array>
+	<array>
+		<string>Excavation</string>
+		<string>1U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{1}, Sacrifice a land: Draw a card. Any player may activate this ability.</string>
+		<string>Prophecy Uncommon</string>
+	</array>
+	<array>
+		<string>Excavator</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}, Sacrifice a basic land: Target creature gains landwalk of each of the land types of the sacrificed land until end of turn.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Excise</string>
+		<string>XW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile target attacking creature unless its controller pays {X}.</string>
+		<string>Prophecy Common</string>
+	</array>
+	<array>
+		<string>Exclude</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target creature spell.
+Draw a card.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Exclusion Ritual</string>
+		<string>4WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Imprint - When Exclusion Ritual enters the battlefield, exile target nonland permanent.
+Players can't cast spells with the same name as the exiled card.</string>
+		<string>New Phyrexia Uncommon</string>
+	</array>
+	<array>
+		<string>Excommunicate</string>
+		<string>2W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put target creature on top of its owner's library.</string>
+		<string>Magic 2011 Common, Magic 2010 Common, Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Excruciator</string>
+		<string>6RR</string>
+		<string>Creature  - Avatar</string>
+		<string>(7/7)</string>
+		<string>Damage that would be dealt by Excruciator can't be prevented.</string>
+		<string>Ravnica: City of Guilds Rare</string>
+	</array>
+	<array>
+		<string>Execute</string>
+		<string>2B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target white creature. It can't be regenerated.
+Draw a card.</string>
+		<string>Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon</string>
+	</array>
+	<array>
+		<string>Executioner's Capsule</string>
+		<string>B</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.</string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Exhaustion</string>
+		<string>2U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Creatures and lands target opponent controls don't untap during his or her next untap step.</string>
+		<string>Ninth Edition Uncommon, Starter 1999 Uncommon, Portal Three Kingdoms Rare, Urza's Saga Uncommon, Portal Second Age Rare, Portal Rare</string>
+	</array>
+	<array>
+		<string>Exhume</string>
+		<string>1B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player puts a creature card from his or her graveyard onto the battlefield.</string>
+		<string>Battle Royale Box Set Common, Urza's Saga Common</string>
+	</array>
+	<array>
+		<string>Exhumer Thrull</string>
+		<string>5B</string>
+		<string>Creature  - Thrull</string>
+		<string>(3/3)</string>
+		<string>Haunt (When this creature dies, exile it haunting target creature.)
+When Exhumer Thrull enters the battlefield or the creature it haunts dies, return target creature card from your graveyard to your hand.</string>
+		<string>Guildpact Uncommon</string>
+	</array>
+	<array>
+		<string>Exile</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile target nonwhite attacking creature. You gain life equal to its toughness.</string>
+		<string>Masters Edition Common, Classic Sixth Edition Rare, Alliances Rare</string>
+	</array>
+	<array>
+		<string>Exile into Darkness</string>
+		<string>4B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player sacrifices a creature with converted mana cost 3 or less.
+At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Exile into Darkness from your graveyard to your hand.</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Exiled Boggart</string>
+		<string>1B</string>
+		<string>Creature  - Goblin Rogue</string>
+		<string>(2/2)</string>
+		<string>When Exiled Boggart dies, discard a card.</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Exiled Doomsayer</string>
+		<string>1W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/2)</string>
+		<string>All morph costs cost {2} more. (This doesn't affect the cost to cast creature spells face down.)</string>
+		<string>Scourge Rare</string>
+	</array>
+	<array>
+		<string>Exorcist</string>
+		<string>WW</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>{1}{W}, {T}: Destroy target black creature.</string>
+		<string>Masters Edition III Uncommon, The Dark Rare</string>
+	</array>
+	<array>
+		<string>Exoskeletal Armor</string>
+		<string>1G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.</string>
+		<string>Judgment Uncommon</string>
+	</array>
+	<array>
+		<string>Exotic Curse</string>
+		<string>2B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Domain - Enchanted creature gets -1/-1 for each basic land type among lands you control.</string>
+		<string>Duel Decks: Phyrexia vs. the Coalition Common, Invasion Common</string>
+	</array>
+	<array>
+		<string>Exotic Disease</string>
+		<string>4B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Domain - Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.</string>
+		<string>Planeshift Uncommon</string>
+	</array>
+	<array>
+		<string>Exotic Orchard</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.</string>
+		<string>Conflux Rare</string>
+	</array>
+	<array>
+		<string>Expedition Map</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Expendable Troops</string>
+		<string>1W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/1)</string>
+		<string>{T}, Sacrifice Expendable Troops: Expendable Troops deals 2 damage to target attacking or blocking creature.</string>
+		<string>Urza's Legacy Common</string>
+	</array>
+	<array>
+		<string>Experiment Kraj</string>
+		<string>2GGUU</string>
+		<string>Legendary Creature  - Ooze Mutant</string>
+		<string>(4/6)</string>
+		<string>Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it.
+{T}: Put a +1/+1 counter on target creature.</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>Exploding Borders</string>
+		<string>2RG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Domain - Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player, where X is the number of basic land types among lands you control.</string>
+		<string>Conflux Common</string>
+	</array>
+	<array>
+		<string>Exploration</string>
+		<string>G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>You may play an additional land on each of your turns.</string>
+		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Explore</string>
+		<string>1G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>You may play an additional land this turn.
+Draw a card.</string>
+		<string>Worldwake Common</string>
+	</array>
+	<array>
+		<string>Explorer's Scope</string>
+		<string>1</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Explosive Growth</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Target creature gets +2/+2 until end of turn. If Explosive Growth was kicked, that creature gets +5/+5 until end of turn instead.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Explosive Revelation</string>
+		<string>3RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that creature or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Explosive Vegetation</string>
+		<string>3G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.</string>
+		<string>Magic: The Gathering-Commander Uncommon, Planechase Uncommon, Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Expunge</string>
+		<string>2B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target nonartifact, nonblack creature. It can't be regenerated.
+Cycling {2} ({2}, Discard this card: Draw a card.)</string>
+		<string>Urza's Saga Common</string>
+	</array>
+	<array>
+		<string>Exsanguinate</string>
+		<string>XBB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each opponent loses X life. You gain life equal to the life lost this way.</string>
+		<string>Scars of Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>Extinction</string>
+		<string>4B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy all creatures of the creature type of your choice.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Extinguish</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target sorcery spell.</string>
+		<string>Starter 1999 Common, Portal Three Kingdoms Common, Portal Second Age Common</string>
+	</array>
+	<array>
+		<string>Extirpate</string>
+		<string>B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.</string>
+		<string>Planar Chaos Rare</string>
+	</array>
+	<array>
+		<string>Extortion</string>
+		<string>3BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Look at target player's hand and choose up to two cards from it. That player discards those cards.</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Extra Arms</string>
+		<string>4R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Whenever enchanted creature attacks, it deals 2 damage to target creature or player.</string>
+		<string>Scourge Uncommon</string>
+	</array>
+	<array>
+		<string>Extract</string>
+		<string>U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search target player's library for a card and exile it. Then that player shuffles his or her library.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Extractor Demon</string>
+		<string>4BB</string>
+		<string>Creature  - Demon</string>
+		<string>(5/5)</string>
+		<string>Flying
+Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.
+Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</string>
+		<string>Magic: The Gathering-Commander Rare, Archenemy Rare, Conflux Rare</string>
+	</array>
+	<array>
+		<string>Extraplanar Lens</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Imprint - When Extraplanar Lens enters the battlefield, you may exile target land you control.
+Whenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana to his or her mana pool of any type that land produced.</string>
+		<string>Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Extravagant Spirit</string>
+		<string>3U</string>
+		<string>Creature  - Spirit</string>
+		<string>(4/4)</string>
+		<string>Flying
+At the beginning of your upkeep, sacrifice Extravagant Spirit unless you pay {1} for each card in your hand.</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Extruder</string>
+		<string>4</string>
+		<string>Artifact Creature  - Juggernaut</string>
+		<string>(4/3)</string>
+		<string>Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Sacrifice an artifact: Put a +1/+1 counter on target creature.</string>
+		<string>Urza's Destiny Uncommon</string>
+	</array>
+	<array>
+		<string>Exuberant Firestoker</string>
+		<string>2R</string>
+		<string>Creature  - Human Druid Shaman</string>
+		<string>(1/1)</string>
+		<string>At the beginning of your end step, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player.
+{T}: Add {1} to your mana pool.</string>
+		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Eye for an Eye</string>
+		<string>WW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.</string>
+		<string>Masters Edition IV Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Arabian Nights Uncommon</string>
+	</array>
+	<array>
+		<string>Eye of Nowhere</string>
+		<string>UU</string>
+		<string>Sorcery  - Arcane</string>
+		<string></string>
+		<string>Return target permanent to its owner's hand.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Eye of Ramos</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Add {U} to your mana pool.
+Sacrifice Eye of Ramos: Add {U} to your mana pool.</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Eye of Singularity</string>
+		<string>3W</string>
+		<string>World Enchantment</string>
+		<string></string>
+		<string>When Eye of Singularity enters the battlefield, destroy each permanent with the same name as another permanent, except for basic lands. They can't be regenerated.
+Whenever a permanent other than a basic land enters the battlefield, destroy all other permanents with that name. They can't be regenerated.</string>
+		<string>Visions Rare</string>
+	</array>
+	<array>
+		<string>Eye of the Storm</string>
+		<string>5UU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a player casts an instant or sorcery card, exile it. Then that player copies each instant or sorcery card exiled with Eye of the Storm. For each copy, the player may cast the copy without paying its mana cost.</string>
+		<string>Ravnica: City of Guilds Rare</string>
+	</array>
+	<array>
+		<string>Eye of Ugin</string>
+		<string>Legendary Land</string>
+		<string></string>
+		<string>Colorless Eldrazi spells you cast cost {2} less to cast.
+{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.</string>
+		<string>Worldwake Mythic Rare</string>
+	</array>
+	<array>
+		<string>Eye of Yawgmoth</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}, Sacrifice a creature: Reveal a number of cards from the top of your library equal to the sacrificed creature's power. Put one into your hand and exile the rest.</string>
+		<string>Nemesis Rare</string>
+	</array>
+	<array>
+		<string>Eye Spy</string>
+		<string>U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Look at the top card of target player's library. You may put that card into his or her graveyard.</string>
+		<string>Starter 1999 Uncommon, Portal Second Age Uncommon</string>
+	</array>
+	<array>
+		<string>Eye to Eye</string>
+		<string>2B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>You and target creature's controller have a staring contest. If you win, destroy that creature.</string>
+		<string>Unhinged Uncommon</string>
+	</array>
+	<array>
+		<string>Eyeblight's Ending</string>
+		<string>2B</string>
+		<string>Tribal Instant  - Elf</string>
+		<string></string>
+		<string>Destroy target non-Elf creature.</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Eyes of the Watcher</string>
+		<string>2U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you cast an instant or sorcery spell, you may pay {1}. If you do, scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</string>
+		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Eyes of the Wisent</string>
+		<string>1G</string>
+		<string>Tribal Enchantment  - Elemental</string>
+		<string></string>
+		<string>Whenever an opponent casts a blue spell during your turn, you may put a 4/4 green Elemental creature token onto the battlefield.</string>
+		<string>Lorwyn Rare</string>
+	</array>
+	<array>
+		<string>Ezuri, Renegade Leader</string>
+		<string>1GG</string>
+		<string>Legendary Creature  - Elf Warrior</string>
+		<string>(2/2)</string>
+		<string>{G}: Regenerate another target Elf.
+{2}{G}{G}{G}: Elf creatures you control get +3/+3 and gain trample until end of turn.</string>
+		<string>Scars of Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Ezuri's Archers</string>
+		<string>G</string>
+		<string>Creature  - Elf Archer</string>
+		<string>(1/2)</string>
+		<string>Reach (This creature can block creatures with flying.)
+Whenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets +3/+0 until end of turn.</string>
+		<string>Scars of Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Ezuri's Brigade</string>
+		<string>2GG</string>
+		<string>Creature  - Elf Warrior</string>
+		<string>(4/4)</string>
+		<string>Metalcraft - As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.</string>
+		<string>Scars of Mirrodin Rare</string>
+	</array>
+</array>
+</plist>

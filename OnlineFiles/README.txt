@@ -1,0 +1,1 @@
+This directory is intended to be a mirror of the files directory on the remote server.  You can probably pretty much ignore this directory.

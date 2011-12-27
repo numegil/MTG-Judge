@@ -1,0 +1,69 @@
+Stop - 0
+The vast majority of Magic players play for fun and enjoyment, and see a tournament as a social event. By running events at Regular "Rules Enforcement Level" (REL), we (as judges) can encourage this environment by curtailing certain behaviours while fostering others. For example, letting players chat during a booster draft is fine - up to the point of giving strategy advice or discussing the draft itself, which is where we draw the line. This document defines those boundaries, and helps you help your players have a fun event.
+
+Your players, in turn, are expected to play correctly. However, Magic is a complicated game and it is easy to make a mistake - like playing a spell without the correct resources or neglecting to take a mandatory action. While we can't protect players from playing badly, we can do our best to fix the situation and it is important players know that when something goes wrong, calling a Judge is the best course of action.
+
+When called to the table, ask some questions and if you're confident that the error was accidental it will usually be one of those included in this document. When delivering a ruling, be sure - or go and check the answer. Players will appreciate you making this effort and you will give better rulings. If your situation is not covered by this document, use your experience and common sense to make the best ruling you can, then find out an answer afterwards. Remember that the Head Judge (HJ) has the last word and after the HJ has given a ruling, the players are expected to play on.
+
+Beyond fixing the error it is also important to remind the players to play more carefully - but avoid being heavy handed as you want to keep your events fun and relaxed. Sometimes however, simply reminding players to be more careful will not be enough. A player continuing to make the same mistake despite repeated reminders needs to be warned that the next occurrence will earn them a Game Loss. Hopefully this final step will not be required, but knowing it is possible should get the player to correct their behaviour.
+
+If your event requires deck lists, provides large prizes or is otherwise of a more Competitive nature - run the event at Competitive REL rather than Regular. This will require use of the full Infraction Procedure Guide instead of this document, as some rulings require more complex solutions.
+
+Stop - 1
+A player has forgotten to take an required game action since the start of their last turn:
+
+If the action was optional, assume they chose not to - and no further fix is required. Otherwise, resolve the action now. If several instances of an action have been forgotten, resolve any that have been missed this turn. Any older instances are ignored.
+--------------------------------------------------
+A player accidentally flipped over a card while shuffling or saw a card they shouldn't have:
+
+Find out if any of the deck is "known" (perhaps a previous spell put cards on the bottom?) then put the revealed card/s back into, and shuffle, the "unknown" portion. They can then continue playing normally.
+--------------------------------------------------
+Instead of drawing the correct amount of cards, a player has accidentally drawn more:
+
+Determine how many extra cards have been drawn, then take that many cards at random from the players' hand and replace them on top of the library - or if this was their opening hand, shuffle them back in (they can make mulligan decisions based on this new hand).
+--------------------------------------------------
+A player makes an in-game error not mentioned above:
+
+This will be the bulk of player errors - and we will usually leave the game as is. Fix anything that is currently illegal (like a green enchantment on a Pro:Green creature) and continue the game. However, if the error was caught straight away and backing up is relatively easy, do so. If you do choose to back up it's important to reverse all the actions - no partial fixes!
+--------------------------------------------------
+A player has illegal, insufficient, or another players' cards in their deck:
+
+Remove any cards that shouldn't be there and replace any cards that should - or Basic Lands of their choice if the deck/sideboard is short. If discovered during a draw effect, have them redraw after fixing and shuffling their deck. Additionally, recommend that the players count their deck and sideboard before they start a match.
+
+Stop - 2
+There will sometimes be issues that do not have official fixes, but need to be discouraged. These include, but are not limited to;
+
+Players taking unreasonable amounts of time side-boarding or making play decisions
+Inadequate shuffling after a search
+Asking for, or providing, strategy advice during a tournament match or booster draft
+
+In all of these cases, educate the player on better behaviour - for example, alternate shuffling techniques or the importance of allowing players to make their own decisions. Players continuing to exhibit specific unwanted behaviour after being instructed otherwise should be issued with a Game Loss.
+
+Players arriving late to their game deserve a special mention, as players more than ten minutes late are considered to have forfeited their match. Also deserving special mention are players engaging in conduct that you feel is likely to upset, offend or affect the safety of others - e.g. using foul language or tearing up cards. Give these players a stern chat about what is expected in your event/store - and let them know that failure to curb this behaviour is considered a Serious Problem and will result in their disqualification.
+
+Stop - 3
+There are also certain behaviours that will not be tolerated in any sanctioned event. Any player engaging in the following must be disqualified from your event:
+
+Aggressive, violent or abusive behaviour (physical or verbal).
+Cheating, lying or intentionally making illegal game actions or trying to avoid penalties
+Influencing Match outcomes (by incentives, coercion or random methods)
+Theft (this includes things like replacing a chase rare in a draft with one from their binder)
+
+If you do have to hand out a Disqualification, let the players know that while your decision is final, the DCI would still like to hear their side of the story. Contact your WPN representative directly, and they will advise you further.
+
+Stop - 4
+Need an answer now? Try logging in to http://dcifamily.org/askthejudge/ - and ask!
+
+Want to find a local judge? Use the Judge Center at https://membership.wizards.com/login.aspx and click on the People tab - use the filters at the bottom to narrow your search, then send them a message!
+
+Event Sanctioning How-To- http://tinyurl.com/TO-Sanction
+
+Wizards Play Network FAQ - go to the http://wizards.custhelp.com/ site and search for WPN FAQ
+
+TO Community Forums - http://tinyurl.com/TO-HQ
+
+Magic Document Center - Home of the Tournament Rules and the Infraction Procedure Guide http://tinyurl.com/DCI-Docs
+
+Magic Rules-also links to Gatherer and Set FAQ's (in various languages) http://tinyurl.com/DCI-Rules
+
+Magic Community Rules Page - lots of the above, translated for your enjoyment - http://www.dcirules.org/

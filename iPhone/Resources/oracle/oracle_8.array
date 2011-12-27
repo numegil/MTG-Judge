@@ -1,0 +1,2526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Ib Halfheart, Goblin Tactician</string>
+		<string>3R</string>
+		<string>Legendary Creature  - Goblin Advisor</string>
+		<string>(3/2)</string>
+		<string>Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.
+Sacrifice two Mountains: Put two 1/1 red Goblin creature tokens onto the battlefield.</string>
+		<string>Duel Decks: Elves vs. Goblins Rare, Time Spiral Rare</string>
+	</array>
+	<array>
+		<string>Icatian Crier</string>
+		<string>2W</string>
+		<string>Creature  - Human Spellshaper</string>
+		<string>(1/1)</string>
+		<string>{1}{W}, {T}, Discard a card: Put two 1/1 white Citizen creature tokens onto the battlefield.</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Icatian Infantry</string>
+		<string>W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/1)</string>
+		<string>{1}: Icatian Infantry gains first strike until end of turn.
+{1}: Icatian Infantry gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</string>
+		<string>Fallen Empires Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Icatian Javelineers</string>
+		<string>W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/1)</string>
+		<string>Icatian Javelineers enters the battlefield with a javelin counter on it.
+{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.</string>
+		<string>Masters Edition II Common, Time Spiral "Timeshifted" Special, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Icatian Lieutenant</string>
+		<string>WW</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/2)</string>
+		<string>{1}{W}: Target Soldier creature gets +1/+0 until end of turn.</string>
+		<string>Masters Edition Common, Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Icatian Moneychanger</string>
+		<string>W</string>
+		<string>Creature  - Human</string>
+		<string>(0/2)</string>
+		<string>Icatian Moneychanger enters the battlefield with three credit counters on it.
+When Icatian Moneychanger enters the battlefield, it deals 3 damage to you.
+At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.
+Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.</string>
+		<string>Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Icatian Phalanx</string>
+		<string>4W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/4)</string>
+		<string>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</string>
+		<string>Masters Edition II Common, Fifth Edition Uncommon, Fallen Empires Uncommon</string>
+	</array>
+	<array>
+		<string>Icatian Priest</string>
+		<string>W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>{1}{W}{W}: Target creature gets +1/+1 until end of turn.</string>
+		<string>Duel Decks: Divine vs. Demonic Uncommon, Tenth Edition Uncommon, Fallen Empires Uncommon</string>
+	</array>
+	<array>
+		<string>Icatian Scout</string>
+		<string>W</string>
+		<string>Creature  - Human Soldier Scout</string>
+		<string>(1/1)</string>
+		<string>{1}, {T}: Target creature gains first strike until end of turn.</string>
+		<string>Masters Edition II Common, Fifth Edition Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Icatian Skirmishers</string>
+		<string>3W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/1)</string>
+		<string>First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Whenever Icatian Skirmishers attacks, all creatures banded with it gain first strike until end of turn.</string>
+		<string>Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Icatian Store</string>
+		<string>Land</string>
+		<string></string>
+		<string>Icatian Store enters the battlefield tapped.
+You may choose not to untap Icatian Store during your untap step.
+At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it.
+{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.</string>
+		<string>Fifth Edition Rare, Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Icatian Town</string>
+		<string>5W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put four 1/1 white Citizen creature tokens onto the battlefield.</string>
+		<string>Masters Edition Uncommon, Classic Sixth Edition Rare, Fifth Edition Rare, Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Ice Cage</string>
+		<string>1U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+When enchanted creature becomes the target of a spell or ability, destroy Ice Cage.</string>
+		<string>Magic 2012 Common, Magic 2011 Common, Magic 2010 Common</string>
+	</array>
+	<array>
+		<string>Ice Cauldron</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{X}, {T}: Put a charge counter on Ice Cauldron and exile a nonland card from your hand. You may cast that card for as long as it remains exiled. Note the type and amount of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Ice Cauldron.
+{T}, Remove a charge counter from Ice Cauldron: Add Ice Cauldron's last noted type and amount of mana to your mana pool. Spend this mana only to cast the last card exiled with Ice Cauldron.</string>
+		<string>Masters Edition IV Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Ice Cave</string>
+		<string>3UU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a player casts a spell, any other player may pay that spell's mana cost. If a player does, counter the spell. (Mana cost includes color.)</string>
+		<string>Apocalypse Rare</string>
+	</array>
+	<array>
+		<string>Ice Floe</string>
+		<string>Land</string>
+		<string></string>
+		<string>You may choose not to untap Ice Floe during your untap step.
+{T}: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped.</string>
+		<string>Masters Edition II Uncommon, Fifth Edition Uncommon, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Ice Storm</string>
+		<string>2G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target land.</string>
+		<string>Masters Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Iceberg</string>
+		<string>XUU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Iceberg enters the battlefield with X ice counters on it.
+{3}: Put an ice counter on Iceberg.
+Remove an ice counter from Iceberg: Add {1} to your mana pool.</string>
+		<string>Masters Edition II Uncommon, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Icefall</string>
+		<string>2RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target artifact or land.
+Recover {R}{R} (When a creature is put into your graveyard from the battlefield, you may pay {R}{R}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)</string>
+		<string>Coldsnap Common</string>
+	</array>
+	<array>
+		<string>Icequake</string>
+		<string>1BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land's controller.</string>
+		<string>Masters Edition II Common, Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Ichneumon Druid</string>
+		<string>1GG</string>
+		<string>Creature  - Human Druid</string>
+		<string>(1/1)</string>
+		<string>Whenever an opponent casts an instant spell other than the first instant spell that player casts each turn, Ichneumon Druid deals 4 damage to him or her.</string>
+		<string>Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Ichor Explosion</string>
+		<string>5BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>As an additional cost to cast Ichor Explosion, sacrifice a creature.
+All creatures get -X/-X until end of turn, where X is the sacrificed creature's power.</string>
+		<string>New Phyrexia Uncommon</string>
+	</array>
+	<array>
+		<string>Ichor Rats</string>
+		<string>1BB</string>
+		<string>Creature  - Rat</string>
+		<string>(2/1)</string>
+		<string>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Ichor Rats enters the battlefield, each player gets a poison counter.</string>
+		<string>Scars of Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>Ichor Slick</string>
+		<string>2B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target creature gets -3/-3 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+Madness {3}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</string>
+		<string>Duel Decks: Garruk vs. Liliana Common, Future Sight Common</string>
+	</array>
+	<array>
+		<string>Ichor Wellspring</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.</string>
+		<string>Mirrodin Besieged Common</string>
+	</array>
+	<array>
+		<string>Ichorclaw Myr</string>
+		<string>2</string>
+		<string>Artifact Creature  - Myr</string>
+		<string>(1/1)</string>
+		<string>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.</string>
+		<string>Scars of Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Ichorid</string>
+		<string>3B</string>
+		<string>Creature  - Horror</string>
+		<string>(3/1)</string>
+		<string>Haste
+At the beginning of the end step, sacrifice Ichorid.
+At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield.</string>
+		<string>Torment Rare</string>
+	</array>
+	<array>
+		<string>Icy Manipulator</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}: Tap target artifact, creature, or land.</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Uncommon, Masters Edition IV Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon, Ice Age Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Icy Prison</string>
+		<string>UU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When Icy Prison enters the battlefield, exile target creature.
+At the beginning of your upkeep, sacrifice Icy Prison unless any player pays {3}.
+When Icy Prison leaves the battlefield, return the exiled card to the battlefield under its owner's control.</string>
+		<string>Masters Edition II Common, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Ideas Unbound</string>
+		<string>UU</string>
+		<string>Sorcery  - Arcane</string>
+		<string></string>
+		<string>Draw three cards. Discard three cards at the beginning of the next end step.</string>
+		<string>Saviors of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Identity Crisis</string>
+		<string>2WWBB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Exile all cards from target player's hand and graveyard.</string>
+		<string>Alara Reborn Rare</string>
+	</array>
+	<array>
+		<string>Idle Thoughts</string>
+		<string>3U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{2}: Draw a card if you have no cards in hand.</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Idyllic Tutor</string>
+		<string>2W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search your library for an enchantment card, reveal it, and put it into your hand. Then shuffle your library.</string>
+		<string>Morningtide Rare</string>
+	</array>
+	<array>
+		<string>Ifh-Bíff Efreet</string>
+		<string>2GG</string>
+		<string>Creature  - Efreet</string>
+		<string>(3/3)</string>
+		<string>Flying
+{G}: Ifh-Bíff Efreet deals 1 damage to each creature with flying and each player. Any player may activate this ability.</string>
+		<string>Masters Edition Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Igneous Golem</string>
+		<string>5</string>
+		<string>Artifact Creature  - Golem</string>
+		<string>(3/4)</string>
+		<string>{2}: Igneous Golem gains trample until end of turn.</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Igneous Pouncer</string>
+		<string>4BR</string>
+		<string>Creature  - Elemental</string>
+		<string>(5/1)</string>
+		<string>Haste
+Swampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)</string>
+		<string>Duel Decks: Ajani vs. Nicol Bolas Common, Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Ignite Disorder</string>
+		<string>1R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Ignite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures.</string>
+		<string>Magic 2010 Uncommon, Conflux Uncommon</string>
+	</array>
+	<array>
+		<string>Ignite Memories</string>
+		<string>4R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player reveals a card at random from his or her hand. Ignite Memories deals damage to that player equal to that card's converted mana cost.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</string>
+		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Ignoble Soldier</string>
+		<string>2W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(3/1)</string>
+		<string>Whenever Ignoble Soldier becomes blocked, prevent all combat damage that would be dealt by it this turn.</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Ignorant Bliss</string>
+		<string>1R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile all cards from your hand face down. At the beginning of the next end step, return those cards to your hand, then draw a card.</string>
+		<string>Dissension Uncommon</string>
+	</array>
+	<array>
+		<string>Ihsan's Shade</string>
+		<string>3BBB</string>
+		<string>Legendary Creature  - Shade Knight</string>
+		<string>(5/5)</string>
+		<string>Protection from white</string>
+		<string>Masters Edition II Rare, Homelands Uncommon</string>
+	</array>
+	<array>
+		<string>Iizuka the Ruthless</string>
+		<string>3RR</string>
+		<string>Legendary Creature  - Human Samurai</string>
+		<string>(3/3)</string>
+		<string>Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)
+{2}{R}, Sacrifice a Samurai: Samurai creatures you control gain double strike until end of turn.</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Ikiral Outrider</string>
+		<string>1W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/2)</string>
+		<string>Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-3
+2/6
+Vigilance
+LEVEL 4+
+3/10
+Vigilance</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Ill-Gotten Gains</string>
+		<string>2BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Exile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.</string>
+		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Illicit Auction</string>
+		<string>3RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player may bid life for control of target creature. You start the bidding with a bid of 0. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and gains control of the creature. (This effect lasts indefinitely.)</string>
+		<string>Classic Sixth Edition Rare, Mirage Rare</string>
+	</array>
+	<array>
+		<string>Illuminate</string>
+		<string>XR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Kicker {2}{R} and/or {3}{U} (You may pay an additional {2}{R} and/or {3}{U} as you cast this spell.)
+Illuminate deals X damage to target creature. If Illuminate was kicked with its {2}{R} kicker, it deals X damage to that creature's controller. If Illuminate was kicked with its {3}{U} kicker, you draw X cards.</string>
+		<string>Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Illuminated Folio</string>
+		<string>5</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}, Reveal two cards from your hand that share a color: Draw a card.</string>
+		<string>Shadowmoor Uncommon</string>
+	</array>
+	<array>
+		<string>Illuminated Wings</string>
+		<string>1U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has flying.
+{2}, Sacrifice Illuminated Wings: Draw a card.</string>
+		<string>Urza's Destiny Common</string>
+	</array>
+	<array>
+		<string>Illumination</string>
+		<string>WW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Illusion // Reality (Illusion)</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target spell or permanent becomes the color of your choice until end of turn.
+</string>
+		<string>Apocalypse Uncommon, Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Illusion // Reality (Reality)</string>
+		<string>2G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target artifact.</string>
+		<string>Apocalypse Uncommon, Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Illusionary Forces</string>
+		<string>3U</string>
+		<string>Creature  - Illusion</string>
+		<string>(4/4)</string>
+		<string>Flying
+Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</string>
+		<string>Masters Edition Uncommon, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Illusionary Mask</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery.</string>
+		<string>Masters Edition III Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
+	</array>
+	<array>
+		<string>Illusionary Presence</string>
+		<string>1UU</string>
+		<string>Creature  - Illusion</string>
+		<string>(2/2)</string>
+		<string>Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+At the beginning of your upkeep, choose a land type. Illusionary Presence gains landwalk of the chosen type until end of turn.</string>
+		<string>Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Illusionary Servant</string>
+		<string>1UU</string>
+		<string>Creature  - Illusion</string>
+		<string>(3/4)</string>
+		<string>Flying
+When Illusionary Servant becomes the target of a spell or ability, sacrifice it.</string>
+		<string>Magic 2010 Common</string>
+	</array>
+	<array>
+		<string>Illusionary Terrain</string>
+		<string>UU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+As Illusionary Terrain enters the battlefield, choose two basic land types.
+Basic lands of the first chosen type are the second chosen type.</string>
+		<string>Ice Age Uncommon</string>
+	</array>
+	<array>
+		<string>Illusionary Wall</string>
+		<string>4U</string>
+		<string>Creature  - Illusion Wall</string>
+		<string>(7/4)</string>
+		<string>Defender, flying, first strike
+Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</string>
+		<string>Masters Edition Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Illusions of Grandeur</string>
+		<string>3U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Illusions of Grandeur enters the battlefield, you gain 20 life.
+When Illusions of Grandeur leaves the battlefield, you lose 20 life.</string>
+		<string>Masters Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Illusory Demon</string>
+		<string>1UB</string>
+		<string>Creature  - Demon Illusion</string>
+		<string>(4/3)</string>
+		<string>Flying
+When you cast a spell, sacrifice Illusory Demon.</string>
+		<string>Alara Reborn Uncommon</string>
+	</array>
+	<array>
+		<string>I'm Rubber, You're Glue</string>
+		<string>WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Speak only in rhyming sentences. If you do not, sacrifice I'm Rubber, You're Glue.
+Say "I'm rubber, you're glue. Everything bounces off me and sticks to you": Target spell or ability, which targets only you, targets another player of your choice instead. (The new target must be legal.)</string>
+		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Imagecrafter</string>
+		<string>U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>{T}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.</string>
+		<string>Onslaught Common</string>
+	</array>
+	<array>
+		<string>Imaginary Pet</string>
+		<string>1U</string>
+		<string>Creature  - Illusion</string>
+		<string>(4/4)</string>
+		<string>At the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand.</string>
+		<string>Ninth Edition Rare, Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Imi Statue</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Players can't untap more than one artifact during their untap steps.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Immaculate Magistrate</string>
+		<string>3G</string>
+		<string>Creature  - Elf Shaman</string>
+		<string>(2/2)</string>
+		<string>{T}: Put a +1/+1 counter on target creature for each Elf you control.</string>
+		<string>Lorwyn Rare</string>
+	</array>
+	<array>
+		<string>Immobilizing Ink</string>
+		<string>1U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{1}, Discard a card: Untap this creature."</string>
+		<string>Odyssey Common</string>
+	</array>
+	<array>
+		<string>Immolating Souleater</string>
+		<string>2</string>
+		<string>Artifact Creature  - Hound</string>
+		<string>(1/1)</string>
+		<string>{(r/p)}: Immolating Souleater gets +1/+0 until end of turn. ({(r/p)} can be paid with either {R} or 2 life.)</string>
+		<string>New Phyrexia Common</string>
+	</array>
+	<array>
+		<string>Immolation</string>
+		<string>R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +2/-2.</string>
+		<string>Masters Edition III Common, Fourth Edition Common, Legends Common</string>
+	</array>
+	<array>
+		<string>Immortal Coil</string>
+		<string>2BB</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}, Exile two cards from your graveyard: Draw a card.
+If damage would be dealt to you, prevent that damage. Exile a card from your graveyard for each 1 damage prevented this way.
+When there are no cards in your graveyard, you lose the game.</string>
+		<string>Shards of Alara Rare</string>
+	</array>
+	<array>
+		<string>Impaler Shrike</string>
+		<string>2UU</string>
+		<string>Creature  - Bird</string>
+		<string>(3/1)</string>
+		<string>Flying
+Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.</string>
+		<string>New Phyrexia Common</string>
+	</array>
+	<array>
+		<string>Impatience</string>
+		<string>2R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's end step, if that player didn't cast a spell this turn, Impatience deals 2 damage to him or her.</string>
+		<string>Seventh Edition Rare, Urza's Destiny Rare</string>
+	</array>
+	<array>
+		<string>Impelled Giant</string>
+		<string>4RR</string>
+		<string>Creature  - Giant Warrior</string>
+		<string>(3/3)</string>
+		<string>Trample
+Tap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way.</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Impending Disaster</string>
+		<string>1R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, if there are seven or more lands on the battlefield, sacrifice Impending Disaster and destroy all lands.</string>
+		<string>Urza's Legacy Rare</string>
+	</array>
+	<array>
+		<string>Imperial Edict</string>
+		<string>1B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target opponent chooses a creature he or she controls. Destroy it.</string>
+		<string>Portal Three Kingdoms Common</string>
+	</array>
+	<array>
+		<string>Imperial Hellkite</string>
+		<string>5RR</string>
+		<string>Creature  - Dragon</string>
+		<string>(6/6)</string>
+		<string>Flying
+Morph {6}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.</string>
+		<string>Archenemy Rare, Legions Rare</string>
+	</array>
+	<array>
+		<string>Imperial Mask</string>
+		<string>4W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>When Imperial Mask enters the battlefield, if it's not a token, each of your teammates puts a token that's a copy of Imperial Mask onto the battlefield.
+You have hexproof. (You can't be the target of spells or abilities your opponents control.)</string>
+		<string>Future Sight Rare</string>
+	</array>
+	<array>
+		<string>Imperial Recruiter</string>
+		<string>2R</string>
+		<string>Creature  - Human Advisor</string>
+		<string>(1/1)</string>
+		<string>When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.</string>
+		<string>Masters Edition II Rare, Portal Three Kingdoms Uncommon</string>
+	</array>
+	<array>
+		<string>Imperial Seal</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</string>
+		<string>Masters Edition II Rare, Portal Three Kingdoms Rare</string>
+	</array>
+	<array>
+		<string>Imperiosaur</string>
+		<string>2GG</string>
+		<string>Creature  - Lizard</string>
+		<string>(5/5)</string>
+		<string>Spend only mana produced by basic lands to cast Imperiosaur.</string>
+		<string>Future Sight Uncommon</string>
+	</array>
+	<array>
+		<string>Imperious Perfect</string>
+		<string>2G</string>
+		<string>Creature  - Elf Warrior</string>
+		<string>(2/2)</string>
+		<string>Other Elf creatures you control get +1/+1.
+{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.</string>
+		<string>Duel Decks: Elves vs. Goblins Uncommon, Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Implements of Sacrifice</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.</string>
+		<string>Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Implode</string>
+		<string>4R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target land.
+Draw a card.</string>
+		<string>Planeshift Uncommon</string>
+	</array>
+	<array>
+		<string>Imposing Visage</string>
+		<string>R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature can't be blocked except by two or more creatures.</string>
+		<string>Fifth Edition Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Imprison</string>
+		<string>B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Whenever a player activates an ability of enchanted creature with {T} in its activation cost that isn't a mana ability, you may pay {1}. If you do, counter that ability. If you don't, destroy Imprison.
+Whenever enchanted creature attacks or blocks, you may pay {1}. If you do, tap the creature, remove it from combat, and creatures it was blocking that had become blocked by only that creature this combat become unblocked. If you don't, destroy Imprison.</string>
+		<string>Legends Rare</string>
+	</array>
+	<array>
+		<string>Impromptu Raid</string>
+		<string>3(R/G)</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{2}{(r/g)}: Reveal the top card of your library. If it isn't a creature card, put it into your graveyard. Otherwise, put that card onto the battlefield. That creature gains haste. Sacrifice it at the beginning of the next end step.</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Improvised Armor</string>
+		<string>3W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +2/+5.
+Cycling {3} ({3}, Discard this card: Draw a card.)</string>
+		<string>Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Imp's Mischief</string>
+		<string>1B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Change the target of target spell with a single target. You lose life equal to that spell's converted mana cost.</string>
+		<string>Planar Chaos Rare</string>
+	</array>
+	<array>
+		<string>Imps' Taunt</string>
+		<string>1B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target creature attacks this turn if able.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Impulse</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</string>
+		<string>Beatdown Box Set Common, Visions Common</string>
+	</array>
+	<array>
+		<string>Impulsive Maneuvers</string>
+		<string>2RR</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature attacks, flip a coin. If you win the flip, the next time that creature would deal combat damage this turn, it deals double that damage instead. If you lose the flip, the next time that creature would deal combat damage this turn, prevent that damage.</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>In the Eye of Chaos</string>
+		<string>2U</string>
+		<string>World Enchantment</string>
+		<string></string>
+		<string>Whenever a player casts an instant spell, counter it unless that player pays {X}, where X is its converted mana cost.</string>
+		<string>Masters Edition IV Rare, Legends Rare</string>
+	</array>
+	<array>
+		<string>In the Web of War</string>
+		<string>3RR</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature enters the battlefield under your control, it gets +2/+0 and gains haste until end of turn.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Iname as One</string>
+		<string>8BBGG</string>
+		<string>Legendary Creature  - Spirit</string>
+		<string>(8/8)</string>
+		<string>When Iname as One enters the battlefield, if you cast it from your hand, you may search your library for a Spirit permanent card, put it onto the battlefield, then shuffle your library.
+When Iname as One dies, you may exile it. If you do, return target Spirit permanent card from your graveyard to the battlefield.</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Iname, Death Aspect</string>
+		<string>4BB</string>
+		<string>Legendary Creature  - Spirit</string>
+		<string>(4/4)</string>
+		<string>When Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards and put them into your graveyard. If you do, shuffle your library.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Iname, Life Aspect</string>
+		<string>4GG</string>
+		<string>Legendary Creature  - Spirit</string>
+		<string>(4/4)</string>
+		<string>When Iname, Life Aspect dies, you may exile it. If you do, return any number of target Spirit cards from your graveyard to your hand.</string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Incandescent Soulstoke</string>
+		<string>2R</string>
+		<string>Creature  - Elemental Shaman</string>
+		<string>(2/2)</string>
+		<string>Other Elemental creatures you control get +1/+1.
+{1}{R}, {T}: You may put an Elemental creature card from your hand onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.</string>
+		<string>Lorwyn Rare</string>
+	</array>
+	<array>
+		<string>Incendiary</string>
+		<string>R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+At the beginning of your upkeep, you may put a fuse counter on Incendiary.
+When enchanted creature dies, Incendiary deals X damage to target creature or player, where X is the number of fuse counters on Incendiary.</string>
+		<string>Urza's Destiny Uncommon</string>
+	</array>
+	<array>
+		<string>Incendiary Command</string>
+		<string>3RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose two - Incendiary Command deals 4 damage to target player; or Incendiary Command deals 2 damage to each creature; or destroy target nonbasic land; or each player discards all the cards in his or her hand, then draws that many cards.</string>
+		<string>Lorwyn Rare</string>
+	</array>
+	<array>
+		<string>Incinerate</string>
+		<string>1R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.</string>
+		<string>Magic 2012 Common, Duel Decks: Jace vs. Chandra Common, Masters Edition II Common, Tenth Edition Common, Fifth Edition Common, Mirage Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Incite</string>
+		<string>R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature becomes red until end of turn and attacks this turn if able.</string>
+		<string>Magic 2011 Common</string>
+	</array>
+	<array>
+		<string>Incite Hysteria</string>
+		<string>2R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Radiance - Until end of turn, target creature and each other creature that shares a color with it gain "This creature can't block."</string>
+		<string>Ravnica: City of Guilds Common</string>
+	</array>
+	<array>
+		<string>Incite War</string>
+		<string>2R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose one - Creatures target player controls attack this turn if able; or creatures you control gain first strike until end of turn.
+Entwine {2} (Choose both if you pay the entwine cost.)</string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Incoming!</string>
+		<string>4GGGG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player searches his or her library for any number of artifacts, creatures, enchantments, and lands and puts those cards into play. Each player shuffles his or her library afterwards.</string>
+		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Incremental Blight</string>
+		<string>3BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put a -1/-1 counter on target creature, two -1/-1 counters on another target creature, and three -1/-1 counters on a third target creature.</string>
+		<string>Archenemy Uncommon, Planechase Uncommon, Shadowmoor Uncommon</string>
+	</array>
+	<array>
+		<string>Incremental Growth</string>
+		<string>3GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.</string>
+		<string>Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Incurable Ogre</string>
+		<string>3R</string>
+		<string>Creature  - Ogre Mutant</string>
+		<string>(5/1)</string>
+		<string></string>
+		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Indebted Samurai</string>
+		<string>3W</string>
+		<string>Creature  - Human Samurai</string>
+		<string>(2/3)</string>
+		<string>Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+Whenever a Samurai you control dies, you may put a +1/+1 counter on Indebted Samurai.</string>
+		<string>Betrayers of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Indentured Djinn</string>
+		<string>1UU</string>
+		<string>Creature  - Djinn</string>
+		<string>(4/4)</string>
+		<string>Flying
+When Indentured Djinn enters the battlefield, each other player may draw up to three cards.</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Indentured Oaf</string>
+		<string>3R</string>
+		<string>Creature  - Ogre Warrior</string>
+		<string>(4/3)</string>
+		<string>Prevent all damage that Indentured Oaf would deal to red creatures.</string>
+		<string>Ravnica: City of Guilds Uncommon</string>
+	</array>
+	<array>
+		<string>Independent Troops</string>
+		<string>1R</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/1)</string>
+		<string></string>
+		<string>Portal Three Kingdoms Common</string>
+	</array>
+	<array>
+		<string>Indestructibility</string>
+		<string>3W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant permanent
+Enchanted permanent is indestructible. (Effects that say "destroy" don't destroy that permanent. An indestructible creature can't be destroyed by damage.)</string>
+		<string>Magic 2010 Rare</string>
+	</array>
+	<array>
+		<string>Indestructible Aura</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Prevent all damage that would be dealt to target creature this turn.</string>
+		<string>Chronicles Common, Legends Common</string>
+	</array>
+	<array>
+		<string>Index</string>
+		<string>U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Look at the top five cards of your library, then put them back in any order.</string>
+		<string>Ninth Edition Common, Eighth Edition Common, Apocalypse Common</string>
+	</array>
+	<array>
+		<string>Indigo Faerie</string>
+		<string>1U</string>
+		<string>Creature  - Faerie Wizard</string>
+		<string>(1/1)</string>
+		<string>Flying
+{U}: Target permanent becomes blue in addition to its other colors until end of turn.</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Indomitable Ancients</string>
+		<string>2WW</string>
+		<string>Creature  - Treefolk Warrior</string>
+		<string>(2/10)</string>
+		<string></string>
+		<string>Morningtide Rare</string>
+	</array>
+	<array>
+		<string>Indomitable Archangel</string>
+		<string>2WW</string>
+		<string>Creature  - Angel</string>
+		<string>(4/4)</string>
+		<string>Flying
+Metalcraft - Artifacts you control have shroud as long as you control three or more artifacts.</string>
+		<string>Scars of Mirrodin Mythic Rare</string>
+	</array>
+	<array>
+		<string>Indomitable Will</string>
+		<string>1W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Flash
+Enchant creature
+Enchanted creature gets +1/+2.</string>
+		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Indrik Stomphowler</string>
+		<string>4G</string>
+		<string>Creature  - Beast</string>
+		<string>(4/4)</string>
+		<string>When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.</string>
+		<string>Duel Decks: Garruk vs. Liliana Uncommon, Dissension Uncommon</string>
+	</array>
+	<array>
+		<string>Induce Despair</string>
+		<string>2B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>As an additional cost to cast Induce Despair, reveal a creature card from your hand.
+Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.</string>
+		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Induce Paranoia</string>
+		<string>2UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell. If {B} was spent to cast Induce Paranoia, that spell's controller puts the top X cards of his or her library into his or her graveyard, where X is the spell's converted mana cost.</string>
+		<string>Ravnica: City of Guilds Common</string>
+	</array>
+	<array>
+		<string>Inertia Bubble</string>
+		<string>1U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant artifact
+Enchanted artifact doesn't untap during its controller's untap step.</string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Inescapable Brute</string>
+		<string>5R</string>
+		<string>Creature  - Giant Warrior</string>
+		<string>(3/3)</string>
+		<string>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Inescapable Brute must be blocked if able.</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Inexorable Tide</string>
+		<string>3UU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you cast a spell, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</string>
+		<string>Scars of Mirrodin Rare</string>
+	</array>
+	<array>
+		<string>Infantry Veteran</string>
+		<string>W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/1)</string>
+		<string>{T}: Target attacking creature gets +1/+1 until end of turn.</string>
+		<string>Magic 2011 Common, Duel Decks: Elspeth vs. Tezzeret Common, Ninth Edition Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Visions Common</string>
+	</array>
+	<array>
+		<string>Infected Vermin</string>
+		<string>2B</string>
+		<string>Creature  - Rat</string>
+		<string>(1/1)</string>
+		<string>{2}{B}: Infected Vermin deals 1 damage to each creature and each player.
+Threshold - {3}{B}: Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.</string>
+		<string>Odyssey Uncommon</string>
+	</array>
+	<array>
+		<string>Infectious Horror</string>
+		<string>3B</string>
+		<string>Creature  - Zombie Horror</string>
+		<string>(2/2)</string>
+		<string>Whenever Infectious Horror attacks, each opponent loses 2 life.</string>
+		<string>Archenemy Common, Conflux Common</string>
+	</array>
+	<array>
+		<string>Infectious Host</string>
+		<string>2B</string>
+		<string>Creature  - Zombie</string>
+		<string>(1/1)</string>
+		<string>When Infectious Host dies, target player loses 2 life.</string>
+		<string>Ravnica: City of Guilds Common</string>
+	</array>
+	<array>
+		<string>Infectious Rage</string>
+		<string>1R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +2/-1.
+When enchanted creature dies, choose a creature at random Infectious Rage can enchant. Return Infectious Rage to the battlefield attached to that creature.</string>
+		<string>Judgment Uncommon</string>
+	</array>
+	<array>
+		<string>Infernal Caretaker</string>
+		<string>3B</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(2/2)</string>
+		<string>Morph {3}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Infernal Caretaker is turned face up, return all Zombie cards from all graveyards to their owners' hands.</string>
+		<string>Legions Common</string>
+	</array>
+	<array>
+		<string>Infernal Contract</string>
+		<string>BBB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Draw four cards. You lose half your life, rounded up.</string>
+		<string>Seventh Edition Rare, Classic Sixth Edition Rare, Mirage Rare</string>
+	</array>
+	<array>
+		<string>Infernal Darkness</string>
+		<string>2BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Cumulative upkeep-Pay {B} and 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+If a land is tapped for mana, it produces {B} instead of any other type.</string>
+		<string>Masters Edition II Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Infernal Denizen</string>
+		<string>7B</string>
+		<string>Creature  - Demon</string>
+		<string>(5/7)</string>
+		<string>At the beginning of your upkeep, sacrifice two Swamps. If you can't, tap Infernal Denizen, and an opponent may gain control of a creature you control of his or her choice for as long as Infernal Denizen remains on the battlefield.
+{T}: Gain control of target creature for as long as Infernal Denizen remains on the battlefield.</string>
+		<string>Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Infernal Genesis</string>
+		<string>4BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each player's upkeep, that player puts the top card of his or her library into his or her graveyard. Then he or she puts X 1/1 black Minion creature tokens onto the battlefield, where X is that card's converted mana cost.</string>
+		<string>Prophecy Rare</string>
+	</array>
+	<array>
+		<string>Infernal Harvest</string>
+		<string>1B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>As an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand.
+Infernal Harvest deals X damage divided as you choose among any number of target creatures.</string>
+		<string>Visions Common</string>
+	</array>
+	<array>
+		<string>Infernal Kirin</string>
+		<string>2BB</string>
+		<string>Legendary Creature  - Kirin Spirit</string>
+		<string>(3/3)</string>
+		<string>Flying
+Whenever you cast a Spirit or Arcane spell, target player reveals his or her hand and discards all cards with that spell's converted mana cost.</string>
+		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Infernal Medusa</string>
+		<string>3BB</string>
+		<string>Creature  - Gorgon</string>
+		<string>(2/4)</string>
+		<string>Whenever Infernal Medusa blocks a creature, destroy that creature at end of combat.
+Whenever Infernal Medusa becomes blocked by a non-Wall creature, destroy that creature at end of combat.</string>
+		<string>Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Infernal Plunge</string>
+		<string>R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>As an additional cost to cast Infernal Plunge, sacrifice a creature.
+Add {R}{R}{R} to your mana pool.</string>
+		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Infernal Spawn of Evil</string>
+		<string>6BBB</string>
+		<string>Summon - Demon Beast</string>
+		<string>(7/7)</string>
+		<string>Flying, first strike
+o1oB, Reveal Infernal Spawn of Evil from your hand, Say "It's coming": Infernal Spawn of Evil deals 1 damage to target opponent. Use this ability only during your upkeep and only once each upkeep.</string>
+		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Infernal Spawn of Infernal Spawn of Evil</string>
+		<string>8BB</string>
+		<string>Creature - Demon Child</string>
+		<string>(8/8)</string>
+		<string>Flying, first strike, trample
+If you say "I'm coming, too" as you search your library, you may pay {1B} and reveal Infernal Spawn of Infernal Spawn of Evil from your library to have it deal 2 damage to a player of your choice. Do this no more than once each turn.</string>
+		<string>Unhinged Rare</string>
+	</array>
+	<array>
+		<string>Infernal Tribute</string>
+		<string>BBB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{2}, Sacrifice a nontoken permanent: Draw a card.</string>
+		<string>Weatherlight Rare</string>
+	</array>
+	<array>
+		<string>Infernal Tutor</string>
+		<string>1B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle your library.
+Hellbent - If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle your library.</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>Inferno</string>
+		<string>5RR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Inferno deals 6 damage to each creature and each player.</string>
+		<string>Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, The Dark Rare</string>
+	</array>
+	<array>
+		<string>Inferno Elemental</string>
+		<string>4RR</string>
+		<string>Creature  - Elemental</string>
+		<string>(4/4)</string>
+		<string>Whenever Inferno Elemental blocks or becomes blocked by a creature, Inferno Elemental deals 3 damage to that creature.</string>
+		<string>Magic 2010 Uncommon</string>
+	</array>
+	<array>
+		<string>Inferno Titan</string>
+		<string>4RR</string>
+		<string>Creature  - Giant</string>
+		<string>(6/6)</string>
+		<string>{R}: Inferno Titan gets +1/+0 until end of turn.
+Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</string>
+		<string>Magic 2012 Mythic Rare, Magic 2011 Mythic Rare</string>
+	</array>
+	<array>
+		<string>Inferno Trap</string>
+		<string>3R</string>
+		<string>Instant  - Trap</string>
+		<string></string>
+		<string>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.
+Inferno Trap deals 4 damage to target creature.</string>
+		<string>Archenemy Uncommon, Zendikar Uncommon</string>
+	</array>
+	<array>
+		<string>Infest</string>
+		<string>1BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>All creatures get -2/-2 until end of turn.</string>
+		<string>Archenemy Uncommon, Shards of Alara Uncommon, Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Infested Roothold</string>
+		<string>4G</string>
+		<string>Creature  - Wall</string>
+		<string>(0/3)</string>
+		<string>Defender (This creature can't attack.)
+Protection from artifacts
+Whenever an opponent casts an artifact spell, you may put a 1/1 green Insect creature token onto the battlefield.</string>
+		<string>Darksteel Uncommon</string>
+	</array>
+	<array>
+		<string>Infiltrate</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature is unblockable this turn.</string>
+		<string>Nemesis Common</string>
+	</array>
+	<array>
+		<string>Infiltration Lens</string>
+		<string>1</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Whenever equipped creature becomes blocked by a creature, you may draw two cards.
+Equip {1}</string>
+		<string>Scars of Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>Infiltrator il-Kor</string>
+		<string>4U</string>
+		<string>Creature  - Kor Rogue</string>
+		<string>(3/1)</string>
+		<string>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Suspend 2-{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</string>
+		<string>Future Sight Common</string>
+	</array>
+	<array>
+		<string>Infiltrator's Magemark</string>
+		<string>2U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Creatures you control that are enchanted get +1/+1 and can't be blocked except by creatures with defender.</string>
+		<string>Guildpact Common</string>
+	</array>
+	<array>
+		<string>Infinite Authority</string>
+		<string>WWW</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Whenever enchanted creature blocks or becomes blocked by a creature with toughness 3 or less, destroy the other creature at end of combat. At the beginning of the next end step, if that creature died this way, put a +1/+1 counter on the first creature.</string>
+		<string>Legends Rare</string>
+	</array>
+	<array>
+		<string>Infinite Hourglass</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your upkeep, put a time counter on Infinite Hourglass.
+All creatures get +1/+0 for each time counter on Infinite Hourglass.
+{3}: Remove a time counter from Infinite Hourglass. Any player may activate this ability but only during any upkeep step.</string>
+		<string>Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Inflame</string>
+		<string>R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Inflame deals 2 damage to each creature dealt damage this turn.</string>
+		<string>Darksteel Common, Prophecy Common</string>
+	</array>
+	<array>
+		<string>Information Dealer</string>
+		<string>1U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>{T}: Look at the top X cards of your library, where X is the number of Wizards on the battlefield, then put them back in any order.</string>
+		<string>Onslaught Common</string>
+	</array>
+	<array>
+		<string>Infuse</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Untap target artifact, creature, or land.
+Draw a card at the beginning of the next turn's upkeep.</string>
+		<string>Masters Edition III Common, Ice Age Common</string>
+	</array>
+	<array>
+		<string>Infused Arrows</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+{T}, Remove X charge counters from Infused Arrows: Target creature gets -X/-X until end of turn.</string>
+		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Ingenious Thief</string>
+		<string>1U</string>
+		<string>Creature  - Human Rogue</string>
+		<string>(1/1)</string>
+		<string>Flying
+When Ingenious Thief enters the battlefield, look at target player's hand.</string>
+		<string>Starter 1999 Common, Portal Uncommon</string>
+	</array>
+	<array>
+		<string>Ingot Chewer</string>
+		<string>4R</string>
+		<string>Creature  - Elemental</string>
+		<string>(3/3)</string>
+		<string>When Ingot Chewer enters the battlefield, destroy target artifact.
+Evoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</string>
+		<string>Duel Decks: Jace vs. Chandra Common, Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Inheritance</string>
+		<string>W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature dies, you may pay {3}. If you do, draw a card.</string>
+		<string>Masters Edition II Uncommon, Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Initiate of Blood</string>
+		<string>3R</string>
+		<string>Creature  - Ogre Shaman</string>
+		<string>(2/2)</string>
+		<string>{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.
+</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Initiate of Blood (Goka the Unjust)</string>
+		<string>3R</string>
+		<string>Legendary Creature - Ogre Shaman</string>
+		<string>(4/4)</string>
+		<string>{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Initiates of the Ebon Hand</string>
+		<string>B</string>
+		<string>Creature  - Cleric</string>
+		<string>(1/1)</string>
+		<string>{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.</string>
+		<string>Fifth Edition Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Ink Dissolver</string>
+		<string>1U</string>
+		<string>Creature  - Merfolk Wizard</string>
+		<string>(2/1)</string>
+		<string>Kinship - At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Ink Dissolver, you may reveal it. If you do, each opponent puts the top three cards of his or her library into his or her graveyard.</string>
+		<string>Morningtide Common</string>
+	</array>
+	<array>
+		<string>Ink-Eyes, Servant of Oni</string>
+		<string>4BB</string>
+		<string>Legendary Creature  - Rat Ninja</string>
+		<string>(5/4)</string>
+		<string>Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.
+{1}{B}: Regenerate Ink-Eyes.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Inkfathom Divers</string>
+		<string>3UU</string>
+		<string>Creature  - Merfolk Soldier</string>
+		<string>(3/3)</string>
+		<string>Islandwalk
+When Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order.</string>
+		<string>Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Inkfathom Infiltrator</string>
+		<string>(U/B)(U/B)</string>
+		<string>Creature  - Merfolk Rogue</string>
+		<string>(2/1)</string>
+		<string>Inkfathom Infiltrator can't block and is unblockable.</string>
+		<string>Shadowmoor Uncommon</string>
+	</array>
+	<array>
+		<string>Inkfathom Witch</string>
+		<string>1(U/B)</string>
+		<string>Creature  - Merfolk Wizard</string>
+		<string>(1/1)</string>
+		<string>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{2}{U}{B}: Each unblocked creature becomes 4/1 until end of turn.</string>
+		<string>Shadowmoor Uncommon</string>
+	</array>
+	<array>
+		<string>Inkmoth Nexus</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{1}: Inkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying and infect until end of turn. It's still a land. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</string>
+		<string>Mirrodin Besieged Rare</string>
+	</array>
+	<array>
+		<string>Ink-Treader Nephilim</string>
+		<string>RGWU</string>
+		<string>Creature  - Nephilim</string>
+		<string>(3/3)</string>
+		<string>Whenever a player casts an instant or sorcery spell, if Ink-Treader Nephilim is the only target of that spell, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.</string>
+		<string>Guildpact Rare</string>
+	</array>
+	<array>
+		<string>Inkwell Leviathan</string>
+		<string>7UU</string>
+		<string>Artifact Creature  - Leviathan</string>
+		<string>(7/11)</string>
+		<string>Islandwalk, trample, shroud</string>
+		<string>Conflux Rare</string>
+	</array>
+	<array>
+		<string>Inner Calm, Outer Strength</string>
+		<string>2G</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Target creature gets +X/+X until end of turn, where X is the number of cards in your hand.</string>
+		<string>Saviors of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Inner Fire</string>
+		<string>3R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Add {R} to your mana pool for each card in your hand.</string>
+		<string>Saviors of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Inner Sanctum</string>
+		<string>1WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Cumulative upkeep-Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Prevent all damage that would be dealt to creatures you control.</string>
+		<string>Weatherlight Rare</string>
+	</array>
+	<array>
+		<string>Inner-Chamber Guard</string>
+		<string>1W</string>
+		<string>Creature  - Human Samurai</string>
+		<string>(0/2)</string>
+		<string>Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Inner-Flame Acolyte</string>
+		<string>1RR</string>
+		<string>Creature  - Elemental Shaman</string>
+		<string>(2/2)</string>
+		<string>When Inner-Flame Acolyte enters the battlefield, target creature gets +2/+0 and gains haste until end of turn.
+Evoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</string>
+		<string>Duel Decks: Jace vs. Chandra Common, Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Inner-Flame Igniter</string>
+		<string>2R</string>
+		<string>Creature  - Elemental Warrior</string>
+		<string>(2/2)</string>
+		<string>{2}{R}: Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn.</string>
+		<string>Lorwyn Uncommon</string>
+	</array>
+	<array>
+		<string>Innocence Kami</string>
+		<string>3WW</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/3)</string>
+		<string>{W}, {T}: Tap target creature.
+Whenever you cast a Spirit or Arcane spell, untap Innocence Kami.</string>
+		<string>Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Innocent Blood</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player sacrifices a creature.</string>
+		<string>Planechase Common, Odyssey Common</string>
+	</array>
+	<array>
+		<string>Inquisition</string>
+		<string>2B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player reveals his or her hand. Inquisition deals damage to that player equal to the number of white cards in his or her hand.</string>
+		<string>The Dark Common</string>
+	</array>
+	<array>
+		<string>Inquisition of Kozilek</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Inquisitor Exarch</string>
+		<string>WW</string>
+		<string>Creature  - Cleric</string>
+		<string>(2/2)</string>
+		<string>When Inquisitor Exarch enters the battlefield, choose one - You gain 2 life; or target opponent loses 2 life.</string>
+		<string>New Phyrexia Uncommon</string>
+	</array>
+	<array>
+		<string>Inquisitor's Flail</string>
+		<string>2</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>If equipped creature would deal combat damage, it deals double that damage instead.
+If another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead.
+Equip {2}</string>
+		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Inquisitor's Snare</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Prevent all damage target attacking or blocking creature would deal this turn. If that creature is black or red, destroy it.</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Insatiable Souleater</string>
+		<string>4</string>
+		<string>Artifact Creature  - Beast</string>
+		<string>(5/1)</string>
+		<string>{(g/p)}: Insatiable Souleater gains trample until end of turn. ({(g/p)} can be paid with either {G} or 2 life.)</string>
+		<string>New Phyrexia Common</string>
+	</array>
+	<array>
+		<string>Insectile Aberration</string>
+		<string>Creature  - Human Insect</string>
+		<string>(3/2)</string>
+		<string>Flying</string>
+		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Inside Out</string>
+		<string>1(U/R)</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Switch target creature's power and toughness until end of turn.
+Draw a card.</string>
+		<string>Eventide Common</string>
+	</array>
+	<array>
+		<string>Insidious Bookworms</string>
+		<string>B</string>
+		<string>Creature  - Worm</string>
+		<string>(1/1)</string>
+		<string>When Insidious Bookworms dies, you may pay {1}{B}. If you do, target player discards a card at random.</string>
+		<string>Alliances Common, Alliances Common</string>
+	</array>
+	<array>
+		<string>Insidious Dreams</string>
+		<string>3B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>As an additional cost to cast Insidious Dreams, discard X cards.
+Search your library for X cards. Then shuffle your library and put those cards on top of it in any order.</string>
+		<string>Torment Rare</string>
+	</array>
+	<array>
+		<string>Insight</string>
+		<string>2U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever an opponent casts a green spell, you draw a card.</string>
+		<string>Classic Sixth Edition Uncommon, Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Insist</string>
+		<string>G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>The next creature spell you cast this turn can't be countered by spells or abilities.
+Draw a card.</string>
+		<string>Torment Rare</string>
+	</array>
+	<array>
+		<string>Insolence</string>
+		<string>2R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Whenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature's controller.</string>
+		<string>Planeshift Common</string>
+	</array>
+	<array>
+		<string>Inspiration</string>
+		<string>3U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target player draws two cards.</string>
+		<string>Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Classic Sixth Edition Common, Visions Common</string>
+	</array>
+	<array>
+		<string>Inspired Charge</string>
+		<string>2WW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Creatures you control get +2/+1 until end of turn.</string>
+		<string>Magic 2011 Common</string>
+	</array>
+	<array>
+		<string>Inspired Sprite</string>
+		<string>3U</string>
+		<string>Creature  - Faerie Wizard</string>
+		<string>(2/2)</string>
+		<string>Flash
+Flying
+Whenever you cast a Wizard spell, you may untap Inspired Sprite.
+{T}: Draw a card, then discard a card.</string>
+		<string>Morningtide Uncommon</string>
+	</array>
+	<array>
+		<string>Inspirit</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Untap target creature. It gets +2/+4 until end of turn.</string>
+		<string>Ninth Edition Uncommon, Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Instigator</string>
+		<string>1B</string>
+		<string>Creature  - Human Spellshaper</string>
+		<string>(1/1)</string>
+		<string>{1}{B}{B}, {T}, Discard a card: Creatures target player controls attack this turn if able.</string>
+		<string>Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Instigator Gang</string>
+		<string>3R</string>
+		<string>Creature  - Human Werewolf</string>
+		<string>(2/3)</string>
+		<string>Attacking creatures you control get +1/+0.
+At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.</string>
+		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Instill Energy</string>
+		<string>G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature can attack as though it had haste.
+{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.</string>
+		<string>Masters Edition IV Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Instill Furor</string>
+		<string>1R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has "At the beginning of your end step, sacrifice this creature unless it attacked this turn."</string>
+		<string>Ravnica: City of Guilds Uncommon</string>
+	</array>
+	<array>
+		<string>Instill Infection</string>
+		<string>3B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put a -1/-1 counter on target creature.
+Draw a card.</string>
+		<string>Scars of Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Insubordination</string>
+		<string>BB</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+At the beginning of the end step of enchanted creature's controller, Insubordination deals 2 damage to that player unless that creature attacked this turn.</string>
+		<string>Mercadian Masques Common</string>
+	</array>
+	<array>
+		<string>Insurrection</string>
+		<string>5RRR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.</string>
+		<string>Magic: The Gathering-Commander Rare, Planechase Rare, Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Intangible Virtue</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Creature tokens you control get +1/+1 and have vigilance.</string>
+		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Interdict</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target activated ability from an artifact, creature, enchantment, or land. That permanent's activated abilities can't be activated this turn. (Mana abilities can't be targeted.)
+Draw a card.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Intervene</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell that targets a creature.</string>
+		<string>Urza's Legacy Common</string>
+	</array>
+	<array>
+		<string>Intervention Pact</string>
+		<string>0</string>
+		<string>Instant</string>
+		<string></string>
+		<string>The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+At the beginning of your next upkeep, pay {1}{W}{W}. If you don't, you lose the game.</string>
+		<string>Future Sight Rare</string>
+	</array>
+	<array>
+		<string>Intet, the Dreamer</string>
+		<string>3URG</string>
+		<string>Legendary Creature  - Dragon</string>
+		<string>(6/6)</string>
+		<string>Flying
+Whenever Intet, the Dreamer deals combat damage to a player, you may pay {2}{U}. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield.</string>
+		<string>Magic: The Gathering-Commander Rare, Planar Chaos Rare</string>
+	</array>
+	<array>
+		<string>Intimidation</string>
+		<string>2BBB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Creatures you control have fear. (They can't be blocked except by artifact creatures and/or black creatures.)</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Intimidation Bolt</string>
+		<string>1RW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.</string>
+		<string>Alara Reborn Uncommon</string>
+	</array>
+	<array>
+		<string>Intimidator Initiate</string>
+		<string>R</string>
+		<string>Creature  - Goblin Shaman</string>
+		<string>(1/1)</string>
+		<string>Whenever a player casts a red spell, you may pay {1}. If you do, target creature can't block this turn.</string>
+		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Into the Core</string>
+		<string>2RR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile two target artifacts.</string>
+		<string>Mirrodin Besieged Uncommon</string>
+	</array>
+	<array>
+		<string>Into the Fray</string>
+		<string>R</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Target creature attacks this turn if able.
+Splice onto Arcane {R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</string>
+		<string>Saviors of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Into the Maw of Hell</string>
+		<string>4RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target land. Into the Maw of Hell deals 13 damage to target creature.</string>
+		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Into the North</string>
+		<string>1G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search your library for a snow land card and put it onto the battlefield tapped. Then shuffle your library.</string>
+		<string>Coldsnap Common</string>
+	</array>
+	<array>
+		<string>Into the Roil</string>
+		<string>1U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Into Thin Air</string>
+		<string>5U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Return target artifact to its owner's hand.</string>
+		<string>Fifth Dawn Common</string>
+	</array>
+	<array>
+		<string>Intrepid Hero</string>
+		<string>2W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/1)</string>
+		<string>{T}: Destroy target creature with power 4 or greater.</string>
+		<string>Eighth Edition Rare, Seventh Edition Rare, Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Intruder Alarm</string>
+		<string>2U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Creatures don't untap during their controllers' untap steps.
+Whenever a creature enters the battlefield, untap all creatures.</string>
+		<string>Eighth Edition Rare, Stronghold Rare</string>
+	</array>
+	<array>
+		<string>Intuition</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Search your library for any three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.</string>
+		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Inundate</string>
+		<string>3UUU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return all nonblue creatures to their owners' hands.</string>
+		<string>Eventide Rare</string>
+	</array>
+	<array>
+		<string>Invader Parasite</string>
+		<string>3RR</string>
+		<string>Creature  - Insect</string>
+		<string>(3/2)</string>
+		<string>Imprint - When Invader Parasite enters the battlefield, exile target land.
+Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player.</string>
+		<string>New Phyrexia Rare</string>
+	</array>
+	<array>
+		<string>Invasion Plans</string>
+		<string>2R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>All creatures block each turn if able.
+The attacking player chooses how each creature blocks each turn.</string>
+		<string>Stronghold Rare</string>
+	</array>
+	<array>
+		<string>Invert the Skies</string>
+		<string>3(G/U)</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Creatures your opponents control lose flying until end of turn if {G} was spent to cast Invert the Skies, and creatures you control gain flying until end of turn if {U} was spent to cast it. (Do both if {G}{U} was spent.)</string>
+		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Invigorate</string>
+		<string>2G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.
+Target creature gets +4/+4 until end of turn.</string>
+		<string>Magic: The Gathering-Commander Common, Duel Decks: Garruk vs. Liliana Common, Mercadian Masques Common</string>
+	</array>
+	<array>
+		<string>Invigorating Boon</string>
+		<string>1G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a player cycles a card, you may put a +1/+1 counter on target creature.</string>
+		<string>Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Invigorating Falls</string>
+		<string>2GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>You gain life equal to the number of creature cards in all graveyards.</string>
+		<string>Torment Common</string>
+	</array>
+	<array>
+		<string>Invincible Hymn</string>
+		<string>6WW</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Count the number of cards in your library. Your life total becomes that number.</string>
+		<string>Shards of Alara Rare</string>
+	</array>
+	<array>
+		<string>Inviolability</string>
+		<string>1W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Prevent all damage that would be dealt to enchanted creature.</string>
+		<string>Mercadian Masques Common</string>
+	</array>
+	<array>
+		<string>Invisibility</string>
+		<string>UU</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature can't be blocked except by Walls.</string>
+		<string>Eighth Edition Uncommon, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common</string>
+	</array>
+	<array>
+		<string>Invisible Stalker</string>
+		<string>1U</string>
+		<string>Creature  - Human Rogue</string>
+		<string>(1/1)</string>
+		<string>Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Invisible Stalker is unblockable.</string>
+		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Invoke Prejudice</string>
+		<string>UUUU</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless its controller pays {X}, where X is its converted mana cost.</string>
+		<string>Legends Rare</string>
+	</array>
+	<array>
+		<string>Invoke the Firemind</string>
+		<string>XUUR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose one - Draw X cards; or Invoke the Firemind deals X damage to target creature or player.</string>
+		<string>Guildpact Rare</string>
+	</array>
+	<array>
+		<string>Invulnerability</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+The next time a source of your choice would deal damage to you this turn, prevent that damage.</string>
+		<string>Tempest Uncommon</string>
+	</array>
+	<array>
+		<string>Ion Storm</string>
+		<string>2R</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>{1}{R}, Remove a +1/+1 counter or a charge counter from a permanent you control: Ion Storm deals 2 damage to target creature or player.</string>
+		<string>Fifth Dawn Rare</string>
+	</array>
+	<array>
+		<string>Iona, Shield of Emeria</string>
+		<string>6WWW</string>
+		<string>Legendary Creature  - Angel</string>
+		<string>(7/7)</string>
+		<string>Flying
+As Iona, Shield of Emeria enters the battlefield, choose a color.
+Your opponents can't cast spells of the chosen color.</string>
+		<string>Zendikar Mythic Rare</string>
+	</array>
+	<array>
+		<string>Iona's Judgment</string>
+		<string>4W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Exile target creature or enchantment.</string>
+		<string>Worldwake Common</string>
+	</array>
+	<array>
+		<string>Ior Ruin Expedition</string>
+		<string>1U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.
+Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.</string>
+		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Ire of Kaminari</string>
+		<string>3R</string>
+		<string>Instant  - Arcane</string>
+		<string></string>
+		<string>Ire of Kaminari deals damage to target creature or player equal to the number of Arcane cards in your graveyard.</string>
+		<string>Betrayers of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Iridescent Angel</string>
+		<string>5WU</string>
+		<string>Creature  - Angel</string>
+		<string>(4/4)</string>
+		<string>Flying, protection from all colors</string>
+		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Iridescent Drake</string>
+		<string>3U</string>
+		<string>Creature  - Drake</string>
+		<string>(2/2)</string>
+		<string>Flying
+When Iridescent Drake enters the battlefield, put target Aura card from a graveyard onto the battlefield under your control attached to Iridescent Drake.</string>
+		<string>Urza's Destiny Uncommon</string>
+	</array>
+	<array>
+		<string>Irini Sengir</string>
+		<string>2BB</string>
+		<string>Legendary Creature  - Vampire Dwarf</string>
+		<string>(2/2)</string>
+		<string>Green enchantment spells and white enchantment spells cost {2} more to cast.</string>
+		<string>Homelands Uncommon</string>
+	</array>
+	<array>
+		<string>Iron Lance</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}: Target creature gains first strike until end of turn.</string>
+		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Iron Maiden</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of each opponent's upkeep, Iron Maiden deals X damage to that player, where X is the number of cards in his or her hand minus 4.</string>
+		<string>Urza's Legacy Rare</string>
+	</array>
+	<array>
+		<string>Iron Myr</string>
+		<string>2</string>
+		<string>Artifact Creature  - Myr</string>
+		<string>(1/1)</string>
+		<string>{T}: Add {R} to your mana pool.</string>
+		<string>Scars of Mirrodin Common, Planechase Common, Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Iron Star</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.</string>
+		<string>Eighth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Iron Tusk Elephant</string>
+		<string>4W</string>
+		<string>Creature  - Elephant</string>
+		<string>(3/3)</string>
+		<string>Trample</string>
+		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Iron Will</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +0/+4 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</string>
+		<string>Urza's Legacy Common</string>
+	</array>
+	<array>
+		<string>Iron-Barb Hellion</string>
+		<string>5R</string>
+		<string>Creature  - Hellion Beast</string>
+		<string>(5/4)</string>
+		<string>Haste
+Iron-Barb Hellion can't block.</string>
+		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Ironclaw Buzzardiers</string>
+		<string>2R</string>
+		<string>Creature  - Orc Scout</string>
+		<string>(2/2)</string>
+		<string>Ironclaw Buzzardiers can't block creatures with power 2 or greater.
+{R}: Ironclaw Buzzardiers gains flying until end of turn.</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Ironclaw Curse</string>
+		<string>R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets -0/-1.
+Enchanted creature can't block creatures with power equal to or greater than the enchanted creature's toughness.</string>
+		<string>Fifth Edition Rare, Homelands Rare</string>
+	</array>
+	<array>
+		<string>Ironclaw Orcs</string>
+		<string>1R</string>
+		<string>Creature  - Orc</string>
+		<string>(2/2)</string>
+		<string>Ironclaw Orcs can't block creatures with power 2 or greater.</string>
+		<string>Masters Edition II Common, Fifth Edition Common, Fourth Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common</string>
+	</array>
+	<array>
+		<string>Ironfang</string>
+		<string>Creature  - Werewolf</string>
+		<string>(3/1)</string>
+		<string>First strike
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.</string>
+		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Ironfist Crusher</string>
+		<string>4W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/4)</string>
+		<string>Ironfist Crusher can block any number of creatures.
+Morph {3}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</string>
+		<string>Onslaught Uncommon</string>
+	</array>
+	<array>
+		<string>Iron-Heart Chimera</string>
+		<string>4</string>
+		<string>Artifact Creature  - Chimera</string>
+		<string>(2/2)</string>
+		<string>Vigilance
+Sacrifice Iron-Heart Chimera: Put a +2/+2 counter on target Chimera creature. It gains vigilance. (This effect lasts indefinitely.)</string>
+		<string>Visions Uncommon</string>
+	</array>
+	<array>
+		<string>Ironhoof Ox</string>
+		<string>3GG</string>
+		<string>Creature  - Ox</string>
+		<string>(4/4)</string>
+		<string>Ironhoof Ox can't be blocked by more than one creature.</string>
+		<string>Masters Edition IV Common, Portal Second Age Uncommon</string>
+	</array>
+	<array>
+		<string>Ironroot Treefolk</string>
+		<string>4G</string>
+		<string>Creature  - Treefolk</string>
+		<string>(3/5)</string>
+		<string></string>
+		<string>Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common</string>
+	</array>
+	<array>
+		<string>Ironshell Beetle</string>
+		<string>1G</string>
+		<string>Creature  - Insect</string>
+		<string>(1/1)</string>
+		<string>When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.</string>
+		<string>Judgment Common</string>
+	</array>
+	<array>
+		<string>Irradiate</string>
+		<string>3B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets -1/-1 until end of turn for each artifact you control.</string>
+		<string>Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Irresistible Prey</string>
+		<string>G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target creature must be blocked this turn if able.
+Draw a card.</string>
+		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Irrigation Ditch</string>
+		<string>Land</string>
+		<string></string>
+		<string>Irrigation Ditch enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{T}, Sacrifice Irrigation Ditch: Add {G}{U} to your mana pool.</string>
+		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Isamaru, Hound of Konda</string>
+		<string>W</string>
+		<string>Legendary Creature  - Hound</string>
+		<string>(2/2)</string>
+		<string></string>
+		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Isao, Enlightened Bushi</string>
+		<string>2G</string>
+		<string>Legendary Creature  - Human Samurai</string>
+		<string>(2/1)</string>
+		<string>Isao, Enlightened Bushi can't be countered.
+Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)
+{2}: Regenerate target Samurai.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Ishi-Ishi, Akki Crackshot</string>
+		<string>1R</string>
+		<string>Legendary Creature  - Goblin Warrior</string>
+		<string>(1/1)</string>
+		<string>Whenever an opponent casts a Spirit or Arcane spell, Ishi-Ishi, Akki Crackshot deals 2 damage to that player.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Island</string>
+		<string>Basic Land  - Island</string>
+		<string></string>
+		<string>U</string>
+		<string>Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
+	</array>
+	<array>
+		<string>Island Fish Jasconius</string>
+		<string>4UUU</string>
+		<string>Creature  - Fish</string>
+		<string>(6/8)</string>
+		<string>Island Fish Jasconius doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.
+Island Fish Jasconius can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Island Fish Jasconius.</string>
+		<string>Fourth Edition Rare, Revised Edition Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Island of Wak-Wak</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: The power of target creature with flying becomes 0 until end of turn.</string>
+		<string>Masters Edition Rare, Arabian Nights Rare</string>
+	</array>
+	<array>
+		<string>Island Sanctuary</string>
+		<string>1W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.</string>
+		<string>Masters Edition IV Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
+	</array>
+	<array>
+		<string>Isleback Spawn</string>
+		<string>5UU</string>
+		<string>Creature  - Kraken</string>
+		<string>(4/8)</string>
+		<string>Shroud
+Isleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.</string>
+		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Isochron Scepter</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Imprint - When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.
+{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.</string>
+		<string>From the Vault: Relics Mythic Rare, Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>Isolated Chapel</string>
+		<string>Land</string>
+		<string></string>
+		<string>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B} to your mana pool.</string>
+		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Isolation Cell</string>
+		<string>4</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever an opponent casts a creature spell, that player loses 2 life unless he or she pays {2}.</string>
+		<string>New Phyrexia Uncommon</string>
+	</array>
+	<array>
+		<string>Isperia the Inscrutable</string>
+		<string>1WWUU</string>
+		<string>Legendary Creature  - Sphinx</string>
+		<string>(3/6)</string>
+		<string>Flying
+Whenever Isperia the Inscrutable deals combat damage to a player, name a card. That player reveals his or her hand. If he or she reveals the named card, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.</string>
+		<string>Dissension Rare</string>
+	</array>
+	<array>
+		<string>It That Betrays</string>
+		<string>12</string>
+		<string>Creature  - Eldrazi</string>
+		<string>(11/11)</string>
+		<string>Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.</string>
+		<string>Rise of the Eldrazi Rare</string>
+	</array>
+	<array>
+		<string>Ith, High Arcanist</string>
+		<string>5WU</string>
+		<string>Legendary Creature  - Human Wizard</string>
+		<string>(3/5)</string>
+		<string>Vigilance
+{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Suspend 4-{W}{U} (Rather than cast this card from your hand, you may pay {W}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</string>
+		<string>Time Spiral Rare</string>
+	</array>
+	<array>
+		<string>Ivory Charm</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose one - All creatures get -2/-0 until end of turn; or tap target creature; or prevent the next 1 damage that would be dealt to target creature or player this turn.</string>
+		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Ivory Crane Netsuke</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your upkeep, if you have seven or more cards in hand, you gain 4 life.</string>
+		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Ivory Cup</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.</string>
+		<string>Eighth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Ivory Gargoyle</string>
+		<string>4W</string>
+		<string>Creature  - Gargoyle</string>
+		<string>(2/2)</string>
+		<string>Flying
+When Ivory Gargoyle dies, return it to the battlefield under its owner's control at the beginning of the next end step and you skip your next draw step.
+{4}{W}: Exile Ivory Gargoyle.</string>
+		<string>Masters Edition II Rare, Alliances Rare</string>
+	</array>
+	<array>
+		<string>Ivory Giant</string>
+		<string>5WW</string>
+		<string>Creature  - Giant</string>
+		<string>(3/4)</string>
+		<string>When Ivory Giant enters the battlefield, tap all nonwhite creatures.
+Suspend 5-{W} (Rather than cast this card from your hand, you may pay {W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</string>
+		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Ivory Guardians</string>
+		<string>4WW</string>
+		<string>Creature  - Giant Cleric</string>
+		<string>(3/3)</string>
+		<string>Protection from red
+Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.</string>
+		<string>Masters Edition III Uncommon, Fifth Edition Uncommon, Chronicles Uncommon, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Ivory Mask</string>
+		<string>2WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>You have shroud. (You can't be the target of spells or abilities.)</string>
+		<string>Ninth Edition Rare, Eighth Edition Rare, Mercadian Masques Rare</string>
+	</array>
+	<array>
+		<string>Ivory Tower</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus four.</string>
+		<string>From the Vault: Relics Mythic Rare, Masters Edition Rare, Fourth Edition Rare, Revised Edition Rare, Antiquities Uncommon</string>
+	</array>
+	<array>
+		<string>Ivy Dancer</string>
+		<string>2G</string>
+		<string>Creature  - Dryad Shaman</string>
+		<string>(1/2)</string>
+		<string>{T}: Target creature gains forestwalk until end of turn.</string>
+		<string>Ravnica: City of Guilds Uncommon</string>
+	</array>
+	<array>
+		<string>Ivy Elemental</string>
+		<string>XG</string>
+		<string>Creature  - Elemental</string>
+		<string>(0/0)</string>
+		<string>Ivy Elemental enters the battlefield with X +1/+1 counters on it.</string>
+		<string>Planechase Rare, Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Ivy Seer</string>
+		<string>3G</string>
+		<string>Creature  - Elf Wizard</string>
+		<string>(1/1)</string>
+		<string>{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.</string>
+		<string>Urza's Destiny Uncommon</string>
+	</array>
+	<array>
+		<string>Iwamori of the Open Fist</string>
+		<string>2GG</string>
+		<string>Legendary Creature  - Human Monk</string>
+		<string>(5/5)</string>
+		<string>Trample
+When Iwamori of the Open Fist enters the battlefield, each opponent may put a legendary creature card from his or her hand onto the battlefield.</string>
+		<string>Betrayers of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Ixidor, Reality Sculptor</string>
+		<string>3UU</string>
+		<string>Legendary Creature  - Human Wizard</string>
+		<string>(3/4)</string>
+		<string>Face-down creatures get +1/+1.
+{2}{U}: Turn target face-down creature face up.</string>
+		<string>Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Ixidor's Will</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell unless its controller pays {2} for each Wizard on the battlefield.</string>
+		<string>Onslaught Common</string>
+	</array>
+	<array>
+		<string>Ixidron</string>
+		<string>3UU</string>
+		<string>Creature  - Illusion</string>
+		<string>(*/*)</string>
+		<string>As Ixidron enters the battlefield, turn all other nontoken creatures face down. (They're 2/2 creatures.)
+Ixidron's power and toughness are each equal to the number of face-down creatures on the battlefield.</string>
+		<string>Time Spiral Rare</string>
+	</array>
+	<array>
+		<string>Izzet Boilerworks</string>
+		<string>Land</string>
+		<string></string>
+		<string>Izzet Boilerworks enters the battlefield tapped.
+When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {U}{R} to your mana pool.</string>
+		<string>Magic: The Gathering-Commander Common, Guildpact Common</string>
+	</array>
+	<array>
+		<string>Izzet Chronarch</string>
+		<string>3UR</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</string>
+		<string>Magic: The Gathering-Commander Common, Guildpact Common</string>
+	</array>
+	<array>
+		<string>Izzet Guildmage</string>
+		<string>(U/R)(U/R)</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>({(u/r)} can be paid with either {U} or {R}.)
+{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.</string>
+		<string>Guildpact Uncommon</string>
+	</array>
+	<array>
+		<string>Izzet Signet</string>
+		<string>2</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{1}, {T}: Add {U}{R} to your mana pool.</string>
+		<string>Magic: The Gathering-Commander Common, Guildpact Common</string>
+	</array>
+</array>
+</plist>

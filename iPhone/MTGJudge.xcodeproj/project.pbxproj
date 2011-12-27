@@ -1,0 +1,756 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* MTGJudgeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* MTGJudgeAppDelegate.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28C286E10D94DF7D0034E888 /* QuickReferenceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* QuickReferenceController.m */; };
+		AA23038F12B9C52400055DE7 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA23038E12B9C52400055DE7 /* LoadingView.m */; };
+		AA2303DC12B9C65A00055DE7 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA2303DB12B9C65A00055DE7 /* QuartzCore.framework */; };
+		AA49E9F0141A1366000FBC4F /* BannedFormatList.m in Sources */ = {isa = PBXBuildFile; fileRef = AA49E9EE141A1366000FBC4F /* BannedFormatList.m */; };
+		AA49E9F1141A1366000FBC4F /* BannedFormatList.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA49E9EF141A1366000FBC4F /* BannedFormatList.xib */; };
+		AA49E9F5141A150B000FBC4F /* BannedListDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = AA49E9F3141A150A000FBC4F /* BannedListDetails.m */; };
+		AA49E9F6141A150B000FBC4F /* BannedListDetails.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA49E9F4141A150A000FBC4F /* BannedListDetails.xib */; };
+		AA49E9FD141C08C9000FBC4F /* MoreViewsController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA49E9FB141C08C8000FBC4F /* MoreViewsController.m */; };
+		AA49E9FE141C08C9000FBC4F /* MoreViewsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA49E9FC141C08C9000FBC4F /* MoreViewsController.xib */; };
+		AA5CE0BB1154A7C70016912A /* IPGDetailMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5CE0B91154A7C70016912A /* IPGDetailMenu.m */; };
+		AA5CE0BC1154A7C70016912A /* IPGDetailMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA5CE0BA1154A7C70016912A /* IPGDetailMenu.xib */; };
+		AA5CE1061154AC230016912A /* IPGDetail.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5CE1041154AC230016912A /* IPGDetail.m */; };
+		AA5CE1071154AC230016912A /* IPGDetail.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA5CE1051154AC230016912A /* IPGDetail.xib */; };
+		AA5CE1B61154C15C0016912A /* CompRulesContents.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5CE1B41154C15C0016912A /* CompRulesContents.m */; };
+		AA5CE1B71154C15C0016912A /* CompRulesContents.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA5CE1B51154C15C0016912A /* CompRulesContents.xib */; };
+		AA5CE1DF1154C5000016912A /* CompRulesSubContents.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5CE1DD1154C5000016912A /* CompRulesSubContents.m */; };
+		AA5CE1E01154C5000016912A /* CompRulesSubContents.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA5CE1DE1154C5000016912A /* CompRulesSubContents.xib */; };
+		AA5CE2AE1154CE4D0016912A /* CompRulesDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5CE2AC1154CE4D0016912A /* CompRulesDetails.m */; };
+		AA5CE2AF1154CE4D0016912A /* CompRulesDetails.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA5CE2AD1154CE4D0016912A /* CompRulesDetails.xib */; };
+		AA5F03AC14A95810000BEFA7 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03AB14A95810000BEFA7 /* Entitlements.plist */; };
+		AA5F03AF14A95826000BEFA7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AA5F03AD14A95826000BEFA7 /* main.m */; };
+		AA5F03B314A95839000BEFA7 /* version_control.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03B114A95839000BEFA7 /* version_control.array */; };
+		AA5F03B514A95841000BEFA7 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03B414A95841000BEFA7 /* icon.png */; };
+		AA5F03BC14A95853000BEFA7 /* Banned.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03B614A95853000BEFA7 /* Banned.txt */; };
+		AA5F03BD14A95853000BEFA7 /* CompRules.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03B714A95853000BEFA7 /* CompRules.txt */; };
+		AA5F03BE14A95853000BEFA7 /* CompRulesContents.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03B814A95853000BEFA7 /* CompRulesContents.txt */; };
+		AA5F03BF14A95853000BEFA7 /* CompRulesGlossary.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03B914A95853000BEFA7 /* CompRulesGlossary.txt */; };
+		AA5F03C014A95853000BEFA7 /* FCE.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03BA14A95853000BEFA7 /* FCE.txt */; };
+		AA5F03C114A95853000BEFA7 /* IPG.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03BB14A95853000BEFA7 /* IPG.txt */; };
+		AA5F03C714A95869000BEFA7 /* 11-clock.png in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03C214A95869000BEFA7 /* 11-clock.png */; };
+		AA5F03C814A95869000BEFA7 /* 84-lightbulb.png in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03C314A95869000BEFA7 /* 84-lightbulb.png */; };
+		AA5F03C914A95869000BEFA7 /* 96-book.png in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03C414A95869000BEFA7 /* 96-book.png */; };
+		AA5F03CA14A95869000BEFA7 /* 146-gavel.png in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03C514A95869000BEFA7 /* 146-gavel.png */; };
+		AA5F03CB14A95869000BEFA7 /* 161-calculator.png in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03C614A95869000BEFA7 /* 161-calculator.png */; };
+		AA5F03CE14A95879000BEFA7 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03CC14A95879000BEFA7 /* MainWindow.xib */; };
+		AA5F03CF14A95879000BEFA7 /* QuickReferenceController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03CD14A95879000BEFA7 /* QuickReferenceController.xib */; };
+		AA5F03D714A958BA000BEFA7 /* guide_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03D014A958BA000BEFA7 /* guide_1.jpg */; };
+		AA5F03D814A958BA000BEFA7 /* guide_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03D114A958BA000BEFA7 /* guide_2.jpg */; };
+		AA5F03D914A958BA000BEFA7 /* guide_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03D214A958BA000BEFA7 /* guide_3.jpg */; };
+		AA5F03DA14A958BA000BEFA7 /* guide_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03D314A958BA000BEFA7 /* guide_4.jpg */; };
+		AA5F03DB14A958BA000BEFA7 /* guide_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03D414A958BA000BEFA7 /* guide_5.jpg */; };
+		AA5F03DC14A958BA000BEFA7 /* guide_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03D514A958BA000BEFA7 /* guide_6.jpg */; };
+		AA5F03DD14A958BA000BEFA7 /* guide_7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03D614A958BA000BEFA7 /* guide_7.jpg */; };
+		AA5F03F914A958CA000BEFA7 /* oracle_0.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03DE14A958CA000BEFA7 /* oracle_0.array */; };
+		AA5F03FA14A958CA000BEFA7 /* oracle_1.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03DF14A958CA000BEFA7 /* oracle_1.array */; };
+		AA5F03FB14A958CA000BEFA7 /* oracle_2.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E014A958CA000BEFA7 /* oracle_2.array */; };
+		AA5F03FC14A958CA000BEFA7 /* oracle_3.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E114A958CA000BEFA7 /* oracle_3.array */; };
+		AA5F03FD14A958CA000BEFA7 /* oracle_4.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E214A958CA000BEFA7 /* oracle_4.array */; };
+		AA5F03FE14A958CA000BEFA7 /* oracle_5.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E314A958CA000BEFA7 /* oracle_5.array */; };
+		AA5F03FF14A958CA000BEFA7 /* oracle_6.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E414A958CA000BEFA7 /* oracle_6.array */; };
+		AA5F040014A958CA000BEFA7 /* oracle_7.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E514A958CA000BEFA7 /* oracle_7.array */; };
+		AA5F040114A958CA000BEFA7 /* oracle_8.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E614A958CA000BEFA7 /* oracle_8.array */; };
+		AA5F040214A958CA000BEFA7 /* oracle_9.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E714A958CA000BEFA7 /* oracle_9.array */; };
+		AA5F040314A958CA000BEFA7 /* oracle_10.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E814A958CA000BEFA7 /* oracle_10.array */; };
+		AA5F040414A958CA000BEFA7 /* oracle_11.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03E914A958CA000BEFA7 /* oracle_11.array */; };
+		AA5F040514A958CA000BEFA7 /* oracle_12.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03EA14A958CA000BEFA7 /* oracle_12.array */; };
+		AA5F040614A958CA000BEFA7 /* oracle_13.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03EB14A958CA000BEFA7 /* oracle_13.array */; };
+		AA5F040714A958CA000BEFA7 /* oracle_14.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03EC14A958CA000BEFA7 /* oracle_14.array */; };
+		AA5F040814A958CA000BEFA7 /* oracle_15.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03ED14A958CA000BEFA7 /* oracle_15.array */; };
+		AA5F040914A958CA000BEFA7 /* oracle_16.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03EE14A958CA000BEFA7 /* oracle_16.array */; };
+		AA5F040A14A958CA000BEFA7 /* oracle_17.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03EF14A958CA000BEFA7 /* oracle_17.array */; };
+		AA5F040B14A958CA000BEFA7 /* oracle_18.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F014A958CA000BEFA7 /* oracle_18.array */; };
+		AA5F040C14A958CA000BEFA7 /* oracle_19.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F114A958CA000BEFA7 /* oracle_19.array */; };
+		AA5F040D14A958CA000BEFA7 /* oracle_20.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F214A958CA000BEFA7 /* oracle_20.array */; };
+		AA5F040E14A958CA000BEFA7 /* oracle_21.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F314A958CA000BEFA7 /* oracle_21.array */; };
+		AA5F040F14A958CA000BEFA7 /* oracle_22.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F414A958CA000BEFA7 /* oracle_22.array */; };
+		AA5F041014A958CA000BEFA7 /* oracle_23.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F514A958CA000BEFA7 /* oracle_23.array */; };
+		AA5F041114A958CA000BEFA7 /* oracle_24.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F614A958CA000BEFA7 /* oracle_24.array */; };
+		AA5F041214A958CA000BEFA7 /* oracle_25.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F714A958CA000BEFA7 /* oracle_25.array */; };
+		AA5F041314A958CA000BEFA7 /* oracle_names_only.array in Resources */ = {isa = PBXBuildFile; fileRef = AA5F03F814A958CA000BEFA7 /* oracle_names_only.array */; };
+		AA5F041514A958E6000BEFA7 /* DecklistCounterControllerFullscreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA5F041414A958E6000BEFA7 /* DecklistCounterControllerFullscreen.xib */; };
+		AA5F041714A95926000BEFA7 /* MTGJudge-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA5F041614A95926000BEFA7 /* MTGJudge-Info.plist */; };
+		AA77108E1432CB6F001B044A /* DraftTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = AA77108C1432CB6C001B044A /* DraftTimer.m */; };
+		AA77108F1432CB6F001B044A /* DraftTimer.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA77108D1432CB6E001B044A /* DraftTimer.xib */; };
+		AA8B40EF1111637B0035D8B3 /* IPGContents.m in Sources */ = {isa = PBXBuildFile; fileRef = AA8B40ED1111637B0035D8B3 /* IPGContents.m */; };
+		AA8B40F01111637B0035D8B3 /* IPGContents.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA8B40EE1111637B0035D8B3 /* IPGContents.xib */; };
+		AA8B415B111192290035D8B3 /* IPGSubContents.m in Sources */ = {isa = PBXBuildFile; fileRef = AA8B4159111192290035D8B3 /* IPGSubContents.m */; };
+		AA8B415C111192290035D8B3 /* IPGSubContents.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA8B415A111192290035D8B3 /* IPGSubContents.xib */; };
+		AA988C34141C183600EFFB61 /* CheckForUpdatesController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA988C32141C183600EFFB61 /* CheckForUpdatesController.m */; };
+		AA988C35141C183600EFFB61 /* CheckForUpdatesController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA988C33141C183600EFFB61 /* CheckForUpdatesController.xib */; };
+		AA9FF5561348B1E60081688F /* CompRulesSpecific.m in Sources */ = {isa = PBXBuildFile; fileRef = AA9FF5551348B1E60081688F /* CompRulesSpecific.m */; };
+		AA9FF5691348B3BA0081688F /* CompRulesSpecific.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA9FF5681348B3BA0081688F /* CompRulesSpecific.xib */; };
+		AAA67CC91109AB4E0005D2E0 /* QuickReferenceDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA67CC71109AB4E0005D2E0 /* QuickReferenceDetailController.m */; };
+		AAA67CCA1109AB4E0005D2E0 /* QuickReferenceDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAA67CC81109AB4E0005D2E0 /* QuickReferenceDetailController.xib */; };
+		AAA67E991109C4150005D2E0 /* DecklistCounterController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA67E971109C4150005D2E0 /* DecklistCounterController.m */; };
+		AAA67E9A1109C4150005D2E0 /* DecklistCounterController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAA67E981109C4150005D2E0 /* DecklistCounterController.xib */; };
+		AAA67F2A1109D3420005D2E0 /* OracleLookupController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA67F281109D3420005D2E0 /* OracleLookupController.m */; };
+		AAA67F2B1109D3420005D2E0 /* OracleLookupController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAA67F291109D3420005D2E0 /* OracleLookupController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* MTGJudgeAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MTGJudgeAppDelegate.h; path = Classes/MTGJudgeAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* MTGJudgeAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MTGJudgeAppDelegate.m; path = Classes/MTGJudgeAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* MTGJudge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MTGJudge.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28C286DF0D94DF7D0034E888 /* QuickReferenceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuickReferenceController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* QuickReferenceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuickReferenceController.m; sourceTree = "<group>"; };
+		AA23038D12B9C52400055DE7 /* LoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingView.h; sourceTree = "<group>"; };
+		AA23038E12B9C52400055DE7 /* LoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingView.m; sourceTree = "<group>"; };
+		AA2303DB12B9C65A00055DE7 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		AA49E9ED141A1366000FBC4F /* BannedFormatList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BannedFormatList.h; sourceTree = "<group>"; };
+		AA49E9EE141A1366000FBC4F /* BannedFormatList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BannedFormatList.m; sourceTree = "<group>"; };
+		AA49E9EF141A1366000FBC4F /* BannedFormatList.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = BannedFormatList.xib; path = Classes/BannedFormatList.xib; sourceTree = "<group>"; };
+		AA49E9F2141A150A000FBC4F /* BannedListDetails.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BannedListDetails.h; sourceTree = "<group>"; };
+		AA49E9F3141A150A000FBC4F /* BannedListDetails.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BannedListDetails.m; sourceTree = "<group>"; };
+		AA49E9F4141A150A000FBC4F /* BannedListDetails.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = BannedListDetails.xib; path = Classes/BannedListDetails.xib; sourceTree = "<group>"; };
+		AA49E9FA141C08C8000FBC4F /* MoreViewsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoreViewsController.h; sourceTree = "<group>"; };
+		AA49E9FB141C08C8000FBC4F /* MoreViewsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoreViewsController.m; sourceTree = "<group>"; };
+		AA49E9FC141C08C9000FBC4F /* MoreViewsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MoreViewsController.xib; path = Classes/MoreViewsController.xib; sourceTree = "<group>"; };
+		AA5CE0B81154A7C70016912A /* IPGDetailMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IPGDetailMenu.h; sourceTree = "<group>"; };
+		AA5CE0B91154A7C70016912A /* IPGDetailMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IPGDetailMenu.m; sourceTree = "<group>"; };
+		AA5CE0BA1154A7C70016912A /* IPGDetailMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = IPGDetailMenu.xib; path = Classes/IPGDetailMenu.xib; sourceTree = "<group>"; };
+		AA5CE1031154AC230016912A /* IPGDetail.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IPGDetail.h; sourceTree = "<group>"; };
+		AA5CE1041154AC230016912A /* IPGDetail.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IPGDetail.m; sourceTree = "<group>"; };
+		AA5CE1051154AC230016912A /* IPGDetail.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = IPGDetail.xib; path = Classes/IPGDetail.xib; sourceTree = "<group>"; };
+		AA5CE1B31154C15C0016912A /* CompRulesContents.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompRulesContents.h; sourceTree = "<group>"; };
+		AA5CE1B41154C15C0016912A /* CompRulesContents.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompRulesContents.m; sourceTree = "<group>"; };
+		AA5CE1B51154C15C0016912A /* CompRulesContents.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CompRulesContents.xib; path = Classes/CompRulesContents.xib; sourceTree = "<group>"; };
+		AA5CE1DC1154C5000016912A /* CompRulesSubContents.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompRulesSubContents.h; sourceTree = "<group>"; };
+		AA5CE1DD1154C5000016912A /* CompRulesSubContents.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompRulesSubContents.m; sourceTree = "<group>"; };
+		AA5CE1DE1154C5000016912A /* CompRulesSubContents.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CompRulesSubContents.xib; path = Classes/CompRulesSubContents.xib; sourceTree = "<group>"; };
+		AA5CE2AB1154CE4D0016912A /* CompRulesDetails.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompRulesDetails.h; sourceTree = "<group>"; };
+		AA5CE2AC1154CE4D0016912A /* CompRulesDetails.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompRulesDetails.m; sourceTree = "<group>"; };
+		AA5CE2AD1154CE4D0016912A /* CompRulesDetails.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CompRulesDetails.xib; path = Classes/CompRulesDetails.xib; sourceTree = "<group>"; };
+		AA5F03AB14A95810000BEFA7 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Entitlements.plist; path = Resources/Entitlements.plist; sourceTree = "<group>"; };
+		AA5F03AD14A95826000BEFA7 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Classes/main.m; sourceTree = "<group>"; };
+		AA5F03B114A95839000BEFA7 /* version_control.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = version_control.array; path = Resources/version_control.array; sourceTree = "<group>"; };
+		AA5F03B414A95841000BEFA7 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = Resources/icons/icon.png; sourceTree = "<group>"; };
+		AA5F03B614A95853000BEFA7 /* Banned.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Banned.txt; path = Resources/docs/Banned.txt; sourceTree = "<group>"; };
+		AA5F03B714A95853000BEFA7 /* CompRules.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CompRules.txt; path = Resources/docs/CompRules.txt; sourceTree = "<group>"; };
+		AA5F03B814A95853000BEFA7 /* CompRulesContents.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CompRulesContents.txt; path = Resources/docs/CompRulesContents.txt; sourceTree = "<group>"; };
+		AA5F03B914A95853000BEFA7 /* CompRulesGlossary.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CompRulesGlossary.txt; path = Resources/docs/CompRulesGlossary.txt; sourceTree = "<group>"; };
+		AA5F03BA14A95853000BEFA7 /* FCE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = FCE.txt; path = Resources/docs/FCE.txt; sourceTree = "<group>"; };
+		AA5F03BB14A95853000BEFA7 /* IPG.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = IPG.txt; path = Resources/docs/IPG.txt; sourceTree = "<group>"; };
+		AA5F03C214A95869000BEFA7 /* 11-clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "11-clock.png"; path = "Resources/icons/11-clock.png"; sourceTree = "<group>"; };
+		AA5F03C314A95869000BEFA7 /* 84-lightbulb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "84-lightbulb.png"; path = "Resources/icons/84-lightbulb.png"; sourceTree = "<group>"; };
+		AA5F03C414A95869000BEFA7 /* 96-book.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "96-book.png"; path = "Resources/icons/96-book.png"; sourceTree = "<group>"; };
+		AA5F03C514A95869000BEFA7 /* 146-gavel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "146-gavel.png"; path = "Resources/icons/146-gavel.png"; sourceTree = "<group>"; };
+		AA5F03C614A95869000BEFA7 /* 161-calculator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "161-calculator.png"; path = "Resources/icons/161-calculator.png"; sourceTree = "<group>"; };
+		AA5F03CC14A95879000BEFA7 /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainWindow.xib; path = Classes/MainWindow.xib; sourceTree = "<group>"; };
+		AA5F03CD14A95879000BEFA7 /* QuickReferenceController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = QuickReferenceController.xib; path = Classes/QuickReferenceController.xib; sourceTree = "<group>"; };
+		AA5F03D014A958BA000BEFA7 /* guide_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guide_1.jpg; path = Resources/quick_ref/guide_1.jpg; sourceTree = "<group>"; };
+		AA5F03D114A958BA000BEFA7 /* guide_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guide_2.jpg; path = Resources/quick_ref/guide_2.jpg; sourceTree = "<group>"; };
+		AA5F03D214A958BA000BEFA7 /* guide_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guide_3.jpg; path = Resources/quick_ref/guide_3.jpg; sourceTree = "<group>"; };
+		AA5F03D314A958BA000BEFA7 /* guide_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guide_4.jpg; path = Resources/quick_ref/guide_4.jpg; sourceTree = "<group>"; };
+		AA5F03D414A958BA000BEFA7 /* guide_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guide_5.jpg; path = Resources/quick_ref/guide_5.jpg; sourceTree = "<group>"; };
+		AA5F03D514A958BA000BEFA7 /* guide_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guide_6.jpg; path = Resources/quick_ref/guide_6.jpg; sourceTree = "<group>"; };
+		AA5F03D614A958BA000BEFA7 /* guide_7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guide_7.jpg; path = Resources/quick_ref/guide_7.jpg; sourceTree = "<group>"; };
+		AA5F03DE14A958CA000BEFA7 /* oracle_0.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_0.array; path = Resources/oracle/oracle_0.array; sourceTree = "<group>"; };
+		AA5F03DF14A958CA000BEFA7 /* oracle_1.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_1.array; path = Resources/oracle/oracle_1.array; sourceTree = "<group>"; };
+		AA5F03E014A958CA000BEFA7 /* oracle_2.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_2.array; path = Resources/oracle/oracle_2.array; sourceTree = "<group>"; };
+		AA5F03E114A958CA000BEFA7 /* oracle_3.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_3.array; path = Resources/oracle/oracle_3.array; sourceTree = "<group>"; };
+		AA5F03E214A958CA000BEFA7 /* oracle_4.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_4.array; path = Resources/oracle/oracle_4.array; sourceTree = "<group>"; };
+		AA5F03E314A958CA000BEFA7 /* oracle_5.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_5.array; path = Resources/oracle/oracle_5.array; sourceTree = "<group>"; };
+		AA5F03E414A958CA000BEFA7 /* oracle_6.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_6.array; path = Resources/oracle/oracle_6.array; sourceTree = "<group>"; };
+		AA5F03E514A958CA000BEFA7 /* oracle_7.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_7.array; path = Resources/oracle/oracle_7.array; sourceTree = "<group>"; };
+		AA5F03E614A958CA000BEFA7 /* oracle_8.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_8.array; path = Resources/oracle/oracle_8.array; sourceTree = "<group>"; };
+		AA5F03E714A958CA000BEFA7 /* oracle_9.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_9.array; path = Resources/oracle/oracle_9.array; sourceTree = "<group>"; };
+		AA5F03E814A958CA000BEFA7 /* oracle_10.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_10.array; path = Resources/oracle/oracle_10.array; sourceTree = "<group>"; };
+		AA5F03E914A958CA000BEFA7 /* oracle_11.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_11.array; path = Resources/oracle/oracle_11.array; sourceTree = "<group>"; };
+		AA5F03EA14A958CA000BEFA7 /* oracle_12.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_12.array; path = Resources/oracle/oracle_12.array; sourceTree = "<group>"; };
+		AA5F03EB14A958CA000BEFA7 /* oracle_13.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_13.array; path = Resources/oracle/oracle_13.array; sourceTree = "<group>"; };
+		AA5F03EC14A958CA000BEFA7 /* oracle_14.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_14.array; path = Resources/oracle/oracle_14.array; sourceTree = "<group>"; };
+		AA5F03ED14A958CA000BEFA7 /* oracle_15.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_15.array; path = Resources/oracle/oracle_15.array; sourceTree = "<group>"; };
+		AA5F03EE14A958CA000BEFA7 /* oracle_16.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_16.array; path = Resources/oracle/oracle_16.array; sourceTree = "<group>"; };
+		AA5F03EF14A958CA000BEFA7 /* oracle_17.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_17.array; path = Resources/oracle/oracle_17.array; sourceTree = "<group>"; };
+		AA5F03F014A958CA000BEFA7 /* oracle_18.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_18.array; path = Resources/oracle/oracle_18.array; sourceTree = "<group>"; };
+		AA5F03F114A958CA000BEFA7 /* oracle_19.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_19.array; path = Resources/oracle/oracle_19.array; sourceTree = "<group>"; };
+		AA5F03F214A958CA000BEFA7 /* oracle_20.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_20.array; path = Resources/oracle/oracle_20.array; sourceTree = "<group>"; };
+		AA5F03F314A958CA000BEFA7 /* oracle_21.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_21.array; path = Resources/oracle/oracle_21.array; sourceTree = "<group>"; };
+		AA5F03F414A958CA000BEFA7 /* oracle_22.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_22.array; path = Resources/oracle/oracle_22.array; sourceTree = "<group>"; };
+		AA5F03F514A958CA000BEFA7 /* oracle_23.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_23.array; path = Resources/oracle/oracle_23.array; sourceTree = "<group>"; };
+		AA5F03F614A958CA000BEFA7 /* oracle_24.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_24.array; path = Resources/oracle/oracle_24.array; sourceTree = "<group>"; };
+		AA5F03F714A958CA000BEFA7 /* oracle_25.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_25.array; path = Resources/oracle/oracle_25.array; sourceTree = "<group>"; };
+		AA5F03F814A958CA000BEFA7 /* oracle_names_only.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oracle_names_only.array; path = Resources/oracle/oracle_names_only.array; sourceTree = "<group>"; };
+		AA5F041414A958E6000BEFA7 /* DecklistCounterControllerFullscreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DecklistCounterControllerFullscreen.xib; path = Classes/DecklistCounterControllerFullscreen.xib; sourceTree = "<group>"; };
+		AA5F041614A95926000BEFA7 /* MTGJudge-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MTGJudge-Info.plist"; sourceTree = "<group>"; };
+		AA5F041814A959C1000BEFA7 /* MTGJudge_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTGJudge_Prefix.pch; sourceTree = "<group>"; };
+		AA77108B1432CB6B001B044A /* DraftTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DraftTimer.h; sourceTree = "<group>"; };
+		AA77108C1432CB6C001B044A /* DraftTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DraftTimer.m; sourceTree = "<group>"; };
+		AA77108D1432CB6E001B044A /* DraftTimer.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DraftTimer.xib; path = Classes/DraftTimer.xib; sourceTree = "<group>"; };
+		AA8B40EC1111637B0035D8B3 /* IPGContents.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IPGContents.h; sourceTree = "<group>"; };
+		AA8B40ED1111637B0035D8B3 /* IPGContents.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IPGContents.m; sourceTree = "<group>"; };
+		AA8B40EE1111637B0035D8B3 /* IPGContents.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = IPGContents.xib; path = Classes/IPGContents.xib; sourceTree = "<group>"; };
+		AA8B4158111192290035D8B3 /* IPGSubContents.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IPGSubContents.h; sourceTree = "<group>"; };
+		AA8B4159111192290035D8B3 /* IPGSubContents.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IPGSubContents.m; sourceTree = "<group>"; };
+		AA8B415A111192290035D8B3 /* IPGSubContents.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = IPGSubContents.xib; path = Classes/IPGSubContents.xib; sourceTree = "<group>"; };
+		AA988C31141C183600EFFB61 /* CheckForUpdatesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CheckForUpdatesController.h; sourceTree = "<group>"; };
+		AA988C32141C183600EFFB61 /* CheckForUpdatesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CheckForUpdatesController.m; sourceTree = "<group>"; };
+		AA988C33141C183600EFFB61 /* CheckForUpdatesController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CheckForUpdatesController.xib; path = Classes/CheckForUpdatesController.xib; sourceTree = "<group>"; };
+		AA9FF5541348B1E60081688F /* CompRulesSpecific.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompRulesSpecific.h; sourceTree = "<group>"; };
+		AA9FF5551348B1E60081688F /* CompRulesSpecific.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompRulesSpecific.m; sourceTree = "<group>"; };
+		AA9FF5681348B3BA0081688F /* CompRulesSpecific.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CompRulesSpecific.xib; path = Classes/CompRulesSpecific.xib; sourceTree = "<group>"; };
+		AAA67CC61109AB4E0005D2E0 /* QuickReferenceDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuickReferenceDetailController.h; sourceTree = "<group>"; };
+		AAA67CC71109AB4E0005D2E0 /* QuickReferenceDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuickReferenceDetailController.m; sourceTree = "<group>"; };
+		AAA67CC81109AB4E0005D2E0 /* QuickReferenceDetailController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = QuickReferenceDetailController.xib; path = Classes/QuickReferenceDetailController.xib; sourceTree = "<group>"; };
+		AAA67E961109C4150005D2E0 /* DecklistCounterController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DecklistCounterController.h; sourceTree = "<group>"; };
+		AAA67E971109C4150005D2E0 /* DecklistCounterController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DecklistCounterController.m; sourceTree = "<group>"; };
+		AAA67E981109C4150005D2E0 /* DecklistCounterController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DecklistCounterController.xib; path = Classes/DecklistCounterController.xib; sourceTree = "<group>"; };
+		AAA67F271109D3420005D2E0 /* OracleLookupController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OracleLookupController.h; sourceTree = "<group>"; };
+		AAA67F281109D3420005D2E0 /* OracleLookupController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OracleLookupController.m; sourceTree = "<group>"; };
+		AAA67F291109D3420005D2E0 /* OracleLookupController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = OracleLookupController.xib; path = Classes/OracleLookupController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				AA2303DC12B9C65A00055DE7 /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				AA49E9F8141A15F7000FBC4F /* Quick Reference */,
+				AA49E9F7141A15E1000FBC4F /* IPG */,
+				AA49E9F9141A1606000FBC4F /* Comp Rules */,
+				AA988C2E141C16F100EFFB61 /* More Views */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				AA5CE1B81154C16E0016912A /* XIBs */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* MTGJudge.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				AA5F03AB14A95810000BEFA7 /* Entitlements.plist */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				AA2303DB12B9C65A00055DE7 /* QuartzCore.framework */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				AA5F041814A959C1000BEFA7 /* MTGJudge_Prefix.pch */,
+				AA5F03AD14A95826000BEFA7 /* main.m */,
+				1D3623240D0F684500981E51 /* MTGJudgeAppDelegate.h */,
+				1D3623250D0F684500981E51 /* MTGJudgeAppDelegate.m */,
+			);
+			name = "Other Sources";
+			path = ..;
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				AA5F041614A95926000BEFA7 /* MTGJudge-Info.plist */,
+				AA5F03B414A95841000BEFA7 /* icon.png */,
+				AA5F03B114A95839000BEFA7 /* version_control.array */,
+				AA988C2F141C170700EFFB61 /* Tab Bar Icons */,
+				AA8B40E71111631F0035D8B3 /* QuickReference */,
+				AA8B402A111158CC0035D8B3 /* Oracle Files */,
+				AA988C30141C171900EFFB61 /* Docs Files */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AA49E9F7141A15E1000FBC4F /* IPG */ = {
+			isa = PBXGroup;
+			children = (
+				AA8B40EC1111637B0035D8B3 /* IPGContents.h */,
+				AA8B40ED1111637B0035D8B3 /* IPGContents.m */,
+				AA8B4158111192290035D8B3 /* IPGSubContents.h */,
+				AA8B4159111192290035D8B3 /* IPGSubContents.m */,
+				AA5CE0B81154A7C70016912A /* IPGDetailMenu.h */,
+				AA5CE0B91154A7C70016912A /* IPGDetailMenu.m */,
+				AA5CE1031154AC230016912A /* IPGDetail.h */,
+				AA5CE1041154AC230016912A /* IPGDetail.m */,
+			);
+			name = IPG;
+			sourceTree = "<group>";
+		};
+		AA49E9F8141A15F7000FBC4F /* Quick Reference */ = {
+			isa = PBXGroup;
+			children = (
+				28C286DF0D94DF7D0034E888 /* QuickReferenceController.h */,
+				28C286E00D94DF7D0034E888 /* QuickReferenceController.m */,
+				AAA67CC61109AB4E0005D2E0 /* QuickReferenceDetailController.h */,
+				AAA67CC71109AB4E0005D2E0 /* QuickReferenceDetailController.m */,
+				AA49E9ED141A1366000FBC4F /* BannedFormatList.h */,
+				AA49E9EE141A1366000FBC4F /* BannedFormatList.m */,
+				AA49E9F2141A150A000FBC4F /* BannedListDetails.h */,
+				AA49E9F3141A150A000FBC4F /* BannedListDetails.m */,
+			);
+			name = "Quick Reference";
+			sourceTree = "<group>";
+		};
+		AA49E9F9141A1606000FBC4F /* Comp Rules */ = {
+			isa = PBXGroup;
+			children = (
+				AA5CE1B31154C15C0016912A /* CompRulesContents.h */,
+				AA5CE1B41154C15C0016912A /* CompRulesContents.m */,
+				AA5CE1DC1154C5000016912A /* CompRulesSubContents.h */,
+				AA5CE1DD1154C5000016912A /* CompRulesSubContents.m */,
+				AA5CE2AB1154CE4D0016912A /* CompRulesDetails.h */,
+				AA5CE2AC1154CE4D0016912A /* CompRulesDetails.m */,
+				AA9FF5541348B1E60081688F /* CompRulesSpecific.h */,
+				AA9FF5551348B1E60081688F /* CompRulesSpecific.m */,
+			);
+			name = "Comp Rules";
+			sourceTree = "<group>";
+		};
+		AA5CE1B81154C16E0016912A /* XIBs */ = {
+			isa = PBXGroup;
+			children = (
+				AA5F041414A958E6000BEFA7 /* DecklistCounterControllerFullscreen.xib */,
+				AA5F03CC14A95879000BEFA7 /* MainWindow.xib */,
+				AA5F03CD14A95879000BEFA7 /* QuickReferenceController.xib */,
+				AA77108D1432CB6E001B044A /* DraftTimer.xib */,
+				AA988C33141C183600EFFB61 /* CheckForUpdatesController.xib */,
+				AA49E9FC141C08C9000FBC4F /* MoreViewsController.xib */,
+				AA49E9F4141A150A000FBC4F /* BannedListDetails.xib */,
+				AA49E9EF141A1366000FBC4F /* BannedFormatList.xib */,
+				AA5CE1B51154C15C0016912A /* CompRulesContents.xib */,
+				AA9FF5681348B3BA0081688F /* CompRulesSpecific.xib */,
+				AA5CE2AD1154CE4D0016912A /* CompRulesDetails.xib */,
+				AA5CE1DE1154C5000016912A /* CompRulesSubContents.xib */,
+				AAA67F291109D3420005D2E0 /* OracleLookupController.xib */,
+				AA8B40EE1111637B0035D8B3 /* IPGContents.xib */,
+				AA5CE0BA1154A7C70016912A /* IPGDetailMenu.xib */,
+				AA5CE1051154AC230016912A /* IPGDetail.xib */,
+				AAA67CC81109AB4E0005D2E0 /* QuickReferenceDetailController.xib */,
+				AAA67E981109C4150005D2E0 /* DecklistCounterController.xib */,
+				AA8B415A111192290035D8B3 /* IPGSubContents.xib */,
+			);
+			name = XIBs;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		AA8B402A111158CC0035D8B3 /* Oracle Files */ = {
+			isa = PBXGroup;
+			children = (
+				AA5F03DE14A958CA000BEFA7 /* oracle_0.array */,
+				AA5F03DF14A958CA000BEFA7 /* oracle_1.array */,
+				AA5F03E014A958CA000BEFA7 /* oracle_2.array */,
+				AA5F03E114A958CA000BEFA7 /* oracle_3.array */,
+				AA5F03E214A958CA000BEFA7 /* oracle_4.array */,
+				AA5F03E314A958CA000BEFA7 /* oracle_5.array */,
+				AA5F03E414A958CA000BEFA7 /* oracle_6.array */,
+				AA5F03E514A958CA000BEFA7 /* oracle_7.array */,
+				AA5F03E614A958CA000BEFA7 /* oracle_8.array */,
+				AA5F03E714A958CA000BEFA7 /* oracle_9.array */,
+				AA5F03E814A958CA000BEFA7 /* oracle_10.array */,
+				AA5F03E914A958CA000BEFA7 /* oracle_11.array */,
+				AA5F03EA14A958CA000BEFA7 /* oracle_12.array */,
+				AA5F03EB14A958CA000BEFA7 /* oracle_13.array */,
+				AA5F03EC14A958CA000BEFA7 /* oracle_14.array */,
+				AA5F03ED14A958CA000BEFA7 /* oracle_15.array */,
+				AA5F03EE14A958CA000BEFA7 /* oracle_16.array */,
+				AA5F03EF14A958CA000BEFA7 /* oracle_17.array */,
+				AA5F03F014A958CA000BEFA7 /* oracle_18.array */,
+				AA5F03F114A958CA000BEFA7 /* oracle_19.array */,
+				AA5F03F214A958CA000BEFA7 /* oracle_20.array */,
+				AA5F03F314A958CA000BEFA7 /* oracle_21.array */,
+				AA5F03F414A958CA000BEFA7 /* oracle_22.array */,
+				AA5F03F514A958CA000BEFA7 /* oracle_23.array */,
+				AA5F03F614A958CA000BEFA7 /* oracle_24.array */,
+				AA5F03F714A958CA000BEFA7 /* oracle_25.array */,
+				AA5F03F814A958CA000BEFA7 /* oracle_names_only.array */,
+			);
+			name = "Oracle Files";
+			sourceTree = "<group>";
+		};
+		AA8B40E71111631F0035D8B3 /* QuickReference */ = {
+			isa = PBXGroup;
+			children = (
+				AA5F03D014A958BA000BEFA7 /* guide_1.jpg */,
+				AA5F03D114A958BA000BEFA7 /* guide_2.jpg */,
+				AA5F03D214A958BA000BEFA7 /* guide_3.jpg */,
+				AA5F03D314A958BA000BEFA7 /* guide_4.jpg */,
+				AA5F03D414A958BA000BEFA7 /* guide_5.jpg */,
+				AA5F03D514A958BA000BEFA7 /* guide_6.jpg */,
+				AA5F03D614A958BA000BEFA7 /* guide_7.jpg */,
+			);
+			name = QuickReference;
+			sourceTree = "<group>";
+		};
+		AA988C2E141C16F100EFFB61 /* More Views */ = {
+			isa = PBXGroup;
+			children = (
+				AA77108B1432CB6B001B044A /* DraftTimer.h */,
+				AA77108C1432CB6C001B044A /* DraftTimer.m */,
+				AA23038D12B9C52400055DE7 /* LoadingView.h */,
+				AA23038E12B9C52400055DE7 /* LoadingView.m */,
+				AAA67F271109D3420005D2E0 /* OracleLookupController.h */,
+				AAA67F281109D3420005D2E0 /* OracleLookupController.m */,
+				AAA67E961109C4150005D2E0 /* DecklistCounterController.h */,
+				AAA67E971109C4150005D2E0 /* DecklistCounterController.m */,
+				AA49E9FA141C08C8000FBC4F /* MoreViewsController.h */,
+				AA49E9FB141C08C8000FBC4F /* MoreViewsController.m */,
+				AA988C31141C183600EFFB61 /* CheckForUpdatesController.h */,
+				AA988C32141C183600EFFB61 /* CheckForUpdatesController.m */,
+			);
+			name = "More Views";
+			sourceTree = "<group>";
+		};
+		AA988C2F141C170700EFFB61 /* Tab Bar Icons */ = {
+			isa = PBXGroup;
+			children = (
+				AA5F03C214A95869000BEFA7 /* 11-clock.png */,
+				AA5F03C314A95869000BEFA7 /* 84-lightbulb.png */,
+				AA5F03C414A95869000BEFA7 /* 96-book.png */,
+				AA5F03C514A95869000BEFA7 /* 146-gavel.png */,
+				AA5F03C614A95869000BEFA7 /* 161-calculator.png */,
+			);
+			name = "Tab Bar Icons";
+			sourceTree = "<group>";
+		};
+		AA988C30141C171900EFFB61 /* Docs Files */ = {
+			isa = PBXGroup;
+			children = (
+				AA5F03B614A95853000BEFA7 /* Banned.txt */,
+				AA5F03B714A95853000BEFA7 /* CompRules.txt */,
+				AA5F03B814A95853000BEFA7 /* CompRulesContents.txt */,
+				AA5F03B914A95853000BEFA7 /* CompRulesGlossary.txt */,
+				AA5F03BA14A95853000BEFA7 /* FCE.txt */,
+				AA5F03BB14A95853000BEFA7 /* IPG.txt */,
+			);
+			name = "Docs Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* MTGJudge */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MTGJudge" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MTGJudge;
+			productName = MTGJudge;
+			productReference = 1D6058910D05DD3D006BFB54 /* MTGJudge.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MTGJudge" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* MTGJudge */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAA67CCA1109AB4E0005D2E0 /* QuickReferenceDetailController.xib in Resources */,
+				AAA67E9A1109C4150005D2E0 /* DecklistCounterController.xib in Resources */,
+				AAA67F2B1109D3420005D2E0 /* OracleLookupController.xib in Resources */,
+				AA8B40F01111637B0035D8B3 /* IPGContents.xib in Resources */,
+				AA8B415C111192290035D8B3 /* IPGSubContents.xib in Resources */,
+				AA5CE0BC1154A7C70016912A /* IPGDetailMenu.xib in Resources */,
+				AA5CE1071154AC230016912A /* IPGDetail.xib in Resources */,
+				AA5CE1B71154C15C0016912A /* CompRulesContents.xib in Resources */,
+				AA5CE1E01154C5000016912A /* CompRulesSubContents.xib in Resources */,
+				AA5CE2AF1154CE4D0016912A /* CompRulesDetails.xib in Resources */,
+				AA9FF5691348B3BA0081688F /* CompRulesSpecific.xib in Resources */,
+				AA49E9F1141A1366000FBC4F /* BannedFormatList.xib in Resources */,
+				AA49E9F6141A150B000FBC4F /* BannedListDetails.xib in Resources */,
+				AA49E9FE141C08C9000FBC4F /* MoreViewsController.xib in Resources */,
+				AA988C35141C183600EFFB61 /* CheckForUpdatesController.xib in Resources */,
+				AA77108F1432CB6F001B044A /* DraftTimer.xib in Resources */,
+				AA5F03AC14A95810000BEFA7 /* Entitlements.plist in Resources */,
+				AA5F03B314A95839000BEFA7 /* version_control.array in Resources */,
+				AA5F03B514A95841000BEFA7 /* icon.png in Resources */,
+				AA5F03BC14A95853000BEFA7 /* Banned.txt in Resources */,
+				AA5F03BD14A95853000BEFA7 /* CompRules.txt in Resources */,
+				AA5F03BE14A95853000BEFA7 /* CompRulesContents.txt in Resources */,
+				AA5F03BF14A95853000BEFA7 /* CompRulesGlossary.txt in Resources */,
+				AA5F03C014A95853000BEFA7 /* FCE.txt in Resources */,
+				AA5F03C114A95853000BEFA7 /* IPG.txt in Resources */,
+				AA5F03C714A95869000BEFA7 /* 11-clock.png in Resources */,
+				AA5F03C814A95869000BEFA7 /* 84-lightbulb.png in Resources */,
+				AA5F03C914A95869000BEFA7 /* 96-book.png in Resources */,
+				AA5F03CA14A95869000BEFA7 /* 146-gavel.png in Resources */,
+				AA5F03CB14A95869000BEFA7 /* 161-calculator.png in Resources */,
+				AA5F03CE14A95879000BEFA7 /* MainWindow.xib in Resources */,
+				AA5F03CF14A95879000BEFA7 /* QuickReferenceController.xib in Resources */,
+				AA5F03D714A958BA000BEFA7 /* guide_1.jpg in Resources */,
+				AA5F03D814A958BA000BEFA7 /* guide_2.jpg in Resources */,
+				AA5F03D914A958BA000BEFA7 /* guide_3.jpg in Resources */,
+				AA5F03DA14A958BA000BEFA7 /* guide_4.jpg in Resources */,
+				AA5F03DB14A958BA000BEFA7 /* guide_5.jpg in Resources */,
+				AA5F03DC14A958BA000BEFA7 /* guide_6.jpg in Resources */,
+				AA5F03DD14A958BA000BEFA7 /* guide_7.jpg in Resources */,
+				AA5F03F914A958CA000BEFA7 /* oracle_0.array in Resources */,
+				AA5F03FA14A958CA000BEFA7 /* oracle_1.array in Resources */,
+				AA5F03FB14A958CA000BEFA7 /* oracle_2.array in Resources */,
+				AA5F03FC14A958CA000BEFA7 /* oracle_3.array in Resources */,
+				AA5F03FD14A958CA000BEFA7 /* oracle_4.array in Resources */,
+				AA5F03FE14A958CA000BEFA7 /* oracle_5.array in Resources */,
+				AA5F03FF14A958CA000BEFA7 /* oracle_6.array in Resources */,
+				AA5F040014A958CA000BEFA7 /* oracle_7.array in Resources */,
+				AA5F040114A958CA000BEFA7 /* oracle_8.array in Resources */,
+				AA5F040214A958CA000BEFA7 /* oracle_9.array in Resources */,
+				AA5F040314A958CA000BEFA7 /* oracle_10.array in Resources */,
+				AA5F040414A958CA000BEFA7 /* oracle_11.array in Resources */,
+				AA5F040514A958CA000BEFA7 /* oracle_12.array in Resources */,
+				AA5F040614A958CA000BEFA7 /* oracle_13.array in Resources */,
+				AA5F040714A958CA000BEFA7 /* oracle_14.array in Resources */,
+				AA5F040814A958CA000BEFA7 /* oracle_15.array in Resources */,
+				AA5F040914A958CA000BEFA7 /* oracle_16.array in Resources */,
+				AA5F040A14A958CA000BEFA7 /* oracle_17.array in Resources */,
+				AA5F040B14A958CA000BEFA7 /* oracle_18.array in Resources */,
+				AA5F040C14A958CA000BEFA7 /* oracle_19.array in Resources */,
+				AA5F040D14A958CA000BEFA7 /* oracle_20.array in Resources */,
+				AA5F040E14A958CA000BEFA7 /* oracle_21.array in Resources */,
+				AA5F040F14A958CA000BEFA7 /* oracle_22.array in Resources */,
+				AA5F041014A958CA000BEFA7 /* oracle_23.array in Resources */,
+				AA5F041114A958CA000BEFA7 /* oracle_24.array in Resources */,
+				AA5F041214A958CA000BEFA7 /* oracle_25.array in Resources */,
+				AA5F041314A958CA000BEFA7 /* oracle_names_only.array in Resources */,
+				AA5F041514A958E6000BEFA7 /* DecklistCounterControllerFullscreen.xib in Resources */,
+				AA5F041714A95926000BEFA7 /* MTGJudge-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D3623260D0F684500981E51 /* MTGJudgeAppDelegate.m in Sources */,
+				28C286E10D94DF7D0034E888 /* QuickReferenceController.m in Sources */,
+				AAA67CC91109AB4E0005D2E0 /* QuickReferenceDetailController.m in Sources */,
+				AAA67E991109C4150005D2E0 /* DecklistCounterController.m in Sources */,
+				AAA67F2A1109D3420005D2E0 /* OracleLookupController.m in Sources */,
+				AA8B40EF1111637B0035D8B3 /* IPGContents.m in Sources */,
+				AA8B415B111192290035D8B3 /* IPGSubContents.m in Sources */,
+				AA5CE0BB1154A7C70016912A /* IPGDetailMenu.m in Sources */,
+				AA5CE1061154AC230016912A /* IPGDetail.m in Sources */,
+				AA5CE1B61154C15C0016912A /* CompRulesContents.m in Sources */,
+				AA5CE1DF1154C5000016912A /* CompRulesSubContents.m in Sources */,
+				AA5CE2AE1154CE4D0016912A /* CompRulesDetails.m in Sources */,
+				AA23038F12B9C52400055DE7 /* LoadingView.m in Sources */,
+				AA9FF5561348B1E60081688F /* CompRulesSpecific.m in Sources */,
+				AA49E9F0141A1366000FBC4F /* BannedFormatList.m in Sources */,
+				AA49E9F5141A150B000FBC4F /* BannedListDetails.m in Sources */,
+				AA49E9FD141C08C9000FBC4F /* MoreViewsController.m in Sources */,
+				AA988C34141C183600EFFB61 /* CheckForUpdatesController.m in Sources */,
+				AA77108E1432CB6F001B044A /* DraftTimer.m in Sources */,
+				AA5F03AF14A95826000BEFA7 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/iPhone Apps/Judge/MTGJudge/Entitlements.plist";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MTGJudge_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				INFOPLIST_FILE = "MTGJudge-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				PRODUCT_NAME = MTGJudge;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/iPhone Apps/Judge/MTGJudge/Entitlements.plist";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Alexei Gousev";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Alexei Gousev";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MTGJudge_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				INFOPLIST_FILE = "MTGJudge-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				PRODUCT_NAME = MTGJudge;
+				PROVISIONING_PROFILE = "D967491F-9D7C-4157-B63C-B1C18DD2F32B";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D967491F-9D7C-4157-B63C-B1C18DD2F32B";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		AA7803FC1200E1DD005DF748 /* Ad Hoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Alexei Gousev (557BVTLW6Y)";
+				CURRENT_PROJECT_VERSION = "";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "";
+				INFOPLIST_PREPROCESS = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E8609CD5-98AC-467D-9C8B-C114DE8A0913";
+				SDKROOT = iphoneos;
+			};
+			name = "Ad Hoc";
+		};
+		AA7803FD1200E1DD005DF748 /* Ad Hoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/iPhone Apps/Judge/MTGJudge/Entitlements.plist";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MTGJudge_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				INFOPLIST_FILE = "MTGJudge-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				PRODUCT_NAME = MTGJudge;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = "Ad Hoc";
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Alexei Gousev (557BVTLW6Y)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E8609CD5-98AC-467D-9C8B-C114DE8A0913";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Alexei Gousev";
+				CURRENT_PROJECT_VERSION = "";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "";
+				INFOPLIST_PREPROCESS = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A99EEA1F-B1AC-4EB6-8899-EBDFCC47C89D";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MTGJudge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				AA7803FD1200E1DD005DF748 /* Ad Hoc */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MTGJudge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				AA7803FC1200E1DD005DF748 /* Ad Hoc */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
