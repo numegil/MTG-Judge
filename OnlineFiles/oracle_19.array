@@ -358,6 +358,16 @@ When Talas Explorer enters the battlefield, look at target opponent's hand.</str
 		<string>Eventide Uncommon</string>
 	</array>
 	<array>
+		<string>Talons of Falkenrath</string>
+		<string>1R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature has "{1}{R}: This creature gets +2/+0 until end of turn."</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Talruum Champion</string>
 		<string>4R</string>
 		<string>Creature  - Minotaur</string>
@@ -1485,7 +1495,7 @@ Whenever a spell deals damage to Tephraderm, Tephraderm deals that much damage t
 		<string>Creature  - Elephant</string>
 		<string>(9/9)</string>
 		<string>When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.</string>
-		<string>Worldwake Rare</string>
+		<string>Premium Deck Series: Graveborn Rare, Worldwake Rare</string>
 	</array>
 	<array>
 		<string>Teremko Griffin</string>
@@ -1614,6 +1624,7 @@ Players can't play lands.</string>
 	</array>
 	<array>
 		<string>Terror of Kruin Pass</string>
+		<string>Red</string>
 		<string>Creature  - Werewolf</string>
 		<string>(3/3)</string>
 		<string>Double strike
@@ -1799,6 +1810,15 @@ When Thalakos Seer leaves the battlefield, draw a card.</string>
 		<string>(1/2)</string>
 		<string>Shadow (This creature can block or be blocked by only creatures with shadow)</string>
 		<string>Tempest Common</string>
+	</array>
+	<array>
+		<string>Thalia, Guardian of Thraben</string>
+		<string>1W</string>
+		<string>Legendary Creature  - Human Soldier</string>
+		<string>(2/1)</string>
+		<string>First strike
+Noncreature spells cost {1} more to cast.</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Thallid</string>
@@ -2463,6 +2483,15 @@ Whenever a player casts a spell that shares a color or converted mana cost with 
 		<string>Shadowmoor Rare</string>
 	</array>
 	<array>
+		<string>Thought Scour</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target player puts the top two cards of his or her library into his or her graveyard.
+Draw a card.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Thoughtbind</string>
 		<string>2U</string>
 		<string>Instant</string>
@@ -2572,7 +2601,25 @@ Thoughtweft Trio can block any number of creatures.</string>
 		<string>Lorwyn Rare</string>
 	</array>
 	<array>
+		<string>Thraben Doomsayer</string>
+		<string>1WW</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(2/2)</string>
+		<string>{T}: Put a 1/1 white Human creature token onto the battlefield.
+Fateful hour - As long as you have 5 or less life, other creatures you control get +2/+2.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
+		<string>Thraben Heretic</string>
+		<string>1W</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>{T}: Exile target creature card from a graveyard.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Thraben Militia</string>
+		<string>White</string>
 		<string>Creature  - Human Soldier</string>
 		<string>(5/4)</string>
 		<string>Trample</string>
@@ -4044,6 +4091,14 @@ If there are more than two players in the game, the turn order is reversed.</str
 		<string>Guildpact Common</string>
 	</array>
 	<array>
+		<string>Torch Fiend</string>
+		<string>1R</string>
+		<string>Creature  - Devil</string>
+		<string>(2/1)</string>
+		<string>{R}, Sacrifice Torch Fiend: Destroy target artifact.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Torch Slinger</string>
 		<string>2R</string>
 		<string>Creature  - Goblin Shaman</string>
@@ -4363,8 +4418,17 @@ Whenever a player puts a Forest onto the battlefield, Tourach's Chant deals 3 da
 		<string>Enchant land you control
 Sacrifice a Thrull: Put three time counters on Tourach's Gate.
 At the beginning of your upkeep, remove a time counter from Tourach's Gate. If there are no time counters on Tourach's Gate, sacrifice it.
-Enchanted land has "{T}: Attacking creatures you control get +2/-1 until end of turn."</string>
+Tap enchanted land: Attacking creatures you control get +2/-1 until end of turn. Activate this ability only if enchanted land is untapped.</string>
 		<string>Fallen Empires Rare</string>
+	</array>
+	<array>
+		<string>Tovolar's Magehunter</string>
+		<string>Red</string>
+		<string>Creature  - Werewolf</string>
+		<string>(5/5)</string>
+		<string>Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Tower Above</string>
@@ -4391,6 +4455,15 @@ Until end of turn, target creature gets +4/+4 and gains trample, wither, and "Wh
 		<string>(4/4)</string>
 		<string>Flying</string>
 		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Tower Geist</string>
+		<string>3U</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/2)</string>
+		<string>Flying
+When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Tower of Calamities</string>
@@ -4533,6 +4606,15 @@ Whenever enchanted land is tapped for mana, its controller adds one mana of any 
 		<string>Masters Edition III Uncommon, The Dark Rare</string>
 	</array>
 	<array>
+		<string>Tracker's Instincts</string>
+		<string>1G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Trade Caravan</string>
 		<string>W</string>
 		<string>Creature  - Human Nomad</string>
@@ -4574,6 +4656,15 @@ Remove two currency counters from Trade Caravan: Untap target basic land. Activa
 		<string>(1/1)</string>
 		<string>{T}, Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.</string>
 		<string>Urza's Legacy Common</string>
+	</array>
+	<array>
+		<string>Tragic Slip</string>
+		<string>B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets -1/-1 until end of turn.
+Morbid - That creature gets -13/-13 until end of turn instead if a creature died this turn.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Trailblazer</string>
@@ -4768,7 +4859,7 @@ Transcendent Master is indestructible.</string>
 	</array>
 	<array>
 		<string>Transguild Courier</string>
-		<string>4</string>
+		<string>White/Blue/Black/Red/Green</string>
 		<string>Artifact Creature  - Golem</string>
 		<string>(3/3)</string>
 		<string></string>
@@ -4894,7 +4985,7 @@ Flashback {1}{W} (You may cast this card from your graveyard for its flashback c
 		<string>Innistrad Common</string>
 	</array>
 	<array>
-		<string>Traveler's Amulet</string>
+		<string>Traveler’s Amulet (Traveler's Amulet)</string>
 		<string>1</string>
 		<string>Artifact</string>
 		<string></string>
@@ -4937,7 +5028,7 @@ All damage that would be dealt to enchanted creature is dealt to its controller 
 		<string>4B</string>
 		<string>Instant</string>
 		<string></string>
-		<string>Target opponent reveals his or her hand. You may put a creature card from it onto the battlefield under your control. That creature has haste. Sacrifice it at the beginning of the next end step.</string>
+		<string>Target opponent reveals his or her hand. You may put a creature card from it onto the battlefield under your control. That creature gains haste. Sacrifice it at the beginning of the next end step.</string>
 		<string>Planar Chaos Uncommon</string>
 	</array>
 	<array>
@@ -5993,7 +6084,7 @@ Hellbent - Destroy those creatures instead if you have no cards in hand.</string
 		<string>(5/3)</string>
 		<string>{B}: Regenerate Twisted Abomination.
 Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</string>
-		<string>Archenemy Common, Duel Decks: Garruk vs. Liliana Common, Time Spiral "Timeshifted" Special, Scourge Common</string>
+		<string>Premium Deck Series: Graveborn Common, Archenemy Common, Duel Decks: Garruk vs. Liliana Common, Time Spiral "Timeshifted" Special, Scourge Common</string>
 	</array>
 	<array>
 		<string>Twisted Experiment</string>

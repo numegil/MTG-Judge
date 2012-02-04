@@ -361,6 +361,14 @@ Morph {2} (You may cast this face down as a 2/2 creature for {3}. Turn it face u
 		<string>Rise of the Eldrazi Common</string>
 	</array>
 	<array>
+		<string>Zombie Apocalypse</string>
+		<string>3BBB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Zombie Assassin</string>
 		<string>4B</string>
 		<string>Creature  - Zombie Assassin</string>
@@ -424,7 +432,7 @@ Whenever a permanent by the chosen artist is put into a graveyard, put two +1/+1
 		<string>Enchantment</string>
 		<string></string>
 		<string>Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.</string>
-		<string>Magic 2012 Uncommon, Archenemy Uncommon, Odyssey Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Magic 2012 Uncommon, Archenemy Uncommon, Odyssey Uncommon</string>
 	</array>
 	<array>
 		<string>Zombie Master</string>

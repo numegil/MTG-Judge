@@ -50,7 +50,7 @@ Whenever you cast a blue spell, you may put a 1/1 blue Bird creature token with 
 		<string>(2/3)</string>
 		<string>When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.
 When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.</string>
-		<string>Time Spiral "Timeshifted" Special, Torment Common</string>
+		<string>Premium Deck Series: Graveborn Common, Time Spiral "Timeshifted" Special, Torment Common</string>
 	</array>
 	<array>
 		<string>Faceless Devourer</string>
@@ -212,6 +212,15 @@ At the beginning of the end step, if there are two or more ki counters on Faithf
 		<string>Betrayers of Kamigawa Uncommon</string>
 	</array>
 	<array>
+		<string>Faithless Looting</string>
+		<string>R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Draw two cards, then discard two cards.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Faith's Fetters</string>
 		<string>3W</string>
 		<string>Enchantment  - Aura</string>
@@ -220,6 +229,24 @@ At the beginning of the end step, if there are two or more ki counters on Faithf
 When Faith's Fetters enters the battlefield, you gain 4 life.
 Enchanted permanent's activated abilities can't be activated unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.</string>
 		<string>Duel Decks: Divine vs. Demonic Common, Ravnica: City of Guilds Common</string>
+	</array>
+	<array>
+		<string>Faith's Shield</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target permanent you control gains protection from the color of your choice until end of turn.
+Fateful hour - If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
+		<string>Falkenrath Aristocrat</string>
+		<string>2BR</string>
+		<string>Creature  - Vampire</string>
+		<string>(4/1)</string>
+		<string>Flying, haste
+Sacrifice a creature: Falkenrath Aristocrat is indestructible this turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.</string>
+		<string>Dark Ascension Mythic Rare</string>
 	</array>
 	<array>
 		<string>Falkenrath Marauders</string>
@@ -238,6 +265,14 @@ Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 cou
 		<string>Flying
 Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.</string>
 		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Falkenrath Torturer</string>
+		<string>2B</string>
+		<string>Creature  - Vampire</string>
+		<string>(2/1)</string>
+		<string>Sacrifice a creature: Falkenrath Torturer gains flying until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Torturer.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Fallen Angel</string>
@@ -525,6 +560,14 @@ Threshold - If seven or more cards are in your graveyard, instead search your li
 		<string>Torment Common</string>
 	</array>
 	<array>
+		<string>Farbog Boneflinger</string>
+		<string>4B</string>
+		<string>Creature  - Zombie</string>
+		<string>(2/2)</string>
+		<string>When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Farewell to Arms</string>
 		<string>1BB</string>
 		<string>Enchantment</string>
@@ -564,7 +607,7 @@ Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you 
 		<string>Enchantment  - Aura</string>
 		<string></string>
 		<string>Enchant creature
-Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to target creature. If that player does, the attacking creature assigns no combat damage this turn.</string>
+Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to another target creature. If that player does, the attacking creature assigns no combat damage this turn.</string>
 		<string>Masters Edition II Uncommon, Fallen Empires Uncommon</string>
 	</array>
 	<array>
@@ -772,6 +815,15 @@ As long as enchanted creature is blue, it gets +1/+1 and has flying.</string>
 		<string>Eventide Common</string>
 	</array>
 	<array>
+		<string>Favor of the Woods</string>
+		<string>2G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Whenever enchanted creature blocks, you gain 3 life.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Favorable Destiny</string>
 		<string>1W</string>
 		<string>Enchantment  - Aura</string>
@@ -849,6 +901,14 @@ Enchanted creature gets +4/+0.</string>
 Enchant creature
 Enchanted creature gets -2/-1.</string>
 		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Feed the Pack</string>
+		<string>5G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your end step, you may sacrifice a nontoken creature. If you do, put X 2/2 green Wolf creature tokens onto the battlefield, where X is the sacrificed creature's toughness.</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Feedback</string>
@@ -1388,6 +1448,16 @@ When Fiend Hunter leaves the battlefield, return the exiled card to the battlefi
 		<string>Innistrad Uncommon</string>
 	</array>
 	<array>
+		<string>Fiend of the Shadows</string>
+		<string>3BB</string>
+		<string>Creature  - Vampire Wizard</string>
+		<string>(3/3)</string>
+		<string>Flying
+Whenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from his or her hand. You may play that card for as long as it remains exiled.
+Sacrifice a Human: Regenerate Fiend of the Shadows.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Fierce Empath</string>
 		<string>2G</string>
 		<string>Creature  - Elf</string>
@@ -1892,6 +1962,15 @@ At the beginning of your upkeep, if Firemane Angel is in your graveyard or on th
 When Firemaw Kavu enters the battlefield, it deals 2 damage to target creature.
 When Firemaw Kavu leaves the battlefield, it deals 4 damage to target creature.</string>
 		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Fires of Undeath</string>
+		<string>2R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Fires of Undeath deals 2 damage to target creature or player.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Fires of Yavimaya</string>
@@ -2499,6 +2578,15 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 		<string>Mirrodin Besieged Common</string>
 	</array>
 	<array>
+		<string>Flayer of the Hatebound</string>
+		<string>5R</string>
+		<string>Creature  - Devil</string>
+		<string>(4/2)</string>
+		<string>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
+Whenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to target creature or player.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Fledgling Djinn</string>
 		<string>1B</string>
 		<string>Creature  - Djinn</string>
@@ -2743,7 +2831,7 @@ When Flight Spellbomb is put into a graveyard from the battlefield, you may pay 
 		<string></string>
 		<string>As an additional cost to cast Fling, sacrifice a creature.
 Fling deals damage equal to the sacrificed creature's power to target creature or player.</string>
-		<string>Magic 2012 Common, Magic 2011 Common, Stronghold Common</string>
+		<string>Dark Ascension Common, Magic 2012 Common, Magic 2011 Common, Stronghold Common</string>
 	</array>
 	<array>
 		<string>Flint Golem</string>
@@ -3552,6 +3640,14 @@ Put X +1/+1 counters on target creature, where X is the sacrificed artifact's co
 		<string>Mirrodin Uncommon</string>
 	</array>
 	<array>
+		<string>Forge Devil</string>
+		<string>R</string>
+		<string>Creature  - Devil</string>
+		<string>(1/1)</string>
+		<string>When Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Forget</string>
 		<string>UU</string>
 		<string>Sorcery</string>
@@ -4330,7 +4426,7 @@ When enchanted creature is dealt damage, destroy it.</string>
 		<string>Scars of Mirrodin Common</string>
 	</array>
 	<array>
-		<string>Full Moon's Rise</string>
+		<string>Full Moon’s Rise (Full Moon's Rise)</string>
 		<string>1G</string>
 		<string>Enchantment</string>
 		<string></string>

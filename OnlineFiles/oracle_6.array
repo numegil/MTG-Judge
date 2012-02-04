@@ -360,6 +360,7 @@ Trample</string>
 	</array>
 	<array>
 		<string>Garruk, the Veil-Cursed</string>
+		<string>Black/Green</string>
 		<string>Planeswalker  - Garruk</string>
 		<string></string>
 		<string>+1: Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.
@@ -481,6 +482,15 @@ Target creature gets +2/+2 until end of turn.</string>
 		<string>Shards of Alara Rare</string>
 	</array>
 	<array>
+		<string>Gather the Townsfolk</string>
+		<string>1W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put two 1/1 white Human creature tokens onto the battlefield.
+Fateful hour - If you have 5 or less life, put five of those tokens onto the battlefield instead.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Gatherer of Graces</string>
 		<string>1G</string>
 		<string>Creature  - Human Druid</string>
@@ -491,6 +501,7 @@ Sacrifice an Aura: Regenerate Gatherer of Graces.</string>
 	</array>
 	<array>
 		<string>Gatstaf Howler</string>
+		<string>Green</string>
 		<string>Creature  - Werewolf</string>
 		<string>(3/3)</string>
 		<string>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
@@ -533,6 +544,14 @@ Whenever a basic land is tapped for mana of the chosen color, its controller add
 		<string>Masters Edition III Rare, Fifth Edition Rare, Chronicles Rare, Legends Rare</string>
 	</array>
 	<array>
+		<string>Gavony Ironwright</string>
+		<string>2W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(1/4)</string>
+		<string>Fateful hour - As long as you have 5 or less life, other creatures you control get +1/+4.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Gavony Township</string>
 		<string>Land</string>
 		<string></string>
@@ -545,7 +564,7 @@ Whenever a basic land is tapped for mana of the chosen color, its controller add
 		<string>2RR</string>
 		<string>Instant  - Arcane</string>
 		<string></string>
-		<string>Gaze of Adamaro deals damage equal to the number of cards in target player's hand to that player.</string>
+		<string>Gaze of Adamaro deals damage to target player equal to the number of cards in that player's hand.</string>
 		<string>Saviors of Kamigawa Uncommon</string>
 	</array>
 	<array>
@@ -585,7 +604,7 @@ Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with
 		<string>Innistrad Mythic Rare</string>
 	</array>
 	<array>
-		<string>Geistcatcher's Rig</string>
+		<string>Geistcatcher’s Rig (Geistcatcher's Rig)</string>
 		<string>6</string>
 		<string>Artifact Creature  - Construct</string>
 		<string>(4/5)</string>
@@ -852,6 +871,25 @@ When enchanted Mountain is put into a graveyard, you may return Genju of the Spi
 		<string>Invasion Common</string>
 	</array>
 	<array>
+		<string>Geralf's Messenger</string>
+		<string>BBB</string>
+		<string>Creature  - Zombie</string>
+		<string>(3/2)</string>
+		<string>Geralf's Messenger enters the battlefield tapped.
+When Geralf's Messenger enters the battlefield, target opponent loses 2 life.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
+		<string>Geralf's Mindcrusher</string>
+		<string>4UU</string>
+		<string>Creature  - Zombie Horror</string>
+		<string>(5/5)</string>
+		<string>When Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Gerrard Capashen</string>
 		<string>3WW</string>
 		<string>Legendary Creature  - Human Soldier</string>
@@ -982,6 +1020,15 @@ Whenever Ghastlord of Fugue deals combat damage to a player, that player reveals
 		<string>Draw two cards, then discard a card.
 Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)</string>
 		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Ghastly Haunting</string>
+		<string>Blue</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+You control enchanted creature.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Ghastly Remains</string>
@@ -1297,7 +1344,7 @@ Discard a card: Return enchanted creature to its owner's hand.</string>
 		<string>Guildpact Rare</string>
 	</array>
 	<array>
-		<string>Ghoulcaller's Bell</string>
+		<string>Ghoulcaller’s Bell (Ghoulcaller's Bell)</string>
 		<string>1</string>
 		<string>Artifact</string>
 		<string></string>
@@ -1305,7 +1352,7 @@ Discard a card: Return enchanted creature to its owner's hand.</string>
 		<string>Innistrad Common</string>
 	</array>
 	<array>
-		<string>Ghoulcaller's Chant</string>
+		<string>Ghoulcaller’s Chant (Ghoulcaller's Chant)</string>
 		<string>B</string>
 		<string>Sorcery</string>
 		<string></string>
@@ -1327,6 +1374,14 @@ Discard a card: Return enchanted creature to its owner's hand.</string>
 		<string></string>
 		<string>Target creature gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.</string>
 		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Ghoultree</string>
+		<string>7G</string>
+		<string>Creature  - Zombie Treefolk</string>
+		<string>(10/10)</string>
+		<string>Ghoultree costs {1} less to cast for each creature card in your graveyard.</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Giant Albatross</string>
@@ -3987,6 +4042,15 @@ Whenever Graceful Antelope deals combat damage to a player, you may have target 
 		<string>Morningtide Uncommon</string>
 	</array>
 	<array>
+		<string>Grafdigger's Cage</string>
+		<string>1</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Creature cards can't enter the battlefield from graveyards or libraries.
+Players can't cast cards in graveyards or libraries.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Grafted Exoskeleton</string>
 		<string>4</string>
 		<string>Artifact  - Equipment</string>
@@ -4308,6 +4372,15 @@ Draw a card at the beginning of the next turn's upkeep.</string>
 		<string>Tenth Edition Rare, Legions Rare</string>
 	</array>
 	<array>
+		<string>Gravecrawler</string>
+		<string>B</string>
+		<string>Creature  - Zombie</string>
+		<string>(2/1)</string>
+		<string>Gravecrawler can't block.
+You may cast Gravecrawler from your graveyard as long as you control a Zombie.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Gravedigger</string>
 		<string>3B</string>
 		<string>Creature  - Zombie</string>
@@ -4369,6 +4442,15 @@ When Graven Dominator enters the battlefield or the creature it haunts dies, eac
 		<string>Guildpact Rare</string>
 	</array>
 	<array>
+		<string>Gravepurge</string>
+		<string>2B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Grave-Shell Scarab</string>
 		<string>2BGG</string>
 		<string>Creature  - Insect</string>
@@ -4392,6 +4474,15 @@ Dredge 1 (If you would draw a card, instead you may put exactly one card from th
 		<string></string>
 		<string>At the beginning of your upkeep, target opponent may exile a card from his or her graveyard. If that player doesn't, you may draw a card.</string>
 		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Gravetiller Wurm</string>
+		<string>5G</string>
+		<string>Creature  - Wurm</string>
+		<string>(4/4)</string>
+		<string>Trample
+Morbid - Gravetiller Wurm enters the battlefield with four +1/+1 counters on it if a creature died this turn.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Graveyard Shovel</string>
@@ -4817,6 +4908,14 @@ Equip {1}</string>
 		<string>New Phyrexia Common</string>
 	</array>
 	<array>
+		<string>Grim Backwoods</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{2}{B}{G}, {T}, Sacrifice a creature: Draw a card.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Grim Discovery</string>
 		<string>1B</string>
 		<string>Sorcery</string>
@@ -4832,6 +4931,14 @@ Equip {1}</string>
 		<string>At the beginning of your upkeep, Grim Feast deals 1 damage to you.
 Whenever a creature is put into an opponent's graveyard from the battlefield, you gain life equal to its toughness.</string>
 		<string>Mirage Rare</string>
+	</array>
+	<array>
+		<string>Grim Flowering</string>
+		<string>5G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Draw a card for each creature card in your graveyard.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Grim Harvest</string>
@@ -4991,6 +5098,14 @@ Draw a card.</string>
 		<string></string>
 		<string>Whenever a spell or ability is put onto the stack, if it has a single target, reselect its target at random. (Select from among all legal targets.)</string>
 		<string>Scourge Rare</string>
+	</array>
+	<array>
+		<string>Griptide</string>
+		<string>3U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put target creature on top of its owner's library.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Gristle Grinner</string>
@@ -5246,6 +5361,15 @@ Transmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a car
 		<string>Enchant creature
 Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Gruesome Discovery</string>
+		<string>2BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player discards two cards.
+Morbid - If a creature died this turn, instead that player reveals his or her hand, you choose two cards from it, then that player discards those cards.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Gruesome Encore</string>

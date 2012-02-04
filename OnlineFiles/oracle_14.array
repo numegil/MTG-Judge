@@ -1227,7 +1227,8 @@ Orcish Conscripts can't block unless at least two other creatures block.</string
 		<string></string>
 		<string>Enchant land
 Orcish Mine enters the battlefield with three ore counters on it.
-At the beginning of your upkeep and whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine. If there are no ore counters on Orcish Mine, destroy that land and Orcish Mine deals 2 damage to its controller.</string>
+At the beginning of your upkeep and whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine.
+When the last ore counter is removed from Orcish Mine, destroy enchanted land and Orcish Mine deals 2 damage to its controller.</string>
 		<string>Homelands Uncommon</string>
 	</array>
 	<array>

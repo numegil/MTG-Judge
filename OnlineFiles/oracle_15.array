@@ -29,7 +29,7 @@ Enchanted creature can't attack or block.</string>
 	</array>
 	<array>
 		<string>Pact of Negation</string>
-		<string>0</string>
+		<string>Blue</string>
 		<string>Instant</string>
 		<string></string>
 		<string>Counter target spell.
@@ -38,7 +38,7 @@ At the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the 
 	</array>
 	<array>
 		<string>Pact of the Titan</string>
-		<string>0</string>
+		<string>Red</string>
 		<string>Instant</string>
 		<string></string>
 		<string>Put a 4/4 red Giant creature token onto the battlefield.
@@ -2124,7 +2124,7 @@ Sacrifice a creature: Target creature gets -1/-1 until end of turn.</string>
 		<string>3</string>
 		<string>Artifact</string>
 		<string></string>
-		<string>{3}: Target opponent looks at the top ten cards of your library and separates them into two face-down piles. Exile one of those piles. Search the other pile for a card, put it into your hand, then shuffle the rest of that pile into your library. Activate this ability only if your library has ten or more cards in it.</string>
+		<string>{3}: If your library has ten or more cards in it, target opponent looks at the top ten cards of your library and separates them into two face-down piles. Exile one of those piles. Search the other pile for a card, put it into your hand, then shuffle the rest of that pile into your library.</string>
 		<string>Masters Edition II Rare, Alliances Rare</string>
 	</array>
 	<array>
@@ -2436,7 +2436,7 @@ When Pilgrim's Eye enters the battlefield, you may search your library for a bas
 		<string>Pillar of the Paruns</string>
 		<string>Land</string>
 		<string></string>
-		<string>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast multicolored spells.</string>
+		<string>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a multicolored spell.</string>
 		<string>Dissension Rare</string>
 	</array>
 	<array>
@@ -3264,7 +3264,7 @@ Whenever enchanted creature deals combat damage to a player, put that many 1/1 g
 		<string>Polluted Mire enters the battlefield tapped.
 {T}: Add {B} to your mana pool.
 Cycling {2} ({2}, Discard this card: Draw a card.)</string>
-		<string>Duel Decks: Garruk vs. Liliana Common, Beatdown Box Set Common, Battle Royale Box Set Common, Urza's Saga Common</string>
+		<string>Premium Deck Series: Graveborn Common, Duel Decks: Garruk vs. Liliana Common, Beatdown Box Set Common, Battle Royale Box Set Common, Urza's Saga Common</string>
 	</array>
 	<array>
 		<string>Polymorph</string>
@@ -3620,6 +3620,16 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
 		<string>Shards of Alara Rare</string>
 	</array>
 	<array>
+		<string>Predator Ooze</string>
+		<string>GGG</string>
+		<string>Creature  - Ooze</string>
+		<string>(1/1)</string>
+		<string>Predator Ooze is indestructible.
+Whenever Predator Ooze attacks, put a +1/+1 counter on it.
+Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Predator, Flagship</string>
 		<string>5</string>
 		<string>Legendary Artifact</string>
@@ -3884,7 +3894,7 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
 		<string></string>
 		<string>As Primal Beyond enters the battlefield, you may reveal an Elemental card from your hand. If you don't, Primal Beyond enters the battlefield tapped.
 {T}: Add {1} to your mana pool.
-{T}: Add one mana of any color to your mana pool. Spend this mana only to cast Elemental spells or activate abilities of Elementals.</string>
+{T}: Add one mana of any color to your mana pool. Spend this mana only to cast an Elemental spell or activate an ability of an Elemental.</string>
 		<string>Morningtide Rare</string>
 	</array>
 	<array>
@@ -4940,7 +4950,7 @@ At the beginning of your upkeep, sacrifice a Homunculus.</string>
 		<string>Enchantment  - Aura</string>
 		<string></string>
 		<string>Enchant creature
-When enchanted creature dies, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master from your graveyard to your hand.</string>
+When enchanted creature dies, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master to its owner's hand.</string>
 		<string>Chronicles Uncommon, Legends Uncommon</string>
 	</array>
 	<array>
@@ -5164,7 +5174,7 @@ At the beginning of the end step, sacrifice Putrefax.</string>
 		<string>(1/1)</string>
 		<string>Discard a card: Putrid Imp gains flying until end of turn.
 Threshold - As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.</string>
-		<string>Torment Common</string>
+		<string>Premium Deck Series: Graveborn Common, Torment Common</string>
 	</array>
 	<array>
 		<string>Putrid Leech</string>
@@ -5281,6 +5291,15 @@ Threshold - As long as seven or more cards are in your graveyard, Putrid Imp get
 		<string>At the beginning of your upkeep, if Pyre Zombie is in your graveyard, you may pay {1}{B}{B}. If you do, return Pyre Zombie to your hand.
 {1}{R}{R}, Sacrifice Pyre Zombie: Pyre Zombie deals 2 damage to target creature or player.</string>
 		<string>Invasion Rare</string>
+	</array>
+	<array>
+		<string>Pyreheart Wolf</string>
+		<string>2R</string>
+		<string>Creature  - Wolf</string>
+		<string>(1/1)</string>
+		<string>Whenever Pyreheart Wolf attacks, each creature you control can't be blocked this turn except by two or more creatures.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Pyretic Ritual</string>

@@ -12,14 +12,14 @@ To Fix after Convert.java is done:
 Replace all instances of — with -
 Replace all instances of á with a
 Replace all instances of Æ with Ae
-Replace all instances of ö with o
+Replace all instances of o with o
 
 Fix Individual Cards:
 
-1) Delete "Ach! Hans! Run!" and "___________" (from array1 and namesonly only)
+1) Delete "Ach! Hans! Run!" and "___________" (from oracle_0 and namesonly only)
 2) Look at top AND bottom of each array file and fix all cards that are out of alphabetical order by putting them back in alphabetical order (this will be the split cards, Kamigawa flip cards and a few random wackos).
 3) Get rid of ampersands from R&D Secret Lair and Look at Me I'm R&D and Punctuate
-4) Fix XXCall of the Herd and XXValor and Aerathi Berserker
+4) Fix XXCall of the Herd and XXValor and Aerathi Berserker, Butcher's Cleaver
 
 A few useful test cases:
 

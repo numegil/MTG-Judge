@@ -987,6 +987,14 @@ Whenever enchanted land is tapped for mana, its controller adds two mana in any 
 		<string>Mercadian Masques Rare</string>
 	</array>
 	<array>
+		<string>Dawntreader Elk</string>
+		<string>1G</string>
+		<string>Creature  - Elk</string>
+		<string>(2/2)</string>
+		<string>{G}, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Day of Destiny</string>
 		<string>3W</string>
 		<string>Legendary Enchantment</string>
@@ -1122,6 +1130,15 @@ Enchanted creature gets -2/-2.</string>
 		<string>Whenever equipped creature blocks or becomes blocked by a creature, destroy both creatures.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</string>
 		<string>Mirrodin Uncommon</string>
+	</array>
+	<array>
+		<string>Deadly Allure</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target creature gains deathtouch until end of turn and must be blocked this turn if able.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Deadly Grub</string>
@@ -1524,6 +1541,14 @@ As long as a card exiled with Death-Mask Duplicant has flying, Death-Mask Duplic
 Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.
 Equip {2}</string>
 		<string>Lorwyn Rare</string>
+	</array>
+	<array>
+		<string>Death's Caress</string>
+		<string>3BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target creature. If that creature was a Human, you gain life equal to its toughness.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Death's Duet</string>
@@ -2455,6 +2480,14 @@ Squirrel creatures get +1/+1.</string>
 		<string>Urza's Legacy Rare</string>
 	</array>
 	<array>
+		<string>Deranged Outcast</string>
+		<string>1G</string>
+		<string>Creature  - Human Rogue</string>
+		<string>(2/1)</string>
+		<string>{1}{G}, Sacrifice a Human: Put two +1/+1 counters on target creature.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Derelor</string>
 		<string>3B</string>
 		<string>Creature  - Thrull</string>
@@ -2778,7 +2811,7 @@ Put two X/X red Elemental creature tokens onto the battlefield.</string>
 		<string>Masters Edition IV Rare, Starter 1999 Rare, Portal Rare</string>
 	</array>
 	<array>
-		<string>Devil's Play</string>
+		<string>Devil’s Play (Devil's Play)</string>
 		<string>XR</string>
 		<string>Sorcery</string>
 		<string></string>
@@ -2957,7 +2990,7 @@ Search your library for a card and put that card into your hand. Then shuffle yo
 		<string>When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.
 When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.
 When Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.</string>
-		<string>Urza's Saga Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Urza's Saga Uncommon</string>
 	</array>
 	<array>
 		<string>Diabolic Tutor</string>
@@ -3187,6 +3220,16 @@ Whenever a black creature enters the battlefield under your control, you may hav
 		<string>(2/2)</string>
 		<string>Dire Wolves has banding as long as you control a Plains. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</string>
 		<string>Ice Age Common</string>
+	</array>
+	<array>
+		<string>Diregraf Captain</string>
+		<string>1UB</string>
+		<string>Creature  - Zombie Soldier</string>
+		<string>(2/2)</string>
+		<string>Deathtouch
+Other Zombie creatures you control get +1/+1.
+Whenever another Zombie you control dies, target opponent loses 1 life.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Diregraf Ghoul</string>
@@ -3719,7 +3762,7 @@ Conspire (As you cast this spell, you may tap two untapped creatures you control
 		<string>Sorcery</string>
 		<string></string>
 		<string>Draw two cards.</string>
-		<string>Magic 2012 Common, Magic 2010 Common</string>
+		<string>Dark Ascension Common, Magic 2012 Common, Magic 2010 Common</string>
 	</array>
 	<array>
 		<string>Divine Congregation</string>
@@ -4737,7 +4780,7 @@ When Dread Reaper enters the battlefield, you lose 5 life.</string>
 		<string></string>
 		<string>Return target creature card from your graveyard to the battlefield.
 Flashback-Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
-		<string>Time Spiral Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Time Spiral Uncommon</string>
 	</array>
 	<array>
 		<string>Dread Slag</string>
@@ -5126,6 +5169,24 @@ Whenever Dripping Dead deals combat damage to a creature, destroy that creature.
 		<string>Champions of Kamigawa Common</string>
 	</array>
 	<array>
+		<string>Drogskol Captain</string>
+		<string>1WU</string>
+		<string>Creature  - Spirit Soldier</string>
+		<string>(2/2)</string>
+		<string>Flying
+Other Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
+		<string>Drogskol Reaver</string>
+		<string>5WU</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/5)</string>
+		<string>Flying, double strike, lifelink
+Whenever you gain life, draw a card.</string>
+		<string>Dark Ascension Mythic Rare</string>
+	</array>
+	<array>
 		<string>Dromad Purebred</string>
 		<string>4W</string>
 		<string>Creature  - Camel Beast</string>
@@ -5403,6 +5464,7 @@ Whenever enchanted creature is dealt damage, its controller puts that many 1/1 g
 	</array>
 	<array>
 		<string>Dryad Arbor</string>
+		<string>Green</string>
 		<string>Land Creature  - Forest Dryad</string>
 		<string>(1/1)</string>
 		<string>(Dryad Arbor isn't a spell, it's affected by summoning sickness, and it has "{T}: Add {G} to your mana pool.")</string>
@@ -5537,6 +5599,15 @@ At the beginning of each end step, if Dunerider Outlaw dealt damage to an oppone
 		<string>Planar Chaos Uncommon</string>
 	</array>
 	<array>
+		<string>Dungeon Geists</string>
+		<string>2UU</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/3)</string>
+		<string>Flying
+When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Dungeon Shade</string>
 		<string>3B</string>
 		<string>Creature  - Shade Spirit</string>
@@ -5580,7 +5651,7 @@ When you lose control of Duplicity, put all cards exiled with Duplicity into the
 		<string>Sorcery</string>
 		<string></string>
 		<string>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.</string>
-		<string>Magic 2011 Common, Magic 2010 Common, Duel Decks: Divine vs. Demonic Common, Seventh Edition Common, Urza's Saga Common</string>
+		<string>Premium Deck Series: Graveborn Common, Magic 2011 Common, Magic 2010 Common, Duel Decks: Divine vs. Demonic Common, Seventh Edition Common, Urza's Saga Common</string>
 	</array>
 	<array>
 		<string>Durkwood Baloth</string>

@@ -7,6 +7,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Stack;
+import java.util.regex.Pattern;
 
 import android.app.ListActivity;
 import android.content.Context;
@@ -26,7 +27,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
-import android.util.Log;
 
 public class CompRulesActivity extends ListActivity {
 
@@ -91,7 +91,7 @@ public class CompRulesActivity extends ListActivity {
 				{
             		searchModeSetup(); //setup layout for SearchMode
 				}
-            	searchString = s.toString().toLowerCase();
+            	searchString = s.toString();
             	doSearch(searchString);
             }
            
@@ -199,7 +199,7 @@ public class CompRulesActivity extends ListActivity {
 							ArrayList<String> glossary_search_list = glossary_search_list_stack.peek();
 
 							for (int i = 0; i < glossary_search_result.size(); i++) {
-								if (glossary_search_result.get(i).contains(searchString)|| glossary_search_list.get(i).contains(searchString)) 
+								if (Pattern.compile(Pattern.quote(searchString), Pattern.CASE_INSENSITIVE).matcher(glossary_search_result.get(i)).find()|| Pattern.compile(Pattern.quote(searchString), Pattern.CASE_INSENSITIVE).matcher(glossary_search_list.get(i)).find()) 
 								{
 									nl.add(glossary_search_list.get(i));
 									result.add(glossary_search_result.get(i));
@@ -243,8 +243,7 @@ public class CompRulesActivity extends ListActivity {
 	 							{
 	 								content = content_st.toString();
 	 								//check if there is search string is found
-	 								
-	 								if(content.toLowerCase().contains(searchString)||title.toLowerCase().contains(searchString))
+	 								if(Pattern.compile(Pattern.quote(searchString), Pattern.CASE_INSENSITIVE).matcher(content).find()||Pattern.compile(Pattern.quote(searchString), Pattern.CASE_INSENSITIVE).matcher(title).find())
 	 								{
 	 									nl.add(title);
 	 									result.add(content);
@@ -312,7 +311,7 @@ public class CompRulesActivity extends ListActivity {
 							ArrayList<String> rules_search_list = rules_search_list_stack.peek();
 
 							for (int i = 0; i < rules_search_result.size(); i++) {
-								if (rules_search_result.get(i).contains(searchString)|| rules_search_list.get(i).contains(searchString)) 
+								if (Pattern.compile(Pattern.quote(searchString), Pattern.CASE_INSENSITIVE).matcher(rules_search_result.get(i)).find()|| Pattern.compile(Pattern.quote(searchString), Pattern.CASE_INSENSITIVE).matcher(rules_search_list.get(i)).find()) 
 								{
 									nl.add(rules_search_list.get(i));
 									result.add(rules_search_result.get(i));
@@ -380,7 +379,7 @@ public class CompRulesActivity extends ListActivity {
 	 							 //if current line is white space then we know the small_content_st is setup
 								if (readLine.equals("")) 
 								{
-									if(small_content_st.toString().contains(searchString))
+									if(Pattern.compile(Pattern.quote(searchString), Pattern.CASE_INSENSITIVE).matcher(small_content_st.toString()).find())
 									{
 										// setup the display index(the part
 										// before

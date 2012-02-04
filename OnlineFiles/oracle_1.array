@@ -435,6 +435,7 @@ Draw a card.</string>
 	</array>
 	<array>
 		<string>Bane of Hanweir</string>
+		<string>Red</string>
 		<string>Creature  - Werewolf</string>
 		<string>(5/5)</string>
 		<string>Bane of Hanweir attacks each turn if able.
@@ -559,6 +560,14 @@ Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)</string>
 		<string>(2/1)</string>
 		<string>As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike.</string>
 		<string>Alara Reborn Common</string>
+	</array>
+	<array>
+		<string>Bar the Door</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Creatures you control get +0/+4 until end of turn.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Barbarian Bully</string>
@@ -1541,6 +1550,14 @@ Beasts of Bogardan gets +1/+1 as long as an opponent controls a white permanent.
 		<string>Champions of Kamigawa Common, Seventh Edition Uncommon, Urza's Saga Common</string>
 	</array>
 	<array>
+		<string>Beguiler of Wills</string>
+		<string>3UU</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>{T}: Gain control of target creature with power less than or equal to the number of creatures you control.</string>
+		<string>Dark Ascension Mythic Rare</string>
+	</array>
+	<array>
 		<string>Behemoth Sledge</string>
 		<string>1GW</string>
 		<string>Artifact  - Equipment</string>
@@ -2103,6 +2120,14 @@ Sacrifice a creature: Untap Black Carriage. Activate this ability only during yo
 		<string>Homelands Rare</string>
 	</array>
 	<array>
+		<string>Black Cat</string>
+		<string>1B</string>
+		<string>Creature  - Zombie Cat</string>
+		<string>(1/1)</string>
+		<string>When Black Cat dies, target opponent discards a card at random.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Black Knight</string>
 		<string>BB</string>
 		<string>Creature  - Human Knight</string>
@@ -2417,7 +2442,7 @@ Fading 3 (This creature enters the battlefield with three fade counters on it. A
 		<string>W</string>
 		<string>Instant</string>
 		<string></string>
-		<string>Cast Blaze of Glory only during the declare attackers step.
+		<string>Cast Blaze of Glory only during combat before blockers are declared.
 Target creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.</string>
 		<string>Masters Edition IV Uncommon, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
 	</array>
@@ -2437,7 +2462,7 @@ Blazethorn Scarecrow has wither as long as you control a green creature. (It dea
 		<string>(5/6)</string>
 		<string>Flying
 Creatures can't attack you.</string>
-		<string>Ravnica: City of Guilds Rare</string>
+		<string>Premium Deck Series: Graveborn Rare, Ravnica: City of Guilds Rare</string>
 	</array>
 	<array>
 		<string>Blazing Blade Askari</string>
@@ -2967,6 +2992,14 @@ As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood C
 		<string>{T}: Blood Cultist deals 1 damage to target creature.
 Whenever a creature dealt damage by Blood Cultist this turn dies, put a +1/+1 counter on Blood Cultist.</string>
 		<string>Shards of Alara Uncommon</string>
+	</array>
+	<array>
+		<string>Blood Feud</string>
+		<string>4RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target creature fights another target creature. (Each deals damage equal to its power to the other.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Blood Frenzy</string>
@@ -4027,6 +4060,15 @@ Destroy target creature.</string>
 		<string>Shards of Alara Common</string>
 	</array>
 	<array>
+		<string>Bone to Ash</string>
+		<string>2UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target creature spell.
+Draw a card.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Bonebreaker Giant</string>
 		<string>4R</string>
 		<string>Creature  - Giant</string>
@@ -4794,6 +4836,15 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</string>
 		<string>Scourge Common</string>
 	</array>
 	<array>
+		<string>Break of Day</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Creatures you control get +1/+1 until end of turn.
+Fateful hour - If you have 5 or less life, those creatures also are indestructible this turn. (Lethal damage and effects that say "destroy" don't destroy them.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Break Open</string>
 		<string>1R</string>
 		<string>Instant</string>
@@ -4955,6 +5006,15 @@ Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrif
 		<string>(3/3)</string>
 		<string>Whenever you cast a Spirit or Arcane spell, put a +1/+1 counter on target creature.</string>
 		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Briarpack Alpha</string>
+		<string>3G</string>
+		<string>Creature  - Wolf</string>
+		<string>(3/3)</string>
+		<string>Flash (You may cast this spell any time you could cast an instant.)
+When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Bribery</string>
@@ -5499,12 +5559,7 @@ Target opponent loses 2 life. You gain 2 life.</string>
 		<string>(2/2)</string>
 		<string>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.
 At the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.
-----
-Ichiga, Who Topples Oaks
-Legendary Creature - Spirit
-4/3
-Trample
-Remove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn.</string>
+</string>
 		<string>Betrayers of Kamigawa Uncommon</string>
 	</array>
 	<array>
@@ -5512,7 +5567,7 @@ Remove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 un
 		<string>XXR</string>
 		<string>Sorcery</string>
 		<string></string>
-		<string>Destroy X target artifacts. Builder's Bane deals damage to each player equal to the number of artifacts he or she controlled destroyed this way.</string>
+		<string>Destroy X target artifacts. Builder's Bane deals damage to each player equal to the number of artifacts he or she controlled put into a graveyard this way.</string>
 		<string>Mirage Common</string>
 	</array>
 	<array>
@@ -5600,6 +5655,15 @@ Enchanted creature has flying.</string>
 		<string>Darksteel Common</string>
 	</array>
 	<array>
+		<string>Burden of Guilt</string>
+		<string>W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+{1}: Tap enchanted creature.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Bureaucracy</string>
 		<string>3UU</string>
 		<string>Enchantment</string>
@@ -5622,7 +5686,7 @@ If any PLAYER does not perform all the prescribed actions in the correct order, 
 		<string>Sorcery</string>
 		<string></string>
 		<string>Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.</string>
-		<string>Magic: The Gathering-Commander Uncommon, Odyssey Uncommon, Weatherlight Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Magic: The Gathering-Commander Uncommon, Odyssey Uncommon, Weatherlight Uncommon</string>
 	</array>
 	<array>
 		<string>Buried Ruin</string>
@@ -5689,6 +5753,15 @@ If a player does not tap any nonland cards during his or her turn, Burning Cinde
 		<string></string>
 		<string>Choose four lands you control and destroy those lands. Then target opponent chooses four lands he or she controls. Destroy those lands. Then Burning of Xinye deals 4 damage to each creature.</string>
 		<string>Masters Edition III Rare, Portal Three Kingdoms Rare</string>
+	</array>
+	<array>
+		<string>Burning Oil</string>
+		<string>1R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Burning Oil deals 3 damage to target attacking or blocking creature.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Burning Palm Efreet</string>
@@ -5895,7 +5968,7 @@ Whenever Butcher of Malakir or another creature you control dies, each opponent 
 		<string>Onslaught Rare</string>
 	</array>
 	<array>
-		<string>Butcher's Cleaver</string>
+		<string>Butcher’s Cleaver</string>
 		<string>3</string>
 		<string>Artifact  - Equipment</string>
 		<string></string>

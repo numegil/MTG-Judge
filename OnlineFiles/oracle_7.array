@@ -588,6 +588,14 @@ Search your library for up to two basic land cards and put them onto the battlef
 		<string>Duel Decks: Phyrexia vs. the Coalition Common, Zendikar Common, Invasion Common, Tempest Uncommon</string>
 	</array>
 	<array>
+		<string>Harrowing Journey</string>
+		<string>4B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player draws three cards and loses 3 life.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Harsh Deceiver</string>
 		<string>3W</string>
 		<string>Creature  - Spirit</string>
@@ -749,6 +757,14 @@ Morph {1}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it fac
 		<string>Mercadian Masques Uncommon</string>
 	</array>
 	<array>
+		<string>Haunted Fengraf</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{3}, {T}, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Haunting Apparition</string>
 		<string>1UB</string>
 		<string>Creature  - Spirit</string>
@@ -790,6 +806,22 @@ Haunting Misery deals X damage to target player.</string>
 		<string></string>
 		<string>Whenever an artifact becomes tapped or a player activates an artifact's ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.</string>
 		<string>Antiquities Uncommon</string>
+	</array>
+	<array>
+		<string>Havengul Lich</string>
+		<string>3UB</string>
+		<string>Creature  - Zombie Wizard</string>
+		<string>(4/4)</string>
+		<string>{1}: You may cast target creature card in a graveyard this turn. When you cast that card this turn, Havengul Lich gains all activated abilities of that card until end of turn.</string>
+		<string>Dark Ascension Mythic Rare</string>
+	</array>
+	<array>
+		<string>Havengul Runebinder</string>
+		<string>2UU</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>{2}{U}, {T}, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield, then put a +1/+1 counter on each Zombie creature you control.</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Havenwood Battleground</string>
@@ -928,6 +960,15 @@ Morph {B} (You may cast this face down as a 2/2 creature for {3}. Turn it face u
 		<string>(2/2)</string>
 		<string></string>
 		<string>Legends Common</string>
+	</array>
+	<array>
+		<string>Headless Skaab</string>
+		<string>2U</string>
+		<string>Creature  - Zombie Warrior</string>
+		<string>(3/6)</string>
+		<string>As an additional cost to cast Headless Skaab, exile a creature card from your graveyard.
+Headless Skaab enters the battlefield tapped.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Headlong Rush</string>
@@ -1280,6 +1321,16 @@ Prevent all damage that would be dealt to you this turn by attacking creatures.<
 		<string>Masters Edition III Common, Portal Three Kingdoms Uncommon</string>
 	</array>
 	<array>
+		<string>Heavy Mattock</string>
+		<string>3</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +1/+1.
+As long as equipped creature is a Human, it gets an additional +1/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Hecatomb</string>
 		<string>1BB</string>
 		<string>Enchantment</string>
@@ -1287,6 +1338,14 @@ Prevent all damage that would be dealt to you this turn by attacking creatures.<
 		<string>When Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures.
 Tap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.</string>
 		<string>Masters Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Heckling Fiends</string>
+		<string>2R</string>
+		<string>Creature  - Devil</string>
+		<string>(2/2)</string>
+		<string>{2}{R}: Target creature attacks this turn if able.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Hedge Troll</string>
@@ -1520,6 +1579,15 @@ Hellkite Hatchling has flying and trample if it devoured a creature.</string>
 		<string>Shards of Alara Mythic Rare, From the Vault: Dragons Rare</string>
 	</array>
 	<array>
+		<string>Hellrider</string>
+		<string>2RR</string>
+		<string>Creature  - Devil</string>
+		<string>(3/3)</string>
+		<string>Haste
+Whenever a creature you control attacks, Hellrider deals 1 damage to defending player.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Hell's Caretaker</string>
 		<string>3B</string>
 		<string>Creature  - Horror</string>
@@ -1601,6 +1669,16 @@ As long as enchanted creature is black, it gets +1/+1 and has "Whenever this cre
 		<string>Shadowmoor Common</string>
 	</array>
 	<array>
+		<string>Helvault</string>
+		<string>3</string>
+		<string>Legendary Artifact</string>
+		<string></string>
+		<string>{1}, {T}: Exile target creature you control.
+{7}, {T}: Exile target creature you don't control.
+When Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.</string>
+		<string>Dark Ascension Mythic Rare</string>
+	</array>
+	<array>
 		<string>Hematite Golem</string>
 		<string>4</string>
 		<string>Artifact Creature  - Golem</string>
@@ -1679,7 +1757,7 @@ Echo {2}{W}{W} (At the beginning of your upkeep, if this came under your control
 		<string>Time Spiral Common</string>
 	</array>
 	<array>
-		<string>Heretic's Punishment</string>
+		<string>Heretic’s Punishment (Heretic's Punishment)</string>
 		<string>4R</string>
 		<string>Enchantment</string>
 		<string></string>
@@ -1761,7 +1839,7 @@ Enchanted creature gets +3/+3 unless it shares a color with the most common colo
 		<string>2W</string>
 		<string>Enchantment</string>
 		<string></string>
-		<string>Sacrifice a white creature: For each attacking red creature, prevent all combat damage that would be dealt by it this turn unless the attacking player pays {2}{R}.</string>
+		<string>Sacrifice a white creature: For each attacking red creature, prevent all combat damage that would be dealt by that creature this turn unless its controller pays {2}{R}.</string>
 		<string>Fallen Empires Uncommon</string>
 	</array>
 	<array>
@@ -1786,7 +1864,7 @@ Enchanted creature gets +1/+5.</string>
 		<string>1U</string>
 		<string>Enchantment</string>
 		<string></string>
-		<string>When a player casts a spell, sacrifice Hesitation. If you do, counter that spell.</string>
+		<string>When a player casts a spell, sacrifice Hesitation and counter that spell.</string>
 		<string>Stronghold Uncommon</string>
 	</array>
 	<array>
@@ -1884,7 +1962,7 @@ Whenever you pay Hibernation's End's cumulative upkeep, you may search your libr
 		<string>Creature  - Horror</string>
 		<string>(4/4)</string>
 		<string>When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.</string>
-		<string>Tenth Edition Uncommon, Classic Sixth Edition Uncommon, Portal Second Age Rare, Weatherlight Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Tenth Edition Uncommon, Classic Sixth Edition Uncommon, Portal Second Age Rare, Weatherlight Uncommon</string>
 	</array>
 	<array>
 		<string>Hidden Path</string>
@@ -2010,6 +2088,14 @@ Splice onto Arcane {3}{B}{B} (As you cast an Arcane spell, you may reveal this c
 		<string>Masters Edition Uncommon, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
 	</array>
 	<array>
+		<string>Highborn Ghoul</string>
+		<string>BB</string>
+		<string>Creature  - Zombie</string>
+		<string>(2/1)</string>
+		<string>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Highland Berserker</string>
 		<string>1R</string>
 		<string>Creature  - Human Berserker Ally</string>
@@ -2117,6 +2203,23 @@ Storm (When you cast this spell, copy it for each spell cast before it this turn
 		<string>Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
 {T}: Add {G} or {U} to your mana pool.</string>
 		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Hinterland Hermit</string>
+		<string>1R</string>
+		<string>Creature  - Human Werewolf</string>
+		<string>(2/1)</string>
+		<string>At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
+		<string>Hinterland Scourge</string>
+		<string>Red</string>
+		<string>Creature  - Werewolf</string>
+		<string>(3/2)</string>
+		<string>Hinterland Scourge must be blocked if able.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Hipparion</string>
@@ -2355,12 +2458,30 @@ At the beginning of each opponent's upkeep, if that player has no cards in hand,
 		<string>Shadowmoor Rare</string>
 	</array>
 	<array>
+		<string>Hollowhenge Beast</string>
+		<string>3GG</string>
+		<string>Creature  - Beast</string>
+		<string>(5/5)</string>
+		<string></string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Hollowhenge Scavenger</string>
 		<string>3GG</string>
 		<string>Creature  - Elemental</string>
 		<string>(4/5)</string>
 		<string>Morbid - When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.</string>
 		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Hollowhenge Spirit</string>
+		<string>3W</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/2)</string>
+		<string>Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Hollowsage</string>
@@ -2451,6 +2572,7 @@ Whenever there are four tide counters on Homarid, remove all tide counters from 
 	</array>
 	<array>
 		<string>Homicidal Brute</string>
+		<string>Red</string>
 		<string>Creature  - Human Mutant</string>
 		<string>(5/1)</string>
 		<string>At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.</string>
@@ -2993,6 +3115,7 @@ Flashback {1}{G} (You may cast this card from your graveyard for its flashback c
 	</array>
 	<array>
 		<string>Howlpack Alpha</string>
+		<string>Green</string>
 		<string>Creature  - Werewolf</string>
 		<string>(3/3)</string>
 		<string>Other Werewolf and Wolf creatures you control get +1/+1.
@@ -3002,6 +3125,7 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
 	</array>
 	<array>
 		<string>Howlpack of Estwald</string>
+		<string>Green</string>
 		<string>Creature  - Werewolf</string>
 		<string>(4/6)</string>
 		<string>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.</string>
@@ -3129,6 +3253,15 @@ Splice onto Arcane-Tap an untapped white creature you control. (As you cast an A
 		<string>(4/7)</string>
 		<string>Cycling {3} ({3}, Discard this card: Draw a card.)</string>
 		<string>Legions Common</string>
+	</array>
+	<array>
+		<string>Hunger of the Howlpack</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put a +1/+1 counter on target creature.
+Morbid - Put three +1/+1 counters on that creature instead if a creature died this turn.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Hunger of the Nim</string>
@@ -3328,6 +3461,15 @@ If Hunting Wilds was kicked, untap all Forests put onto the battlefield this way
 		<string>Planar Chaos Uncommon</string>
 	</array>
 	<array>
+		<string>Huntmaster of the Fells</string>
+		<string>2RG</string>
+		<string>Creature  - Human Werewolf</string>
+		<string>(2/2)</string>
+		<string>Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, put a 2/2 green Wolf creature token onto the battlefield and you gain 2 life.
+At the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.</string>
+		<string>Dark Ascension Mythic Rare</string>
+	</array>
+	<array>
 		<string>Hurkyl's Recall</string>
 		<string>1U</string>
 		<string>Instant</string>
@@ -3461,6 +3603,7 @@ Totem armor (If enchanted creature would be destroyed, instead remove all damage
 	</array>
 	<array>
 		<string>Hypergenesis</string>
+		<string>Green</string>
 		<string>Sorcery</string>
 		<string></string>
 		<string>Suspend 3-{1}{G}{G} (Rather than cast this card from your hand, pay {1}{G}{G} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
