@@ -247,7 +247,7 @@ Error - Game Rule Violation infraction.
 Penalty
 Warning
 Definition
-A player allows another player in the game to commit a Game Play Error involving an effect or action that he or she does not control, and has not pointed it out before he or she could potentially gain advantage. If a judge believes a player is intentionally not pointing out other players’ illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating — Fraud.
+A player allows another player in the game to commit a Game Play Error involving an effect or action that he or she does not control, and has not pointed it out before he or she could potentially gain advantage. If a judge believes a player is intentionally not pointing out other players’ illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating - Fraud.
 Examples
 A player's opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
 A player does not notice that his opponent has Armadillo Cloak on a creature with protection from green.
@@ -302,7 +302,7 @@ Tournaments test the skill of a player, not his or her ability to follow externa
 Visual modifications to cards, including brief text, that provide minor strategic information or hints are acceptable and not considered notes. Detailed instructions or complex strategic advice may not be written on cards. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament. Spectators who commit this infraction may be asked to leave the venue if they are not enrolled in the tournament.
 4.3.	Tournament Error - Slow Play
 Definition
-A player takes longer than is reasonably required to complete game actions. If a judge believes a player is intentionally playing slowly to take advantage of a time limit, the infraction is Cheating — Stalling.
+A player takes longer than is reasonably required to complete game actions. If a judge believes a player is intentionally playing slowly to take advantage of a time limit, the infraction is Cheating - Stalling.
 
 It is also slow play if a player continues to execute a loop without being able to provide an exact number of iterations and the expected resulting game state.
 Examples
@@ -351,7 +351,7 @@ Shuffle the deck thoroughly, taking into account any parts of the deck ordered t
 Penalty
 Warning
 Definition
-A player fails to follow an instruction given to a broad audience he or she is included in. Most often these are registration instructions, safety instructions, or venue rules. Instructions given directly to an individual and not followed are penalized as Unsporting Conduct — Major.
+A player fails to follow an instruction given to a broad audience he or she is included in. Most often these are registration instructions, safety instructions, or venue rules. Instructions given directly to an individual and not followed are penalized as Unsporting Conduct - Major.
 Examples
 A player smokes in a venue where signage indicates such is forbidden.
 
@@ -379,7 +379,7 @@ Additional Remedy:
 
 If the situation is simple enough to safely back up without too much disruption to the course of the game, the judge may get permission from the Head Judge to back up the game to the point of the incorrect information. Each action taken is undone until the game reaches the point immediately prior to the error. Cards incorrectly placed in hand are returned to the location in the zone from which they were moved (if the identity of the incorrectly drawn card is not known to all players, a random card is returned instead). Once the game is backed up, it continues from that point.
 Definition
-A player violates the Player Communication policy. An intentional violation, or attempting to take advantage of a previously committed violation, is defined as Cheating — Fraud.
+A player violates the Player Communication policy. An intentional violation, or attempting to take advantage of a previously committed violation, is defined as Cheating - Fraud.
 Examples
 A player is asked how many cards he has in his hand and answers "Three." A few moments later, he realizes that he has four.
 

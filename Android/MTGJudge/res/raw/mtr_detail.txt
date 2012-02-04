@@ -58,7 +58,7 @@ Anyone is eligible to participate as a player in a DCI-sanctioned tournament wit
 
 	Certain employees of companies identified by the DCI as strategic business partners.
 
-Play testers, reviewers and other business partners with significant knowledge of a card set may not play in Prerelease tournaments for that card set.
+Play testers, reviewers and other business partners with significant knowledge of a card set may not play in sanctioned tournaments of a format that include cards from the product tested or reviewed or for which the person has significant knowledge until 25 days after the release of that product.
 
 Anyone is eligible to participate as a tournament official (Tournament Organizer, Head Judge, floor judge or Scorekeeper) for a tournament with the exception of:
 
@@ -81,6 +81,10 @@ Tournament officials may play in a DCI-sanctioned tournament for which they are 
 	Tournaments in which the official Wizards of the Coast tournament fact sheet specifically permits officials of that tournament to play
 
 If one or more tournament officials play in the tournament, it must be run at Regular REL. If tournament officials play in the tournament and the tournament is not one of the allowed event types listed above, the tournament will be invalidated. Tournament officials are required to officiate tournaments fairly and without regard to their own self-interest.
+
+The owners of organizations that run Premier Events are not permitted to play in those events (even if the owner is not listed as a tournament official (organizer, judge, and/or scorekeeper) for that event.
+
+Premier Events include the following events: Magic: The Gathering Players Championship, World Magic Cup, World Magic Cup Qualifiers, Pro Tour, Pro Tour Qualifier, Grand Prix, Grand Prix Trial, WPN Premium Tournament, and WPN Premium Qualifier.
 
 Some tournaments have additional criteria regarding player and tournament official eligibility (e.g. invitation-only tournaments, such as Pro Tour events).
 
@@ -152,7 +156,7 @@ Players are responsible for:
 
 	Bringing to a judge's attention any discrepancies in their tournament match record.
 
-	Informing the DCI of any discrepancies in their overall match history, rankings, or ratings as soon as they become aware of it. If players believe there is an anomaly in their match history, rating, or ranking they should refer to the DCI Appeals Policy, located at http://www.wizards.com/default.asp?x=dci/appeals.
+	Informing the DCI of any discrepancies in their overall match history, rankings, or ratings as soon as they become aware of it. If players believe there is an anomaly in their match history, rating, or ranking they should refer to the Magic: The Gathering Event Appeals Policy, located at http://www.wizards.com/WPN/Document.aspx?x=Event_Appeal_Policy.
 
 	Having a single DCI membership number. Individuals holding more than one number must contact Wizards of the Coast Customer Service at http://www.wizards.com/customerservice so that their numbers can be merged.
 
@@ -257,7 +261,7 @@ Players and spectators (exception: authorized press) may not make notes while dr
 Artistic modifications to cards that indirectly provide minor strategic information are acceptable. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament.
 
 2.10 Dropping from a Tournament
-Players choosing to drop from a tournament must inform the Scorekeeper by the means provided for that tournament before the pairings for the next round are generated. Players wanting to drop after the Scorekeeper begins pairing for the next round will be paired for that round. If a player does not show up for his or her match, he or she will be automatically dropped from the tournament unless they report to the Scorekeeper.
+Players choosing to drop from a tournament must inform the Scorekeeper by the means provided for that tournament before the pairings for the next round are generated. Players wanting to drop after the Scorekeeper begins pairing for the next round will be paired for that round. If a player does not show up for his or her match, he or she will be automatically dropped from the tournament unless they report to the Scorekeeper. Players that repeatedly drop from tournaments without informing the scorekeepers of those events may be the subject of DCI penalties up to and including suspension.
 
 If a player drops from a tournament after a cut has been made, such as a cut to the top 8 in a Magic Pro Tour Qualifier, no other player is advanced as a replacement. That player's opponent receives a bye for the round. A cut is considered to have been made once the cut itself or pairings for the round following the cut have been posted or announced.
 
@@ -268,7 +272,7 @@ Players may not drop from a tournament in exchange for or influenced by the offe
 At Limited tournaments, players that drop during the time between a draft or deck construction and the beginning of the next round receive a match loss for that round unless the player receives a bye for that round.
 
 2.11 Electronic Devices
-Electronic devices may not be used to communicate or access remote information during a match.
+Electronic devices may not be used to communicate or access remote information during a match, draft, or deck construction.
 
 During a game, any content accessed by an electronic device must be made available to all players. If a player wishes to view information on an electronic device in private, they must get permission from a judge.
 
@@ -330,37 +334,13 @@ Wizards of the Coast maintains the following Planeswalker Points rating categori
 	Professional
 	
 For complete information about Planeswalker Points, visit the Planeswalker Points website at http://www.wizards.com/Magic/PlaneswalkerPoints
-	
-Wizards of the Coast maintains the following ELO ratings categories:
-
-Individual
-
-	Constructed (includes all Standard, Extended, and Block Constructed individual matches)
-
-	Eternal (includes all Vintage and Legacy individual matches)
-
-	Limited (includes all Limited individual matches)
-
-	Total (includes all Constructed, Eternal, and Limited individual matches)
-
-Three-Player Teams
-
-	Trios - Constructed
-
-	Trios - Limited
-
-Two-Headed Giant
-
-	Two-Headed Giant - Constructed
-
-	Two-Headed Giant - Limited
 
 In the team tournaments (Team Constructed, Team Limited), each team member plays a one-on-one match against a member of the other team, and the individual results comprise the team's collective match result. In a Two-Headed Giant tournament, all players from the two teams play in the same game.
 
 3.3 Authorized Cards
-Players may use any cards from Magic: The Gathering expansions, core sets, special sets, supplements, and promotional printings that, unaltered, meet the following conditions:
+Players may use any Authorized Game Cards from Magic: The Gathering expansions, core sets, special sets, supplements, and promotional printings.  Authorized Game Cards are cards that, unaltered, meet the following conditions:
 
-	The card is published by Wizards of the Coast
+	The card is genuine and published by Wizards of the Coast
 
 	The card has a standard Magic back or is a double-faced card.
 
@@ -378,18 +358,18 @@ Unglued and Unhinged basic land cards are allowed in sanctioned Magic tournament
 
 Players may use cards from the Alpha printing only if the deck is in opaque sleeves.
 
-Players may use otherwise-legal non-English and/or misprinted cards provided they are not using them to create an advantage by using misleading text or pictures. Official promotional textless spells are allowed in DCI-sanctioned Magic tournaments in which they would otherwise be legal. Artistic modifications are acceptable, provided that the modifications do not make the card unrecognizable or contain substantial strategic advice.
+Players may use otherwise-legal non-English and/or misprinted cards provided they are not using them to create an advantage by using misleading text or pictures. Official promotional textless spells are allowed in sanctioned Magic tournaments in which they would otherwise be legal.
+
+Artistic modifications are acceptable in sanctioned tournaments, provided that the modifications do not make the card unrecognizable, contain substantial strategic advice, or contain offensive images. Artistic modifications also may not obstruct or change the mana cost or name of the card.
 
 The Head Judge is the final authority on acceptable cards for a tournament.
 
 3.4 Proxy Cards
-A proxy card is used during competition to represent another card that has been accidentally damaged or excessively worn in the current tournament (including damaged or misprinted Limited product) at the discretion of the Head Judge. Proxies are not provided for cards damaged intentionally or through negligence.
+A proxy card is used during competition to represent an Authorized Game Card that has been accidentally damaged or excessively worn in the current tournament (including damaged or misprinted Limited product) as determined solely by the Head Judge. Proxies are not allowed as substitutes for cards damaged intentionally or through negligence.
 
-Players may not create proxies. When a judge creates a proxy, it is included in the player's deck. The original card is kept nearby during the match and replaces the proxy while in a public zone as long as it is recognizable.
+Players may not create their own proxies; they may only be created by the Head Judge. When a judge creates a proxy, it is included in the player’s deck and must be denoted as a proxy in a clear and conspicuous manner. The original card is kept nearby during the match and replaces the proxy while in a public zone as long as it is recognizable. A proxy is valid only for the duration of the tournament in which it was originally issued.
 
-The term "proxy" includes counterfeit cards or any card that is not a genuine game card. Counterfeit cards and other counterfeit game materials are prohibited in all DCI-sanctioned tournaments. Counterfeiters will be prosecuted to the fullest extent of the law.
-
-Official checklist cards in the Innistrad Block are not proxies and cannot be replaced by a proxy.
+Official checklist cards in the Innistrad Block are Authorized Game Cards and may have a proxy issued by a judge.
 
 3.5 Innistrad Block Checklist Cards
 
@@ -411,11 +391,11 @@ Players may not use errors or omissions in Oracle to abuse the rules. The Head J
 Certain cards refer to "a (card or cards) you own from outside the game." In tournament play, a card "you own from outside the game" is a card in that player's sideboard.
 
 3.7 New Releases
-Card sets scheduled for release during 2011 become tournament legal for sanctioned tournaments on the following dates:
+Card sets scheduled for release during 2012 become tournament legal for sanctioned tournaments on the following dates:
 
-	Innistrad September 30, 2011
-	
 	Dark Ascension February 3, 2012
+	
+	Avacyn Restored May 4, 2012
 
 For certain Limited tournaments, such as official Prerelease tournaments (including their public events), new sets are legal for use before the official format legal date. In these cases, any rules updates listed in the fact sheets for these tournaments shall be in effect at these tournaments.
 
@@ -645,9 +625,11 @@ The following card sets are permitted in Standard tournaments:
 
 	Magic 2012
 
-	Innistrad (effective September 30, 2011)
+	Innistrad
 	
 	Dark Ascension (effective February 3, 2012)
+    
+    Avacyn Restored (effective May 4, 2012)
 
 There are currently no banned cards in Standard tournaments.
 
@@ -678,21 +660,23 @@ The following card sets are permitted in Extended tournaments:
 
 	Magic 2012
 
-	Innistrad (effective September 30, 2011)
+	Innistrad
 	
 	Dark Ascension (effective February 3, 2012)
+    
+    Avacyn Restored (effective May 4, 2012)
 
 The following cards are banned in Extended tournaments:
 	
-	Jace, the Mind Sculptor (effective October 1, 2011)
+	Jace, the Mind Sculptor
 	
-	Mental Misstep (effective October 1, 2011)
+	Mental Misstep
 	
-	Ponder (effective October 1, 2011)
+	Ponder
 	
-	Preordain (effective October 1, 2011)
+	Preordain
 	
-	Stoneforge Mystic (effective October 1, 2011)
+	Stoneforge Mystic
 
 6.5 Vintage Format Deck Construction
 Vintage decks may consist of cards from all Magic card sets, any edition of the core set, and all special sets, supplements, and promotional printings released by Wizards of the Coast.
@@ -744,8 +728,6 @@ The following cards are restricted in Vintage tournaments:
 	Demonic Consultation
 
 	Demonic Tutor
-
-	Fact or Fiction (unrestricted effective October 1, 2011)
 
 	Fastbond
 
@@ -884,7 +866,7 @@ The following cards are banned in Legacy tournaments:
 
 	Mana Vault
 	
-	Mental Misstep (effective October 1, 2011)
+	Mental Misstep
 
 	Memory Jar
 
@@ -953,7 +935,7 @@ Block Constructed decks consist of cards taken from a restricted set of expansio
 
 The DCI sanctions the following Block Constructed formats:
 
-	Innistrad Block (Innistrad, Dark Ascension [effective February 3, 2011])
+	Innistrad Block (Innistrad, Dark Ascension [effective February 3, 2011], Avacyn Restored [effective May 4, 2012])
 	
 	Scars of Mirrodin Block (Scars of Mirrodin, Mirrodin Besieged, New Phyrexia)
 
@@ -1104,10 +1086,12 @@ The following card sets are permitted in Modern tournaments:
 
 	Magic 2012
 
-	Innistrad (effective September 30, 2011)
+	Innistrad
 
 	Dark Ascension (effective February 3,
 	2012)
+    
+    Avacyn Restored (effective May 4, 2012)
 	
 The following cards are banned in Modern tournaments:
 	
@@ -1117,11 +1101,11 @@ The following cards are banned in Modern tournaments:
 
 	Bitterblossum
 
-	Blazing Shoal (effective October 1, 2011)
+	Blazing Shoal
 
 	Chrome Mox
 
-	Cloudpost (effective October 1, 2011)
+	Cloudpost
 
 	Dark Depths
 
@@ -1133,7 +1117,7 @@ The following cards are banned in Modern tournaments:
 
 	Great Furnace
 
-	Green Sun’s Zenith (effective October 1, 2011)
+	Green Sun’s Zenith
 	
 	Hypergenesis
 
@@ -1141,11 +1125,13 @@ The following cards are banned in Modern tournaments:
 	
 	Mental Misstep
 
-	Ponder (effective October 1, 2011)
+	Ponder
 
-	Preordain (effective October 1, 2011)
+	Preordain
+    
+    Punishing Fire (effective January 1, 2012)
 
-	Rite of Flame (effective October 1,	2011)
+	Rite of Flame
 
 	Seat of the Synod
 
@@ -1164,6 +1150,8 @@ The following cards are banned in Modern tournaments:
 	Valakut, the Molten Pinnacle
 
 	Vault of Whispers
+    
+    Wild Nactl (effective January 1, 2012)
 	
 7. Limited Tournament Rules
 
@@ -1353,7 +1341,7 @@ The number of rounds should be announced at or before the beginning of the first
 The recommended number of rounds for Swiss tournaments can be found in Appendix F.
 
 10.3 Invitation-Only Tournaments
-Invitation-only tournaments have additional qualification criteria for player participation. The invitation list for Premier tournaments is defined in the DCI Premier Event Invitation Policy. Tournament Organizers may hold and sanction invitation-only non-Premier tournaments normally, as long as they offer a sufficient number of qualifying tournaments in advance to ensure that all players have a chance to qualify.
+Invitation-only tournaments have additional qualification criteria for player participation. The invitation list for Premier tournaments is defined in the Magic: The Gathering Premier Event Invitation Policy. Tournament Organizers may hold and sanction invitation-only non-Premier tournaments normally, as long as they offer a sufficient number of qualifying tournaments in advance to ensure that all players have a chance to qualify.
 
 10.4 Pairing Algorithm
 Unless otherwise announced, tournaments are assumed to follow the Swiss pairing algorithm. Some tournaments may proceed to single-elimination playoff rounds between the top 2, 4, 8, 16, or 32 players after the Swiss rounds are over. The Swiss pairing algorithm is modified in Booster Draft tournaments as explained in section 7.6.
@@ -1368,101 +1356,46 @@ The latest versions are available at http://www.wizards.com/wpn/Events/Rules.asp
 
 Only changes from the current version and the previous version of this document will be displayed in this appendix.
 
-September 20, 2011
+January 24, 2012
 
-Section 3.2: Modern added to section. Planeswalker Points rating categories added to section.
+Section 1.4: Premier Events list modified.
 
-Section 3.3: Language updated. Double-faced card language added.
+Section 1.10: Appeals document name and location corrected.
 
-Section 3.4: Innistrad checklist card clarified.
+Section 10.3: Premier Event Invitation Policy title corrected.
 
-Section 3.5: Rules about checklist cards added.
+Section 10.4: Premier Events list modified.
 
-Sections 3.6-3.15: Sections renumbered.
+December 20, 2011
 
-Section 3.6: Clarifies double-faced and flip cards.
+Section 1.4: Rules on eligibility changed for some players.
+
+Section 2.10: Language about repeated dropping added.
+
+Section 2.11: Electronic devices rule updated.
+
+Section 3.2: ELO categories removed.
+
+Section 3.3: Language updated.
+
+Section 3.4: Language updated..
 
 Section 3.7: New releases updated.
 
-Section 3.10: Rules about sleeves and double-faced cards added.
-
-Section 3.12: Definition added.
-
-Section 3.15: Definition updated.
-
-Section 4.3: Added text to clarify when a pause indicates all actions have been taken.
-
 Section 6.3: Standard format updated.
-
-Section 6.4: Extended format updated. Banned cards added.
-
-Section 6.5: Restricted cards updated.
-
-Section 6.6: Banned cards added.
-
-Section 6.7: Block Constructed format updated.
-
-Section 6.8: Modern format added.
-
-Section 7.7: Drafting language clarified. Language relating to double-faced cards added.
-
-Appendix E: Innistrad Limited product mix added. Magic 2011 Limited product mixes removed.
-
-June 20, 2011
-
-Introduction: Website updated.
-
-Section 2.3: Clause added to cover situations involving restated games. Clause added to specify when a player must have chosen play/draw.
-
-Section 3.6: New releases updated. Website updated.
-
-Section 3.14: Sideboard use in restated games clarified.
-
-Section 4.2: Added text to clarify that a player can interrupt their own shortcut.
-
-Section 6.3: Standard format updated. Banned cards added. Exception added.
 
 Section 6.4: Extended format updated.
 
-Section 6.5: Cards allowed in Vintage clarified.
+Section 6.5: Vintage format updated.
 
-Section 6.6: Cards allowed in Legacy clarified.
+Section 6.6: Legacy format updated.
 
 Section 6.7: Block Constructed format updated.
 
-Appendix A: Website updated.
+Section 6.8: Modern format updated. Banned cards added.
 
-Appendix E: Magic 2012 Limited product mix added. "Action" replaced with New Phyrexia. Rise of the Eldrazi and Zendikar Block Limited product mixes removed.
+Section 10.4: Top 8 pairing information added.
 
-March 20, 2011
-
-Section 1.8: Language clarified
-
-Section 2.7: Language clarified
-
-Section 2.11: Section re-written to have more specific rules on use of electronic devices
-
-Section 3.6: New releases updated
-
-Section 3.7: Language clarified
-
-Section 3.8: Language clarified
-
-Section 3.13: Language clarified
-
-Section 4.1: Free Information list updated
-
-Section 4.2: Shortcut interruption language changed, 2HG combat shortcut updated
-
-Section 6.3: Standard format updated
-
-Section 6.4: Extended format updated
-
-Section 6.6: Legacy format updated
-
-Section 6.7: Block Constructed format updated
-
-Appendix E: Scars of Mirrodin block draft with "Action" added
 
 Appendix B-Time Limits
 
