@@ -387,6 +387,14 @@ When enchanted land dies, return that card to its owner's hand.</string>
 		<string>Worldwake Common</string>
 	</array>
 	<array>
+		<string>Vault of the Archangel</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Vault of Whispers</string>
 		<string>Artifact Land</string>
 		<string></string>
@@ -813,6 +821,15 @@ Exile Vengeful Rebirth.</string>
 		<string>Magic: The Gathering-Commander Uncommon, Alara Reborn Uncommon</string>
 	</array>
 	<array>
+		<string>Vengeful Vampire</string>
+		<string>4BB</string>
+		<string>Creature  - Vampire</string>
+		<string>(3/2)</string>
+		<string>Flying
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Vengevine</string>
 		<string>2GG</string>
 		<string>Creature  - Elemental</string>
@@ -975,7 +992,7 @@ Enchanted land has "{T}: Target creature gets +1/+1 until end of turn."</string>
 		<string>Creature  - Elemental</string>
 		<string>(7/7)</string>
 		<string>At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.</string>
-		<string>Planechase Rare, Tenth Edition Rare, Ninth Edition Rare, Tempest Rare</string>
+		<string>Premium Deck Series: Graveborn Rare, Planechase Rare, Tenth Edition Rare, Ninth Edition Rare, Tempest Rare</string>
 	</array>
 	<array>
 		<string>Verdant Succession</string>
@@ -1650,6 +1667,15 @@ When Village Bell-Ringer enters the battlefield, untap all creatures you control
 		<string>First strike
 At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Village Survivors</string>
+		<string>4G</string>
+		<string>Creature  - Human</string>
+		<string>(4/5)</string>
+		<string>Vigilance
+Fateful hour - As long as you have 5 or less life, other creatures you control have vigilance.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Villagers of Estwald</string>
@@ -2467,7 +2493,7 @@ Haste (This creature can attack and {T} as soon as it comes under your control.)
 		<string>XUUU</string>
 		<string>Sorcery</string>
 		<string></string>
-		<string>Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains destroyed this way.</string>
+		<string>Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.</string>
 		<string>Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
 	</array>
 	<array>
@@ -2724,6 +2750,15 @@ Voracious Hatchling enters the battlefield with four -1/-1 counters on it.
 Whenever you cast a white spell, remove a -1/-1 counter from Voracious Hatchling.
 Whenever you cast a black spell, remove a -1/-1 counter from Voracious Hatchling.</string>
 		<string>Eventide Uncommon</string>
+	</array>
+	<array>
+		<string>Vorapede</string>
+		<string>2GGG</string>
+		<string>Creature  - Insect</string>
+		<string>(5/4)</string>
+		<string>Vigilance, trample
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Mythic Rare</string>
 	</array>
 	<array>
 		<string>Vorinclex, Voice of Hunger</string>

@@ -210,7 +210,7 @@
 	<string>Altar of Shadows</string>
 	<string>Altar of the Lost</string>
 	<string>Altar's Light</string>
-	<string>Altar’s Reap (Altar's Reap)</string>
+	<string>Altar's Reap</string>
 	<string>Alter Reality</string>
 	<string>Aluren</string>
 	<string>Ambassador Laquatus</string>
@@ -571,7 +571,7 @@
 	<string>Kitsune Mystic (Autumn-Tail, Kitsune Sage)</string>
 	<string>Avacynian Priest</string>
 	<string>Avacyn's Collar</string>
-	<string>Avacyn’s Pilgrim (Avacyn's Pilgrim)</string>
+	<string>Avacyn's Pilgrim</string>
 	<string>Avalanche</string>
 	<string>Avalanche Riders</string>
 	<string>Avarax</string>
@@ -2180,7 +2180,7 @@
 	<string>Curse Artifact</string>
 	<string>Curse of Bloodletting</string>
 	<string>Curse of Chains</string>
-	<string>Curse of Death’s Hold (Curse of Death's Hold)</string>
+	<string>Curse of Death's Hold</string>
 	<string>Curse of Echoes</string>
 	<string>Curse of Exhaustion</string>
 	<string>Curse of Marit Lage</string>
@@ -2554,7 +2554,7 @@
 	<string>Devastating Summons</string>
 	<string>Devastation</string>
 	<string>Research // Development (Development)</string>
-	<string>Devil’s Play (Devil's Play)</string>
+	<string>Devil's Play</string>
 	<string>Devoted Caretaker</string>
 	<string>Devoted Druid</string>
 	<string>Devoted Hero</string>
@@ -3870,7 +3870,7 @@
 	<string>Fugitive Wizard</string>
 	<string>Fugue</string>
 	<string>Fulgent Distraction</string>
-	<string>Full Moon’s Rise (Full Moon's Rise)</string>
+	<string>Full Moon's Rise</string>
 	<string>Fulminator Mage</string>
 	<string>Fumarole</string>
 	<string>Fume Spitter</string>
@@ -3978,7 +3978,7 @@
 	<string>Gaze of Pain</string>
 	<string>Gaze of the Gorgon</string>
 	<string>Geist of Saint Traft</string>
-	<string>Geistcatcher’s Rig (Geistcatcher's Rig)</string>
+	<string>Geistcatcher's Rig</string>
 	<string>Geistflame</string>
 	<string>Geist-Honored Monk</string>
 	<string>Gelatinous Genesis</string>
@@ -4063,8 +4063,8 @@
 	<string>Ghosts of the Damned</string>
 	<string>Ghosts of the Innocent</string>
 	<string>Ghostway</string>
-	<string>Ghoulcaller’s Bell (Ghoulcaller's Bell)</string>
-	<string>Ghoulcaller’s Chant (Ghoulcaller's Chant)</string>
+	<string>Ghoulcaller's Bell</string>
+	<string>Ghoulcaller's Chant</string>
 	<string>Ghoulraiser</string>
 	<string>Ghoul's Feast</string>
 	<string>Ghoultree</string>
@@ -4796,7 +4796,7 @@
 	<string>Herald of Serra</string>
 	<string>Herbal Poultice</string>
 	<string>Herd Gnarr</string>
-	<string>Heretic’s Punishment (Heretic's Punishment)</string>
+	<string>Heretic's Punishment</string>
 	<string>Heritage Druid</string>
 	<string>Hermetic Study</string>
 	<string>Hermit Druid</string>
@@ -5208,7 +5208,7 @@
 	<string>Inquisition</string>
 	<string>Inquisition of Kozilek</string>
 	<string>Inquisitor Exarch</string>
-	<string>Inquisitor’s Flail (Inquisitor's Flail)</string>
+	<string>Inquisitor's Flail</string>
 	<string>Inquisitor's Snare</string>
 	<string>Insatiable Souleater</string>
 	<string>Insectile Aberration</string>
@@ -5926,7 +5926,7 @@
 	<string>Legacy Weapon</string>
 	<string>Legacy's Allure</string>
 	<string>Legerdemain</string>
-	<string>Legions of Lim-Dûl</string>
+	<string>Legions of Lim-Dul</string>
 	<string>Leonin Abunas</string>
 	<string>Leonin Arbiter</string>
 	<string>Leonin Armorguard</string>
@@ -6034,12 +6034,12 @@
 	<string>Liliana's Caress</string>
 	<string>Liliana's Specter</string>
 	<string>Lilting Refrain</string>
-	<string>Lim-Dûl the Necromancer</string>
-	<string>Lim-Dûl's Cohort</string>
-	<string>Lim-Dûl's Hex</string>
-	<string>Lim-Dûl's High Guard</string>
-	<string>Lim-Dûl's Paladin</string>
-	<string>Lim-Dûl's Vault</string>
+	<string>Lim-Dul the Necromancer</string>
+	<string>Lim-Dul's Cohort</string>
+	<string>Lim-Dul's Hex</string>
+	<string>Lim-Dul's High Guard</string>
+	<string>Lim-Dul's Paladin</string>
+	<string>Lim-Dul's Vault</string>
 	<string>Limestone Golem</string>
 	<string>Limited Resources</string>
 	<string>Lin Sivvi, Defiant Hero</string>
@@ -6171,8 +6171,8 @@
 	<string>Lu Su, Wu Advisor</string>
 	<string>Lu Xun, Scholar General</string>
 	<string>Lucent Liminid</string>
-	<string>Ludevic’s Abomination (Ludevic's Abomination)</string>
-	<string>Ludevic’s Test Subject (Ludevic's Test Subject)</string>
+	<string>Ludevic's Abomination</string>
+	<string>Ludevic's Test Subject</string>
 	<string>Lull</string>
 	<string>Lullmage Mentor</string>
 	<string>Lumbering Satyr</string>
@@ -6486,7 +6486,7 @@
 	<string>Memory Lapse</string>
 	<string>Memory Plunder</string>
 	<string>Memory Sluice</string>
-	<string>Memory’s Journey (Memory's Journey)</string>
+	<string>Memory's Journey</string>
 	<string>Menacing Ogre</string>
 	<string>Mending Hands</string>
 	<string>Meng Huo, Barbarian King</string>
@@ -7156,7 +7156,7 @@
 	<string>Night Revelers</string>
 	<string>Night Soil</string>
 	<string>Night Terrors</string>
-	<string>Nightbird’s Clutches (Nightbird's Clutches)</string>
+	<string>Nightbird's Clutches</string>
 	<string>Nightcreep</string>
 	<string>Nezumi Graverobber (Nighteyes the Desecrator)</string>
 	<string>Nightfall Predator</string>
@@ -7291,7 +7291,7 @@
 	<string>Oath of Druids</string>
 	<string>Oath of Ghouls</string>
 	<string>Oath of Lieges</string>
-	<string>Oath of Lim-Dûl</string>
+	<string>Oath of Lim-Dul</string>
 	<string>Oath of Mages</string>
 	<string>Oath of Scholars</string>
 	<string>Oathkeeper, Takeno's Daisho</string>
@@ -8297,7 +8297,7 @@
 	<string>Rancor</string>
 	<string>Ranger en-Vec</string>
 	<string>Ranger of Eos</string>
-	<string>Ranger’s Guile (Ranger's Guile)</string>
+	<string>Ranger's Guile</string>
 	<string>Rank and File</string>
 	<string>Ransack</string>
 	<string>Rapacious One</string>
@@ -8647,7 +8647,7 @@
 	<string>Rimewind Taskmage</string>
 	<string>Ring of Gix</string>
 	<string>Ring of Immortals</string>
-	<string>Ring of Ma'rûf</string>
+	<string>Ring of Ma'ruf</string>
 	<string>Ring of Renewal</string>
 	<string>Rings of Brighthearth</string>
 	<string>Ringskipper</string>
@@ -8829,7 +8829,7 @@
 	<string>Rune Snag</string>
 	<string>Runeboggle</string>
 	<string>Rune-Cervin Rider</string>
-	<string>Runechanter’s Pike (Runechanter's Pike)</string>
+	<string>Runechanter's Pike</string>
 	<string>Runeclaw Bear</string>
 	<string>Runed Arch</string>
 	<string>Runed Halo</string>
@@ -10275,7 +10275,7 @@
 	<string>Stitch in Time</string>
 	<string>Stitch Together</string>
 	<string>Stitched Drake</string>
-	<string>Stitcher’s Apprentice (Stitcher's Apprentice)</string>
+	<string>Stitcher's Apprentice</string>
 	<string>Stoic Angel</string>
 	<string>Stoic Champion</string>
 	<string>Stoic Ephemera</string>
@@ -11173,7 +11173,7 @@
 	<string>Traumatic Visions</string>
 	<string>Traumatize</string>
 	<string>Travel Preparations</string>
-	<string>Traveler’s Amulet (Traveler's Amulet)</string>
+	<string>Traveler's Amulet</string>
 	<string>Traveler's Cloak</string>
 	<string>Traveling Plague</string>
 	<string>Treacherous Link</string>

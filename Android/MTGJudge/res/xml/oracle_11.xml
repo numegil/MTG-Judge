@@ -153,6 +153,14 @@ Whenever Lairwatch Giant blocks two or more creatures, it gains first strike unt
 		<string>Masters Edition Rare, Alliances Rare</string>
 	</array>
 	<array>
+		<string>Lambholt Elder</string>
+		<string>2G</string>
+		<string>Creature  - Human Werewolf</string>
+		<string>(1/2)</string>
+		<string>At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Lammastide Weave</string>
 		<string>1G</string>
 		<string>Instant</string>
@@ -439,7 +447,7 @@ When no creatures are on the battlefield, sacrifice Last Laugh.</string>
 		<string>Sorcery</string>
 		<string></string>
 		<string>Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.</string>
-		<string>Odyssey Common</string>
+		<string>Premium Deck Series: Graveborn Common, Odyssey Common</string>
 	</array>
 	<array>
 		<string>Last Stand</string>
@@ -830,7 +838,7 @@ Target creature gets +1/+0 and gains flying and first strike until end of turn.<
 		<string>6</string>
 		<string>Artifact Creature  - Hound</string>
 		<string>(3/3)</string>
-		<string>Put a card in your hand on top of your library: Return Leashling to its owner's hand.</string>
+		<string>Put a card from your hand on top of your library: Return Leashling to its owner's hand.</string>
 		<string>Ravnica: City of Guilds Uncommon</string>
 	</array>
 	<array>
@@ -945,7 +953,7 @@ Sacrifice Legacy's Allure: Gain control of target creature with power less than 
 		<string>Tempest Uncommon</string>
 	</array>
 	<array>
-		<string>Legions of Lim-Dûl</string>
+		<string>Legions of Lim-Dul</string>
 		<string>1BB</string>
 		<string>Creature  - Zombie</string>
 		<string>(2/3)</string>
@@ -1891,7 +1899,7 @@ Sacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, 
 		<string>Urza's Saga Uncommon</string>
 	</array>
 	<array>
-		<string>Lim-Dûl the Necromancer</string>
+		<string>Lim-Dul the Necromancer</string>
 		<string>5BB</string>
 		<string>Legendary Creature  - Human Wizard</string>
 		<string>(4/4)</string>
@@ -1900,43 +1908,43 @@ Sacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, 
 		<string>Time Spiral Rare</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's Cohort</string>
+		<string>Lim-Dul's Cohort</string>
 		<string>1BB</string>
 		<string>Creature  - Zombie</string>
 		<string>(2/3)</string>
-		<string>Whenever Lim-Dûl's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.</string>
+		<string>Whenever Lim-Dul's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.</string>
 		<string>Masters Edition IV Common, Ice Age Common</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's Hex</string>
+		<string>Lim-Dul's Hex</string>
 		<string>1B</string>
 		<string>Enchantment</string>
 		<string></string>
-		<string>At the beginning of your upkeep, for each player, Lim-Dûl's Hex deals 1 damage to that player unless he or she pays {B} or {3}.</string>
+		<string>At the beginning of your upkeep, for each player, Lim-Dul's Hex deals 1 damage to that player unless he or she pays {B} or {3}.</string>
 		<string>Ice Age Uncommon</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's High Guard</string>
+		<string>Lim-Dul's High Guard</string>
 		<string>1BB</string>
 		<string>Creature  - Skeleton</string>
 		<string>(2/1)</string>
 		<string>First strike
-{1}{B}: Regenerate Lim-Dûl's High Guard.</string>
+{1}{B}: Regenerate Lim-Dul's High Guard.</string>
 		<string>Masters Edition II Uncommon, Alliances Common, Alliances Common</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's Paladin</string>
+		<string>Lim-Dul's Paladin</string>
 		<string>2BR</string>
 		<string>Creature  - Human Knight</string>
 		<string>(0/3)</string>
 		<string>Trample
-At the beginning of your upkeep, you may discard a card. If you don't, sacrifice Lim-Dûl's Paladin and draw a card.
-Whenever Lim-Dûl's Paladin becomes blocked, it gets +6/+3 until end of turn.
-Whenever Lim-Dûl's Paladin attacks and isn't blocked, it assigns no combat damage to defending player this turn and that player loses 4 life.</string>
+At the beginning of your upkeep, you may discard a card. If you don't, sacrifice Lim-Dul's Paladin and draw a card.
+Whenever Lim-Dul's Paladin becomes blocked, it gets +6/+3 until end of turn.
+Whenever Lim-Dul's Paladin attacks and isn't blocked, it assigns no combat damage to defending player this turn and that player loses 4 life.</string>
 		<string>Alliances Uncommon</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's Vault</string>
+		<string>Lim-Dul's Vault</string>
 		<string>UB</string>
 		<string>Instant</string>
 		<string></string>
@@ -1996,6 +2004,15 @@ At the beginning of the end step of enchanted creature's controller, that player
 Enchanted land is an Island.
 Cycling {2} ({2}, Discard this card: Draw a card.)</string>
 		<string>Urza's Saga Uncommon</string>
+	</array>
+	<array>
+		<string>Lingering Souls</string>
+		<string>2W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Lingering Tormentor</string>
@@ -2146,6 +2163,7 @@ You gain life equal to the revealed card's converted mana cost.</string>
 	</array>
 	<array>
 		<string>Living End</string>
+		<string>Black</string>
 		<string>Sorcery</string>
 		<string></string>
 		<string>Suspend 3-{2}{B}{B} (Rather than cast this card from your hand, pay {2}{B}{B} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
@@ -2624,6 +2642,7 @@ Creatures with forestwalk can be blocked as though they didn't have forestwalk.<
 	</array>
 	<array>
 		<string>Lord of Lineage</string>
+		<string>Black</string>
 		<string>Creature  - Vampire</string>
 		<string>(5/5)</string>
 		<string>Flying
@@ -2736,6 +2755,14 @@ When Lost Auramancers dies, if it had no time counters on it, you may search you
 		<string></string>
 		<string>Counter target spell. Return target permanent to its owner's hand.</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Lost in the Woods</string>
+		<string>3GG</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature attacks you or a planeswalker you control, reveal the top card of your library. If it's a Forest card, remove that creature from combat. Then put the revealed card on the bottom of your library.</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Lost in Thought</string>
@@ -2962,6 +2989,15 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 		<string>Scars of Mirrodin Common</string>
 	</array>
 	<array>
+		<string>Loyal Cathar</string>
+		<string>WW</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/2)</string>
+		<string>Vigilance
+When Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Loyal Gyrfalcon</string>
 		<string>3W</string>
 		<string>Creature  - Bird</string>
@@ -3029,6 +3065,7 @@ Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a car
 	</array>
 	<array>
 		<string>Ludevic's Abomination</string>
+		<string>Blue</string>
 		<string>Creature  - Lizard Horror</string>
 		<string>(13/13)</string>
 		<string>Trample</string>

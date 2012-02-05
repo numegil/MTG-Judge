@@ -604,7 +604,7 @@ Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with
 		<string>Innistrad Mythic Rare</string>
 	</array>
 	<array>
-		<string>Geistcatcher’s Rig (Geistcatcher's Rig)</string>
+		<string>Geistcatcher's Rig</string>
 		<string>6</string>
 		<string>Artifact Creature  - Construct</string>
 		<string>(4/5)</string>
@@ -1344,7 +1344,7 @@ Discard a card: Return enchanted creature to its owner's hand.</string>
 		<string>Guildpact Rare</string>
 	</array>
 	<array>
-		<string>Ghoulcaller’s Bell (Ghoulcaller's Bell)</string>
+		<string>Ghoulcaller's Bell</string>
 		<string>1</string>
 		<string>Artifact</string>
 		<string></string>
@@ -1352,7 +1352,7 @@ Discard a card: Return enchanted creature to its owner's hand.</string>
 		<string>Innistrad Common</string>
 	</array>
 	<array>
-		<string>Ghoulcaller’s Chant (Ghoulcaller's Chant)</string>
+		<string>Ghoulcaller's Chant</string>
 		<string>B</string>
 		<string>Sorcery</string>
 		<string></string>

@@ -433,7 +433,7 @@ Equipment
 An artifact subtype. Equipment can be attached to creatures. See rule 301, "Artifacts," and rule 702.6, "Equip."
 
 Evasion Ability
-An ability that restricts what creatures can block an attacking creature. See rules 509.1b-c.
+An ability that restricts what creatures can block an attacking creature. See rules 509.1b - c.
 
 Event
 Anything that happens in a game. See rule 700.1.
@@ -664,7 +664,7 @@ Landwalk
 A generic term for a group of keyword abilities that restrict whether a creature may be blocked. See rule 702.13, "Landwalk."
 
 Last Known Information
-Information about an object that's no longer in the zone it's expected to be in, or information about a player that's no longer in the game. This information captures that object's last existence in that zone or that player's last existence in the game. See rules 112.7a, 608.2b, 608.2g, and 800.4f.
+Information about an object that's no longer in the zone it's expected to be in, or information about a player that's no longer in the game. This information captures that object's last existence in that zone or that player's last existence in the game. See rules 112.7a, 608.2b, 608.2g, and 800.4g.
 
 Layer
 A system used to determine in which order continuous effects are applied. See rule 613, "Interaction of Continuous Effects." See also Dependency, Timestamp Order.
@@ -1259,7 +1259,7 @@ Token
 A marker used to represent any permanent that isn't represented by a card. See rule 110.5.
 
 Tombstone Icon
-An icon that appears in the upper left of some Odyssey block cards that has no effect on game play. See rule 107.9.
+An icon that appears in the upper left of some _Odyssey_ block cards that has no effect on game play. See rule 107.9.
 
 Total Casting Cost (Obsolete)
 An obsolete term for converted mana cost. Cards printed with this text have received errata in the Oracle card reference.
@@ -1324,13 +1324,13 @@ Type
 2. An attribute mana has. See rule 106, "Mana."
 
 Type Icon
-An icon that appears in the upper left of some Future Sight cards that has no effect on game play. See rule 107.10.
+An icon that appears in the upper left of some _Future Sight_ cards that has no effect on game play. See rule 107.10.
 
 Type Line
 Part of a card. The type line is printed directly below the illustration and contains the card's card type(s), subtype(s), and/or supertype(s). See rule 205, "Type Line."
 
 Type-Changing Effect
-An effect that changes an object's card type, subtype, and/or supertype. See rule 613.1d.
+An effect that changes an object's card type, subtype, and/or supertype. See rules 205.1a - b, 305.7, and 613.1d.
 
 Typecycling
 A variant of the cycling ability. See rule 702.27, "Cycling."
@@ -1343,6 +1343,9 @@ An attribute of a creature that precludes it from being blocked. See rule 700.5.
 
 Unblocked Creature
 An attacking creature once no creature has been declared as a blocker for it, unless an effect has caused it to become blocked. It remains an unblocked creature until it's removed from combat or the combat phase ends, whichever comes first. See rule 509, "Declare Blockers Step."
+
+Undying
+A keyword ability that can return a creature from the graveyard to the battlefield. See rule 702.91, "Undying."
 
 Unearth
 A keyword ability that lets a player return a creature card from his or her graveyard to the battlefield. See rule 702.82, "Unearth."

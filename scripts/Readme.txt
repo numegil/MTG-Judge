@@ -13,13 +13,16 @@ Replace all instances of — with -
 Replace all instances of á with a
 Replace all instances of Æ with Ae
 Replace all instances of o with o
+Replace all instances of ’ with '
+Replace all instances of û with u
+Replace all instances of é with e
 
 Fix Individual Cards:
 
 1) Delete "Ach! Hans! Run!" and "___________" (from oracle_0 and namesonly only)
 2) Look at top AND bottom of each array file and fix all cards that are out of alphabetical order by putting them back in alphabetical order (this will be the split cards, Kamigawa flip cards and a few random wackos).
 3) Get rid of ampersands from R&D Secret Lair and Look at Me I'm R&D and Punctuate
-4) Fix XXCall of the Herd and XXValor and Aerathi Berserker, Butcher's Cleaver
+4) Fix XXCall of the Herd and XXValor and Aerathi Berserker, Butcher's Cleaver, Memory's Journey, Stitcher's Apprentice, Altar's Reap, Avacyn's Pilgrim, Curse of Death's Hold, Devil's Play, Full Moon's Rise, Geistcatcher's Rig, Ghoulcaller's Bell, Ghoulcaller's Chant, Heretic's Punishment, Inquisitor's Flail, Ludevic's Abomination, Ludevic's Test Subject, Nightbird's Clutches, Ranger's Guile, Runechanter's Pike, Traveler's Amulet
 
 A few useful test cases:
 
@@ -38,3 +41,28 @@ To Update Comprehensive Rules:
 2) Compile and run ConvertCompRulestoHtml.java
 3) Toggle the comments in ConvertCompRulesToHtml.java (see source code)
 4) Compile and run it again
+
+
+Notes specific for updating Android version:
+
+1) Don't forget the MTR
+2) oracle files need to be renamed to .xml
+	command line: for i in *; do mv "$i" "`basename $i .array`.xml"; done
+2) oracle_names_only.xml needs to have <string> and </string> replaced by <s> and </s>
+3) oracle_names_only.xml needs to be split into oracle_names_only_1.xml and oracle_names_only_2.xml (split just after "Lyzolda")
+4) oracle_names_18.xml (the 's' file) needs to be split (after 'slumbering tora') (the specific card is important because it's the cutoff between "sl" and "sm")
+5) get rid of "mtgjudge://" html links in comp rules and glossary  (Notepad++ RegEx:  replace "<a href=mtgjudge://.*?>(.*?)</a>" with "\1")
+
+Stuff to update:
+
+iOS:
+1) Oracle
+2) IPG
+3) Banned List
+4) Comp Rules
+
+Android:
+1) Oracle
+2) IPG
+3) Comp Rules
+4) MTR

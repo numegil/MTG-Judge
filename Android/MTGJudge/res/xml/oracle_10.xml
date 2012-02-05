@@ -1169,6 +1169,15 @@ You may pay {X} rather than pay the mana cost for Samurai spells you cast, where
 		<string>Innistrad Rare</string>
 	</array>
 	<array>
+		<string>Kessig Recluse</string>
+		<string>2GG</string>
+		<string>Creature  - Spider</string>
+		<string>(2/3)</string>
+		<string>Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Kessig Wolf</string>
 		<string>2R</string>
 		<string>Creature  - Wolf</string>
@@ -2183,7 +2192,7 @@ Other Kobold creatures you control have first strike.</string>
 	</array>
 	<array>
 		<string>Kobolds of Kher Keep</string>
-		<string>0</string>
+		<string>Red</string>
 		<string>Creature  - Kobold</string>
 		<string>(0/1)</string>
 		<string></string>
@@ -2504,7 +2513,17 @@ When Kozilek is put into a graveyard from anywhere, its owner shuffles his or he
 		<string>Tempest Uncommon</string>
 	</array>
 	<array>
+		<string>Krallenhorde Killer</string>
+		<string>Green</string>
+		<string>Creature  - Werewolf</string>
+		<string>(2/2)</string>
+		<string>{3}{G}: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Krallenhorde Wantons</string>
+		<string>Green</string>
 		<string>Creature  - Werewolf</string>
 		<string>(7/7)</string>
 		<string>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.</string>

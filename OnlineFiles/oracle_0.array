@@ -1782,7 +1782,7 @@ Search your library for a creature card, reveal that card, and put it into your 
 		<string>Mirrodin Uncommon</string>
 	</array>
 	<array>
-		<string>Altar’s Reap (Altar's Reap)</string>
+		<string>Altar's Reap</string>
 		<string>1B</string>
 		<string>Instant</string>
 		<string></string>
@@ -4872,7 +4872,7 @@ Equip {2}</string>
 		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
-		<string>Avacyn’s Pilgrim (Avacyn's Pilgrim)</string>
+		<string>Avacyn's Pilgrim</string>
 		<string>G</string>
 		<string>Creature  - Human Monk</string>
 		<string>(1/1)</string>

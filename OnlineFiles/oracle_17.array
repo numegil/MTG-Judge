@@ -797,7 +797,7 @@ When Rancor is put into a graveyard from the battlefield, return Rancor to its o
 		<string>Shards of Alara Rare</string>
 	</array>
 	<array>
-		<string>Ranger’s Guile (Ranger's Guile)</string>
+		<string>Ranger's Guile</string>
 		<string>G</string>
 		<string>Instant</string>
 		<string></string>
@@ -3769,11 +3769,11 @@ Creatures with ice counters on them don't untap during their controllers' untap 
 		<string>Legends Rare</string>
 	</array>
 	<array>
-		<string>Ring of Ma'rûf</string>
+		<string>Ring of Ma'ruf</string>
 		<string>5</string>
 		<string>Artifact</string>
 		<string></string>
-		<string>{5}, {T}, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.</string>
+		<string>{5}, {T}, Exile Ring of Ma'ruf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.</string>
 		<string>Masters Edition Rare, Arabian Nights Rare</string>
 	</array>
 	<array>
@@ -5317,7 +5317,7 @@ Draw a card.</string>
 		<string>Shadowmoor Common</string>
 	</array>
 	<array>
-		<string>Runechanter’s Pike (Runechanter's Pike)</string>
+		<string>Runechanter's Pike</string>
 		<string>2</string>
 		<string>Artifact  - Equipment</string>
 		<string></string>

@@ -1757,7 +1757,7 @@ Echo {2}{W}{W} (At the beginning of your upkeep, if this came under your control
 		<string>Time Spiral Common</string>
 	</array>
 	<array>
-		<string>Heretic’s Punishment (Heretic's Punishment)</string>
+		<string>Heretic's Punishment</string>
 		<string>4R</string>
 		<string>Enchantment</string>
 		<string></string>

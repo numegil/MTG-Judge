@@ -953,7 +953,7 @@ Sacrifice Legacy's Allure: Gain control of target creature with power less than 
 		<string>Tempest Uncommon</string>
 	</array>
 	<array>
-		<string>Legions of Lim-Dûl</string>
+		<string>Legions of Lim-Dul</string>
 		<string>1BB</string>
 		<string>Creature  - Zombie</string>
 		<string>(2/3)</string>
@@ -1899,7 +1899,7 @@ Sacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, 
 		<string>Urza's Saga Uncommon</string>
 	</array>
 	<array>
-		<string>Lim-Dûl the Necromancer</string>
+		<string>Lim-Dul the Necromancer</string>
 		<string>5BB</string>
 		<string>Legendary Creature  - Human Wizard</string>
 		<string>(4/4)</string>
@@ -1908,43 +1908,43 @@ Sacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, 
 		<string>Time Spiral Rare</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's Cohort</string>
+		<string>Lim-Dul's Cohort</string>
 		<string>1BB</string>
 		<string>Creature  - Zombie</string>
 		<string>(2/3)</string>
-		<string>Whenever Lim-Dûl's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.</string>
+		<string>Whenever Lim-Dul's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.</string>
 		<string>Masters Edition IV Common, Ice Age Common</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's Hex</string>
+		<string>Lim-Dul's Hex</string>
 		<string>1B</string>
 		<string>Enchantment</string>
 		<string></string>
-		<string>At the beginning of your upkeep, for each player, Lim-Dûl's Hex deals 1 damage to that player unless he or she pays {B} or {3}.</string>
+		<string>At the beginning of your upkeep, for each player, Lim-Dul's Hex deals 1 damage to that player unless he or she pays {B} or {3}.</string>
 		<string>Ice Age Uncommon</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's High Guard</string>
+		<string>Lim-Dul's High Guard</string>
 		<string>1BB</string>
 		<string>Creature  - Skeleton</string>
 		<string>(2/1)</string>
 		<string>First strike
-{1}{B}: Regenerate Lim-Dûl's High Guard.</string>
+{1}{B}: Regenerate Lim-Dul's High Guard.</string>
 		<string>Masters Edition II Uncommon, Alliances Common, Alliances Common</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's Paladin</string>
+		<string>Lim-Dul's Paladin</string>
 		<string>2BR</string>
 		<string>Creature  - Human Knight</string>
 		<string>(0/3)</string>
 		<string>Trample
-At the beginning of your upkeep, you may discard a card. If you don't, sacrifice Lim-Dûl's Paladin and draw a card.
-Whenever Lim-Dûl's Paladin becomes blocked, it gets +6/+3 until end of turn.
-Whenever Lim-Dûl's Paladin attacks and isn't blocked, it assigns no combat damage to defending player this turn and that player loses 4 life.</string>
+At the beginning of your upkeep, you may discard a card. If you don't, sacrifice Lim-Dul's Paladin and draw a card.
+Whenever Lim-Dul's Paladin becomes blocked, it gets +6/+3 until end of turn.
+Whenever Lim-Dul's Paladin attacks and isn't blocked, it assigns no combat damage to defending player this turn and that player loses 4 life.</string>
 		<string>Alliances Uncommon</string>
 	</array>
 	<array>
-		<string>Lim-Dûl's Vault</string>
+		<string>Lim-Dul's Vault</string>
 		<string>UB</string>
 		<string>Instant</string>
 		<string></string>
@@ -3064,7 +3064,7 @@ Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a car
 		<string>Future Sight Common</string>
 	</array>
 	<array>
-		<string>Ludevic’s Abomination (Ludevic's Abomination)</string>
+		<string>Ludevic's Abomination</string>
 		<string>Blue</string>
 		<string>Creature  - Lizard Horror</string>
 		<string>(13/13)</string>
@@ -3072,7 +3072,7 @@ Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a car
 		<string>Innistrad Rare</string>
 	</array>
 	<array>
-		<string>Ludevic’s Test Subject (Ludevic's Test Subject)</string>
+		<string>Ludevic's Test Subject</string>
 		<string>1U</string>
 		<string>Creature  - Lizard</string>
 		<string>(0/3)</string>
