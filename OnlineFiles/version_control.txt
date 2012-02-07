@@ -1,97 +1,97 @@
 verified
 
 IPG.txt
-1
+2
 
 CompRulesContents.txt
-1
+2
 
 CompRules.txt
-1
+2
 
 FCE.txt
-1
+2
 
 CompRulesGlossary.txt
-1
+2
 
 oracle_names_only.array
-1
+2
 
 oracle_0.array
-1
+2
 
 oracle_1.array
-1
+2
 
 oracle_2.array
-1
+2
 
 oracle_3.array
-1
+2
 
 oracle_4.array
-1
+2
 
 oracle_5.array
-1
+2
 
 oracle_6.array
-1
+2
 
 oracle_7.array
-1
+2
 
 oracle_8.array
-1
+2
 
 oracle_9.array
-1
+2
 
 oracle_10.array
-1
+2
 
 oracle_11.array
-1
+2
 
 oracle_12.array
-1
+2
 
 oracle_13.array
-1
+2
 
 oracle_14.array
-1
+2
 
 oracle_15.array
-1
+2
 
 oracle_16.array
-1
+2
 
 oracle_17.array
-1
+2
 
 oracle_18.array
-1
+2
 
 oracle_19.array
-1
+2
 
 oracle_20.array
-1
+2
 
 oracle_21.array
-1
+2
 
 oracle_22.array
-1
+2
 
 oracle_23.array
-1
+2
 
 oracle_24.array
-1
+2
 
 oracle_25.array
-1
+2
