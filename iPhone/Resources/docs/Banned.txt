@@ -8,6 +8,7 @@ Mirrodin Besieged
 New Phyrexia
 Magic 2012
 Innistrad
+Dark Ascension
 
 Format:Modern
 The following cards are banned in Modern tournaments:
@@ -29,6 +30,7 @@ Jace, the Mind Sculptor
 Mental Misstep
 Ponder
 Preordain
+Punishing Fire
 Rite of Flame
 Seat of the Synod
 Sensei's Divining Top
@@ -39,6 +41,7 @@ Tree of Tales
 Umezawa's Jitte
 Valakut, the Molten Pinnacle
 Vault of Whispers
+Wild Nactl
 
 The following card sets are permitted in Modern tournaments:
 
@@ -75,6 +78,7 @@ Mirrodin Besieged
 New Phyrexia
 Magic 2012
 Innistrad
+Dark Ascension
 
 Format:Extended
 The following cards are banned in Extended tournaments:
@@ -100,6 +104,7 @@ Mirrodin Besieged
 New Phyrexia
 Magic 2012
 Innistrad
+Dark Ascension
 
 Format:Vintage
 Vintage decks may consist of cards from all Magic card sets, any edition of the core set, and all special sets, supplements, and promotional printings released by Wizards of the Coast.
@@ -122,6 +127,7 @@ Rebirth
 Shahrazad
 Tempest Efreet
 Timmerian Fiends
+Dark Ascension
 
 The following cards are restricted in Vintage tournaments:
 

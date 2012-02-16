@@ -563,6 +563,16 @@ Say "I'm rubber, you're glue. Everything bounces off me and sticks to you": Targ
 		<string>Lorwyn Rare</string>
 	</array>
 	<array>
+		<string>Immerwolf</string>
+		<string>1RG</string>
+		<string>Creature  - Wolf</string>
+		<string>(2/2)</string>
+		<string>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Other Wolf and Werewolf creatures you control get +1/+1.
+Non-Human Werewolves you control can't transform.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Immobilizing Ink</string>
 		<string>1U</string>
 		<string>Enchantment  - Aura</string>
@@ -888,6 +898,51 @@ Entwine {2} (Choose both if you pay the entwine cost.)</string>
 		<string></string>
 		<string>Each player searches his or her library for any number of artifacts, creatures, enchantments, and lands and puts those cards into play. Each player shuffles his or her library afterwards.</string>
 		<string>Unglued Rare</string>
+	</array>
+	<array>
+		<string>Increasing Ambition</string>
+		<string>4B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Search your library for a card and put that card into your hand. If Increasing Ambition was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library.
+Flashback {7}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
+		<string>Increasing Confusion</string>
+		<string>XU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player puts the top X cards of his or her library into his or her graveyard. If Increasing Confusion was cast from a graveyard, that player puts twice that many cards into his or her graveyard instead.
+Flashback {X}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
+		<string>Increasing Devotion</string>
+		<string>3WW</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put five 1/1 white Human creature tokens onto the battlefield. If Increasing Devotion was cast from a graveyard, put ten of those tokens onto the battlefield instead.
+Flashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
+		<string>Increasing Savagery</string>
+		<string>2GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put five +1/+1 counters on target creature. If Increasing Savagery was cast from a graveyard, put ten +1/+1 counters on that creature instead.
+Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
+		<string>Increasing Vengeance</string>
+		<string>RR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Copy target instant or sorcery spell you control. If Increasing Vengeance was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.
+Flashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Incremental Blight</string>
@@ -1309,7 +1364,7 @@ Creatures you control that are enchanted get +1/+1 and can't be blocked except b
 		<string>Enchantment  - Aura</string>
 		<string></string>
 		<string>Enchant creature
-Whenever enchanted creature blocks or becomes blocked by a creature with toughness 3 or less, destroy the other creature at end of combat. At the beginning of the next end step, if that creature died this way, put a +1/+1 counter on the first creature.</string>
+Whenever enchanted creature blocks or becomes blocked by a creature with toughness 3 or less, destroy the other creature at end of combat. At the beginning of the next end step, if that creature was destroyed this way, put a +1/+1 counter on the first creature.</string>
 		<string>Legends Rare</string>
 	</array>
 	<array>
@@ -1473,7 +1528,7 @@ When Inkfathom Divers enters the battlefield, look at the top four cards of your
 		<string>Artifact Creature  - Leviathan</string>
 		<string>(7/11)</string>
 		<string>Islandwalk, trample, shroud</string>
-		<string>Conflux Rare</string>
+		<string>Premium Deck Series: Graveborn Rare, Conflux Rare</string>
 	</array>
 	<array>
 		<string>Inner Calm, Outer Strength</string>
@@ -1594,6 +1649,7 @@ Equip {2}</string>
 	</array>
 	<array>
 		<string>Insectile Aberration</string>
+		<string>Blue</string>
 		<string>Creature  - Human Insect</string>
 		<string>(3/2)</string>
 		<string>Flying</string>
@@ -1775,7 +1831,7 @@ Draw a card.</string>
 	</array>
 	<array>
 		<string>Intervention Pact</string>
-		<string>0</string>
+		<string>White</string>
 		<string>Instant</string>
 		<string></string>
 		<string>The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
@@ -2165,6 +2221,7 @@ Enchanted creature can't block creatures with power equal to or greater than the
 	</array>
 	<array>
 		<string>Ironfang</string>
+		<string>Red</string>
 		<string>Creature  - Werewolf</string>
 		<string>(3/1)</string>
 		<string>First strike
@@ -2425,7 +2482,7 @@ Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nont
 		<string>1</string>
 		<string>Artifact</string>
 		<string></string>
-		<string>At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus four.</string>
+		<string>At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.</string>
 		<string>From the Vault: Relics Mythic Rare, Masters Edition Rare, Fourth Edition Rare, Revised Edition Rare, Antiquities Uncommon</string>
 	</array>
 	<array>

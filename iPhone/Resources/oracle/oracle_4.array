@@ -135,7 +135,7 @@ Whenever a creature dies, that creature's controller sacrifices a land.</string>
 		<string>Enchantment  - Aura</string>
 		<string></string>
 		<string>Enchant land you control
-Enchanted land has "{T}: Target blocking creature gets +1/+2 until end of turn."</string>
+Tap enchanted land: Target blocking creature gets +1/+2 until end of turn. Activate this ability only if enchanted land is untapped.</string>
 		<string>Ice Age Common</string>
 	</array>
 	<array>
@@ -223,7 +223,7 @@ Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrifice
 		<string>Ebon Stronghold enters the battlefield tapped.
 {T}: Add {B} to your mana pool.
 {T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.</string>
-		<string>Masters Edition II Uncommon, Beatdown Box Set Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fallen Empires Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Masters Edition II Uncommon, Beatdown Box Set Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fallen Empires Uncommon</string>
 	</array>
 	<array>
 		<string>Ebonblade Reaper</string>
@@ -505,6 +505,16 @@ Totem armor (If enchanted creature would be destroyed, instead remove all damage
 		<string>Rise of the Eldrazi Common</string>
 	</array>
 	<array>
+		<string>Elbrus, the Binding Blade</string>
+		<string>7</string>
+		<string>Legendary Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +1/+0.
+When equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.
+Equip {1}</string>
+		<string>Dark Ascension Mythic Rare</string>
+	</array>
+	<array>
 		<string>Elder Cathar</string>
 		<string>2W</string>
 		<string>Creature  - Human Soldier</string>
@@ -774,6 +784,15 @@ Creatures your opponents control get -2/-2.</string>
 		<string></string>
 		<string>At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, you skip your draw step this turn and shuffle your library.</string>
 		<string>Invasion Uncommon</string>
+	</array>
+	<array>
+		<string>Elgaud Inquisitor</string>
+		<string>3W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(2/2)</string>
+		<string>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When Elgaud Inquisitor dies, put a 1/1 white Spirit creature token with flying onto the battlefield.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>El-Hajjâj</string>
@@ -1714,7 +1733,7 @@ Epic (For the rest of the game, you can't cast spells. At the beginning of each 
 		<string>2BB</string>
 		<string>Enchantment</string>
 		<string></string>
-		<string>Each creature has "When this creature dies, choose target opponent. That player returns this card from that graveyard to the battlefield under his or her control at the beginning of the next end step."</string>
+		<string>Each creature has "When this creature dies, choose target opponent. That player puts this card from its owner's graveyard onto the battlefield under his or her control at the beginning of the next end step."</string>
 		<string>Fifth Dawn Rare</string>
 	</array>
 	<array>
@@ -2088,7 +2107,7 @@ Enchanted creature doesn't untap during its controller's untap step.</string>
 		<string>Instant</string>
 		<string></string>
 		<string>Search your library for a card and put that card into your graveyard. Then shuffle your library.</string>
-		<string>Odyssey Rare</string>
+		<string>Premium Deck Series: Graveborn Rare, Odyssey Rare</string>
 	</array>
 	<array>
 		<string>Entomber Exarch</string>
@@ -2263,6 +2282,15 @@ Whenever the fourth spell of a turn is cast, flip Erayo, Soratami Ascendant.
 		<string></string>
 		<string>Whenever an opponent casts a spell for the first time in a turn, counter that spell.</string>
 		<string>Saviors of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Erdwal Ripper</string>
+		<string>1RR</string>
+		<string>Creature  - Vampire</string>
+		<string>(2/1)</string>
+		<string>Haste
+Whenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Erg Raiders</string>
@@ -2925,6 +2953,7 @@ All damage is dealt as though its source had wither. (A source with wither deals
 	</array>
 	<array>
 		<string>Evermind</string>
+		<string>Blue</string>
 		<string>Instant  - Arcane</string>
 		<string></string>
 		<string>(Nonexistent mana costs can't be paid.)
@@ -3016,7 +3045,7 @@ When Eviscerator enters the battlefield, you lose 5 life.</string>
 		<string>Land</string>
 		<string></string>
 		<string>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</string>
-		<string>Duel Decks: Ajani vs. Nicol Bolas Common, Magic: The Gathering-Commander Common, Rise of the Eldrazi Common</string>
+		<string>Dark Ascension Common, Duel Decks: Ajani vs. Nicol Bolas Common, Magic: The Gathering-Commander Common, Rise of the Eldrazi Common</string>
 	</array>
 	<array>
 		<string>Exalted Angel</string>
@@ -3113,6 +3142,15 @@ Draw a card.</string>
 		<string>Shards of Alara Common</string>
 	</array>
 	<array>
+		<string>Executioner's Hood</string>
+		<string>2</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature has intimidate. (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Exhaustion</string>
 		<string>2U</string>
 		<string>Sorcery</string>
@@ -3126,7 +3164,7 @@ Draw a card.</string>
 		<string>Sorcery</string>
 		<string></string>
 		<string>Each player puts a creature card from his or her graveyard onto the battlefield.</string>
-		<string>Battle Royale Box Set Common, Urza's Saga Common</string>
+		<string>Premium Deck Series: Graveborn Common, Battle Royale Box Set Common, Urza's Saga Common</string>
 	</array>
 	<array>
 		<string>Exhumer Thrull</string>

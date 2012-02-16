@@ -12,6 +12,9 @@ CompRules.txt
 FCE.txt
 2
 
+Banned.txt
+2
+
 CompRulesGlossary.txt
 2
 

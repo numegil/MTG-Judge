@@ -60,7 +60,7 @@
 	NSString *tempRules2 = [NSString stringWithContentsOfFile:RulesPath2 usedEncoding:&encoding error:NULL];
 	NSString *tempRules3 = [NSString stringWithContentsOfFile:RulesPath3 usedEncoding:&encoding error:NULL];
 	
-	self.CompRulesFull = [tempRules2 componentsSeparatedByString:@"\n\r"];
+	self.CompRulesFull = [tempRules2 componentsSeparatedByString:@"\n"];
 	self.CompRulesGlossary = [tempRules3 componentsSeparatedByString:@"\n\r"];
 	
 	[masterBaseTableView setFrame:CGRectMake(0, 45, 320, 415)];
@@ -363,10 +363,22 @@
 				if([obj count] > 0){
 					NSString *str0 = [obj objectAtIndex:0];
 					if([str0 length] < 3) continue;
-					NSString *num = [[[[obj objectAtIndex:0] componentsSeparatedByString:@"."] objectAtIndex:0] substringFromIndex:1];
+                    
+                    // If the rule number has a second dot, delete it (e.g. "107.4." becomes "107.4")
+                    // Assuming that the second dot is always at the end, dunno how safe that assumption is.
+                    if ([[str0 componentsSeparatedByString:@"."] count] > 2)
+                    {
+                        str0 = [str0 substringToIndex:[str0 length]-1];
+                    }
+                    
+					NSString *num = [[[[obj objectAtIndex:0] componentsSeparatedByString:@"."] objectAtIndex:0] substringFromIndex:0];
 					NSString *str = [str0 stringByAppendingString:@" - "];
 					
 					NSString *name = [self getSectionName:[num intValue]];
+                    
+                    if (name == NULL)
+                        continue;
+                    
 					tr2 = [name rangeOfString:@". "];
 					name = [name substringFromIndex:tr2.location+2];
 					str = [str stringByAppendingString:name];

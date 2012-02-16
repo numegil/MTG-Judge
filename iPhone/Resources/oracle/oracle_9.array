@@ -258,6 +258,15 @@ Hellbent - Whenever Jagged Poppet deals combat damage to a player, if you have n
 		<string>Weatherlight Common</string>
 	</array>
 	<array>
+		<string>Jar of Eyeballs</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever a creature you control dies, put two eyeball counters on Jar of Eyeballs.
+{3}, {T}, Remove all eyeball counters from Jar of Eyeballs: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Jareth, Leonine Titan</string>
 		<string>3WWW</string>
 		<string>Legendary Creature  - Cat Giant</string>

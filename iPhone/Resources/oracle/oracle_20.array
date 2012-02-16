@@ -94,6 +94,14 @@ Ulamog's Crusher attacks each turn if able.</string>
 		<string>Guildpact Rare</string>
 	</array>
 	<array>
+		<string>Ulvenwald Bear</string>
+		<string>2G</string>
+		<string>Creature  - Bear</string>
+		<string>(2/2)</string>
+		<string>Morbid - When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Ulvenwald Mystics</string>
 		<string>2GG</string>
 		<string>Creature  - Human Shaman Werewolf</string>
@@ -103,6 +111,7 @@ Ulamog's Crusher attacks each turn if able.</string>
 	</array>
 	<array>
 		<string>Ulvenwald Primordials</string>
+		<string>Green</string>
 		<string>Creature  - Werewolf</string>
 		<string>(5/5)</string>
 		<string>{G}: Regenerate Ulvenwald Primordials.
@@ -373,6 +382,14 @@ Prevent all combat damage that would be dealt this turn. If its additional cost 
 		<string>Portal Common</string>
 	</array>
 	<array>
+		<string>Undying Evil</string>
+		<string>B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gains undying until end of turn. (When it dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Undying Flames</string>
 		<string>4RR</string>
 		<string>Sorcery</string>
@@ -433,6 +450,14 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</string>
 		<string>Mirage Rare</string>
 	</array>
 	<array>
+		<string>Unhallowed Cathar</string>
+		<string>Black</string>
+		<string>Creature  - Zombie Soldier</string>
+		<string>(2/1)</string>
+		<string>Unhallowed Cathar can't block.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Unhinge</string>
 		<string>2B</string>
 		<string>Sorcery</string>
@@ -450,6 +475,7 @@ Draw a card.</string>
 	</array>
 	<array>
 		<string>Unholy Fiend</string>
+		<string>Black</string>
 		<string>Creature  - Horror</string>
 		<string>(3/3)</string>
 		<string>At the beginning of your end step, you lose 1 life.</string>

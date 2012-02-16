@@ -4,11 +4,11 @@
 <array>
 	<array>
 		<string>IPG.txt</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
     <array>
 		<string>Banned.txt</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
     <array>
 		<string>CompRulesContents.txt</string>
@@ -20,7 +20,7 @@
 	</array>
 	<array>
 		<string>FCE.txt</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>CompRulesGlossary.txt</string>
@@ -28,111 +28,111 @@
 	</array>
 	<array>
 		<string>oracle_names_only.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_0.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_1.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_2.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_3.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_4.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_5.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_6.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_7.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_8.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_9.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_10.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_11.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_12.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_13.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_14.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_15.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_16.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_17.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_18.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_19.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_20.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_21.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_22.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_23.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_24.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 	<array>
 		<string>oracle_25.array</string>
-		<string>1</string>
+		<string>2</string>
 	</array>
 </array>
 </plist>

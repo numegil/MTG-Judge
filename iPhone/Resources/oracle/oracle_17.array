@@ -175,7 +175,7 @@ Whenever a creature you control attacks alone, it gains double strike until end 
 		<string>Artifact</string>
 		<string></string>
 		<string>({(r/p)} can be paid with either {R} or 2 life.)
-Whenever you cast a spell with p in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to target creature or player.</string>
+Whenever you cast a spell with {P} in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to target creature or player.</string>
 		<string>New Phyrexia Uncommon</string>
 	</array>
 	<array>
@@ -722,6 +722,7 @@ Landfall - Whenever a land enters the battlefield under your control, you may pu
 	</array>
 	<array>
 		<string>Rampaging Werewolf</string>
+		<string>Red</string>
 		<string>Creature  - Werewolf</string>
 		<string>(6/4)</string>
 		<string>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.</string>
@@ -997,6 +998,16 @@ Rattleblaze Scarecrow has haste as long as you control a red creature.</string>
 		<string>Odyssey Common</string>
 	</array>
 	<array>
+		<string>Ravager of the Fells</string>
+		<string>Red/Green</string>
+		<string>Creature  - Werewolf</string>
+		<string>(4/4)</string>
+		<string>Trample
+Whenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent and 2 damage to up to one target creature that player controls.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.</string>
+		<string>Dark Ascension Mythic Rare</string>
+	</array>
+	<array>
 		<string>Ravages of War</string>
 		<string>3W</string>
 		<string>Sorcery</string>
@@ -1064,6 +1075,14 @@ Morph {2}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it 
 		<string>(4/4)</string>
 		<string>Sacrifice a Beast: You gain 4 life.</string>
 		<string>Duel Decks: Garruk vs. Liliana Rare, Onslaught Rare</string>
+	</array>
+	<array>
+		<string>Ravenous Demon</string>
+		<string>3BB</string>
+		<string>Creature  - Demon</string>
+		<string>(4/4)</string>
+		<string>Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Ravenous Rats</string>
@@ -1158,7 +1177,7 @@ Draw a card at the beginning of the next turn's upkeep.</string>
 		<string></string>
 		<string>Destroy target enchantment.
 Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
-		<string>Judgment Common</string>
+		<string>Dark Ascension Common, Judgment Common</string>
 	</array>
 	<array>
 		<string>Rayne, Academy Chancellor</string>
@@ -1448,7 +1467,7 @@ When Realm Razer leaves the battlefield, return the exiled cards to the battlefi
 		<string>Sorcery</string>
 		<string></string>
 		<string>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.</string>
-		<string>Archenemy Uncommon, Battle Royale Box Set Uncommon, Tempest Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Archenemy Uncommon, Battle Royale Box Set Uncommon, Tempest Uncommon</string>
 	</array>
 	<array>
 		<string>Reap</string>
@@ -1466,6 +1485,15 @@ When Realm Razer leaves the battlefield, return the exiled cards to the battlefi
 		<string>Choose one - Destroy target land; or search your library for a land card, put that card onto the battlefield, then shuffle your library.
 Entwine {1}{G} (Choose both if you pay the entwine cost.)</string>
 		<string>Darksteel Common</string>
+	</array>
+	<array>
+		<string>Reap the Seagraf</string>
+		<string>2B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put a 2/2 black Zombie creature token onto the battlefield.
+Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Reaper from the Abyss</string>
@@ -2094,7 +2122,7 @@ Target player gains 6 life.</string>
 		<string>1GG</string>
 		<string>Instant</string>
 		<string></string>
-		<string>Choose target creature. When that creature dies this turn, return a creature card from that graveyard to the battlefield under the control of that creature's owner.</string>
+		<string>Choose target creature. When that creature dies this turn, return a creature card from its owner's graveyard to the battlefield under the control of that creature's owner.</string>
 		<string>Masters Edition III Uncommon, Legends Uncommon</string>
 	</array>
 	<array>
@@ -2233,6 +2261,15 @@ At the beginning of your upkeep, if an opponent has no cards in hand, you may re
 		<string>Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.
 A deck can have any number of cards named Relentless Rats.</string>
 		<string>Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Relentless Skaabs</string>
+		<string>3UU</string>
+		<string>Creature  - Zombie</string>
+		<string>(4/4)</string>
+		<string>As an additional cost to cast Relentless Skaabs, exile a creature card from your graveyard.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Relic Bane</string>
@@ -2634,6 +2671,15 @@ Draw a card.</string>
 		<string>Magic: The Gathering-Commander Common, Duel Decks: Jace vs. Chandra Common, Invasion Common</string>
 	</array>
 	<array>
+		<string>Requiem Angel</string>
+		<string>5W</string>
+		<string>Creature  - Angel</string>
+		<string>(5/5)</string>
+		<string>Flying
+Whenever another non-Spirit creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Reroute</string>
 		<string>1R</string>
 		<string>Instant</string>
@@ -2848,6 +2894,7 @@ Return X target creature cards from your graveyard to your hand.</string>
 	</array>
 	<array>
 		<string>Restore Balance</string>
+		<string>White</string>
 		<string>Sorcery</string>
 		<string></string>
 		<string>Suspend 6-{W} (Rather than cast this card from your hand, pay {W} and exile it with six time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
@@ -3722,11 +3769,11 @@ Creatures with ice counters on them don't untap during their controllers' untap 
 		<string>Legends Rare</string>
 	</array>
 	<array>
-		<string>Ring of Ma'rûf</string>
+		<string>Ring of Ma'ruf</string>
 		<string>5</string>
 		<string>Artifact</string>
 		<string></string>
-		<string>{5}, {T}, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.</string>
+		<string>{5}, {T}, Exile Ring of Ma'ruf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.</string>
 		<string>Masters Edition Rare, Arabian Nights Rare</string>
 	</array>
 	<array>
@@ -5465,6 +5512,14 @@ At the beginning of your upkeep, you may put a +1/+1 counter on Rushwood Element
 		<string>(2/1)</string>
 		<string>If an opponent controls an Island and you control a Forest, you may cast Rushwood Legate without paying its mana cost.</string>
 		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Russet Wolves</string>
+		<string>3R</string>
+		<string>Creature  - Wolf</string>
+		<string>(3/3)</string>
+		<string></string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Rust</string>

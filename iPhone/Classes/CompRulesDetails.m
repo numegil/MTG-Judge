@@ -71,7 +71,7 @@
 					break;
 				}
 				
-				output = [output stringByAppendingString:[[CompRulesArray objectAtIndex:i] stringByAppendingString:@"<br><br>"]];
+				output = [output stringByAppendingString:[[CompRulesArray objectAtIndex:i] stringByAppendingString:@"<br>"]];
 			}
 						
 			else 
@@ -108,7 +108,7 @@
 		{
 			tempString = [CompRulesArray objectAtIndex:arrayIndex];
 			arrayIndex++;
-			output = [[output stringByAppendingString:tempString] stringByAppendingString:@"<br><br>"];
+			output = [[output stringByAppendingString:tempString] stringByAppendingString:@"<br>"];
 			if(arrayIndex >= [CompRulesArray count]) break;
 		}		
 	}

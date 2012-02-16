@@ -107,7 +107,7 @@ Threshold - Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards
 		<string></string>
 		<string>Name a nonland card. Target player reveals his or her hand and discards all cards with that name.
 Flashback-Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
-		<string>Judgment Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Judgment Uncommon</string>
 	</array>
 	<array>
 		<string>Cabal Torturer</string>
@@ -374,6 +374,15 @@ At the beginning of the end step, if no creatures are on the battlefield, sacrif
 		<string>Magic 2012 Rare, Scourge Rare</string>
 	</array>
 	<array>
+		<string>Call to the Kindred</string>
+		<string>3U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+At the beginning of your upkeep, you may look at the top five cards of your library. If you do, you may put a creature card that shares a creature type with enchanted creature from among them onto the battlefield, then you put the rest of those cards on the bottom of your library in any order.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Call to the Netherworld</string>
 		<string>B</string>
 		<string>Sorcery</string>
@@ -480,7 +489,7 @@ Enchanted creature can't attack.</string>
 		<string>Creature  - Camel</string>
 		<string>(0/1)</string>
 		<string>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
-Prevent all damage that would be dealt to Camel or to creatures banded with Camel by Deserts.</string>
+As long as Camel is attacking, prevent all damage Deserts would deal to Camel and to creatures banded with Camel.</string>
 		<string>Arabian Nights Common</string>
 	</array>
 	<array>
@@ -2109,6 +2118,21 @@ Threshold - {2}{R}, {T}: Chainflinger deals 2 damage to target creature or playe
 		<string>Masters Edition Rare, Legends Rare</string>
 	</array>
 	<array>
+		<string>Chalice of Death</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: Target player loses 5 life.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
+		<string>Chalice of Life</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{T}: You gain 1 life. Then if you have at least 10 life more than your starting life total, transform Chalice of Life.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Chalice of the Void</string>
 		<string>XX</string>
 		<string>Artifact</string>
@@ -2388,6 +2412,15 @@ Champion a creature (When this enters the battlefield, sacrifice it unless you e
 		<string></string>
 		<string>Add {W}{U}{B}{R}{G} to your mana pool.</string>
 		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Chant of the Skifsang</string>
+		<string>2U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets -13/-0.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Chant of Vitu-Ghazi</string>
@@ -2810,6 +2843,15 @@ Target creature gets -X/-X until end of turn.</string>
 		<string>Scourge Uncommon</string>
 	</array>
 	<array>
+		<string>Chill of Foreboding</string>
+		<string>2U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player puts the top five cards of his or her library into his or her graveyard.
+Flashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Chill to the Bone</string>
 		<string>3B</string>
 		<string>Instant</string>
@@ -3052,6 +3094,14 @@ As an additional cost to cast creature spells, you may pay any amount of mana. I
 		<string>Starter 1999 Common, Portal Second Age Common</string>
 	</array>
 	<array>
+		<string>Chosen of Markov</string>
+		<string>2B</string>
+		<string>Creature  - Human</string>
+		<string>(2/2)</string>
+		<string>{T}, Tap an untapped Vampire you control: Transform Chosen of Markov.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Chromatic Armor</string>
 		<string>1WU</string>
 		<string>Enchantment  - Aura</string>
@@ -3059,7 +3109,7 @@ As an additional cost to cast creature spells, you may pay any amount of mana. I
 		<string>Enchant creature
 As Chromatic Armor enters the battlefield, choose a color.
 Chromatic Armor enters the battlefield with a sleight counter on it.
-Prevent all damage that would be dealt to enchanted creature by a source of the last chosen color.
+Prevent all damage that would be dealt to enchanted creature by sources of the last chosen color.
 {X}: Put a sleight counter on Chromatic Armor and choose a color. X is the number of sleight counters on Chromatic Armor.</string>
 		<string>Ice Age Rare</string>
 	</array>
@@ -3771,6 +3821,15 @@ Cliffrunner Behemoth has lifelink as long as you control a white permanent.</str
 		<string>Enchant creature
 Enchanted creature gets -4/-1.</string>
 		<string>Ravnica: City of Guilds Common</string>
+	</array>
+	<array>
+		<string>Clinging Mists</string>
+		<string>2G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Prevent all combat damage that would be dealt this turn.
+Fateful hour - If you have 5 or less life, tap all attacking creatures. Those creatures don't untap during their controller's next untap step.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Cloak and Dagger</string>
@@ -5767,6 +5826,14 @@ At the beginning of your upkeep, sacrifice Cosmic Larva unless you sacrifice two
 		<string>Portal Three Kingdoms Uncommon</string>
 	</array>
 	<array>
+		<string>Counterlash</string>
+		<string>4UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target spell. You may cast a nonland card in your hand that shares a card type with that spell without paying its mana cost.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Counterspell</string>
 		<string>UU</string>
 		<string>Instant</string>
@@ -6341,7 +6408,7 @@ Exile target creature. Its controller puts a 1/1 colorless Shapeshifter creature
 	</array>
 	<array>
 		<string>Crimson Kobolds</string>
-		<string>0</string>
+		<string>Red</string>
 		<string>Creature  - Kobold</string>
 		<string>(0/1)</string>
 		<string></string>
@@ -6433,7 +6500,7 @@ When Crookclaw Transmuter enters the battlefield, switch target creature's power
 	</array>
 	<array>
 		<string>Crookshank Kobolds</string>
-		<string>0</string>
+		<string>Red</string>
 		<string>Creature  - Kobold</string>
 		<string>(0/1)</string>
 		<string></string>
@@ -6455,7 +6522,7 @@ Search your library for a land card and put that card onto the battlefield. Then
 		<string>(6/6)</string>
 		<string>Flying
 Whenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals his or her hand and discards all cards of that color.</string>
-		<string>Invasion Rare</string>
+		<string>Premium Deck Series: Graveborn Rare, Invasion Rare</string>
 	</array>
 	<array>
 		<string>Crosis's Attendant</string>
@@ -6821,6 +6888,14 @@ When enchanted land dies, return that card to its owner's hand.</string>
 		<string>Champions of Kamigawa Common</string>
 	</array>
 	<array>
+		<string>Crushing Vines</string>
+		<string>2G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Choose one - Destroy target creature with flying; or destroy target artifact.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Cry of Contrition</string>
 		<string>B</string>
 		<string>Sorcery</string>
@@ -7019,7 +7094,7 @@ Draw a card.</string>
 		<string></string>
 		<string>{T}: Add {1} to your mana pool.
 {T}, Sacrifice Crystal Vein: Add {2} to your mana pool.</string>
-		<string>Classic Sixth Edition Uncommon, Mirage Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Classic Sixth Edition Uncommon, Mirage Uncommon</string>
 	</array>
 	<array>
 		<string>Crystalline Sliver</string>
@@ -7138,11 +7213,7 @@ When enchanted creature attacks or blocks, sacrifice Cunning at the beginning of
 		<string>(2/2)</string>
 		<string>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Cunning Bandit.
 At the beginning of the end step, if there are two or more ki counters on Cunning Bandit, you may flip it.
-----
-Azamuki, Treachery Incarnate
-Legendary Creature - Spirit
-5/2
-Remove a ki counter from Azamuki, Treachery Incarnate: Gain control of target creature until end of turn.</string>
+</string>
 		<string>Betrayers of Kamigawa Uncommon</string>
 	</array>
 	<array>
@@ -7213,6 +7284,15 @@ At the beginning of the upkeep of enchanted artifact's controller, Curse Artifac
 		<string>The Dark Uncommon</string>
 	</array>
 	<array>
+		<string>Curse of Bloodletting</string>
+		<string>3RR</string>
+		<string>Enchantment  - Aura Curse</string>
+		<string></string>
+		<string>Enchant player
+If a source would deal damage to enchanted player, it deals double that damage to that player instead.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Curse of Chains</string>
 		<string>1(W/U)</string>
 		<string>Enchantment  - Aura</string>
@@ -7231,6 +7311,24 @@ Creatures enchanted player controls get -1/-1.</string>
 		<string>Innistrad Rare</string>
 	</array>
 	<array>
+		<string>Curse of Echoes</string>
+		<string>4U</string>
+		<string>Enchantment  - Aura Curse</string>
+		<string></string>
+		<string>Enchant player
+Whenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy he or she controls.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
+		<string>Curse of Exhaustion</string>
+		<string>2WW</string>
+		<string>Enchantment  - Aura Curse</string>
+		<string></string>
+		<string>Enchant player
+Enchanted player can't cast more than one spell each turn.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
 		<string>Curse of Marit Lage</string>
 		<string>3RR</string>
 		<string>Enchantment</string>
@@ -7238,6 +7336,15 @@ Creatures enchanted player controls get -1/-1.</string>
 		<string>When Curse of Marit Lage enters the battlefield, tap all Islands.
 Islands don't untap during their controllers' untap steps.</string>
 		<string>Ice Age Rare</string>
+	</array>
+	<array>
+		<string>Curse of Misfortunes</string>
+		<string>4B</string>
+		<string>Enchantment  - Aura Curse</string>
+		<string></string>
+		<string>Enchant player
+At the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library.</string>
+		<string>Dark Ascension Rare</string>
 	</array>
 	<array>
 		<string>Curse of Oblivion</string>
@@ -7306,6 +7413,15 @@ Creatures enchanted player controls attack each turn if able.</string>
 		<string>Enchant player
 At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Curse of Thirst</string>
+		<string>4B</string>
+		<string>Enchantment  - Aura Curse</string>
+		<string></string>
+		<string>Enchant player
+At the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Curse of Wizardry</string>

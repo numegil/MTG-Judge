@@ -589,6 +589,14 @@ If a permanent would be put into a graveyard, exile it instead.</string>
 		<string>Eighth Edition Uncommon, Seventh Edition Uncommon, Urza's Destiny Uncommon</string>
 	</array>
 	<array>
+		<string>Sanctuary Cat</string>
+		<string>W</string>
+		<string>Creature  - Cat</string>
+		<string>(1/2)</string>
+		<string></string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Sanctum Custodian</string>
 		<string>2W</string>
 		<string>Creature  - Human Cleric</string>
@@ -1183,6 +1191,15 @@ Gotcha Whenever an opponent says "Save" or "Life," you may say "Gotcha" If you d
 		<string>Unhinged Uncommon</string>
 	</array>
 	<array>
+		<string>Saving Grasp</string>
+		<string>U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Return target creature you own to your hand.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Savor the Moment</string>
 		<string>1UU</string>
 		<string>Sorcery</string>
@@ -1714,6 +1731,14 @@ Other Faeries you control have shroud. (A permanent with shroud can't be the tar
 		<string>Unglued Common</string>
 	</array>
 	<array>
+		<string>Scorch the Fields</string>
+		<string>4R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Destroy target land. Scorch the Fields deals 1 damage to each Human creature.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Scorched Earth</string>
 		<string>XR</string>
 		<string>Sorcery</string>
@@ -1796,6 +1821,15 @@ Scorching Winds deals 1 damage to each attacking creature.</string>
 		<string>(7/7)</string>
 		<string>At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand.</string>
 		<string>Tenth Edition Rare, Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Scorned Villager</string>
+		<string>1G</string>
+		<string>Creature  - Human Werewolf</string>
+		<string>(1/1)</string>
+		<string>{T}: Add {G} to your mana pool.
+At the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Scornful Aether-Lich</string>
@@ -2054,6 +2088,14 @@ When Screeching Drake enters the battlefield, draw a card, then discard a card.<
 		<string>Flying
 Metalcraft - Whenever Screeching Silcaw deals combat damage to a player, if you control three or more artifacts, that player puts the top four cards of his or her library into his or her graveyard.</string>
 		<string>Scars of Mirrodin Common</string>
+	</array>
+	<array>
+		<string>Screeching Skaab</string>
+		<string>1U</string>
+		<string>Creature  - Zombie</string>
+		<string>(2/1)</string>
+		<string>When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Screeching Sliver</string>
@@ -2420,6 +2462,14 @@ When you control no Islands, sacrifice Sea Serpent.</string>
 		<string>Mirage Uncommon</string>
 	</array>
 	<array>
+		<string>Séance</string>
+		<string>2WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of each upkeep, you may exile target creature card from your graveyard. If you do, put a token onto the battlefield that's a copy of that card except it's a Spirit in addition to its other types. Exile it at the beginning of the next end step.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Search for Survivors</string>
 		<string>2R</string>
 		<string>Sorcery</string>
@@ -2647,6 +2697,14 @@ Draw a card.</string>
 		<string>(2/2)</string>
 		<string>As long as you have more cards in hand than each opponent, Secretkeeper gets +2/+2 and has flying.</string>
 		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Secrets of the Dead</string>
+		<string>2U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever you cast a spell from your graveyard, draw a card.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Security Detail</string>
@@ -3872,7 +3930,7 @@ When Shaleskin Plower is turned face up, destroy target land.</string>
 	<array>
 		<string>Shaman en-Kor</string>
 		<string>1W</string>
-		<string>Creature  - Kor Shaman Cleric</string>
+		<string>Creature  - Kor Cleric Shaman</string>
 		<string>(1/2)</string>
 		<string>{0}: The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead.
 {1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead.</string>
@@ -4129,6 +4187,15 @@ Whenever a land enters the battlefield under an opponent's control, you may gain
 		<string></string>
 		<string>Target opponent reveals his or her hand. You choose an artifact card from it. That player discards that card.</string>
 		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Shattered Perception</string>
+		<string>2R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Discard all the cards in your hand, then draw that many cards.
+Flashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Shattering Pulse</string>
@@ -4967,6 +5034,15 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
 		<string>New Phyrexia Common</string>
 	</array>
 	<array>
+		<string>Shriekgeist</string>
+		<string>1U</string>
+		<string>Creature  - Spirit</string>
+		<string>(1/1)</string>
+		<string>Flying
+Whenever Shriekgeist deals combat damage to a player, that player puts the top two cards of his or her library into his or her graveyard.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Shriekhorn</string>
 		<string>1</string>
 		<string>Artifact</string>
@@ -5247,7 +5323,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</string>
 		<string></string>
 		<string>As an additional cost to cast Sickening Dreams, discard X cards.
 Sickening Dreams deals X damage to each creature and each player.</string>
-		<string>Torment Uncommon</string>
+		<string>Premium Deck Series: Graveborn Uncommon, Torment Uncommon</string>
 	</array>
 	<array>
 		<string>Sickening Shoal</string>
@@ -5369,6 +5445,15 @@ If you've cast a spell named Peer Through Depths and a spell named Reach Through
 		<string>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
 {U}: Sighted-Caste Sorcerer gains shroud until end of turn. (It can't be the target of spells or abilities.)</string>
 		<string>Shards of Alara Common</string>
+	</array>
+	<array>
+		<string>Sightless Ghoul</string>
+		<string>3B</string>
+		<string>Creature  - Zombie Soldier</string>
+		<string>(2/2)</string>
+		<string>Sightless Ghoul can't block.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Sigil Blessing</string>
@@ -5687,6 +5772,14 @@ Threshold - Other creatures you control get +2/+2 as long as seven or more cards
 		<string>Innistrad Common</string>
 	</array>
 	<array>
+		<string>Silverclaw Griffin</string>
+		<string>3WW</string>
+		<string>Creature  - Griffin</string>
+		<string>(3/2)</string>
+		<string>Flying, first strike</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Silvercoat Lion</string>
 		<string>1W</string>
 		<string>Creature  - Cat</string>
@@ -5736,6 +5829,15 @@ When Silvergill Adept enters the battlefield, draw a card.</string>
 As long as equipped creature is a Human, it gets an additional +1/+0.
 Equip {2}</string>
 		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Silverpelt Werewolf</string>
+		<string>Green</string>
+		<string>Creature  - Werewolf</string>
+		<string>(4/5)</string>
+		<string>Whenever Silverpelt Werewolf deals combat damage to a player, draw a card.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Silverskin Armor</string>
@@ -6257,6 +6359,14 @@ As long as the top card of your library is an artifact or creature card, Skill B
 		<string>Shards of Alara Rare</string>
 	</array>
 	<array>
+		<string>Skillful Lunge</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +2/+0 and gains first strike until end of turn.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Skinrender</string>
 		<string>2BB</string>
 		<string>Creature  - Zombie</string>
@@ -6392,6 +6502,14 @@ When Skirk Volcanist is turned face up, it deals 3 damage divided as you choose 
 		<string>(2/2)</string>
 		<string>{R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.</string>
 		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Skirsdag Flayer</string>
+		<string>1B</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>{3}{B}, {T}, Sacrifice a Human: Destroy target creature.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Skirsdag High Priest</string>
@@ -7096,7 +7214,7 @@ Destroy target nonblack creature. It can't be regenerated.</string>
 	</array>
 	<array>
 		<string>Slaughter Pact</string>
-		<string>0</string>
+		<string>Black</string>
 		<string>Instant</string>
 		<string></string>
 		<string>Destroy target nonblack creature.
@@ -8226,6 +8344,14 @@ Flying</string>
 		<string>Mirrodin Common</string>
 	</array>
 	<array>
+		<string>Somberwald Dryad</string>
+		<string>1G</string>
+		<string>Creature  - Dryad</string>
+		<string>(2/2)</string>
+		<string>Forestwalk (This creature is unblockable as long as defending player controls a Forest.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Somberwald Spider</string>
 		<string>4G</string>
 		<string>Creature  - Spider</string>
@@ -8489,6 +8615,16 @@ Draw a card.</string>
 		<string>Magic 2012 Mythic Rare, Zendikar Mythic Rare</string>
 	</array>
 	<array>
+		<string>Sorin, Lord of Innistrad</string>
+		<string>2WB</string>
+		<string>Planeswalker  - Sorin</string>
+		<string>(3)</string>
+		<string>+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield.
+-2: You get an emblem with "Creatures you control get +1/+0."
+-6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.</string>
+		<string>Dark Ascension Mythic Rare</string>
+	</array>
+	<array>
 		<string>Sorin's Thirst</string>
 		<string>BB</string>
 		<string>Instant</string>
@@ -8729,6 +8865,15 @@ When Soul Scourge leaves the battlefield, that player gains 3 life.</string>
 		<string>(1/1)</string>
 		<string>{1}{W}, {T}: Target creature becomes an enchantment and loses all abilities until a player casts a creature spell.</string>
 		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Soul Seizer</string>
+		<string>3UU</string>
+		<string>Creature  - Spirit</string>
+		<string>(1/3)</string>
+		<string>Flying
+When Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Soul Shepherd</string>
@@ -9630,7 +9775,7 @@ When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it 
 		<string>Artifact Creature  - Sphinx</string>
 		<string>(6/6)</string>
 		<string>Flying, first strike, vigilance, lifelink, protection from red and from green</string>
-		<string>Alara Reborn Mythic Rare</string>
+		<string>Premium Deck Series: Graveborn Mythic Rare, Alara Reborn Mythic Rare</string>
 	</array>
 	<array>
 		<string>Sphinx of Uthuun</string>
@@ -10352,6 +10497,15 @@ Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sac
 		<string>(3/3)</string>
 		<string>At the beginning of your upkeep, Spiteful Bully deals 3 damage to target creature you control.</string>
 		<string>Nemesis Common</string>
+	</array>
+	<array>
+		<string>Spiteful Shadows</string>
+		<string>1B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Whenever enchanted creature is dealt damage, it deals that much damage to its controller.</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Spiteful Visions</string>
@@ -11104,6 +11258,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 	</array>
 	<array>
 		<string>Stalking Vampire</string>
+		<string>Black</string>
 		<string>Creature  - Vampire</string>
 		<string>(5/5)</string>
 		<string>At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.</string>
@@ -11664,7 +11819,7 @@ Creatures of the chosen type have shroud. (They can't be the targets of spells o
 		<string>2BB</string>
 		<string>Sorcery</string>
 		<string></string>
-		<string>Destroy all Plains. For each land put into a graveyard this way, Stench of Evil deals 1 damage to that land's controller unless he or she pays {2}.</string>
+		<string>Destroy all Plains. For each land destroyed this way, Stench of Evil deals 1 damage to that land's controller unless he or she pays {2}.</string>
 		<string>Ice Age Uncommon</string>
 	</array>
 	<array>
@@ -12275,7 +12430,7 @@ Storm Entity enters the battlefield with a +1/+1 counter on it for each other sp
 		<string>3G</string>
 		<string>Instant</string>
 		<string></string>
-		<string>Storm Seeker deals damage equal to the number of cards in target player's hand to that player.</string>
+		<string>Storm Seeker deals damage to target player equal to the number of cards in that player's hand.</string>
 		<string>Masters Edition Uncommon, Chronicles Uncommon, Legends Uncommon</string>
 	</array>
 	<array>
@@ -12319,6 +12474,16 @@ Storm Entity enters the battlefield with a +1/+1 counter on it for each other sp
 		<string>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
 Stormblood Berserker can't be blocked except by two or more creatures.</string>
 		<string>Magic 2012 Uncommon</string>
+	</array>
+	<array>
+		<string>Stormbound Geist</string>
+		<string>1UU</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/2)</string>
+		<string>Flying
+Stormbound Geist can block only creatures with flying.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Stormcaller's Boon</string>
@@ -12483,6 +12648,15 @@ Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card
 		<string>Your opponents can't search libraries.
 If an opponent would begin an extra turn, that player skips that turn instead.</string>
 		<string>Magic: The Gathering-Commander Rare</string>
+	</array>
+	<array>
+		<string>Strangleroot Geist</string>
+		<string>GG</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/1)</string>
+		<string>Haste
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Strangling Soot</string>
@@ -12762,6 +12936,15 @@ Equip {1}</string>
 		<string>(2/4)</string>
 		<string>Whenever Stromgald Spy attacks and isn't blocked, you may have defending player play with his or her hand revealed for as long as Stromgald Spy remains on the battlefield. If you do, Stromgald Spy assigns no combat damage this turn.</string>
 		<string>Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Stromkirk Captain</string>
+		<string>1BR</string>
+		<string>Creature  - Vampire Soldier</string>
+		<string>(2/2)</string>
+		<string>First strike
+Other Vampire creatures you control get +1/+1 and have first strike.</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Stromkirk Noble</string>
@@ -13056,11 +13239,19 @@ Target creature gets -4/-4 until end of turn.</string>
 		<string>Time Spiral Uncommon</string>
 	</array>
 	<array>
+		<string>Sudden Disappearance</string>
+		<string>5W</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Exile all nonland permanents target player controls. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Sudden Impact</string>
 		<string>3R</string>
 		<string>Instant</string>
 		<string></string>
-		<string>Sudden Impact deals damage equal to the number of cards in target player's hand to that player.</string>
+		<string>Sudden Impact deals damage to target player equal to the number of cards in that player's hand.</string>
 		<string>Premium Deck Series: Fire and Lightning Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Tempest Uncommon</string>
 	</array>
 	<array>
@@ -13246,7 +13437,7 @@ When Summoner's Egg dies, turn the exiled card face up. If it's a creature card,
 	</array>
 	<array>
 		<string>Summoner's Pact</string>
-		<string>0</string>
+		<string>Green</string>
 		<string>Instant</string>
 		<string></string>
 		<string>Search your library for a green creature card, reveal it, and put it into your hand. Then shuffle your library.
@@ -14022,7 +14213,7 @@ Sutured Ghoul's power is equal to the total power of the exiled cards and its to
 		<string>Basic Land  - Swamp</string>
 		<string></string>
 		<string>B</string>
-		<string>Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
+		<string>Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
 	</array>
 	<array>
 		<string>Swamp Mosquito</string>
@@ -14234,7 +14425,7 @@ Equip {2}</string>
 		<string>Artifact</string>
 		<string></string>
 		<string>Sword of the Ages enters the battlefield tapped.
-{T}, Exile Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures exiled this way.</string>
+{T}, Sacrifice Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures sacrificed this way, then exile Sword of the Ages and those creature cards.</string>
 		<string>Masters Edition III Rare, Legends Rare</string>
 	</array>
 	<array>

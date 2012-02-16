@@ -311,6 +311,14 @@ When Yosei, the Morning Star dies, target player skips his or her next untap ste
 		<string>Masters Edition III Common, Portal Three Kingdoms Common</string>
 	</array>
 	<array>
+		<string>Young Wolf</string>
+		<string>G</string>
+		<string>Creature  - Wolf</string>
+		<string>(1/1)</string>
+		<string>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Youthful Knight</string>
 		<string>1W</string>
 		<string>Creature  - Human Knight</string>

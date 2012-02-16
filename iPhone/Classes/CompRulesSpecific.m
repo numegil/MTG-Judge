@@ -47,12 +47,16 @@
 		if(!found && textRange.location <= 1)
 		{
 			found = true;
+            NSLog(@"Found - %@", [CompRulesArray objectAtIndex:i]);
 		}
 		
-		else if(found && textRange.location == NSNotFound)
+		else if(found && textRange.location == NSNotFound && [[CompRulesArray objectAtIndex:i] length] > 1)
+        {
+            NSLog(@"Not found - %@", [CompRulesArray objectAtIndex:i]);
 			break;
-		
-		if(found) output = [output stringByAppendingString:[[CompRulesArray objectAtIndex:i] stringByAppendingString:@"<br><br>"]];
+		}
+        
+		if(found) output = [output stringByAppendingString:[[CompRulesArray objectAtIndex:i] stringByAppendingString:@"<br>"]];
 
 	}
 	

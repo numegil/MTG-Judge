@@ -59,11 +59,11 @@ Enchanted creature gets +3/+3.</string>
 		<string>Exodus Rare</string>
 	</array>
 	<array>
-		<string>Oath of Lim-Dûl</string>
+		<string>Oath of Lim-Dul</string>
 		<string>3B</string>
 		<string>Enchantment</string>
 		<string></string>
-		<string>Whenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dûl unless you discard a card. (Damage dealt to you causes you to lose life.)
+		<string>Whenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dul unless you discard a card. (Damage dealt to you causes you to lose life.)
 {B}{B}: Draw a card.</string>
 		<string>Ice Age Rare</string>
 	</array>
@@ -1227,7 +1227,8 @@ Orcish Conscripts can't block unless at least two other creatures block.</string
 		<string></string>
 		<string>Enchant land
 Orcish Mine enters the battlefield with three ore counters on it.
-At the beginning of your upkeep and whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine. If there are no ore counters on Orcish Mine, destroy that land and Orcish Mine deals 2 damage to its controller.</string>
+At the beginning of your upkeep and whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine.
+When the last ore counter is removed from Orcish Mine, destroy enchanted land and Orcish Mine deals 2 damage to its controller.</string>
 		<string>Homelands Uncommon</string>
 	</array>
 	<array>

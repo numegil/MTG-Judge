@@ -44,6 +44,9 @@
     NSString *documentsDirectory = [paths objectAtIndex:0];
     
     NSString *BannedPath = [documentsDirectory stringByAppendingString:@"/Banned.txt"];
+    
+    NSLog(BannedPath);
+    
     NSString *tempBanned = [NSString stringWithContentsOfFile:BannedPath];
     
     NSArray *bannedArray = [tempBanned componentsSeparatedByString:@"\n"];

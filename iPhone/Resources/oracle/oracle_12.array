@@ -1381,12 +1381,38 @@ At the beginning of the end step, if you control no Demons, sacrifice Mark of th
 		<string>Urza's Destiny Common</string>
 	</array>
 	<array>
+		<string>Markov Blademaster</string>
+		<string>1RR</string>
+		<string>Creature  - Vampire Warrior</string>
+		<string>(1/1)</string>
+		<string>Double strike
+Whenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Markov Patrician</string>
 		<string>2B</string>
 		<string>Creature  - Vampire</string>
 		<string>(3/1)</string>
 		<string>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Markov Warlord</string>
+		<string>5R</string>
+		<string>Creature  - Vampire Warrior</string>
+		<string>(4/4)</string>
+		<string>Haste
+When Markov Warlord enters the battlefield, up to two target creatures can't block this turn.</string>
+		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
+		<string>Markov's Servant</string>
+		<string>Black</string>
+		<string>Creature  - Vampire</string>
+		<string>(4/4)</string>
+		<string></string>
+		<string>Dark Ascension Common</string>
 	</array>
 	<array>
 		<string>Maro</string>
@@ -1503,7 +1529,7 @@ Sacrifice a Goblin: Marsh Flitter becomes 3/3 until end of turn.</string>
 		<string>3G</string>
 		<string>Creature  - Snake</string>
 		<string>(1/2)</string>
-		<string>Whenever Marsh Viper deals damage to an opponent, that player gets two poison counters. (A player with ten or more poison counters loses the game.)</string>
+		<string>Whenever Marsh Viper deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)</string>
 		<string>Fifth Edition Common, Fourth Edition Common, The Dark Common</string>
 	</array>
 	<array>
@@ -1885,7 +1911,8 @@ Golem creatures you control get +1/+1.</string>
 		<string>Instant</string>
 		<string></string>
 		<string>Cast Master Warcraft only before attackers are declared.
-You choose which creatures attack this turn. You choose how each creature blocks this turn.</string>
+You choose which creatures attack this turn.
+You choose which creatures block this turn and how those creatures block.</string>
 		<string>Magic: The Gathering-Commander Rare, Ravnica: City of Guilds Rare</string>
 	</array>
 	<array>
@@ -2174,8 +2201,8 @@ At the beginning of your upkeep, sacrifice Melancholy unless you pay {B}.</strin
 		<string>Instant</string>
 		<string></string>
 		<string>Cast Melee only during your turn and only during combat before blockers are declared.
-Instead of defending player, you choose how each creature blocks this turn.
-Whenever a creature attacks and isn't blocked this turn, untap it and remove it from combat.</string>
+You choose which creatures block this combat and how those creatures block.
+Whenever a creature attacks and isn't blocked this combat, untap it and remove it from combat.</string>
 		<string>Ice Age Uncommon</string>
 	</array>
 	<array>
@@ -2492,6 +2519,7 @@ When you control no Islands, sacrifice Merchant Ship.</string>
 	</array>
 	<array>
 		<string>Merciless Predator</string>
+		<string>Red</string>
 		<string>Creature  - Werewolf</string>
 		<string>(3/2)</string>
 		<string>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.</string>
@@ -2716,7 +2744,7 @@ Whenever you cast a Merfolk spell, you may tap or untap target permanent.</strin
 		<string></string>
 		<string>Enchant creature 
 Merseine enters the battlefield with three net counters on it. 
-Enchanted creature doesn't untap during its controller's untap step as long as Merseine has a net counter on it.
+Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.
 Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.</string>
 		<string>Fallen Empires Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
 	</array>
@@ -2971,6 +2999,14 @@ Enchanted creature has "{B}: This creature gets +1/+1 until end of turn."</strin
 		<string>Champions of Kamigawa Common</string>
 	</array>
 	<array>
+		<string>Midnight Guard</string>
+		<string>2W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/3)</string>
+		<string>Whenever another creature enters the battlefield, untap Midnight Guard.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
 		<string>Midnight Haunting</string>
 		<string>2W</string>
 		<string>Instant</string>
@@ -3092,6 +3128,16 @@ Enchanted creature has "{B}: This creature gets +1/+1 until end of turn."</strin
 {T}: Put a +1/+1 counter on Mikaeus.
 {T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.</string>
 		<string>Innistrad Mythic Rare, From the Vault: Legends Mythic Rare</string>
+	</array>
+	<array>
+		<string>Mikaeus, the Unhallowed</string>
+		<string>3BBB</string>
+		<string>Legendary Creature  - Zombie Cleric</string>
+		<string>(5/5)</string>
+		<string>Intimidate
+Whenever a Human deals damage to you, destroy it.
+Other non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Dark Ascension Mythic Rare</string>
 	</array>
 	<array>
 		<string>Mikokoro, Center of the Sea</string>
@@ -3652,9 +3698,9 @@ At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless 
 		<string>3BBB</string>
 		<string>Creature  - Minion</string>
 		<string>(*/*)</string>
-		<string>As an additional cost to cast Minion of the Wastes, pay any amount of life.
-Trample
-Minion of the Wastes's power and toughness are each equal to the life paid as it was cast.</string>
+		<string>Trample
+As Minion of the Wastes enters the battlefield, pay any amount of life.
+Minion of the Wastes's power and toughness are each equal to the life paid as it entered the battlefield.</string>
 		<string>Tempest Rare</string>
 	</array>
 	<array>
@@ -4525,7 +4571,7 @@ Put two 1/1 red Goblin creature tokens onto the battlefield.</string>
 		<string>3R</string>
 		<string>Creature  - Goblin</string>
 		<string>(3/4)</string>
-		<string>When another creature enters the battlefield, sacrifice Mogg Bombers. If you do, it deals 3 damage to target player.</string>
+		<string>When another creature enters the battlefield, sacrifice Mogg Bombers and it deals 3 damage to target player.</string>
 		<string>Stronghold Common</string>
 	</array>
 	<array>
@@ -4926,6 +4972,14 @@ Whenever you cast a blue creature spell, reveal the top card of your library. If
 		<string>Dissension Rare</string>
 	</array>
 	<array>
+		<string>Mondronen Shaman</string>
+		<string>3R</string>
+		<string>Creature  - Human Werewolf Shaman</string>
+		<string>(3/2)</string>
+		<string>At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.</string>
+		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
 		<string>Mongrel Pack</string>
 		<string>3G</string>
 		<string>Creature  - Hound</string>
@@ -5158,6 +5212,25 @@ Moonring Island enters the battlefield tapped.
 		<string>Whenever you draw a card, exile the top card of your library face down.
 At the beginning of your upkeep, you may exile all cards from your hand face down. If you do, put all other cards you own exiled with Moonring Mirror into your hand.</string>
 		<string>Champions of Kamigawa Rare</string>
+	</array>
+	<array>
+		<string>Moonscarred Werewolf</string>
+		<string>Green</string>
+		<string>Creature  - Werewolf</string>
+		<string>(2/2)</string>
+		<string>Vigilance
+{T}: Add {G}{G} to your mana pool.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.</string>
+		<string>Dark Ascension Common</string>
+	</array>
+	<array>
+		<string>Moonveil Dragon</string>
+		<string>3RRR</string>
+		<string>Creature  - Dragon</string>
+		<string>(5/5)</string>
+		<string>Flying
+{R}: Each creature you control gets +1/+0 until end of turn.</string>
+		<string>Dark Ascension Mythic Rare</string>
 	</array>
 	<array>
 		<string>Moonwing Moth</string>
@@ -5731,7 +5804,7 @@ Evoke {3}{B} (You may cast this spell for its evoke cost. If you do, it's sacrif
 		<string>15</string>
 		<string>Artifact</string>
 		<string></string>
-		<string>{T}: Add {?} to your mana pool.
+		<string>{T}: Add {∞} to your mana pool.
 {100}: Add one mana of any color to your mana pool.
 You don't lose life due to mana burn.</string>
 		<string>Unhinged Rare</string>
@@ -6530,6 +6603,15 @@ Enchant creature
 When Mystic Restraints enters the battlefield, tap enchanted creature.
 Enchanted creature doesn't untap during its controller's untap step.</string>
 		<string>Champions of Kamigawa Common</string>
+	</array>
+	<array>
+		<string>Mystic Retrieval</string>
+		<string>3U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return target instant or sorcery card from your graveyard to your hand.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</string>
+		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
 		<string>Mystic Snake</string>

@@ -88,7 +88,7 @@
 	
 	NSStringEncoding encoding = 1;
 	
-    self.baseURL = [NSString stringWithString:@"http://files.mtgarchive.com/mtgjudge/"];
+    self.baseURL = [NSString stringWithString:@"http://s3.amazonaws.com/MTGJudge/"];
     
 	// Prepare local version control array
     NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
