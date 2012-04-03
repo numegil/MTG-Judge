@@ -22,10 +22,11 @@ Introduction
 2.6 Time Extensions
 2.7 Deck Registration
 2.8 Deck Checks
-2.9 Taking Notes
+2.9 Appeals to the Head Judge
 2.10 Dropping from a Tournament
-2.11 Electronic Devices
-2.12 Appeals to the Head Judge
+2.11 Taking Notes
+2.12 Electronic Devices
+2.13 Life Totals
 
 3. Tournament Rules
 3.1 Tiebreakers

@@ -195,6 +195,8 @@ For the first game of a match, the winner of a random method (such as a die roll
 
 After each game in a match, the loser of that game decides whether to play first in the next game. They may wait until after sideboarding to make the decision. If the previous game was a draw, the player who decided to play or draw at the beginning of the drawn game chooses.
 
+In certain Premier tournament playoff matches (Magic: The Gathering Players Championship, World Magic Cup, World Magic Cup Qualifiers, Pro Tour, Pro Tour Qualifier, and Grand Prix), a different play/draw rule is used. In these playoff matches, the player that was ranked higher in the Swiss rounds chooses either to play first or to play second in the first game of each match. For the second and subsequent games, the loser of the previous game decides whether to play first in the next game. This alternate play/draw rule may be used in other tournament playoff matches. If used, this must be announced prior to the start of the tournament.
+
 2.3 Pregame Procedures
 The following steps must be performed before each game begins:
 
@@ -251,14 +253,8 @@ Decklists are not public information and are not shared with other players durin
 2.8 Deck Checks
 Deck checks must be performed at all Competitive and Professional REL tournaments, and the Head Judge has the option to perform deck checks at Regular REL tournaments. The DCI recommends that at least ten percent of all decks be checked over the course of the tournament. If a player has drawn an opening hand and potentially made mulligan decisions, the contents of the hand will be preserved unless a game loss is issued as a result of the deck check. Players may not sideboard after a deck check, though they may continue to mulligan if they had not finished the process.
 
-2.9 Taking Notes
-Players are allowed to take written notes during a match and may refer to those notes while that match is in progress. At the beginning of a match, each player's note sheet must be empty and must remain visible throughout the match. Players do not have to explain or reveal notes to other players. Judges may ask to see a player's notes and/or request that the player explain his or her notes. Players may not refer to outside notes during games. This includes notes from previous matches.
-
-Between games, players may refer to a brief set of notes made before the match. They are not required to reveal these notes to their opponents. These notes must be removed from the play area before the beginning of the next game. Excessive quantities of notes (more than a sheet or two) are not allowed and may be penalized as slow play.
-
-Players and spectators (exception: authorized press) may not make notes while drafting or registering a card pool. However, they are allowed to do so when constructing a deck.
-
-Artistic modifications to cards that indirectly provide minor strategic information are acceptable. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament.
+2.9 Appeals to the Head Judge
+If a player disagrees with a judge’s ruling, he or she may appeal the ruling to the Head Judge. Players may not appeal before the full ruling is made by the responding floor judge. Under unusual circumstances the Head Judge may appoint another judge as his or her proxy to issue a second ruling. Players still retain the right to appeal to the Head Judge.
 
 2.10 Dropping from a Tournament
 Players choosing to drop from a tournament must inform the Scorekeeper by the means provided for that tournament before the pairings for the next round are generated. Players wanting to drop after the Scorekeeper begins pairing for the next round will be paired for that round. If a player does not show up for his or her match, he or she will be automatically dropped from the tournament unless they report to the Scorekeeper. Players that repeatedly drop from tournaments without informing the scorekeepers of those events may be the subject of DCI penalties up to and including suspension.
@@ -271,15 +267,38 @@ Players may not drop from a tournament in exchange for or influenced by the offe
 
 At Limited tournaments, players that drop during the time between a draft or deck construction and the beginning of the next round receive a match loss for that round unless the player receives a bye for that round.
 
-2.11 Electronic Devices
-Electronic devices may not be used to communicate or access remote information during a match, draft, or deck construction.
+2.11 Taking Notes
+Players are allowed to take written notes during a match and may refer to those notes while that match is in progress. At the beginning of a match, each player’s note sheet must be empty and must remain visible throughout the match. Players do not have to explain or reveal notes to other players. Judges may ask to see a player’s notes and/or request that the player explain his or her notes.
 
-During a game, any content accessed by an electronic device must be made available to all players. If a player wishes to view information on an electronic device in private, they must get permission from a judge.
+Players may not refer to other notes, including notes from previous matches, during games.
 
-The Head Judge may choose to restrict or forbid the use of electronic devices during a tournament.
+Between games, players may refer to a brief set of notes made before the match. They are not required to reveal these notes to their opponents. These notes must be removed from the play area before the beginning of the next game. Excessive quantities of notes (more than a sheet or two) are not allowed and may be penalized as slow play.
 
-2.12 Appeals to the Head Judge
-If a player disagrees with a judge's ruling, he or she may appeal the ruling to the Head Judge. Players may not appeal before the full ruling is made by the responding floor judge. Under unusual circumstances the Head Judge may appoint another judge as his or her proxy to issue a second ruling. Players still retain the right to appeal to the Head Judge.
+Players and spectators (exception: authorized press) may not make notes while drafting. Players may not reference any outside notes during drafting, card pool registration, or deckbuilding.
+
+Players may refer to Oracle text, either electronically or in paper form, at any time. They must do so publicly and in a format (such as gatherer.wizards.com, other official Wizards of the Coast sources, or printouts of their sources) which contains no other strategic information. If a player wishes to view Oracle text in private, he or she must ask a judge.
+
+Artistic modifications to cards that indirectly provide minor strategic information are acceptable. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament.
+
+2.12 Electronic Devices
+Players may use electronic devices to do the following:
+- Keep track of life totals or other game-relevant information.
+- Take and review notes (as outlined in section 2.11).
+- Generate a random number when the game calls for one.
+- Briefly answer personal calls not related to the game (with permission of the opponent).
+
+Players may not use electronic devices to access outside strategic sources (websites, forums, etc) or communicate with others in order to receive outside assistance. Players that spend excessive time on any of the above uses of electronic devices may be subject to Slow Play penalties.
+
+Players wishing to view information privately on electronic devices during matches must request permission from a judge.
+
+The Head Judge of an event may further restrict or forbid the use of electronic devices during matches.
+
+2.13 Life Totals
+At the start of a match, each player must indicate how he or she will keep track of his or her life total. This method must be visible to both players during the match. A shared method is acceptable as long as all players in the match have access to it.
+
+A change in a player’s life total should be accompanied by a verbal announcement by that player of the new life total.
+
+If a player notices a discrepancy in a recorded or announced life total, he or she is expected to point it out as soon as the discrepancy is noticed. Failure to do so will be considered a Cheating – Fraud penalty.
 
 3. Tournament Rules
 
@@ -360,7 +379,7 @@ Players may use cards from the Alpha printing only if the deck is in opaque slee
 
 Players may use otherwise-legal non-English and/or misprinted cards provided they are not using them to create an advantage by using misleading text or pictures. Official promotional textless spells are allowed in sanctioned Magic tournaments in which they would otherwise be legal.
 
-Artistic modifications are acceptable in sanctioned tournaments, provided that the modifications do not make the card unrecognizable, contain substantial strategic advice, or contain offensive images. Artistic modifications also may not obstruct or change the mana cost or name of the card.
+Artistic modifications are acceptable in sanctioned tournaments, provided that the modifications do not make the card art unrecognizable, contain substantial strategic advice, or contain offensive images. Artistic modifications also may not obstruct or change the mana cost or name of the card.
 
 The Head Judge is the final authority on acceptable cards for a tournament.
 
@@ -392,10 +411,10 @@ Certain cards refer to "a (card or cards) you own from outside the game." In tou
 
 3.7 New Releases
 Card sets scheduled for release during 2012 become tournament legal for sanctioned tournaments on the following dates:
-
-	Dark Ascension February 3, 2012
 	
-	Avacyn Restored May 4, 2012
+	Avacyn Restored - May 4, 2012
+	
+	Magic 2013 - July 12, 2012
 
 For certain Limited tournaments, such as official Prerelease tournaments (including their public events), new sets are legal for use before the official format legal date. In these cases, any rules updates listed in the fact sheets for these tournaments shall be in effect at these tournaments.
 
@@ -471,8 +490,10 @@ Free information is information to which all players are entitled access without
 	Details of current game actions and past game actions that still affect the game state.
 
 	The name of any object in a public zone.
+	
+	The type of any counter in a public zone.
 
-	The physical status (tapped/flipped) and current zone of any object.
+	The physical status (tapped/flipped/unattached) and current zone of any object.
 
 	Player life totals, poison counter totals, and the game score of the current match.
 
@@ -627,9 +648,11 @@ The following card sets are permitted in Standard tournaments:
 
 	Innistrad
 	
-	Dark Ascension (effective February 3, 2012)
+	Dark Ascension
     
     Avacyn Restored (effective May 4, 2012)
+
+	Magic 2013 (effective July 13, 2012)
 
 There are currently no banned cards in Standard tournaments.
 
@@ -662,9 +685,11 @@ The following card sets are permitted in Extended tournaments:
 
 	Innistrad
 	
-	Dark Ascension (effective February 3, 2012)
+	Dark Ascension
     
     Avacyn Restored (effective May 4, 2012)
+
+	Magic 2013 (effective July 13, 2012)
 
 The following cards are banned in Extended tournaments:
 	
@@ -935,7 +960,7 @@ Block Constructed decks consist of cards taken from a restricted set of expansio
 
 The DCI sanctions the following Block Constructed formats:
 
-	Innistrad Block (Innistrad, Dark Ascension [effective February 3, 2011], Avacyn Restored [effective May 4, 2012])
+	Innistrad-Avacyn Restored Block (Innistrad, Dark Ascension, Avacyn Restored [effective May 4, 2012])
 	
 	Scars of Mirrodin Block (Scars of Mirrodin, Mirrodin Besieged, New Phyrexia)
 
@@ -970,6 +995,10 @@ The DCI sanctions the following Block Constructed formats:
 	Ice Age block (Ice Age, Alliances, Coldsnap)
 
 The following cards are banned in Block Constructed tournaments:
+
+	Intangible Virtue (Innistrad-Avacyn Restored block)
+	
+	Lingering Souls (Innistrad-Avacyn Restored block)
 
 	Ather Vial (Mirrodin block)
 
@@ -1088,10 +1117,11 @@ The following card sets are permitted in Modern tournaments:
 
 	Innistrad
 
-	Dark Ascension (effective February 3,
-	2012)
+	Dark Ascension
     
     Avacyn Restored (effective May 4, 2012)
+
+	Magic 2013 (effective July 13, 2012)
 	
 The following cards are banned in Modern tournaments:
 	
@@ -1129,7 +1159,7 @@ The following cards are banned in Modern tournaments:
 
 	Preordain
     
-    Punishing Fire (effective January 1, 2012)
+    Punishing Fire
 
 	Rite of Flame
 
@@ -1151,7 +1181,7 @@ The following cards are banned in Modern tournaments:
 
 	Vault of Whispers
     
-    Wild Nactl (effective January 1, 2012)
+    Wild Nactl
 	
 7. Limited Tournament Rules
 
@@ -1221,7 +1251,7 @@ Teams must designate player positions during tournament registration. For exampl
 When two teams are paired against each other during the course of a tournament, the team members designated as player A play against each other, the team members designated as player B play against each other, and so on.
 
 8.3 Team Ratings
-Tournament results for all Team Constructed tournaments (Vintage, Legacy, Extended, Block Constructed, and Standard) are merged into one set of Constructed ratings for each team size. Team Constructed tournaments may also be run in which the team members play decks of different formats (for example, Standard, Extended, and Legacy). If a tournament is run where all team members do not play the same format, each team member must play a different format.
+Tournament results for all Team Constructed tournaments (Vintage, Legacy, Extended, Modern, Block Constructed, and Standard) are merged into one set of Constructed ratings for each team size. Team Constructed tournaments may also be run in which the team members play decks of different formats (for example, Standard, Extended, and Legacy). If a tournament is run where all team members do not play the same format, each team member must play a different format.
 
 Tournament results for each DCI-sanctioned team Limited tournament (Sealed Deck and Rochester Draft) are merged into one set of Limited ratings for each team size.
 
@@ -1296,7 +1326,7 @@ Once players have completed their mulligans, the game can begin.
 9.5 Two-Headed Giant Constructed Rules
 Two-Headed Giant Constructed tournaments use Unified Deck Construction rules (see section 8.5).
 
-In addition to cards banned in particular formats, the following card is banned in ALL Two-Headed Giant Constructed tournaments (Vintage, Legacy, Extended, and Block Constructed):
+In addition to cards banned in particular formats, the following card is banned in ALL Two-Headed Giant Constructed tournaments (Vintage, Legacy, Extended, Modern, and Block Constructed):
 
 	Erayo, Soratami Ascendant
 
@@ -1356,45 +1386,29 @@ The latest versions are available at http://www.wizards.com/wpn/Events/Rules.asp
 
 Only changes from the current version and the previous version of this document will be displayed in this appendix.
 
-January 24, 2012
+March 20, 2012
 
-Section 1.4: Premier Events list modified.
+Section 2.2: Premier tournament playoff play/draw rule added. Section 2.9: Appeals to Head Judge moved to this section.
 
-Section 1.10: Appeals document name and location corrected.
-
-Section 10.3: Premier Event Invitation Policy title corrected.
-
-Section 10.4: Premier Events list modified.
-
-December 20, 2011
-
-Section 1.4: Rules on eligibility changed for some players.
-
-Section 2.10: Language about repeated dropping added.
-
-Section 2.11: Electronic devices rule updated.
-
-Section 3.2: ELO categories removed.
-
-Section 3.3: Language updated.
-
-Section 3.4: Language updated..
+Section 2.11: Taking notes moved to this section and updated. Section 2.12: Electronic Devices moved to this section and updated. Section 2.13: Life Totals section added.
 
 Section 3.7: New releases updated.
+
+Section 4.1: Free Information list updated.
 
 Section 6.3: Standard format updated.
 
 Section 6.4: Extended format updated.
 
-Section 6.5: Vintage format updated.
+Section 6.7: Block Constructed format updated. Banned cards added. Section 6.8: Modern format updated.
 
-Section 6.6: Legacy format updated.
+Appendix E: Avacyn Restored Limited product mix added.
 
-Section 6.7: Block Constructed format updated.
+January 24, 2012
 
-Section 6.8: Modern format updated. Banned cards added.
+Section 1.4: Premier Events list modified.
 
-Section 10.4: Top 8 pairing information added.
+Section 1.10: Appeals document name and location corrected. Section 10.3: Premier Event Invitation Policy title corrected. Section 10.4: Premier Events list modified.
 
 
 Appendix B-Time Limits
@@ -1584,6 +1598,22 @@ Thus, that player earns 3 match points and 6 game points. A player's byes are ig
 
 Appendix E-Recommended Booster Mix for Limited Tournaments
 
+For the Avacyn Restored block, the recommended booster mix for Limited tournaments is (effective May 4, 2012):
+	Individual Sealed Deck – 6 Avacyn Restored
+	Individual Booster Draft or Team Rochester Draft – 3 Avacyn Restored (per player)
+	Three-Person Team Sealed – 12 Avacyn Restored (per team)
+	Two-Headed Giant Sealed Deck – 8 Avacyn Restored (per team)
+	Two-Headed Giant Booster Draft – 6 Avacyn Restored (per team)
+
+For the Innistrad block, the recommended booster mix for Limited tournaments is:
+	Individual Sealed Deck – 3 Innistrad, 3 Dark Ascension
+	Individual Booster Draft or Team Rochester Draft – 1 Dark Ascension, 2 Innistrad (per player) –
+	Boosters are drafted in that order.
+	Three-Person Team Sealed – 6 Innistrad, 6 Dark Ascension (per team)
+	Two-Headed Giant Sealed Deck – 4 Innistrad, 4 Dark Ascension (per team)
+	Two-Headed Giant Booster Draft – 3 Dark Ascension, 3 Innistrad (per team) – Boosters are drafted in
+	that order.
+	
 For Magic 2012, the recommended booster mix for Limited tournaments is (effective July 15, 2011):
 	Individual Sealed Deck - 6 Magic 2012
 	Individual Booster Draft or Team Rochester Draft - 3 Magic 2012 (per player)
@@ -1597,13 +1627,6 @@ For Scars of Mirrodin block, the recommended booster mix for Limited tournaments
 	Three-Person Team Sealed - 4 Scars of Mirrodin, 4 Mirrodin Besieged, 4 New Phyrexia (per team)
 	Two-Headed Giant Sealed Deck - 3 Scars of Mirrodin, 3 Mirrodin Besieged, 2 New Phyrexia (per team)
 	Two-Headed Giant Booster Draft - 2 New Phyrexia, 2 Mirrodin Besieged, 2 Scars of Mirrodin, (per team) - Boosters are drafted in that order.
-
-For Magic 2011, the recommended booster mix for Limited tournaments is:
-	Individual Sealed Deck - 6 Magic 2011
-	Individual Booster Draft or Team Rochester Draft - 3 Magic 2011 (per player)
-	Three-Person Team Sealed - 12 Magic 2011 (per team)
-	Two-Headed Giant Sealed Deck - 8 Magic 2011 (per team)
-	Two-Headed Giant Booster Draft - 6 Magic 2011 (per team)
 
 Appendix F-Recommended Number of Rounds in Swiss Tournaments
 
