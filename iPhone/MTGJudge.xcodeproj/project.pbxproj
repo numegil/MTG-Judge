@@ -629,9 +629,9 @@
 					armv7,
 					armv6,
 				);
-				CODE_SIGN_ENTITLEMENTS = "~/iPhone Apps/Judge/MTGJudge/Entitlements.plist";
+				CODE_SIGN_ENTITLEMENTS = Resources/Entitlements.plist;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Alexei Gousev (557BVTLW6Y)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -642,7 +642,7 @@
 				INFOPLIST_FILE = "MTGJudge-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
 				PRODUCT_NAME = MTGJudge;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "673AB015-21B1-4CAD-A078-834B28D5A9DF";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -655,7 +655,7 @@
 					armv7,
 					armv6,
 				);
-				CODE_SIGN_ENTITLEMENTS = "~/iPhone Apps/Judge/MTGJudge/Entitlements.plist";
+				CODE_SIGN_ENTITLEMENTS = Resources/Entitlements.plist;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
@@ -698,7 +698,7 @@
 					armv7,
 					armv6,
 				);
-				CODE_SIGN_ENTITLEMENTS = "~/iPhone Apps/Judge/MTGJudge/Entitlements.plist";
+				CODE_SIGN_ENTITLEMENTS = Resources/Entitlements.plist;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;

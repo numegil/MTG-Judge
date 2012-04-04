@@ -91,22 +91,27 @@ Game Play Errors are caused by incorrect or inaccurate play of the game such tha
 
 Most Game Play Error infractions are assumed to have been committed unintentionally. If the judge believes that the error was intentional, he or she should first examine the Cheating infractions to see if one should be used instead. 
 
-Both players are expected to maintain the game rules and to share some responsibility for any errors that may occur involving public information. As a result, no attempt should be made to determine or correct any advantage gained in assessing the penalty and associated procedures for fixing the offense. Additionally, for any Game Play Error not caught within a time that a player could reasonably be expected to notice, teammates and opponents who might potentially have benefited from the error receive a Game Play Error - Failure to Maintain Game State penalty. In multiplayer games, all participants in the match other than the offending player should receive this penalty if they meet the criteria.
+Both players are expected to maintain the game rules and to share some responsibility for any errors that may occur involving public information. As a result, no attempt should be made to determine or correct any advantage gained in assessing the penalty and associated procedures for fixing the offense. Additionally, for most Game Play Errors not caught within a time that a player could reasonably be expected to notice, teammates and opponents receive a Game Play Error — Failure to Maintain Game State penalty. In multiplayer games, all participants in the match other than the offending player should receive this penalty if they meet the criteria.
 
-A third or subsequent Warning for a Game Play Error offense in the same category should be upgraded to a Game Loss.
+A third or subsequent Warning for a Game Play Error offense in the same category should be upgraded to a Game Loss.  For multi-day events, the penalty count resets between days.
 
 An error that an opponent can't realize has been committed should have its penalty upgraded. Such unnoticeable errors are rare and involve misplaying hidden information (such as the morph ability). An unpreventable or irreversible error is not sufficient grounds for such an upgrade.
 
-If the players are playing in a way that is clear to both players, but might cause confusion to an external observer, judges are encouraged to request that the players make the situation clear, but not issue any penalty.
+If the players are playing in a way that is clear to both players, but might cause confusion to an external observer, judges are encouraged to request that the players make t	he situation clear, but not issue any penalty.
+
+Some infractions refer to a turn cycle within their Additional Remedy. A turn cycle is defined as the time from the beginning of a player’s step or phase to the end of that player’s next same step or phase. If a turn cycle would end in a skipped step or phase (but not turn), the turn cycle expires when the step or phase is skipped.
+
 3.1. 	Game Play Error - Missed Trigger
 Definition
-A game event triggers, but the player controlling the trigger is unaware of its existence and/or forgets to perform the actions specified by the trigger.
+A triggered ability triggers, but the player controlling the ability is unaware of its existence and/or forgets to carry out its effects. The turn-based action of drawing a card during the draw step is also covered under this infraction. If atriggered ability has been partially or incorrectly resolved, instead treat it as a Game Play Error — Game Rule Violation.
 
-For the purposes of this infraction, the card drawn during the Draw Step in a game is considered to be a non-optional trigger.
+A trigger is considered missed once the controller of the trigger has taken an action after the point at which a trigger should have resolved or, in the case of a trigger controlled by the non-active player, after a brief period of time to allow that player to realize that the active player has advanced past the trigger. Players may not cause triggered abilities to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing the controller of a triggered ability that would trigger during that turn’s upkeep to resolve it, place that trigger on the stack at this point and issue no penalty.
 
-If the trigger instruction is optional (it includes ìmayî or ìup to X,î where 0 is a valid choice) and specifies no consequence for not doing it, assume that the player has chosen to not perform the instruction and issue no penalty.
+If the trigger instruction is optional (it includes "may" or "up to X," where 0 is a valid choice) and specifies no consequence for not doing it, assume that the player has chosen to not perform the instruction and issue no penalty.
 
-If the trigger requires no choices to be made and has no effect on the visual representation of the game, assume the ability resolved at the appropriate time and issue no penalty. The visual representation consists of elements the players are able to see happening or on the battlefield, such as zone changes and adding counters to permanents, as well as life totals.
+If the trigger requires no choices to be made and has no effect on the visual representation of the game, assume the ability resolved at the appropriate time and issue no penalty. The visual representation consists of elements the players are able to see happening, such as zone changes and adding counters to permanents, as well as life totals.
+
+If the trigger was missed more than a turn cycle ago, instruct the players to continue playing and issue no penalty.
 
 Examples
 A player controls Braids, Cabal Minion on the battlefield. After he has declared attackers, he realizes that he has failed to sacrifice a permanent at the beginning of his upkeep.
@@ -117,18 +122,56 @@ A player forgets to pay cumulative upkeep cost for a creature.
 
 A player controls Dark Confidant, forgets its triggered ability, and draws a card in his draw step.
 
+A player controls Soul Warden and forgets to gain 1 life when a creature enters the battlefield under his 
+opponent’s control.
+
 Philosophy
-Triggers are actions that the game asks players to take as a result an event occurring. Because the representation of these triggers is invisible, players will miss them on occasion.
+Triggered abilities are common and invisible, so players should not be harshly penalized when forgetting about one. Players are expected to remember their own triggers; intentionally ignoring one is considered Cheating — Fraud. However, remembering triggers that benefit you is a skill. Therefore, players are not required to point out missed triggers that they do not control, though they may do so if they wish.
+
+Judges should not intervene when they witness a missed trigger that is a lapsing ability, as defined below.
 Penalty
 Warning
 --------------------------------------------------
 Additional Remedy:
 
-If the trigger event occurs during the upkeep of a player other than the triggerís controller and that player has drawn a card before giving the controller a chance to resolve the trigger, but no other actions have been taken, put that trigger on the stack and issue no penalty.
+Determine whether the missed trigger is a lapsing ability, then follow the appropriate instructions. If the remedy includes putting the missed ability on the stack, put it on the bottom of the stack or, if it should have triggered since the stack was last empty, at the appropriate place in the stack. If the error is missing the turn-based action of drawing a card, don’t put any ability on the stack. Instead, the appropriate player immediately draws a card.
 
-If the trigger specifies a default action associated with a choice made by the controller of the trigger (usually "If you don't ..." or "... unless"), resolve the default action immediately without using the stack. If there are unresolved spells or effects that are no longer legal as a result of this action, rewind the game to remove all such spells or abilities. 
+No player may make choices involving objects that were not in the zone or zones referenced by the trigger when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can’t sacrifice a creature that wasn’t on the battlefield when the ability should have triggered.
 
-Resulting triggers generated by the action still trigger and resolve as normal. If the trigger requires a choice that does not have a default action, requires a choice made by another player, or requires no choice, but will have an effect on the visual representation of the game, and the error is caught within the scope of a turn cycle (see below for definition), insert the forgotten ability on the bottom of the stack. The player may not make choices involving objects that were not legal choices for the trigger when the ability triggered. If the error is discovered partway through an action (such as choosing blockers), complete the action before inserting the trigger into the stack. If the error is discovered after a turn cycle, continue the game without resolving the forgotten trigger. A turn cycle is defined as the time from the beginning of a player's step or phase to the end of that player's next same step or phase. If a turn cycle would end in a skipped step or phase (but not turn), the turn cycle expires when the step or phase is skipped. No attempt should be made to rewind the game state to the point of the missed trigger.
+If the error is discovered partway through an action (such as choosing blockers), complete the action before putting the trigger on the stack. 
+
+Handling Lapsing Abilities
+
+A lapsing ability is a missed triggered ability that, in the context of the game at the time the ability triggered, would cause one or more of the effects listed below to happen, and no other effects. In each of these effects, "you" is the ability’s controller. If a lapsing ability could target objects that would make it a lapsing ability, it is a lapsing ability, even if it could potentially target other objects. For example, Manic Vandal ("When Manic Vandal enters the battlefield, destroy target artifact") has a lapsing ability if an opponent controls an artifact, even though the controller of the ability could also control valid targets. If only the controller of the ability controls artifacts, it is not a lapsing ability.
+
+Effects of lapsing abilities:
+- Causes you to gain life
+- Deals damage to an opponent or causes an opponent to lose life
+- Causes an opponent to discard cards
+- Instructs you to look at and/or rearrange cards in a zone8
+- Puts cards into your hand from your graveyard or the exile zone
+- Puts a permanent onto the battlefield under your control or gives you control of a permanent
+- Puts counters linked to a beneficial effect (such as +1/+1 counters or charge counters) on one or more 
+permanents you control
+- Gives one or more permanents you control +X/+Y or a beneficial ability
+- Untaps one or more permanents you control
+- Gives you additional phases
+- Exiles, deals damage to, destroys, taps, gives -X/-Y to, or puts counters associated with a detrimental effect 
+(such as -1/-1 counters) on one or more permanents controlled by an opponent
+- Instructs an opponent to exile a permanent he or she controls or put a permanent into his or her library or 
+graveyard
+
+When determining if a triggered ability is a lapsing ability, ignore portions of abilities that "clean up" previous parts of the effect (such as the creation of a delayed triggered ability to sacrifice a creature token put onto the battlefield by the effect) or specify a duration for the effect. Abilities that require no choices and have no effect on the visual representation of the game are not lapsing abilities; they simply happen at the appropriate time.
+
+When handling a lapsing ability, the turn is divided into three parts: before combat, during combat, and after combat. If a missed trigger with a lapsing ability is discovered within the same part of the same turn in which it should have triggered, any opponent of the trigger’s controller may have the judge put that ability on the stack. Otherwise, the game continues and the ability is skipped. In either case, no player should be issued a penalty.
+
+Handling Non-Lapsing Abilities
+
+Non-lapsing abilities are the only abilities for which a Missed Trigger penalty is given, and only when discovered within a turn cycle of the missed trigger. Failure to Maintain Game State penalties are never issued along with a Missed Trigger penalty.
+
+If the trigger specifies a default action associated with a choice made by the controller of the trigger (usually "If you don’t ..." or "... unless"), resolve the default action immediately without using the stack. If there are unresolved spells or abilities that are no longer legal as a result of this action, rewind the game to remove all such spells or abilities. Resulting triggers generated by the action still trigger and resolve as normal. 
+
+Otherwise, insert the forgotten ability in the appropriate place on the stack. Do not make any attempt to rewind the game state to the point of the missed trigger.
 
 3.2. 	Game Play Error - Failure to Reveal
 Definition
@@ -138,7 +181,7 @@ A player casts Worldly Tutor and places the card he searched for on top of his l
 
 At the end of a game, a player shuffles a face-down creature with morph into her library without revealing it.
 Philosophy
-Failing to reveal a card prevents opponents from verifying that an effect was played correctly. While the error is easy to make, the potential for abuse is high and the DCI wishes to track players who repeatedly commit this infraction. Few of these errors can be caught before the exact information and location of the unrevealed information is lost. If the card was ever in a position to be uniquely identified (such as on top of the player's library or the only card in hand), downgrade this penalty at Competitive REL.
+Failing to reveal a card prevents opponents from verifying that an effect was played correctly. While the error is easy to make, the potential for abuse is high and the DCI wishes to track players who repeatedly commit this infraction. Few of these errors can be caught before the exact information and location of the unrevealed information is lost. If the card was ever in a position to be uniquely identified (such as on top of the player's library or the only card in hand) after the infraction was committed, downgrade this penalty to a Warning.
 Penalty
 Game Loss
 --------------------------------------------------
@@ -195,7 +238,8 @@ Though this error is easy to commit accidentally, the potential for it to be ove
 
 3.5.	Game Play Error - Improper Drawing at Start of Game
 Definition
-A player draws too many cards (or not enough cards) in his or her opening hand, while resolving a mulligan, or erroneously at the start of the first turn. Once legal game actions have been taken during the first turn, this infraction no longer applies and the infraction is Drawing Extra Cards.
+A player draws too many cards (or not enough cards) in his or her opening hand, while resolving a mulligan, or before taking his or her first game action. Once legal game actions have been taken, this infraction no longer applies and the infraction is Drawing Extra Cards.
+
 Examples
 A player draws eight cards in her initial hand (instead of seven).
 
@@ -237,17 +281,16 @@ If not caught within a reasonable time frame, or backing up is impossible or suf
 
 If a player made an illegal choice or failed to make a required choice for a permanent on the battlefield, that player makes a legal choice.
 If a player forgot to discard or return cards from their hand to another zone, that player does so.
+If an object is in the wrong zone, and it is within a turn cycle of the error, put the permanent in the correct zone.
 
-In a situation where the effect that caused the infraction is controlled by one player, but the illegal action is taken by 
-another player, both receive a Game Play Error - Game Rule Violation. For example, if a player casts Path to Exile 
-on an opponentís creature and the opponent puts the creature into the graveyard, both players receive a Game Play 
-Error - Game Rule Violation infraction.
+In a situation where the effect that caused the infraction is controlled by one player, but the illegal action is taken by another player, both receive a Game Play Error - Game Rule Violation. For example, if a player casts Path to Exile on an opponentís creature and the opponent puts the creature into the graveyard, both players receive a Game Play Error - Game Rule Violation infraction.
 
 3.7.	Game Play Error - Failure to Maintain Game State
 Penalty
 Warning
 Definition
-A player allows another player in the game to commit a Game Play Error involving an effect or action that he or she does not control, and has not pointed it out before he or she could potentially gain advantage. If a judge believes a player is intentionally not pointing out other playersí illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating - Fraud.
+A player allows another player in the game to commit a Game Play Error involving an effect or action that he or she does not control, and has not pointed it out immediately. If a judge believes a player is intentionally not pointing out other players’ illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating — Fraud. Not pointing out an opponent’s missed trigger is never Failure to Maintain Game State or Fraud.
+
 Examples
 A player's opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
 A player does not notice that his opponent has Armadillo Cloak on a creature with protection from green.
@@ -285,9 +328,9 @@ Match Loss
 Definition
 A player, spectator, or other tournament participant does any of the following:
 
-Seeks play advice or hidden information about his or her match from others once he or she has sat for his or her match.
-Gives play advice or reveals hidden information to players who have sat for their match. 
-During a game, refers to notes made before the official beginning of the current match, including Oracle text that has not been provided by a judge.
+- Seeks play advice or hidden information about his or her match from others once he or she has sat for his or her match.
+- Gives play advice or reveals hidden information to players who have sat for their match. 
+- During a game, refers to notes (other than Oracle pages) made before the official beginning of the current match.
 
 These criteria also apply to any deck construction and draft portions of a limited tournament. Additionally, no notes of any kind may be made during a draft. Some team formats have additional communication rules that may modify the definition of this infraction.
 
@@ -618,7 +661,7 @@ Disqualification
 Definition
 A person intentionally and knowingly violates or misrepresents rules, procedures, personal information, or any other relevant tournament information. Note that Fraud, like most cheating, is determined by an investigation and will often appear on the surface as a Game Play Error or Tournament Error.
 
-Additionally, it is Fraud if a player (or teammate) notices an offense in his or her match and does not immediately call attention to it.
+Additionally, it is Fraud if a player (or teammate) notices an offense in his or her match and does not immediately call attention to it.  A player who intentionally forgets triggers he or she controls is guilty of Fraud, even if the trigger is a lapsing ability. However, ignoring opponent’s missed triggers is not Fraud.
 
 A player must be aware that he or she has committed an error in representation in order for the infraction to be Fraud. For example, a player targeting a black creature with Terror has not committed Fraud if he or she forgot that Terror cannot target black creatures, even though the action (playing Terror) was intentional and illegal. It is Fraud if a judge believes he or she was aware and hoping that his or her opponent would miss it.
 

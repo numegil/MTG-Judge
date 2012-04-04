@@ -1,100 +1,100 @@
 verified
 
 IPG.txt
-2
+3
 
 CompRulesContents.txt
-2
+3
 
 CompRules.txt
-2
+3
 
 FCE.txt
-2
+3
 
 Banned.txt
-2
+3
 
 CompRulesGlossary.txt
-2
+3
 
 oracle_names_only.array
-2
+3
 
 oracle_0.array
-2
+3
 
 oracle_1.array
-2
+3
 
 oracle_2.array
-2
+3
 
 oracle_3.array
-2
+3
 
 oracle_4.array
-2
+3
 
 oracle_5.array
-2
+3
 
 oracle_6.array
-2
+3
 
 oracle_7.array
-2
+3
 
 oracle_8.array
-2
+3
 
 oracle_9.array
-2
+3
 
 oracle_10.array
-2
+3
 
 oracle_11.array
-2
+3
 
 oracle_12.array
-2
+3
 
 oracle_13.array
-2
+3
 
 oracle_14.array
-2
+3
 
 oracle_15.array
-2
+3
 
 oracle_16.array
-2
+3
 
 oracle_17.array
-2
+3
 
 oracle_18.array
-2
+3
 
 oracle_19.array
-2
+3
 
 oracle_20.array
-2
+3
 
 oracle_21.array
-2
+3
 
 oracle_22.array
-2
+3
 
 oracle_23.array
-2
+3
 
 oracle_24.array
-2
+3
 
 oracle_25.array
-2
+3
