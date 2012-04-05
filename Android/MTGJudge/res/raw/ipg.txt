@@ -99,13 +99,13 @@ An error that an opponent can't realize has been committed should have its penal
 
 If the players are playing in a way that is clear to both players, but might cause confusion to an external observer, judges are encouraged to request that the players make t	he situation clear, but not issue any penalty.
 
-Some infractions refer to a turn cycle within their Additional Remedy. A turn cycle is defined as the time from the beginning of a player’s step or phase to the end of that player’s next same step or phase. If a turn cycle would end in a skipped step or phase (but not turn), the turn cycle expires when the step or phase is skipped.
+Some infractions refer to a turn cycle within their Additional Remedy. A turn cycle is defined as the time from the beginning of a player's step or phase to the end of that player's next same step or phase. If a turn cycle would end in a skipped step or phase (but not turn), the turn cycle expires when the step or phase is skipped.
 
 3.1. 	Game Play Error - Missed Trigger
 Definition
 A triggered ability triggers, but the player controlling the ability is unaware of its existence and/or forgets to carry out its effects. The turn-based action of drawing a card during the draw step is also covered under this infraction. If atriggered ability has been partially or incorrectly resolved, instead treat it as a Game Play Error — Game Rule Violation.
 
-A trigger is considered missed once the controller of the trigger has taken an action after the point at which a trigger should have resolved or, in the case of a trigger controlled by the non-active player, after a brief period of time to allow that player to realize that the active player has advanced past the trigger. Players may not cause triggered abilities to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing the controller of a triggered ability that would trigger during that turn’s upkeep to resolve it, place that trigger on the stack at this point and issue no penalty.
+A trigger is considered missed once the controller of the trigger has taken an action after the point at which a trigger should have resolved or, in the case of a trigger controlled by the non-active player, after a brief period of time to allow that player to realize that the active player has advanced past the trigger. Players may not cause triggered abilities to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing the controller of a triggered ability that would trigger during that turn's upkeep to resolve it, place that trigger on the stack at this point and issue no penalty.
 
 If the trigger instruction is optional (it includes "may" or "up to X," where 0 is a valid choice) and specifies no consequence for not doing it, assume that the player has chosen to not perform the instruction and issue no penalty.
 
@@ -123,7 +123,7 @@ A player forgets to pay cumulative upkeep cost for a creature.
 A player controls Dark Confidant, forgets its triggered ability, and draws a card in his draw step.
 
 A player controls Soul Warden and forgets to gain 1 life when a creature enters the battlefield under his 
-opponent’s control.
+opponent's control.
 
 Philosophy
 Triggered abilities are common and invisible, so players should not be harshly penalized when forgetting about one. Players are expected to remember their own triggers; intentionally ignoring one is considered Cheating — Fraud. However, remembering triggers that benefit you is a skill. Therefore, players are not required to point out missed triggers that they do not control, though they may do so if they wish.
@@ -134,15 +134,15 @@ Warning
 --------------------------------------------------
 Additional Remedy:
 
-Determine whether the missed trigger is a lapsing ability, then follow the appropriate instructions. If the remedy includes putting the missed ability on the stack, put it on the bottom of the stack or, if it should have triggered since the stack was last empty, at the appropriate place in the stack. If the error is missing the turn-based action of drawing a card, don’t put any ability on the stack. Instead, the appropriate player immediately draws a card.
+Determine whether the missed trigger is a lapsing ability, then follow the appropriate instructions. If the remedy includes putting the missed ability on the stack, put it on the bottom of the stack or, if it should have triggered since the stack was last empty, at the appropriate place in the stack. If the error is missing the turn-based action of drawing a card, don't put any ability on the stack. Instead, the appropriate player immediately draws a card.
 
-No player may make choices involving objects that were not in the zone or zones referenced by the trigger when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can’t sacrifice a creature that wasn’t on the battlefield when the ability should have triggered.
+No player may make choices involving objects that were not in the zone or zones referenced by the trigger when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered.
 
 If the error is discovered partway through an action (such as choosing blockers), complete the action before putting the trigger on the stack. 
 
 Handling Lapsing Abilities
 
-A lapsing ability is a missed triggered ability that, in the context of the game at the time the ability triggered, would cause one or more of the effects listed below to happen, and no other effects. In each of these effects, "you" is the ability’s controller. If a lapsing ability could target objects that would make it a lapsing ability, it is a lapsing ability, even if it could potentially target other objects. For example, Manic Vandal ("When Manic Vandal enters the battlefield, destroy target artifact") has a lapsing ability if an opponent controls an artifact, even though the controller of the ability could also control valid targets. If only the controller of the ability controls artifacts, it is not a lapsing ability.
+A lapsing ability is a missed triggered ability that, in the context of the game at the time the ability triggered, would cause one or more of the effects listed below to happen, and no other effects. In each of these effects, "you" is the ability's controller. If a lapsing ability could target objects that would make it a lapsing ability, it is a lapsing ability, even if it could potentially target other objects. For example, Manic Vandal ("When Manic Vandal enters the battlefield, destroy target artifact") has a lapsing ability if an opponent controls an artifact, even though the controller of the ability could also control valid targets. If only the controller of the ability controls artifacts, it is not a lapsing ability.
 
 Effects of lapsing abilities:
 - Causes you to gain life
@@ -163,13 +163,13 @@ graveyard
 
 When determining if a triggered ability is a lapsing ability, ignore portions of abilities that "clean up" previous parts of the effect (such as the creation of a delayed triggered ability to sacrifice a creature token put onto the battlefield by the effect) or specify a duration for the effect. Abilities that require no choices and have no effect on the visual representation of the game are not lapsing abilities; they simply happen at the appropriate time.
 
-When handling a lapsing ability, the turn is divided into three parts: before combat, during combat, and after combat. If a missed trigger with a lapsing ability is discovered within the same part of the same turn in which it should have triggered, any opponent of the trigger’s controller may have the judge put that ability on the stack. Otherwise, the game continues and the ability is skipped. In either case, no player should be issued a penalty.
+When handling a lapsing ability, the turn is divided into three parts: before combat, during combat, and after combat. If a missed trigger with a lapsing ability is discovered within the same part of the same turn in which it should have triggered, any opponent of the trigger's controller may have the judge put that ability on the stack. Otherwise, the game continues and the ability is skipped. In either case, no player should be issued a penalty.
 
 Handling Non-Lapsing Abilities
 
 Non-lapsing abilities are the only abilities for which a Missed Trigger penalty is given, and only when discovered within a turn cycle of the missed trigger. Failure to Maintain Game State penalties are never issued along with a Missed Trigger penalty.
 
-If the trigger specifies a default action associated with a choice made by the controller of the trigger (usually "If you don’t ..." or "... unless"), resolve the default action immediately without using the stack. If there are unresolved spells or abilities that are no longer legal as a result of this action, rewind the game to remove all such spells or abilities. Resulting triggers generated by the action still trigger and resolve as normal. 
+If the trigger specifies a default action associated with a choice made by the controller of the trigger (usually "If you don't ..." or "... unless"), resolve the default action immediately without using the stack. If there are unresolved spells or abilities that are no longer legal as a result of this action, rewind the game to remove all such spells or abilities. Resulting triggers generated by the action still trigger and resolve as normal. 
 
 Otherwise, insert the forgotten ability in the appropriate place on the stack. Do not make any attempt to rewind the game state to the point of the missed trigger.
 
@@ -289,7 +289,7 @@ In a situation where the effect that caused the infraction is controlled by one 
 Penalty
 Warning
 Definition
-A player allows another player in the game to commit a Game Play Error involving an effect or action that he or she does not control, and has not pointed it out immediately. If a judge believes a player is intentionally not pointing out other players’ illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating — Fraud. Not pointing out an opponent’s missed trigger is never Failure to Maintain Game State or Fraud.
+A player allows another player in the game to commit a Game Play Error involving an effect or action that he or she does not control, and has not pointed it out immediately. If a judge believes a player is intentionally not pointing out other players' illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating — Fraud. Not pointing out an opponent's missed trigger is never Failure to Maintain Game State or Fraud.
 
 Examples
 A player's opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
@@ -661,7 +661,7 @@ Disqualification
 Definition
 A person intentionally and knowingly violates or misrepresents rules, procedures, personal information, or any other relevant tournament information. Note that Fraud, like most cheating, is determined by an investigation and will often appear on the surface as a Game Play Error or Tournament Error.
 
-Additionally, it is Fraud if a player (or teammate) notices an offense in his or her match and does not immediately call attention to it.  A player who intentionally forgets triggers he or she controls is guilty of Fraud, even if the trigger is a lapsing ability. However, ignoring opponent’s missed triggers is not Fraud.
+Additionally, it is Fraud if a player (or teammate) notices an offense in his or her match and does not immediately call attention to it.  A player who intentionally forgets triggers he or she controls is guilty of Fraud, even if the trigger is a lapsing ability. However, ignoring opponent's missed triggers is not Fraud.
 
 A player must be aware that he or she has committed an error in representation in order for the infraction to be Fraud. For example, a player targeting a black creature with Terror has not committed Fraud if he or she forgot that Terror cannot target black creatures, even though the action (playing Terror) was intentional and illegal. It is Fraud if a judge believes he or she was aware and hoping that his or her opponent would miss it.
 
