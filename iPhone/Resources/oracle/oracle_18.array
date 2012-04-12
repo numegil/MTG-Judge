@@ -1060,11 +1060,11 @@ At the beginning of your upkeep, if there are no Zombies on the battlefield, Sar
 		<string>Saviors of Kamigawa Rare</string>
 	</array>
 	<array>
-		<string>Sauté</string>
+		<string>Saute</string>
 		<string>1RR</string>
 		<string>Instant</string>
 		<string></string>
-		<string>Sauté deals 3{1/2} damage to target creature or player.</string>
+		<string>Saute deals 3{1/2} damage to target creature or player.</string>
 		<string>Unhinged Common</string>
 	</array>
 	<array>
@@ -2462,7 +2462,7 @@ When you control no Islands, sacrifice Sea Serpent.</string>
 		<string>Mirage Uncommon</string>
 	</array>
 	<array>
-		<string>Séance</string>
+		<string>Seance</string>
 		<string>2WW</string>
 		<string>Enchantment</string>
 		<string></string>

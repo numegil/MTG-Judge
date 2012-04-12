@@ -27,6 +27,10 @@
 		<string>3</string>
 	</array>
 	<array>
+		<string>triggers.array</string>
+		<string>3</string>
+	</array>
+	<array>
 		<string>oracle_names_only.array</string>
 		<string>3</string>
 	</array>

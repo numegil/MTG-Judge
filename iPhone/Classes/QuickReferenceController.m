@@ -100,7 +100,7 @@
 		switch(indexPath.row)
 		{
 			case 0: [cell.textLabel setText:@"Penalties"]; break;
-			case 1: [cell.textLabel setText:@"Missed Triggers"]; break;
+			case 1: [cell.textLabel setText:@"Lapsing Triggers"]; break;
 			case 2: [cell.textLabel setText:@"Layers / Casting Spells"]; break;
 			case 3: [cell.textLabel setText:@"Resolving Spells / Copiable Characteristics"]; break;
 			case 4: [cell.textLabel setText:@"Types of Information"]; break;

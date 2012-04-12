@@ -13,6 +13,8 @@
 	
 	NSMutableArray *oracle; // names only
 	NSMutableArray *oracleData; // array of alphabet arrays
+    
+    NSMutableArray *triggers; // for the 'lapsing', 'mandatory', etc. triggers
 	
 	IBOutlet UITableView *masterBaseTableView;
 	
@@ -34,6 +36,7 @@
 
 @property (nonatomic, retain) NSMutableArray *oracle;
 @property (nonatomic, retain) NSMutableArray *oracleData;
+@property (nonatomic, retain) NSMutableArray *triggers;
 @property (nonatomic, retain) IBOutlet UITableView *masterBaseTableView;
 @property (nonatomic, retain) IBOutlet UITextView *oracleTextView;
 @property (nonatomic, retain) IBOutlet UIImageView *gathererPicView;

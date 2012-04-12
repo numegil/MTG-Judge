@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0FDF26FB1536ECB3001DBD23 /* triggers.array in Resources */ = {isa = PBXBuildFile; fileRef = 0FDF26FA1536ECB3001DBD23 /* triggers.array */; };
 		1D3623260D0F684500981E51 /* MTGJudgeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* MTGJudgeAppDelegate.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
@@ -101,6 +102,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0FDF26FA1536ECB3001DBD23 /* triggers.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = triggers.array; path = Resources/other/triggers.array; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* MTGJudgeAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MTGJudgeAppDelegate.h; path = Classes/MTGJudgeAppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* MTGJudgeAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MTGJudgeAppDelegate.m; path = Classes/MTGJudgeAppDelegate.m; sourceTree = "<group>"; };
@@ -244,6 +246,14 @@
 			path = Classes;
 			sourceTree = "<group>";
 		};
+		0FDF26F81536EC83001DBD23 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				0FDF26FA1536ECB3001DBD23 /* triggers.array */,
+			);
+			name = Other;
+			sourceTree = "<group>";
+		};
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -287,6 +297,7 @@
 				AA8B40E71111631F0035D8B3 /* QuickReference */,
 				AA8B402A111158CC0035D8B3 /* Oracle Files */,
 				AA988C30141C171900EFFB61 /* Docs Files */,
+				0FDF26F81536EC83001DBD23 /* Other */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -585,6 +596,7 @@
 				AA5F041214A958CA000BEFA7 /* oracle_25.array in Resources */,
 				AA5F041314A958CA000BEFA7 /* oracle_names_only.array in Resources */,
 				AA5F041514A958E6000BEFA7 /* DecklistCounterControllerFullscreen.xib in Resources */,
+				0FDF26FB1536ECB3001DBD23 /* triggers.array in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

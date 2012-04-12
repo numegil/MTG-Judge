@@ -18,6 +18,9 @@ Banned.txt
 CompRulesGlossary.txt
 3
 
+triggers.array
+3
+
 oracle_names_only.array
 3
 

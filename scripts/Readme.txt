@@ -16,6 +16,7 @@ Replace all instances of o with o
 Replace all instances of ’ with '
 Replace all instances of û with u
 Replace all instances of é with e
+Replace all instances of Ž with e
 
 Fix Individual Cards:
 
@@ -23,16 +24,6 @@ Fix Individual Cards:
 2) Look at top AND bottom of each array file and fix all cards that are out of alphabetical order by putting them back in alphabetical order (this will be the split cards, Kamigawa flip cards and a few random wackos).
 3) Get rid of ampersands from R&D Secret Lair and Look at Me I'm R&D and Punctuate
 4) Fix XXCall of the Herd and XXValor and Aerathi Berserker, Butcher's Cleaver, Memory's Journey, Stitcher's Apprentice, Altar's Reap, Avacyn's Pilgrim, Curse of Death's Hold, Devil's Play, Full Moon's Rise, Geistcatcher's Rig, Ghoulcaller's Bell, Ghoulcaller's Chant, Heretic's Punishment, Inquisitor's Flail, Ludevic's Abomination, Ludevic's Test Subject, Nightbird's Clutches, Ranger's Guile, Runechanter's Pike, Traveler's Amulet
-
-A few useful test cases:
-
-One for each letter
-S.N.O.T.
-Tabernacle
-Big Furry Monster
-R+D's Secret Lair
-Pyromancy
-Great Furnace
 
 
 To Update Comprehensive Rules:
@@ -66,3 +57,21 @@ Android:
 2) IPG
 3) Comp Rules
 4) MTR
+
+
+A few useful test cases:
+
+Oracle: One card for each first letter
+S.N.O.T.
+Tabernacle
+Big Furry Monster
+R+D's Secret Lair
+Pyromancy
+Great Furnace
+
+Quick reference pictures are ok
+Banned Lists by format work
+Comp. Rules search works
+Comp. Rules has links to rules
+
+

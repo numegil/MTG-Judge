@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">    
+<array>
+	<array>
+		<string>Abattoir Ghoul</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Accorder Paladin</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Acid Web Spider</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Acidic Slime</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Aegis Angel</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Aether Adept</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Afflicted Deserter</string>
+		<string>Mandatory</string>
+		<string>Optional</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Angel of Flight Alabaster</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Angelic Destiny</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Angel's Feather</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Arachnus Web</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Archon of Justice</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Argent Sphinx</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Argentum Armor</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Arm with Aether</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Armored Skaab</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Ashmouth Hound</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Auramancer</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Auriok Survivors</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Avacyn's Collar</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Balefire Dragon</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Batterskull</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Belltower Sphinx</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Benalish Veteran</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Bitterheart Witch</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Black Cat</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Blade Splicer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Blade-Tribe Berserkers</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Bleak Coven Vampires</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Blind Zealot</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Blistergrub</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Blisterstick Shaman</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Blood Seeker</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Bloodcrazed Neonate</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Bloodgift Demon</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Bloodlord of Vaasgoth</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Bonehoard</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Brink of Disaster</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Brutalizer Exarch</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Burning Vengeance</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Caged Sun</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Call to the Grave</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Call to the Kindred</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Cathedral Membrane</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Caustic Hound</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Champion of the Parish</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Chancellor of the Annex</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Chancellor of the Dross</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Chancellor of the Forge</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Chancellor of the Spires</string>
+		<string>Mandatory</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Chancellor of the Tangle</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Chandra's Phoenix</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Charmbreaker Devils</string>
+		<string>Lapsing</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Chasm Drake</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Circle of Flame</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Civilized Scholar</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Claustrophobia</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Cloistered Youth</string>
+		<string>Optional</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Clone Shell</string>
+		<string>Mandatory</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Consecrated Sphinx</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Contagion Clasp</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Contagion Engine</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Contested War Zone</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Copperhorn Scout</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Core Prowler</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Corpse Cur</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Creepy Doll</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Crossway Vampire</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Crumbling Colossus</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Cryptoplasm</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Curiosity</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Curse of Echoes</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Curse of Misfortunes</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Curse of Oblivion</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Curse of Stalked Prey</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Curse of the Bloody Tome</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Curse of the Pierced Heart</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Curse of Thirst</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Dark Favor</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Darkslick Drake</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Daybreak Ranger</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Deceiver Exarch</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Delver of Secrets</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Demon's Horn</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Diregraf Captain</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Dissipation Field</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Divine Favor</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Doomed Traveler</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Dragon's Claw</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Drogskol Reaver</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Dungeon Geists</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Elbrus, the Binding Blade</string>
+		<string>Mandatory</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Elder Cathar</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Elgaud Inquisitor</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Embersmith</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Endless Ranks of the Dead</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Engulfing Slagwurm</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Enslave</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Entomber Exarch</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Erdwal Ripper</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Exclusion Ritual</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Ezuri's Archers</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Falkenrath Marauders</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Falkenrath Noble</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Fangren Marauder</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Farbog Boneflinger</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Favor of the Woods</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Feed the Pack</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Fiend Hunter</string>
+		<string>Optional</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Fiend of the Shadows</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Flameblast Dragon</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Flayer Husk</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Flayer of the Hatebound</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Flight Spellbomb</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Forge Devil</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Frost Titan</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Furnace Celebration</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Furnace Scamp</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Galvanic Juggernaut</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Galvanoth</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Garruk Relentless</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Gatstaf Shepherd</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Geist of Saint Traft</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Geistcatcher's Rig</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Geist-Honored Monk</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Geralf's Messenger</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Geralf's Mindcrusher</string>
+		<string>Mandatory</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Ghoulraiser</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Gideon's Avenger</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Glimmerpoint Stag</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Glimmerpost</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Glint Hawk</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Glint Hawk Idol</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Glissa, the Traitor</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Glistening Oil</string>
+		<string>Mandatory</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Goblin Arsonist</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Goblin Wardriver</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Golden Urn</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Golem Foundry</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Golem's Heart</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Grafted Exoskeleton</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Grave Titan</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Gravedigger</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Grimgrin, Corpse-Born</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Grizzled Outcasts</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Gruesome Encore</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Gutter Grime</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Hamlet Captain</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Hand of the Praetors</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Hanweir Watchkeep</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Havengul Lich</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Hellrider</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Helvault</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Hero of Bladehold</string>
+		<string>No visual effect</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Hero of Oxid Ridge</string>
+		<string>No visual effect</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Hinterland Hermit</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Hollowhenge Scavenger</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Hollowhenge Spirit</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Horizon Spellbomb</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Hunter's Insight</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Huntmaster of the Fells</string>
+		<string>Lapsing</string>
+		<string>Mandatory</string>
+		<string>Lapsing</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Ice Cage</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Ichor Rats</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Ichor Wellspring</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Ichorclaw Myr</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Impaler Shrike</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Inexorable Tide</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Inferno Titan</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Infiltration Lens</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Inquisitor Exarch</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Instigator Gang</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Invader Parasite</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Isolation Cell</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Jace's Erasure</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Jar of Eyeballs</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Jin-Gitaxias, Core Augur</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Kemba, Kha Regent</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Kemba's Skyguard</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Kessig Cagebreakers</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Kiln Walker</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Knowledge Pool</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Kraken's Eye</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Kruin Outlaw</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Kuldotha Flamefiend</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Kuldotha Ringleader</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Lambholt Elder</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Lashwrithe</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Leonin Relic-Warder</string>
+		<string>Optional</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Liege of the Tangle</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Lifesmith</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Livewire Lash</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Lost in the Woods</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Loxodon Partisan</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Loyal Cathar</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Lumberknot</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Lumengrid Drake</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Magnetic Mine</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Manabarbs</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Manic Vandal</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Markov Blademaster</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Markov Warlord</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Massacre Wurm</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Master Splicer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Master Thief</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Maul Splicer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Mausoleum Guard</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Mayor of Avabruck</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Mentor of the Meek</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Mesa Enchantress</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Midnight Guard</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Mikaeus, the Unhallowed</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Mimic Vat</string>
+		<string>Optional</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Mind Unbound</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Mindcrank</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Mirran Spy</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Mirrorworks</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Molder Beast</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Moldgraf Monstrosity</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Molten-Tail Masticore</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Mondronen Shaman</string>
+		<string>Mandatory</string>
+		<string>Lapsing</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Morkrut Banshee</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Mortarpod</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Mortis Dogs</string>
+		<string>No visual effect</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Murder of Crows</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Mycosynth Wellspring</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Myr Battlesphere</string>
+		<string>Lapsing</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Myr Sire</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Myrsmith</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Nearheath Stalker</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Necrogen Scudder</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Necropede</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Necropouncer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Nested Ghoul</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Neurok Commando</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Neurok Invisimancer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Niblis of the Mist</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Niblis of the Urn</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Nihil Spellbomb</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Nim Deathmantle</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Numbing Dose</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Oblivion Ring</string>
+		<string>Lapsing</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Oculus</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Ogre Geargrabber</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Omen Machine</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Origin Spellbomb</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Oxidda Scrapmelter</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Painful Quandary</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Painsmith</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Panic Spellbomb</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Parasitic Implant</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Peace Strider</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Perilous Myr</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Phantasmal Bear</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Phantasmal Dragon</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Phantasmal Image</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Phyrexian Ingester</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Phyrexian Obliterator</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Phyrexian Rager</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Phyrexian Swarmlord</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Phyrexian Vatmother</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Pierce Strider</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Piston Sledge</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Pitchburn Devils</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Pith Driller</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Postmortem Lunge</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Precursor Golem</string>
+		<string>Lapsing</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Predator Ooze</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Pride Guardian</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Priest of Urabrask</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Primeval Titan</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Primordial Hydra</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Prototype Portal</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Psychic Surgery</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Psychosis Crawler</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Puresteel Paladin</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Putrefax</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Pyreheart Wolf</string>
+		<string>No visual effect</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Rage Extractor</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Rage Thrower</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Rakish Heir</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Ravenous Demon</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Razor Hippogriff</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Reaper from the Abyss</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Reaper of Sheoldred</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Reckless Waif</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Relentless Skaabs</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Relic Putrescence</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Requiem Angel</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Riddlesmith</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Rites of Flourishing</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Roc Egg</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Rot Wolf</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Rune-Scarred Demon</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Sangromancer</string>
+		<string>Optional</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Scorned Villager</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Screeching Bat</string>
+		<string>Optional</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Screeching Silclaw</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Screeching Skaab</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Seance</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Secrets of the Dead</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Selhoff Occultist</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Semblance Anvil</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Sengir Vampire</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Sensor Splicer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Septic Rats</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Serum Raker</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Shattered Angel</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Sheoldred, Whispering One</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Shriekgeist</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Shrine of Boundless Growth</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Shrine of Burning Rage</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Shrine of Limitless Power</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Shrine of Loyal Legions</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Shrine of Piercing Vision</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Sickleslicer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Sightless Ghoul</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Signal Pest</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Skinrender</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Skinwing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Sky-Eel School</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Slayer of the Wicked</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Snapcaster Mage</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Solemn Simulacrum</string>
+		<string>Optional</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Soul Seizer</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Sphinx of Uthuun</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Spine of Ish Sah</string>
+		<string>Lapsing</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Spiteful Shadows</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Splinterfright</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Stingerfling Spider</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Stonehorn Dignitary</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Stormbound Geist</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Strandwalker</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Strangleroot Geist</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Strata Scythe</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Stromkirk Noble</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Stromkirk Patrol</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Sturmgeist</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Sudden Disappearance</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Sun Titan</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Sunblast Angel</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Suture Priest</string>
+		<string>Optional</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Sword of Body and Mind</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Sword of Feast and Famine</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Sword of War and Peace</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Sylvok Lifestaff</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Thopter Assembly</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Thraben Sentry</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Thrummingbird</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Tormented Pariah</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Tormentor Exarch</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Tower Geist</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Treasure Mage</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Trepanation Blade</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Trinket Mage</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Tunnel Ignus</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Ulvenwald Bear</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Ulvenwald Mystics</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Undead Alchemist</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Unruly Mob</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Vedalken Infuser</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Vengeful Pharaoh</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Vengeful Vampire</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Venser's Journal</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Victory's Herald</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Vigil for the Lost</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Village Bell-Ringer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Village Cannibals</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Village Ironsmith</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Villagers of Estwald</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Viridian Corruptor</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Viridian Emissary</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Viridian Harvest</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Viridian Revel</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Virulent Wound</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Vital Splicer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Volition Reins</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Vorapede</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Vorinclex, Voice of Hunger</string>
+		<string>No visual effect</string>
+		<string>No visual effect</string>
+	</array>
+	<array>
+		<string>Vulshok Heartstoker</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Wakedancer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Warstorm Surge</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Whispering Specter</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Wing Splicer</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Witchbane Orb</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Wolfbitten Captive</string>
+		<string>Mandatory</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Wooden Stake</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Woodland Sleuth</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Worldslayer</string>
+		<string>Mandatory</string>
+	</array>
+	<array>
+		<string>Wurmcoil Engine</string>
+		<string>Lapsing</string>
+	</array>
+	<array>
+		<string>Wurm's Tooth</string>
+		<string>Optional</string>
+	</array>
+	<array>
+		<string>Young Wolf</string>
+		<string>Lapsing</string>
+	</array>
+</array>
+</plist>

@@ -56,7 +56,7 @@
     for(int i = 0; i < [bannedArray count]; i++)
     {
         
-        if([[bannedArray objectAtIndex:i] isEqualToString:[NSString stringWithFormat:@"Format:%@\r", format]])
+        if([[bannedArray objectAtIndex:i] isEqualToString:[NSString stringWithFormat:@"Format:%@", format]])
         {
             found = true;
             
@@ -70,6 +70,7 @@
         if(found)
         {
             output = [output stringByAppendingString:[bannedArray objectAtIndex:i]];
+            output = [output stringByAppendingString:@"\n"];
         }
         
 

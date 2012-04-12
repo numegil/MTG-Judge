@@ -14,6 +14,7 @@
 @synthesize masterBaseTableView;
 @synthesize oracle;
 @synthesize oracleData;
+@synthesize triggers;
 @synthesize oracleTextView;
 @synthesize gathererPicView;
 @synthesize tableData;
@@ -42,7 +43,13 @@
 	{
 		[oracleData addObject:[NSMutableArray array]];
 	}
-	
+    
+	// load triggers stuff
+	NSString *triggersFile = [documentsDirectory stringByAppendingString:@"/triggers.array"];
+	self.triggers = [NSArray arrayWithContentsOfFile:triggersFile];
+	if(triggers == nil)
+		NSLog(@"ERROR!  Could not load trigger file.  Please email me at MTGJudgeBugs@gmail.com to submit a bug report. (Error ID #13)");
+    
 	//Add the search bar
 	sBar = [[UISearchBar alloc]initWithFrame:CGRectMake(0,0,320,45)];
 	sBar.delegate = self;
@@ -133,6 +140,52 @@
 			tempInt = 5;
 			if(land) tempInt = 4;
 			output = [output stringByAppendingString:[card objectAtIndex:tempInt]];
+            
+            // See if the card has any triggers that we know about.
+            NSString *triggers_output = [NSString stringWithString:@""];
+            
+            for(int i = 0; i < [triggers count]; i++)
+            {
+                NSArray *trigger_card = [triggers objectAtIndex:i];
+                
+                // If the card names match up
+                if([[trigger_card objectAtIndex:0] isEqualToString:[card objectAtIndex:0]])
+                {
+                    // Make sure we have at least one trigger
+                    if([trigger_card count] < 2)
+                    {
+                        NSLog(@"Error!  A card in the triggers file doesn't have any triggers.");
+                        continue;
+                    }
+                    
+                    // Iterate through all the triggers of the card.
+                    for(int j = 1; j < [trigger_card count]; j++)
+                    {
+                        NSString *count_label = @"-1";
+                        switch(j)
+                        {
+                            case 1:
+                                count_label = @"first";
+                                break;
+                            case 2:
+                                count_label = @"second";
+                                break;
+                            case 3:
+                                count_label = @"third";
+                                break;
+                            default:
+                                count_label = @"fourth";
+                        }
+                        
+                        triggers_output = [triggers_output stringByAppendingFormat:@"The %@ trigger is %@.\n", count_label, [trigger_card objectAtIndex:j]];
+                    }
+                    
+                    break;
+                }
+            }
+            
+            output = [output stringByAppendingString:@"\n\n"];
+            output = [output stringByAppendingString:triggers_output];
 		}
 	}
 	
@@ -156,7 +209,7 @@
 	if(![fm fileExistsAtPath:documentsDirectory]) // if image is not already there
 	{
 		NSData *DLPic = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:picURL]];
-		BOOL works = [DLPic writeToFile:documentsDirectory atomically:YES];
+        [DLPic writeToFile:documentsDirectory atomically:YES];
 		
 		[DLPic release];
 	}

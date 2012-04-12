@@ -61,7 +61,7 @@
 	NSString *tempRules3 = [NSString stringWithContentsOfFile:RulesPath3 usedEncoding:&encoding error:NULL];
 	
 	self.CompRulesFull = [tempRules2 componentsSeparatedByString:@"\n"];
-	self.CompRulesGlossary = [tempRules3 componentsSeparatedByString:@"\n\r"];
+	self.CompRulesGlossary = [tempRules3 componentsSeparatedByString:@"\n\n"];
 	
 	[masterBaseTableView setFrame:CGRectMake(0, 45, 320, 415)];
 	
@@ -339,8 +339,8 @@
 			if(textRange.location != NSNotFound)
 			{
 				NSArray *obj = [[CompRulesGlossary objectAtIndex:i] componentsSeparatedByString:@"\n"];
-				if([obj count] > 1){
-					[searchResults addObject:[obj objectAtIndex:1]];
+				if([obj count] > 0){
+					[searchResults addObject:[obj objectAtIndex:0]];
 					NSNumber *nsInt = [NSNumber numberWithInt:i];
 					[searchResultsIndexes addObject:nsInt];
 				}
