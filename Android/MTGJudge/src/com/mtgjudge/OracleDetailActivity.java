@@ -31,9 +31,19 @@ public class OracleDetailActivity extends Activity {
 	    textbox.setText(getOracleFromXml(name));
 	}
 	
-	public String getOracleFromXml(String name) {
+	public String getOracleFromXml(String name)
+	{
+		return getOracleFromXml(name, false);
+	}
+	
+	// name is card name. if trigger is true, get the triggers data.  otherwise, get the full oracle info (including calling triggers recursively).
+	public String getOracleFromXml(String name, boolean trigger) {
 		String oracle = "";
+		
+		// Load XML file.
 		XmlResourceParser xmlFile = getResources().getXml(getOracleXmlId(name));
+		if(trigger)
+			xmlFile = getResources().getXml(R.xml.triggers);
 
 		int eventType = -1;
 		while (eventType != XmlResourceParser.END_DOCUMENT) {
@@ -42,7 +52,6 @@ public class OracleDetailActivity extends Activity {
 				// If we hit the "array" near the beginning of the xml  (master array of all cards)
 				if (xmlFile.getName().equals("array"))
 				{
-					
 					do
 					{
 						// Advance parser
@@ -87,8 +96,42 @@ public class OracleDetailActivity extends Activity {
 										
 									} while(eventType != XmlResourceParser.END_TAG || previousEvent != XmlResourceParser.END_TAG);
 									
+									// If we're looking for triggers
+									if(trigger)
+									{
+										String triggers = "";
+										// Iterate through the triggers and append them to the output. (skipping i=0 because that's the card name)
+										for(int i = 1; i < cardParts.length-1; i++)
+										{
+											// If there's no more triggers, stop.
+											if(cardParts[i] == null)
+												break;
+											
+											String num_label = "";
+											switch(i)
+											{
+											case 1:
+												num_label = "first";
+												break;
+											case 2:
+												num_label = "second";
+												break;
+											case 3:
+												num_label = "third";
+												break;
+											default:
+												num_label = "fourth";
+												break;
+											}
+											
+											triggers = triggers + "The " + num_label + " trigger is " + cardParts[i] + ".\n";
+										}
+										
+										return triggers;
+									}
+									
 									// If it's not a land
-									if(cardParts[5] != "nothing")
+									else if(cardParts[5] != "nothing")
 									{
 										// Name and CMC on the same line
 										oracle = "\n" + cardParts[0] + " " + cardParts[1];
@@ -114,6 +157,14 @@ public class OracleDetailActivity extends Activity {
 										// Blank line followed by set info
 										if(cardParts[4] != null)
 											oracle = oracle + "\n\n" + cardParts[4];
+									}
+									
+									// Recursively get trigger data
+									if(!trigger)
+									{
+										String triggers = getOracleFromXml(name, true);
+										
+										oracle += ("\n\n" + triggers);
 									}
 
 									return oracle;

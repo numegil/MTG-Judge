@@ -37,7 +37,7 @@ public class OracleActivity extends ListActivity {
 		setContentView(R.layout.oracle);
 		
 		// Load card names
-		ArrayList<String> cardNames = getCardNamesFromXml(R.xml.oracle_names_only_1);
+		final ArrayList<String> cardNames = getCardNamesFromXml(R.xml.oracle_names_only_1);
 		cardNames.addAll(getCardNamesFromXml(R.xml.oracle_names_only_2));
 		
 		// Setup list and search
@@ -64,13 +64,19 @@ public class OracleActivity extends ListActivity {
 			public void onTextChanged(CharSequence s, int start, int before,
 					int count) {
 				
+				boolean changed = true;
+				
 				// If search text is getting longer, we don't need to search through the entire list, only the latest search results
 				textlength=ed.getText().length();
 				if(previousSearch != null && textlength >= previousSearch.length())
 				{
+					// If search text length is < 3, don't bother. (performance is terrible)
+					if(s.length() < 3)
+						return;
+					
 					ArrayList<String> new_arr_sort= new ArrayList<String>();
 					
-					for(int i=0;i<arr_sort.size();i++)
+					for(int i=0; i<arr_sort.size(); i++)
 					{
 						if(textlength<=arr_sort.get(i).length())
 						{
@@ -92,8 +98,12 @@ public class OracleActivity extends ListActivity {
 				// First search
 				else if(previousSearch == null)
 				{
+					// If search text length is < 3, don't bother. (performance is terrible)
+					if(s.length() < 3)
+						return;
+					
 					arr_sort.clear();
-					for(int i=0;i<lv_arr.length;i++)
+					for(int i=0; i<lv_arr.length; i++)
 					{
 						if(textlength<=lv_arr[i].length())
 						{
@@ -113,8 +123,18 @@ public class OracleActivity extends ListActivity {
 					// Pop it off the search stack and make the top of the stack the live search results
 					Log.d("MTGJUDGE", "Search stack size before pop: " + search_stack.size());
 					
-					search_stack.pop();
-					arr_sort = search_stack.peek();
+					if(search_stack.size() > 0 && s.length() > 1)
+					{
+						search_stack.pop();
+						arr_sort = search_stack.peek();
+					}
+					
+					// If there's nothing to pop off, display the full search results.
+					else
+					{
+						lv1.setAdapter(new ArrayAdapter<String>(OracleActivity.this,android.R.layout.simple_list_item_1 , lv_arr));
+						changed = false;
+					}
 					/*
 					arr_sort.clear();
 					for(int i=0;i<lv_arr.length;i++)
@@ -131,7 +151,8 @@ public class OracleActivity extends ListActivity {
 					*/
 				}
 					
-				lv1.setAdapter(new ArrayAdapter<String>(OracleActivity.this,android.R.layout.simple_list_item_1 , arr_sort));
+				if(changed)
+					lv1.setAdapter(new ArrayAdapter<String>(OracleActivity.this,android.R.layout.simple_list_item_1 , arr_sort));
 				
 				previousSearch = ed.getText().toString();
 			}
@@ -153,8 +174,6 @@ public class OracleActivity extends ListActivity {
         
         startActivity(myIntent);
         
-		
-		
 	}
 	
 	public ArrayList<String> getCardNamesFromXml(int fileId) {
