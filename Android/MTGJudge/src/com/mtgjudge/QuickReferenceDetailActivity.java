@@ -29,24 +29,22 @@ public class QuickReferenceDetailActivity extends Activity {
         case 1:
         	image.setImageResource(R.drawable.guide_1);
         	break;
+        // Temporarily removed missed triggers reference from here.
         case 2:
-        	image.setImageResource(R.drawable.guide_2);
-        	break;
-        case 3:
         	image.setImageResource(R.drawable.guide_3);
         	break;
-        case 4:
+        case 3:
         	image.setImageResource(R.drawable.guide_4);
         	break;
-        case 5:
+        case 4:
         	image.setImageResource(R.drawable.guide_5);
         	break;
-        case 6:
+        case 5:
         	image.setImageResource(R.drawable.guide_6);
         	break;
-        case 7:
+        case 6:
         	image.setImageResource(R.drawable.guide_7);
-        	break;	
+        	break;
         }
 	}
 

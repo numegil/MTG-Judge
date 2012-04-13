@@ -19,7 +19,7 @@ public class QuickReferenceActivity extends ListActivity {
 	public void onCreate(Bundle icicle) {
 		super.onCreate(icicle);
 		// Create an array of Strings, that will be put to our ListActivity
-		String[] names = new String[] { "Penalties", "Missed Triggers", "Layers / Casting Spells",
+		String[] names = new String[] { "Penalties", "Layers / Casting Spells",
 				"Resolving Spells / Copiable Characteristics", "Types of Information", "Head Judge Announcement", "Reviews / Feedback"};
 		// Create an ArrayAdapter, that will actually make the Strings above
 		// appear in the ListView
