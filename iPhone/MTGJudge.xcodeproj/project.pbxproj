@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F5CB1671538C5D9005D4A45 /* OracleDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F5CB1651538C5D9005D4A45 /* OracleDetailController.m */; };
+		0F5CB1681538C5D9005D4A45 /* OracleDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F5CB1661538C5D9005D4A45 /* OracleDetailController.xib */; };
+		0F5CB1711538E6C8005D4A45 /* OracleLookupController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F5CB1701538E6C8005D4A45 /* OracleLookupController.xib */; };
 		0FDF26FB1536ECB3001DBD23 /* triggers.array in Resources */ = {isa = PBXBuildFile; fileRef = 0FDF26FA1536ECB3001DBD23 /* triggers.array */; };
 		1D3623260D0F684500981E51 /* MTGJudgeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* MTGJudgeAppDelegate.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
@@ -98,10 +101,13 @@
 		AAA67E991109C4150005D2E0 /* DecklistCounterController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA67E971109C4150005D2E0 /* DecklistCounterController.m */; };
 		AAA67E9A1109C4150005D2E0 /* DecklistCounterController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAA67E981109C4150005D2E0 /* DecklistCounterController.xib */; };
 		AAA67F2A1109D3420005D2E0 /* OracleLookupController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA67F281109D3420005D2E0 /* OracleLookupController.m */; };
-		AAA67F2B1109D3420005D2E0 /* OracleLookupController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAA67F291109D3420005D2E0 /* OracleLookupController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F5CB1641538C5D9005D4A45 /* OracleDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OracleDetailController.h; sourceTree = "<group>"; };
+		0F5CB1651538C5D9005D4A45 /* OracleDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OracleDetailController.m; sourceTree = "<group>"; };
+		0F5CB1661538C5D9005D4A45 /* OracleDetailController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = OracleDetailController.xib; path = Classes/OracleDetailController.xib; sourceTree = "<group>"; };
+		0F5CB1701538E6C8005D4A45 /* OracleLookupController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = OracleLookupController.xib; path = Classes/OracleLookupController.xib; sourceTree = "<group>"; };
 		0FDF26FA1536ECB3001DBD23 /* triggers.array */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = triggers.array; path = Resources/other/triggers.array; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* MTGJudgeAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MTGJudgeAppDelegate.h; path = Classes/MTGJudgeAppDelegate.h; sourceTree = "<group>"; };
@@ -215,7 +221,6 @@
 		AAA67E981109C4150005D2E0 /* DecklistCounterController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DecklistCounterController.xib; path = Classes/DecklistCounterController.xib; sourceTree = "<group>"; };
 		AAA67F271109D3420005D2E0 /* OracleLookupController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OracleLookupController.h; sourceTree = "<group>"; };
 		AAA67F281109D3420005D2E0 /* OracleLookupController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OracleLookupController.m; sourceTree = "<group>"; };
-		AAA67F291109D3420005D2E0 /* OracleLookupController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = OracleLookupController.xib; path = Classes/OracleLookupController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,6 +241,7 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				0F5CB15F1538BD1A005D4A45 /* Oracle */,
 				AA49E9F8141A15F7000FBC4F /* Quick Reference */,
 				AA49E9F7141A15E1000FBC4F /* IPG */,
 				AA49E9F9141A1606000FBC4F /* Comp Rules */,
@@ -244,6 +250,17 @@
 				AA5CE1B81154C16E0016912A /* XIBs */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		0F5CB15F1538BD1A005D4A45 /* Oracle */ = {
+			isa = PBXGroup;
+			children = (
+				AAA67F271109D3420005D2E0 /* OracleLookupController.h */,
+				AAA67F281109D3420005D2E0 /* OracleLookupController.m */,
+				0F5CB1641538C5D9005D4A45 /* OracleDetailController.h */,
+				0F5CB1651538C5D9005D4A45 /* OracleDetailController.m */,
+			);
+			name = Oracle;
 			sourceTree = "<group>";
 		};
 		0FDF26F81536EC83001DBD23 /* Other */ = {
@@ -360,6 +377,8 @@
 		AA5CE1B81154C16E0016912A /* XIBs */ = {
 			isa = PBXGroup;
 			children = (
+				0F5CB1701538E6C8005D4A45 /* OracleLookupController.xib */,
+				0F5CB1661538C5D9005D4A45 /* OracleDetailController.xib */,
 				AA5F041414A958E6000BEFA7 /* DecklistCounterControllerFullscreen.xib */,
 				AA5F03CC14A95879000BEFA7 /* MainWindow.xib */,
 				AA5F03CD14A95879000BEFA7 /* QuickReferenceController.xib */,
@@ -372,7 +391,6 @@
 				AA9FF5681348B3BA0081688F /* CompRulesSpecific.xib */,
 				AA5CE2AD1154CE4D0016912A /* CompRulesDetails.xib */,
 				AA5CE1DE1154C5000016912A /* CompRulesSubContents.xib */,
-				AAA67F291109D3420005D2E0 /* OracleLookupController.xib */,
 				AA8B40EE1111637B0035D8B3 /* IPGContents.xib */,
 				AA5CE0BA1154A7C70016912A /* IPGDetailMenu.xib */,
 				AA5CE1051154AC230016912A /* IPGDetail.xib */,
@@ -439,8 +457,6 @@
 				AA77108C1432CB6C001B044A /* DraftTimer.m */,
 				AA23038D12B9C52400055DE7 /* LoadingView.h */,
 				AA23038E12B9C52400055DE7 /* LoadingView.m */,
-				AAA67F271109D3420005D2E0 /* OracleLookupController.h */,
-				AAA67F281109D3420005D2E0 /* OracleLookupController.m */,
 				AAA67E961109C4150005D2E0 /* DecklistCounterController.h */,
 				AAA67E971109C4150005D2E0 /* DecklistCounterController.m */,
 				AA49E9FA141C08C8000FBC4F /* MoreViewsController.h */,
@@ -531,7 +547,6 @@
 			files = (
 				AAA67CCA1109AB4E0005D2E0 /* QuickReferenceDetailController.xib in Resources */,
 				AAA67E9A1109C4150005D2E0 /* DecklistCounterController.xib in Resources */,
-				AAA67F2B1109D3420005D2E0 /* OracleLookupController.xib in Resources */,
 				AA8B40F01111637B0035D8B3 /* IPGContents.xib in Resources */,
 				AA8B415C111192290035D8B3 /* IPGSubContents.xib in Resources */,
 				AA5CE0BC1154A7C70016912A /* IPGDetailMenu.xib in Resources */,
@@ -597,6 +612,8 @@
 				AA5F041314A958CA000BEFA7 /* oracle_names_only.array in Resources */,
 				AA5F041514A958E6000BEFA7 /* DecklistCounterControllerFullscreen.xib in Resources */,
 				0FDF26FB1536ECB3001DBD23 /* triggers.array in Resources */,
+				0F5CB1681538C5D9005D4A45 /* OracleDetailController.xib in Resources */,
+				0F5CB1711538E6C8005D4A45 /* OracleLookupController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -627,6 +644,7 @@
 				AA988C34141C183600EFFB61 /* CheckForUpdatesController.m in Sources */,
 				AA77108E1432CB6F001B044A /* DraftTimer.m in Sources */,
 				AA5F03AF14A95826000BEFA7 /* main.m in Sources */,
+				0F5CB1671538C5D9005D4A45 /* OracleDetailController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -654,7 +672,7 @@
 				INFOPLIST_FILE = "MTGJudge-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
 				PRODUCT_NAME = MTGJudge;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "673AB015-21B1-4CAD-A078-834B28D5A9DF";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "0AB81322-23BF-4A47-888D-73C27C28EC32";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;

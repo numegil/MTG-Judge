@@ -7,7 +7,7 @@
 //
 
 #import "OracleLookupController.h"
-
+#import "OracleDetailController.h"
 
 @implementation OracleLookupController
 
@@ -15,12 +15,8 @@
 @synthesize oracle;
 @synthesize oracleData;
 @synthesize triggers;
-@synthesize oracleTextView;
-@synthesize gathererPicView;
 @synthesize tableData;
 @synthesize lastSearchString;
-@synthesize returnButton;
-@synthesize gathererPicSwitch;
 
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
@@ -78,27 +74,35 @@
 	self.tableData = [[NSMutableArray alloc]init];
 	[tableData addObjectsFromArray:oracle];//on launch it should display all the records
 	
-	oracleTextView.hidden = TRUE;
 	sBar.hidden = FALSE;
 	masterBaseTableView.hidden = FALSE;
-	gathererPicMode = FALSE;
-	gathererPicView.hidden = TRUE;
-	gathererPicSwitch.hidden = TRUE;
-	gathererPicSwitch.on = FALSE;
 	
 	self.lastSearchString = [NSString stringWithString:@""];
 	
 }
 
--(NSString *) lookup:(NSString *)target
+-(NSMutableArray *) lookup:(NSString *)target
 {
 	BOOL found = false;
-	NSString *output;
+    
+    // output array - [card name, oracle, triggers, set info]
+	NSMutableArray *output = [NSMutableArray array];
 	
-	if( [target length] == 0) return @"ERROR: Null card name!  ERROR!  Please email me at MTGJudgeBugs@gmail.com to submit a bug report. (Error ID #42)"; // blank string
+    // Initialize output to empty strings.
+    for(int i = 0; i < 4; i++)
+        [output addObject:[NSString stringWithString:@""]];
+    
+    // Empty input string
+	if( [target length] == 0)
+    {
+        [output replaceObjectAtIndex:1 withObject:[NSString stringWithString:@"ERROR: Null card name!  ERROR!  Please email me at MTGJudgeBugs@gmail.com to submit a bug report. (Error ID #42)"]];
+        
+        return output;
+    }
 	
 	int firstLetter = [target characterAtIndex:0] - 65;
 	
+    // Load oracle data from file if necessary
 	if([[oracleData objectAtIndex:firstLetter] count] == 0)
 	{
         NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
@@ -109,8 +113,10 @@
 		[oracleData replaceObjectAtIndex:firstLetter withObject:newArray];
 	}
 	
+    // Iterate through oracle array looking for our card.
 	for(int i = 0; i < [[oracleData objectAtIndex:firstLetter] count]; i++)
 	{
+        // Found our card!
 		if([[[[oracleData objectAtIndex:firstLetter] objectAtIndex:i] objectAtIndex:0] caseInsensitiveCompare:target] == 0)
 		{
 			found = true;
@@ -119,30 +125,45 @@
 			BOOL land = false;			
 			if([card count] == 5) land = true;
 			
-			output = [NSString stringWithString:[card objectAtIndex:0]];
-			output = [output stringByAppendingString:@" "];
-			if(land) output = [output stringByAppendingString:@"\n"];
-			output = [output stringByAppendingString:[card objectAtIndex:1]];
-			if(!land) output = [output stringByAppendingString:@"\n"];
-			output = [output stringByAppendingString:[card objectAtIndex:2]];
-			output = [output stringByAppendingString:@"\n\n"];
+            NSString *oracleText = [NSString stringWithString:[card objectAtIndex:0]];
+            
+            // Save card name
+            [output replaceObjectAtIndex:0 withObject:[NSString stringWithString:[card objectAtIndex:0]]];
+            
+			oracleText = [oracleText stringByAppendingString:@" "];
+			if(land) oracleText = [oracleText stringByAppendingString:@"\n"];
+			oracleText = [oracleText stringByAppendingString:[card objectAtIndex:1]];
+			if(!land) oracleText = [oracleText stringByAppendingString:@"\n"];
+			oracleText = [oracleText stringByAppendingString:[card objectAtIndex:2]];
+			oracleText = [oracleText stringByAppendingString:@"\n\n"];
 			
 			int tempInt = 4;
 			if(land) tempInt = 3;
-			output = [output stringByAppendingString:[card objectAtIndex:tempInt]];
-			output = [output stringByAppendingString:@"\n\n"];
+			oracleText = [oracleText stringByAppendingString:[card objectAtIndex:tempInt]];
+			oracleText = [oracleText stringByAppendingString:@"\n\n"];
 			
 			tempInt = 3;
 			if(land) tempInt = 2;
-			output = [output stringByAppendingString:[card objectAtIndex:tempInt]];
-			output = [output stringByAppendingString:@"\n\n"];
+			oracleText = [oracleText stringByAppendingString:[card objectAtIndex:tempInt]];
 			
+            // Set info
 			tempInt = 5;
 			if(land) tempInt = 4;
-			output = [output stringByAppendingString:[card objectAtIndex:tempInt]];
+            NSString *setData = [NSString stringWithString:[card objectAtIndex:tempInt]];
+            NSArray *set_output_pre = [setData componentsSeparatedByString:@","];
+            NSMutableArray *set_output = [NSMutableArray array];
+            
+            // Remove any single leading spaces from the text info
+            for(int i = 0; i < [set_output_pre count]; i++)
+            {
+                if([[set_output_pre objectAtIndex:i] characterAtIndex:0] == ' ')
+                    [set_output addObject:[[set_output_pre objectAtIndex:i] substringFromIndex:1]];
+                else
+                    [set_output addObject:[set_output_pre objectAtIndex:i]];
+            }
             
             // See if the card has any triggers that we know about.
-            NSString *triggers_output = [NSString stringWithString:@""];
+            NSMutableArray *triggers_output = [NSMutableArray array];
             
             for(int i = 0; i < [triggers count]; i++)
             {
@@ -177,45 +198,27 @@
                                 count_label = @"fourth";
                         }
                         
-                        triggers_output = [triggers_output stringByAppendingFormat:@"The %@ trigger is %@.\n", count_label, [trigger_card objectAtIndex:j]];
+                        [triggers_output addObject:[NSString stringWithFormat:@"The %@ trigger is %@.", count_label, [trigger_card objectAtIndex:j]]];
                     }
                     
                     break;
                 }
             }
             
-            output = [output stringByAppendingString:@"\n\n"];
-            output = [output stringByAppendingString:triggers_output];
+            // Insert our results into output array
+            [output replaceObjectAtIndex:1 withObject:oracleText];
+            [output replaceObjectAtIndex:2 withObject:triggers_output];
+            [output replaceObjectAtIndex:3 withObject:set_output];
 		}
 	}
 	
 	if(found) return output;
-	else return @"Card not found!";
-}
-
--(void) updatePic:(NSString*)card
-{
-    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
-    NSString *documentsDirectory = [paths objectAtIndex:0];
-	
-	NSString *picURL = @"http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=";
-	NSString *formattedName = [card stringByReplacingOccurrencesOfString:@" " withString:@"\%20"];
-	picURL = [picURL stringByAppendingString:formattedName];
-	NSString *fullPath = [formattedName stringByAppendingString:@".jpg"];
     
-	documentsDirectory = [documentsDirectory stringByAppendingPathComponent:fullPath];	
-	
-	NSFileManager *fm = [NSFileManager defaultManager];
-	if(![fm fileExistsAtPath:documentsDirectory]) // if image is not already there
-	{
-		NSData *DLPic = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:picURL]];
-        [DLPic writeToFile:documentsDirectory atomically:YES];
-		
-		[DLPic release];
-	}
-	
-	gathererPicView.image = [UIImage imageWithContentsOfFile:documentsDirectory];
-	
+	else 
+    {
+        [output replaceObjectAtIndex:1 withObject:@"Card not found!"];
+        return output;
+    }
 }
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)aTableView {
@@ -250,18 +253,29 @@
 - (void)tableView:(UITableView *)aTableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     
     /*
-     When a row is selected, sedft the detail view controller's detail item to the item associated with the selected row.
+     When a row is selected, set the detail view controller's detail item to the item associated with the selected row.
      */
 	NSString *target = [tableData objectAtIndex:indexPath.row];
-    oracleTextView.text = [self lookup:target];
-	if(gathererPicMode) [self updatePic:target];
+    NSArray *output = [self lookup:target];
 	currentCard = [NSString stringWithString:target];
+    
+    
+	self.navigationItem.backBarButtonItem =
+	[[UIBarButtonItem alloc] initWithTitle:@"Back"
+									 style: UIBarButtonItemStyleBordered
+									target:nil
+									action:nil];
 	
-	masterBaseTableView.hidden = TRUE;
-	if(!gathererPicMode) oracleTextView.hidden = FALSE;
-	else gathererPicView.hidden = FALSE;
-	sBar.hidden = TRUE;
-	//gathererPicSwitch.hidden = FALSE;
+    // Navigation logic may go here -- for example, create and push another view controller.
+	OracleDetailController *anotherViewController = [[OracleDetailController alloc] init];
+	
+	[anotherViewController setOracle:[output objectAtIndex:1] triggers:[output objectAtIndex:2] setInfo:[output objectAtIndex:3]];
+	
+    anotherViewController.title = [output objectAtIndex:0];
+	
+	[self.navigationController pushViewController:anotherViewController animated:YES];
+	
+	[anotherViewController release];	
 	
 	[sBar resignFirstResponder];
 	[masterBaseTableView setFrame:CGRectMake(0, 45, 320, 375)];
@@ -273,39 +287,6 @@
 	
 	[sBar resignFirstResponder];
 	[masterBaseTableView setFrame:CGRectMake(0, 45, 320, 375)];
-}
-
--(IBAction) switchFlipped;
-{
-	
-	gathererPicMode = gathererPicSwitch.on;
-	
-	if(gathererPicMode)
-	{
-		[self updatePic:currentCard];
-		oracleTextView.hidden = TRUE;
-		gathererPicView.hidden = FALSE;
-	}
-	else 
-	{
-		oracleTextView.hidden = FALSE;
-		gathererPicView.hidden = TRUE;
-	}
-	return;
-
-}
-
-///////////
-///////////
-///////////
-
-- (void) returnButtonPressed
-{
-	masterBaseTableView.hidden = FALSE;
-	oracleTextView.hidden = TRUE;
-	sBar.hidden = FALSE;
-	gathererPicView.hidden = TRUE;
-	gathererPicSwitch.hidden = TRUE;
 }
 
 - (void)didReceiveMemoryWarning {
@@ -443,5 +424,19 @@
 	return YES;
 }
 */
+
+// Hide 
+
+- (void) viewWillAppear:(BOOL)animated
+{
+    [self.navigationController setNavigationBarHidden:YES animated:animated];
+    [super viewWillAppear:animated];
+}
+
+- (void) viewWillDisappear:(BOOL)animated
+{
+    [self.navigationController setNavigationBarHidden:NO animated:animated];
+    [super viewWillDisappear:animated];
+}
 
 @end
