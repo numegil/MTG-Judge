@@ -58,7 +58,7 @@ public class OracleDetailActivity extends Activity {
 						eventType = advanceXml(xmlFile);
 						
 						// If we hit a new card
-						if(xmlFile.getName().equals("array"))
+						if(xmlFile.getName() != null && xmlFile.getName().equals("array"))
 						{
 							// Advance parser
 							eventType = advanceXml(xmlFile);
@@ -164,7 +164,8 @@ public class OracleDetailActivity extends Activity {
 									{
 										String triggers = getOracleFromXml(name, true);
 										
-										oracle += ("\n\n" + triggers);
+										if(triggers != "NOT FOUND")
+											oracle += ("\n\n" + triggers);
 									}
 
 									return oracle;
