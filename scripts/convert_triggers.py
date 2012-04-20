@@ -1,6 +1,6 @@
 # coding=latin-1
 
-# IMPORTANT:  Don't forget to replace 'í' with 'Ae' in the output file.
+# IMPORTANT:  Don't forget to replace 'Æ' with 'Ae' in the output file.
 # IMPORTANT:  Don't forget to replace 'Ç' with 'e' in the output file.
 print "IMPORTANT:  Don't forget to make character replacements (see source of this file)"
 
@@ -35,12 +35,14 @@ for i, line in enumerate(lines):
     
     # Iterate through each of the 4 trigger fields and see if there's anything there.
     triggers = []
-    for index in range(99, 103):
+    for index in range(2,6):
         try:
             part = line[index]
         except:
             pdb.set_trace()
         if len(part) > 0:
+            if index == 6:
+                print 'IMPORTANT:  Card with more than 4 triggers encountered - be sure to update the iPhone source to accomodate for this!'
             triggers.append(part)
     
     # If there's something there for triggers, add it to the output file.

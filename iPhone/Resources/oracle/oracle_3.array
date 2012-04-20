@@ -183,12 +183,12 @@ At the beginning of the upkeep of enchanted creature's controller, that player m
 		<string>Ninth Edition Uncommon, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Arabian Nights Rare</string>
 	</array>
 	<array>
-		<string>Dandân</string>
+		<string>Dandan</string>
 		<string>UU</string>
 		<string>Creature  - Fish</string>
 		<string>(4/1)</string>
-		<string>Dandân can't attack unless defending player controls an Island.
-When you control no Islands, sacrifice Dandân.</string>
+		<string>Dandan can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Dandan.</string>
 		<string>Time Spiral "Timeshifted" Special, Fifth Edition Common, Chronicles Common, Arabian Nights Common</string>
 	</array>
 	<array>

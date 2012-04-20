@@ -19,10 +19,10 @@ CompRulesGlossary.txt
 3
 
 triggers.array
-3
+4
 
 oracle_names_only.array
-3
+4
 
 oracle_0.array
 3
@@ -34,7 +34,7 @@ oracle_2.array
 3
 
 oracle_3.array
-3
+4
 
 oracle_4.array
 3
