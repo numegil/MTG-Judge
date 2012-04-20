@@ -17,6 +17,7 @@ Replace all instances of ’ with '
 Replace all instances of û with u
 Replace all instances of é with e
 Replace all instances of Ž with e
+Replace all instances of ‰ with a
 
 Fix Individual Cards:
 
