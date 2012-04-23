@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DoCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
 	<array>
@@ -583,7 +583,7 @@
 	</array>
 	<array>
 		<string>Batterskull</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Battle of Wits</string>
@@ -882,7 +882,7 @@
 	</array>
 	<array>
 		<string>Bonehoard</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Booby Trap</string>
@@ -1732,10 +1732,10 @@
 		<string>Cytospawn Shambler</string>
 		<string>optional</string>
 	</array>
-	<array>
-		<string>Dandân</string>
-		<string>Mandatory</string>
-	</array>
+    <array>
+        <string>Dandan</string>
+        <string>Mandatory</string>
+    </array>
 	<array>
 		<string>Darien, King of Kjeldor</string>
 		<string>optional</string>
@@ -2780,7 +2780,7 @@
 	</array>
 	<array>
 		<string>Flayer Husk</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Flayer of the Hatebound</string>
@@ -4329,11 +4329,11 @@
 		<string>optional</string>
 	</array>
 	<array>
-		<string>Jötun Grunt</string>
+		<string>Jotun Grunt</string>
 		<string>Mandatory</string>
 	</array>
 	<array>
-		<string>Jötun owl Keeper</string>
+		<string>Jotun owl Keeper</string>
 		<string>Mandatory</string>
 		<string>Lapsing</string>
 	</array>
@@ -4842,7 +4842,7 @@
 	</array>
 	<array>
 		<string>Lashwrithe</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Latchkey Faerie</string>
@@ -5669,7 +5669,7 @@
 	</array>
 	<array>
 		<string>Mortarpod</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Mortician Beetle</string>
@@ -5868,7 +5868,7 @@
 	</array>
 	<array>
 		<string>Necropouncer</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Necroskitter</string>
@@ -7894,7 +7894,7 @@
 	</array>
 	<array>
 		<string>Sickleslicer</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Siege of Towers</string>
@@ -7980,7 +7980,7 @@
 	</array>
 	<array>
 		<string>Skinwing</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Skirk Ridge Exhumer</string>
@@ -8545,7 +8545,7 @@
 	</array>
 	<array>
 		<string>Strandwalker</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Strangleroot Geist</string>

@@ -583,7 +583,7 @@
 	</array>
 	<array>
 		<string>Batterskull</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Battle of Wits</string>
@@ -882,7 +882,7 @@
 	</array>
 	<array>
 		<string>Bonehoard</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Booby Trap</string>
@@ -2780,7 +2780,7 @@
 	</array>
 	<array>
 		<string>Flayer Husk</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Flayer of the Hatebound</string>
@@ -4842,7 +4842,7 @@
 	</array>
 	<array>
 		<string>Lashwrithe</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Latchkey Faerie</string>
@@ -5669,7 +5669,7 @@
 	</array>
 	<array>
 		<string>Mortarpod</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Mortician Beetle</string>
@@ -5868,7 +5868,7 @@
 	</array>
 	<array>
 		<string>Necropouncer</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Necroskitter</string>
@@ -7894,7 +7894,7 @@
 	</array>
 	<array>
 		<string>Sickleslicer</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Siege of Towers</string>
@@ -7980,7 +7980,7 @@
 	</array>
 	<array>
 		<string>Skinwing</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Skirk Ridge Exhumer</string>
@@ -8545,7 +8545,7 @@
 	</array>
 	<array>
 		<string>Strandwalker</string>
-		<string>Lapsing</string>
+		<string>Mandatory</string>
 	</array>
 	<array>
 		<string>Strangleroot Geist</string>
