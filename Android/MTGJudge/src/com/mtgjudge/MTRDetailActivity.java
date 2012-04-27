@@ -59,7 +59,6 @@ public class MTRDetailActivity extends ListActivity {
 		
 		if(position != (nl.size() - 1))
 		{
-			String test = nl.get(position + 1);
 			rules = bigrules.substring(bigrules.indexOf("\n", bigrules.indexOf(nl.get(position))) + 1, bigrules.indexOf(nl.get(position + 1)) -1 );
 		}
 		else
