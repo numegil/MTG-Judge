@@ -280,6 +280,14 @@ Haste</string>
 		<string>Masters Edition III Common, Portal Common</string>
 	</array>
 	<array>
+		<string>Raging Poltergeist</string>
+		<string>4R</string>
+		<string>Creature  - Spirit</string>
+		<string>(6/1)</string>
+		<string></string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Raging Ravine</string>
 		<string>Land</string>
 		<string></string>
@@ -401,6 +409,14 @@ Entwine {3}{R} (Choose both if you pay the entwine cost.)</string>
 		<string></string>
 		<string>Destroy target land.</string>
 		<string>Tenth Edition Uncommon, Mercadian Masques Uncommon, Tempest Uncommon, Portal Uncommon</string>
+	</array>
+	<array>
+		<string>Rain of Thorns</string>
+		<string>4GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose one or more - Destroy target artifact; destroy target enchantment; and/or destroy target land.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Rainbow Crow</string>
@@ -2026,6 +2042,15 @@ Enchanted creature has first strike. (It deals combat damage before creatures wi
 		<string>Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Urza's Saga Common</string>
 	</array>
 	<array>
+		<string>Reforge the Soul</string>
+		<string>3RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Each player discards his or her hand and draws seven cards.
+Miracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Refraction Trap</string>
 		<string>3W</string>
 		<string>Instant  - Trap</string>
@@ -2476,6 +2501,14 @@ Draw a card.</string>
 		<string>Saviors of Kamigawa Common</string>
 	</array>
 	<array>
+		<string>Renegade Demon</string>
+		<string>3BB</string>
+		<string>Creature  - Demon</string>
+		<string>(5/3)</string>
+		<string></string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Renegade Doppelganger</string>
 		<string>1U</string>
 		<string>Creature  - Shapeshifter</string>
@@ -2893,6 +2926,16 @@ Return X target creature cards from your graveyard to your hand.</string>
 		<string>Invasion Rare</string>
 	</array>
 	<array>
+		<string>Restoration Angel</string>
+		<string>3W</string>
+		<string>Creature  - Angel</string>
+		<string>(3/4)</string>
+		<string>Flash
+Flying
+When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Restore Balance</string>
 		<string>White</string>
 		<string>Sorcery</string>
@@ -3092,6 +3135,15 @@ Revenant Patriarch can't block.</string>
 		<string>Guildpact Uncommon</string>
 	</array>
 	<array>
+		<string>Revenge of the Hunted</string>
+		<string>4GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.
+Miracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Reverberate</string>
 		<string>RR</string>
 		<string>Instant</string>
@@ -3229,7 +3281,7 @@ Draw a card.</string>
 		<string>Sorcery</string>
 		<string></string>
 		<string>Exile target artifact or enchantment.</string>
-		<string>Scars of Mirrodin Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Scars of Mirrodin Common</string>
 	</array>
 	<array>
 		<string>Reward the Faithful</string>
@@ -3505,6 +3557,16 @@ Change the target of target spell with a single target.</string>
 		<string>Scars of Mirrodin Uncommon</string>
 	</array>
 	<array>
+		<string>Riders of Gavony</string>
+		<string>2WW</string>
+		<string>Creature  - Human Knight</string>
+		<string>(3/3)</string>
+		<string>Vigilance
+As Riders of Gavony enters the battlefield, choose a creature type.
+Human creatures you control have protection from creatures of the chosen type.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Ridge Rannet</string>
 		<string>5RR</string>
 		<string>Creature  - Beast</string>
@@ -3620,6 +3682,14 @@ Suspend 3-{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} 
 		<string>(3/1)</string>
 		<string>Plainswalk</string>
 		<string>Masters Edition Common, Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Righteous Blow</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Righteous Blow deals 2 damage to target attacking or blocking creature.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Righteous Cause</string>
@@ -3808,6 +3878,14 @@ When Ringskipper dies, clash with an opponent. If you win, return Ringskipper to
 		<string>(2/3)</string>
 		<string></string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Riot Ringleader</string>
+		<string>2R</string>
+		<string>Creature  - Human Warrior</string>
+		<string>(2/2)</string>
+		<string>Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Riot Spikes</string>
@@ -4066,6 +4144,14 @@ Rite of Consumption deals damage equal to the sacrificed creature's power to tar
 		<string>Kicker {5} (You may pay an additional {5} as you cast this spell.)
 Put a token that's a copy of target creature onto the battlefield. If Rite of Replication was kicked, put five of those tokens onto the battlefield instead.</string>
 		<string>Zendikar Rare</string>
+	</array>
+	<array>
+		<string>Rite of Ruin</string>
+		<string>5RR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Choose an order for artifacts, creatures, and lands. Each player sacrifices one permanent of the first type, sacrifices two of the second type, then sacrifices three of the third type.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Rites of Flourishing</string>
@@ -4920,6 +5006,14 @@ Whenever a creature dealt damage by Rot Wolf this turn dies, you may draw a card
 		<string>Mirrodin Besieged Common</string>
 	</array>
 	<array>
+		<string>Rotcrown Ghoul</string>
+		<string>4U</string>
+		<string>Creature  - Zombie</string>
+		<string>(3/3)</string>
+		<string>When Rotcrown Ghoul dies, target player puts the top five cards of his or her library into his or her graveyard.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Roterothopter</string>
 		<string>1</string>
 		<string>Artifact Creature  - Thopter</string>
@@ -5445,6 +5539,14 @@ When Rune-Scarred Demon enters the battlefield, search your library for a card, 
 When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
 {T}: Add one mana of any color to your mana pool.</string>
 		<string>Duel Decks: Ajani vs. Nicol Bolas Common, Magic: The Gathering-Commander Common, Premium Deck Series: Slivers Common, Conflux Common</string>
+	</array>
+	<array>
+		<string>Rush of Blood</string>
+		<string>2R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +X/+0 until end of turn, where X is its power.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Rush of Knowledge</string>

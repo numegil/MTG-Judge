@@ -24,8 +24,8 @@ Fix Individual Cards:
 1) Delete "Ach! Hans! Run!" and "___________" (from oracle_0 and namesonly only)
 2) Look at top AND bottom of each array file and fix all cards that are out of alphabetical order by putting them back in alphabetical order (this will be the split cards, Kamigawa flip cards and a few random wackos).
 3) Get rid of ampersands from R&D Secret Lair and Look at Me I'm R&D and Punctuate
-4) Fix XXCall of the Herd and XXValor and Aerathi Berserker, Butcher's Cleaver, Memory's Journey, Stitcher's Apprentice, Altar's Reap, Avacyn's Pilgrim, Curse of Death's Hold, Devil's Play, Full Moon's Rise, Geistcatcher's Rig, Ghoulcaller's Bell, Ghoulcaller's Chant, Heretic's Punishment, Inquisitor's Flail, Ludevic's Abomination, Ludevic's Test Subject, Nightbird's Clutches, Ranger's Guile, Runechanter's Pike, Traveler's Amulet
-
+4) Fix XXCall of the Herd and XXValor and Aerathi Berserker
+5) Run oracle_fix.py to fix yet another class of errors.
 
 To Update Comprehensive Rules:
 
@@ -52,12 +52,14 @@ iOS:
 2) IPG
 3) Banned List
 4) Comp Rules
+5) Missed Triggers
 
 Android:
 1) Oracle
 2) IPG
 3) Comp Rules
 4) MTR
+5) Missed Triggers
 
 
 A few useful test cases:

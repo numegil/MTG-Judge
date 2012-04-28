@@ -305,7 +305,7 @@ Hellbent - Whenever Jagged Poppet deals combat damage to a player, if you have n
 		<string>Sorcery</string>
 		<string></string>
 		<string>Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.</string>
-		<string>Duel Decks: Knights vs. Dragons Uncommon, Shadowmoor Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Duel Decks: Knights vs. Dragons Uncommon, Shadowmoor Uncommon</string>
 	</array>
 	<array>
 		<string>Jaya Ballard, Task Mage</string>
@@ -349,7 +349,7 @@ Whenever Jedit Ojanen of Efrava attacks or blocks, put a 2/2 green Cat Warrior c
 		<string>(2/5)</string>
 		<string>Vigilance
 When Jedit's Dragoons enters the battlefield, you gain 4 life.</string>
-		<string>Time Spiral Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Time Spiral Common</string>
 	</array>
 	<array>
 		<string>Jenara, Asura of War</string>
@@ -662,6 +662,14 @@ Channel - {X}{R}{R}{R}, Discard Jiwari: Jiwari deals X damage to each creature w
 		<string>Tenth Edition Rare, Fifth Dawn Rare</string>
 	</array>
 	<array>
+		<string>Joint Assault</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +2/+2 until end of turn. If it's paired with a creature, that creature also gets +2/+2 until end of turn.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Jokulhaups</string>
 		<string>4RR</string>
 		<string>Sorcery</string>
@@ -768,7 +776,7 @@ Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warca
 		<string>Worldwake Rare</string>
 	</array>
 	<array>
-		<string>Jotun Grunt</string>
+		<string>Jötun Grunt</string>
 		<string>1W</string>
 		<string>Creature  - Giant Soldier</string>
 		<string>(4/4)</string>
@@ -776,12 +784,12 @@ Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warca
 		<string>Magic: The Gathering-Commander Uncommon, Coldsnap Uncommon</string>
 	</array>
 	<array>
-		<string>Jotun Owl Keeper</string>
+		<string>Jötun Owl Keeper</string>
 		<string>2W</string>
 		<string>Creature  - Giant</string>
 		<string>(3/3)</string>
 		<string>Cumulative upkeep {W} or {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
-When Jotun Owl Keeper dies, put a 1/1 white Bird creature token with flying onto the battlefield for each age counter on it.</string>
+When Jötun Owl Keeper dies, put a 1/1 white Bird creature token with flying onto the battlefield for each age counter on it.</string>
 		<string>Coldsnap Uncommon</string>
 	</array>
 	<array>
@@ -808,7 +816,7 @@ When Journey to Nowhere leaves the battlefield, return the exiled card to the ba
 		<string>Artifact</string>
 		<string></string>
 		<string>{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.</string>
-		<string>Champions of Kamigawa Rare</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Champions of Kamigawa Rare</string>
 	</array>
 	<array>
 		<string>Joven</string>

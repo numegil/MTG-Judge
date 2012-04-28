@@ -409,6 +409,25 @@ Whenever Talruum Champion blocks or becomes blocked by a creature, that creature
 		<string>Coldsnap Rare</string>
 	</array>
 	<array>
+		<string>Tamiyo, the Moon Sage</string>
+		<string>3UU</string>
+		<string>Planeswalker  - Tamiyo</string>
+		<string>(4)</string>
+		<string>+1: Tap target permanent. It doesn't untap during its controller's next untap step.
+-2: Draw a card for each tapped creature target player controls.
+-8: You get an emblem with "You have no maximum hand size" and "Whenever a card is put into your graveyard from anywhere, you may return it to your hand."</string>
+		<string>Avacyn Restored Mythic Rare</string>
+	</array>
+	<array>
+		<string>Tandem Lookout</string>
+		<string>2U</string>
+		<string>Creature  - Human Scout</string>
+		<string>(2/1)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Tandem Lookout is paired with another creature, each of those creatures has "Whenever this creature deals damage to an opponent, draw a card."</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Tangle</string>
 		<string>1G</string>
 		<string>Instant</string>
@@ -591,7 +610,7 @@ When Tar Fiend enters the battlefield, target player discards a card for each cr
 		<string>1W</string>
 		<string>Sorcery</string>
 		<string></string>
-		<string>Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two creatures a player controls are tied for highest cost, that player chooses one.</string>
+		<string>Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.</string>
 		<string>Classic Sixth Edition Rare, Weatherlight Rare</string>
 	</array>
 	<array>
@@ -1363,6 +1382,15 @@ Prevent all damage that would be dealt by enchanted creature.</string>
 		<string>Masters Edition II Rare, Portal Second Age Rare</string>
 	</array>
 	<array>
+		<string>Temporal Mastery</string>
+		<string>5UU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Take an extra turn after this one. Exile Temporal Mastery.
+Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Mythic Rare</string>
+	</array>
+	<array>
 		<string>Temporal Spring</string>
 		<string>1GU</string>
 		<string>Sorcery</string>
@@ -1522,6 +1550,15 @@ Whenever a spell deals damage to Tephraderm, Tephraderm deals that much damage t
 		<string>Magic: The Gathering-Commander Common, Archenemy Common, Alara Reborn Common, Planeshift Common</string>
 	</array>
 	<array>
+		<string>Terminus</string>
+		<string>4WW</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put all creatures on the bottom of their owners' libraries.
+Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Teroh's Faithful</string>
 		<string>3W</string>
 		<string>Creature  - Human Cleric</string>
@@ -1596,6 +1633,14 @@ When Terrarion is put into a graveyard from the battlefield, draw a card.</strin
 		<string>Trample
 Terravore's power and toughness are each equal to the number of land cards in all graveyards.</string>
 		<string>Odyssey Rare</string>
+	</array>
+	<array>
+		<string>Terrifying Presence</string>
+		<string>1G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Prevent all combat damage that would be dealt by creatures other than target creature this turn.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Territorial Baloth</string>
@@ -1869,6 +1914,14 @@ Each permanent with a divinity counter on it is indestructible.</string>
 		<string>Betrayers of Kamigawa Rare</string>
 	</array>
 	<array>
+		<string>Thatcher Revolt</string>
+		<string>2R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put three 1/1 red Human creature tokens with haste onto the battlefield. Sacrifice those tokens at the beginning of the next end step.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Thaumatog</string>
 		<string>1GW</string>
 		<string>Creature  - Atog</string>
@@ -1970,7 +2023,7 @@ At the beginning of the chosen player's upkeep, The Rack deals X damage to that 
 		<string>Masters Edition III Rare, Legends Rare</string>
 	</array>
 	<array>
-		<string>The Ultimate Nightmare of Wizards of the Coast Customer Service</string>
+		<string>The Ultimate Nightmare of Wizards of the Coast® Customer Service</string>
 		<string>XYZRR</string>
 		<string>Sorcery</string>
 		<string></string>
@@ -2319,8 +2372,8 @@ Equip {4}</string>
 		<string>G</string>
 		<string>Creature  - Human Wizard</string>
 		<string>(1/1)</string>
-		<string>{W}, {T}: Tap target creature.
-{R}, {T}: Target creature gains first strike until end of turn.</string>
+		<string>{R}, {T}: Target creature gains first strike until end of turn.
+{W}, {T}: Tap target creature.</string>
 		<string>Duel Decks: Phyrexia vs. the Coalition Common, Invasion Common</string>
 	</array>
 	<array>
@@ -2641,6 +2694,14 @@ Fateful hour - As long as you have 5 or less life, other creatures you control g
 		<string>Vigilance
 Whenever another creature you control dies, you may transform Thraben Sentry.</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Thraben Valiant</string>
+		<string>1W</string>
+		<string>Creature  - Human Soldier</string>
+		<string>(2/1)</string>
+		<string>Vigilance</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Thran Dynamo</string>
@@ -3030,7 +3091,7 @@ Persist (When this creature dies, if it had no -1/-1 counters on it, return it t
 		<string>Instant</string>
 		<string></string>
 		<string>Choose one - Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.</string>
-		<string>Premium Deck Series: Fire and Lightning Common, Beatdown Box Set Common, Weatherlight Common</string>
+		<string>Avacyn Restored Common, Premium Deck Series: Fire and Lightning Common, Beatdown Box Set Common, Weatherlight Common</string>
 	</array>
 	<array>
 		<string>Thunderclap</string>
@@ -3103,6 +3164,15 @@ When Thundermare enters the battlefield, tap all other creatures.</string>
 		<string>Ninth Edition Rare, Weatherlight Rare, Portal Rare</string>
 	</array>
 	<array>
+		<string>Thunderous Wrath</string>
+		<string>4RR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Thunderous Wrath deals 5 damage to target creature or player.
+Miracle {R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Thunderscape Apprentice</string>
 		<string>R</string>
 		<string>Creature  - Human Wizard</string>
@@ -3172,6 +3242,16 @@ Black spells and green spells you cast cost {1} less to cast.</string>
 		<string>You may return three Islands you control to their owner's hand rather than pay Thwart's mana cost.
 Counter target spell.</string>
 		<string>Mercadian Masques Uncommon</string>
+	</array>
+	<array>
+		<string>Tibalt, the Fiend-Blooded</string>
+		<string>RR</string>
+		<string>Planeswalker  - Tibalt</string>
+		<string>(2)</string>
+		<string>+1: Draw a card, then discard a card at random.
+-4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.
+-6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.</string>
+		<string>Avacyn Restored Mythic Rare</string>
 	</array>
 	<array>
 		<string>Tibor and Lumia</string>
@@ -3401,6 +3481,14 @@ Other Treefolk and Forests you control are indestructible.</string>
 		<string>(1/1)</string>
 		<string>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</string>
 		<string>Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
+	</array>
+	<array>
+		<string>Timberland Guide</string>
+		<string>1G</string>
+		<string>Creature  - Human Scout</string>
+		<string>(1/1)</string>
+		<string>When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Timberland Ruins</string>
@@ -4126,7 +4214,7 @@ When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage t
 {R}: Change the target of target spell that targets only Torchling.
 {1}: Torchling gets +1/-1 until end of turn.
 {1}: Torchling gets -1/+1 until end of turn.</string>
-		<string>Planar Chaos Rare</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Planar Chaos Rare</string>
 	</array>
 	<array>
 		<string>Torii Watchward</string>
@@ -4177,6 +4265,15 @@ Enchanted creature gets -3/-0.</string>
 		<string>(2/2)</string>
 		<string>When Tormentor Exarch enters the battlefield, choose one - Target creature gets +2/+0 until end of turn; or target creature gets -0/-2 until end of turn.</string>
 		<string>New Phyrexia Uncommon</string>
+	</array>
+	<array>
+		<string>Tormentor's Trident</string>
+		<string>2</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +3/+0 and attacks each turn if able.
+Equip {3}</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Tormod's Crypt</string>
@@ -5024,6 +5121,15 @@ All damage that would be dealt to enchanted creature is dealt to its controller 
 		<string>Urza's Legacy Uncommon</string>
 	</array>
 	<array>
+		<string>Treacherous Pit-Dweller</string>
+		<string>BB</string>
+		<string>Creature  - Demon</string>
+		<string>(4/3)</string>
+		<string>When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Treacherous Urge</string>
 		<string>4B</string>
 		<string>Instant</string>
@@ -5544,6 +5650,22 @@ Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target crea
 		<string>Magic 2011 Rare, Duel Decks: Elspeth vs. Tezzeret Rare, Mirrodin Rare, Fourth Edition Rare, Antiquities Rare</string>
 	</array>
 	<array>
+		<string>Triumph of Cruelty</string>
+		<string>2B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, target opponent discards a card if you control the creature with the greatest power or tied for the greatest power.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
+		<string>Triumph of Ferocity</string>
+		<string>2G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, draw a card if you control the creature with the greatest power or tied for the greatest power.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Triumph of the Hordes</string>
 		<string>2GG</string>
 		<string>Sorcery</string>
@@ -5690,6 +5812,15 @@ At the beginning of your end step, tap all lands you control.</string>
 		<string>Your maximum hand size is increased by two.
 At the beginning of your upkeep, return a blue creature you control to its owner's hand.</string>
 		<string>Saviors of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Trusted Forcemage</string>
+		<string>2G</string>
+		<string>Creature  - Human Shaman</string>
+		<string>(2/2)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Trusted Forcemage is paired with another creature, each of those creatures gets +1/+1.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Trusty Machete</string>
@@ -6172,6 +6303,14 @@ Two-Headed Giant of Foriys can block an additional creature.</string>
 		<string></string>
 		<string>Target player discards his or her hand unless he or she pays 7 life.</string>
 		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Tyrant of Discord</string>
+		<string>4RRR</string>
+		<string>Creature  - Elemental</string>
+		<string>(7/7)</string>
+		<string>When Tyrant of Discord enters the battlefield, target opponent chooses a permanent he or she controls at random and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Tyrranax</string>

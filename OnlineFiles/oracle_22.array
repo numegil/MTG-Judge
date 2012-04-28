@@ -246,7 +246,7 @@ Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face u
 		<string>(0/8)</string>
 		<string>Defender, flying
 Shroud (This creature can't be the target of spells or abilities.)</string>
-		<string>Magic: The Gathering-Commander Uncommon, Alara Reborn Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Magic: The Gathering-Commander Uncommon, Alara Reborn Uncommon</string>
 	</array>
 	<array>
 		<string>Wall of Diffusion</string>
@@ -747,6 +747,14 @@ Players play with their hands revealed.</string>
 		<string></string>
 		<string>Domain - You gain 2 life for each basic land type among lands you control.</string>
 		<string>Invasion Common</string>
+	</array>
+	<array>
+		<string>Wandering Wolf</string>
+		<string>1G</string>
+		<string>Creature  - Wolf</string>
+		<string>(2/1)</string>
+		<string>Creatures with power less than Wandering Wolf's power can't block it.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Wanderlust</string>
@@ -1391,7 +1399,7 @@ Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1
 		<string>Artifact</string>
 		<string></string>
 		<string>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</string>
-		<string>Fifth Dawn Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Fifth Dawn Common</string>
 	</array>
 	<array>
 		<string>Wayfaring Giant</string>
@@ -2162,7 +2170,7 @@ Enchanted creature has protection from white. This effect doesn't remove White W
 		<string>(2/2)</string>
 		<string>Flash (You may cast this spell any time you could cast an instant.)
 When Whitemane Lion enters the battlefield, return a creature you control to its owner's hand.</string>
-		<string>Planar Chaos Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Planar Chaos Common</string>
 	</array>
 	<array>
 		<string>Whiteout</string>
@@ -2295,6 +2303,14 @@ Sacrifice Wild Cantor: Add one mana of any color to your mana pool.</string>
 		<string>(2/2)</string>
 		<string>Haste</string>
 		<string>Urza's Destiny Common</string>
+	</array>
+	<array>
+		<string>Wild Defiance</string>
+		<string>2G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature you control becomes the target of an instant or sorcery spell, that creature gets +3/+3 until end of turn.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Wild Dogs</string>
@@ -2525,6 +2541,14 @@ Draw a card.</string>
 		<string>Shadowmoor Common</string>
 	</array>
 	<array>
+		<string>Wildwood Geist</string>
+		<string>4G</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/3)</string>
+		<string>Wildwood Geist gets +2/+2 as long as it's your turn.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Willbender</string>
 		<string>1U</string>
 		<string>Creature  - Human Wizard</string>
@@ -2731,7 +2755,7 @@ Attacking creatures you control have lifelink.</string>
 {W}: Windreaver gets +0/+1 until end of turn.
 {U}: Switch Windreaver's power and toughness until end of turn.
 {U}: Return Windreaver to its owner's hand.</string>
-		<string>Dissension Rare</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Dissension Rare</string>
 	</array>
 	<array>
 		<string>Windrider Eel</string>
@@ -2858,6 +2882,15 @@ Golem creatures you control have flying.</string>
 Morph {2}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 When Wingbeat Warrior is turned face up, target creature gains first strike until end of turn.</string>
 		<string>Legions Common</string>
+	</array>
+	<array>
+		<string>Wingcrafter</string>
+		<string>U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Wingcrafter is paired with another creature, both creatures have flying.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Winged Coatl</string>
@@ -3395,6 +3428,24 @@ When Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature t
 		<string>Equipped creature has "{T}: This creature deals 1 damage to target creature or player" and "{T}: This creature deals 3 damage to target Werewolf creature."
 Equip {5}</string>
 		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
+		<string>Wolfir Avenger</string>
+		<string>1GG</string>
+		<string>Creature  - Wolf Warrior</string>
+		<string>(3/3)</string>
+		<string>Flash (You may cast this spell any time you could cast an instant.)
+{1}{G}: Regenerate Wolfir Avenger.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
+		<string>Wolfir Silverheart</string>
+		<string>3GG</string>
+		<string>Creature  - Wolf Warrior</string>
+		<string>(4/4)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Wolf-Skull Shaman</string>

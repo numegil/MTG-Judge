@@ -26,6 +26,7 @@
 	<s>Abuna Acolyte</s>
 	<s>Abuna's Chant</s>
 	<s>Abundance</s>
+	<s>Abundant Growth</s>
 	<s>Abyssal Gatekeeper</s>
 	<s>Abyssal Horror</s>
 	<s>Abyssal Hunter</s>
@@ -120,6 +121,7 @@
 	<s>Agent of Masks</s>
 	<s>Agent of Shauku</s>
 	<s>Agent of Stromgald</s>
+	<s>Aggravate</s>
 	<s>Aggravated Assault</s>
 	<s>Aggression</s>
 	<s>Aggressive Urge</s>
@@ -177,6 +179,8 @@
 	<s>Aladdin's Ring</s>
 	<s>Alarum</s>
 	<s>Albino Troll</s>
+	<s>Alchemist's Apprentice</s>
+	<s>Alchemist's Refuge</s>
 	<s>Alchor's Tomb</s>
 	<s>Aleatory</s>
 	<s>Alert Shu Infantry</s>
@@ -213,6 +217,7 @@
 	<s>Altar's Reap</s>
 	<s>Alter Reality</s>
 	<s>Aluren</s>
+	<s>Amass the Components</s>
 	<s>Ambassador Laquatus</s>
 	<s>Ambassador Oak</s>
 	<s>Amber Prison</s>
@@ -274,6 +279,8 @@
 	<s>Angel of Despair</s>
 	<s>Angel of Flight Alabaster</s>
 	<s>Angel of Fury</s>
+	<s>Angel of Glory's Rise</s>
+	<s>Angel of Jubilation</s>
 	<s>Angel of Light</s>
 	<s>Angel of Mercy</s>
 	<s>Angel of Retribution</s>
@@ -281,6 +288,7 @@
 	<s>Angelfire Crusader</s>
 	<s>Angelheart Vial</s>
 	<s>Angelic Arbiter</s>
+	<s>Angelic Armaments</s>
 	<s>Angelic Benediction</s>
 	<s>Angelic Blessing</s>
 	<s>Angelic Chorus</s>
@@ -298,6 +306,7 @@
 	<s>Angel's Grace</s>
 	<s>Angel's Herald</s>
 	<s>Angel's Mercy</s>
+	<s>Angel's Tomb</s>
 	<s>Angel's Trumpet</s>
 	<s>Angelsong</s>
 	<s>Anger</s>
@@ -348,6 +357,7 @@
 	<s>Apocalypse Hydra</s>
 	<s>Apostle's Blessing</s>
 	<s>Apothecary Initiate</s>
+	<s>Appetite for Brains</s>
 	<s>Apprentice Necromancer</s>
 	<s>Apprentice Sorcerer</s>
 	<s>Apprentice Wizard</s>
@@ -372,6 +382,7 @@
 	<s>Arcades Sabboth</s>
 	<s>Arcane Denial</s>
 	<s>Arcane Laboratory</s>
+	<s>Arcane Melee</s>
 	<s>Arcane Sanctum</s>
 	<s>Arcane Spyglass</s>
 	<s>Arcane Teachings</s>
@@ -402,6 +413,7 @@
 	<s>Archmage Ascension</s>
 	<s>Archon of Justice</s>
 	<s>Archon of Redemption</s>
+	<s>Archwing Dragon</s>
 	<s>Arc-Slogger</s>
 	<s>Arctic Flats</s>
 	<s>Arctic Foxes</s>
@@ -569,6 +581,7 @@
 	<s>Autumn Willow</s>
 	<s>Autumn's Veil</s>
 	<s>Kitsune Mystic (Autumn-Tail, Kitsune Sage)</s>
+	<s>Avacyn, Angel of Hope</s>
 	<s>Avacynian Priest</s>
 	<s>Avacyn's Collar</s>
 	<s>Avacyn's Pilgrim</s>
@@ -700,7 +713,9 @@
 	<s>Baneslayer Angel</s>
 	<s>Banewasp Affliction</s>
 	<s>Banishing Knack</s>
+	<s>Banishing Stroke</s>
 	<s>Banishment Decree</s>
+	<s>Banners Raised</s>
 	<s>Banshee</s>
 	<s>Banshee's Blade</s>
 	<s>Bant Battlemage</s>
@@ -774,6 +789,7 @@
 	<s>Battle Cry</s>
 	<s>Battle Frenzy</s>
 	<s>Battle Hurda</s>
+	<s>Battle Hymn</s>
 	<s>Battle Mastery</s>
 	<s>Battle of Wits</s>
 	<s>Battle Rampart</s>
@@ -908,6 +924,7 @@
 	<s>Blade of the Sixth Pride</s>
 	<s>Blade Sliver</s>
 	<s>Blade Splicer</s>
+	<s>Bladed Bracers</s>
 	<s>Bladed Pinions</s>
 	<s>Bladed Sentinel</s>
 	<s>Blademane Baku</s>
@@ -945,6 +962,7 @@
 	<s>Blessing</s>
 	<s>Blessing of Leeches</s>
 	<s>Blessing of the Nephilim</s>
+	<s>Blessings of Nature</s>
 	<s>Blight</s>
 	<s>Blight Mamba</s>
 	<s>Blight Sickle</s>
@@ -987,6 +1005,7 @@
 	<s>Bloated Toad</s>
 	<s>Blockade Runner</s>
 	<s>Blockbuster</s>
+	<s>Blood Artist</s>
 	<s>Blood Celebrant</s>
 	<s>Blood Clock</s>
 	<s>Blood Crypt</s>
@@ -1020,6 +1039,7 @@
 	<s>Bloodfire Dwarf</s>
 	<s>Bloodfire Infusion</s>
 	<s>Bloodfire Kavu</s>
+	<s>Bloodflow Connoisseur</s>
 	<s>Bloodghast</s>
 	<s>Bloodgift Demon</s>
 	<s>Bloodhall Ooze</s>
@@ -1124,6 +1144,7 @@
 	<s>Bonesplitter Sliver</s>
 	<s>Bonethorn Valesk</s>
 	<s>Boneyard Wurm</s>
+	<s>Bonfire of the Damned</s>
 	<s>Booby Trap</s>
 	<s>Book Burning</s>
 	<s>Book of Rass</s>
@@ -1151,7 +1172,7 @@
 	<s>Borrowing the East Wind</s>
 	<s>Boseiju, Who Shelters All</s>
 	<s>Bosh, Iron Golem</s>
-	<s>Bosium Strip</s>
+	<s>Bösium Strip</s>
 	<s>Bosk Banneret</s>
 	<s>Bosom Buddy</s>
 	<s>Bottle Gnomes</s>
@@ -1166,6 +1187,7 @@
 	<s>Bountiful Harvest</s>
 	<s>Bounty Hunter</s>
 	<s>Bounty of the Hunt</s>
+	<s>Bower Passage</s>
 	<s>Brace for Impact</s>
 	<s>Brackwater Elemental</s>
 	<s>Braid of Fire</s>
@@ -1274,6 +1296,7 @@
 	<s>Browbeat</s>
 	<s>Brown Ouphe</s>
 	<s>Browse</s>
+	<s>Bruna, Light of Alabaster</s>
 	<s>Brush with Death</s>
 	<s>Brushland</s>
 	<s>Brushstroke Paintermage</s>
@@ -1289,6 +1312,7 @@
 	<s>Budoka Gardener</s>
 	<s>Budoka Pupil</s>
 	<s>Builder's Bane</s>
+	<s>Builder's Blessing</s>
 	<s>Bull Aurochs</s>
 	<s>Bull Cerodon</s>
 	<s>Bull Elephant</s>
@@ -1304,6 +1328,7 @@
 	<s>Burgeoning</s>
 	<s>Buried Alive</s>
 	<s>Buried Ruin</s>
+	<s>Burn at the Stake</s>
 	<s>Burn the Impure</s>
 	<s>Burn Trail</s>
 	<s>Burning Cinder Fury of Crimson Chaos Fire</s>
@@ -1333,9 +1358,10 @@
 	<s>Bursting Beebles</s>
 	<s>Bushi Tenderfoot</s>
 	<s>Boom // Bust (Bust)</s>
+	<s>Butcher Ghoul</s>
 	<s>Butcher of Malakir</s>
 	<s>Butcher Orgg</s>
-	<s>Butcher’s Cleaver</s>
+	<s>Butcher's Cleaver</s>
 	<s>Cabal Archon</s>
 	<s>Cabal Coffers</s>
 	<s>Cabal Conditioning</s>
@@ -1378,6 +1404,7 @@
 	<s>Call to Glory</s>
 	<s>Call to Heel</s>
 	<s>Call to Mind</s>
+	<s>Call to Serve</s>
 	<s>Call to the Grave</s>
 	<s>Call to the Kindred</s>
 	<s>Call to the Netherworld</s>
@@ -1419,6 +1446,7 @@
 	<s>Capricious Efreet</s>
 	<s>Capricious Sorcerer</s>
 	<s>Capsize</s>
+	<s>Captain of the Mists</s>
 	<s>Captain of the Watch</s>
 	<s>Captain Sisay</s>
 	<s>Captain's Maneuver</s>
@@ -1489,9 +1517,11 @@
 	<s>Cateran Slaver</s>
 	<s>Cateran Summons</s>
 	<s>Caterwauling Boggart</s>
+	<s>Cathars' Crusade</s>
 	<s>Cathartic Adept</s>
 	<s>Cathedral Membrane</s>
 	<s>Cathedral of Serra</s>
+	<s>Cathedral Sanctifier</s>
 	<s>Cathodion</s>
 	<s>Cauldron Dance</s>
 	<s>Cauldron Haze</s>
@@ -1509,6 +1539,7 @@
 	<s>Cave-In</s>
 	<s>Cavern Crawler</s>
 	<s>Cavern Harpy</s>
+	<s>Cavern of Souls</s>
 	<s>Cavern Thoctar</s>
 	<s>Caverns of Despair</s>
 	<s>Caves of Koilos</s>
@@ -1591,6 +1622,7 @@
 	<s>Chameleon Colossus</s>
 	<s>Chameleon Spirit</s>
 	<s>Champion Lancer</s>
+	<s>Champion of Lambholt</s>
 	<s>Champion of the Parish</s>
 	<s>Champion's Drake</s>
 	<s>Champion's Helm</s>
@@ -1823,6 +1855,7 @@
 	<s>Cloudpost</s>
 	<s>Cloudreach Cavalry</s>
 	<s>Cloudseeder</s>
+	<s>Cloudshift</s>
 	<s>Cloudskate</s>
 	<s>Cloudstone Curio</s>
 	<s>Cloudthresher</s>
@@ -1881,6 +1914,7 @@
 	<s>Commandeer</s>
 	<s>Commander Eesha</s>
 	<s>Commander Greven il-Vec</s>
+	<s>Commander's Authority</s>
 	<s>Commando Raid</s>
 	<s>Common Cause</s>
 	<s>Common Courtesy</s>
@@ -1912,6 +1946,7 @@
 	<s>Congregation at Dawn</s>
 	<s>Conjurer's Ban</s>
 	<s>Conjurer's Bauble</s>
+	<s>Conjurer's Closet</s>
 	<s>Conquer</s>
 	<s>Conquering Manticore</s>
 	<s>Conqueror's Pledge</s>
@@ -1985,6 +2020,7 @@
 	<s>Corpse Dance</s>
 	<s>Corpse Harvester</s>
 	<s>Corpse Lunge</s>
+	<s>Corpse Traders</s>
 	<s>Corpsehatch</s>
 	<s>Corpulent Corpse</s>
 	<s>Corrosion</s>
@@ -2046,6 +2082,7 @@
 	<s>Crashing Boars</s>
 	<s>Crashing Centaur</s>
 	<s>Crater Hellion</s>
+	<s>Craterhoof Behemoth</s>
 	<s>Craven Giant</s>
 	<s>Craven Knight</s>
 	<s>Craw Giant</s>
@@ -2081,6 +2118,7 @@
 	<s>Crimson Manticore</s>
 	<s>Crimson Roc</s>
 	<s>Crimson Wisps</s>
+	<s>Crippling Chill</s>
 	<s>Crippling Fatigue</s>
 	<s>Cromat</s>
 	<s>Crookclaw Elder</s>
@@ -2194,6 +2232,7 @@
 	<s>Curse of the Pierced Heart</s>
 	<s>Curse of Thirst</s>
 	<s>Curse of Wizardry</s>
+	<s>Cursebreak</s>
 	<s>Cursecatcher</s>
 	<s>Cursed Flesh</s>
 	<s>Cursed Land</s>
@@ -2245,6 +2284,7 @@
 	<s>Dance of the Dead</s>
 	<s>Dancing Scimitar</s>
 	<s>Dandân</s>
+	<s>Dangerous Wager</s>
 	<s>Daraja Griffin</s>
 	<s>Darba</s>
 	<s>Darien, King of Kjeldor</s>
@@ -2260,6 +2300,7 @@
 	<s>Dark Favor</s>
 	<s>Dark Hatchling</s>
 	<s>Dark Heart of the Wood</s>
+	<s>Dark Impostor</s>
 	<s>Dark Maze</s>
 	<s>Dark Offering</s>
 	<s>Dark Privilege</s>
@@ -2351,6 +2392,7 @@
 	<s>Dead Ringers</s>
 	<s>Dead Weight</s>
 	<s>Deadapult</s>
+	<s>Deadeye Navigator</s>
 	<s>Deadfall</s>
 	<s>Deadhead</s>
 	<s>Dead-Iron Sledge</s>
@@ -2385,6 +2427,7 @@
 	<s>Death Stroke</s>
 	<s>Death Ward</s>
 	<s>Death Watch</s>
+	<s>Death Wind</s>
 	<s>Death Wish</s>
 	<s>Deathbringer Liege</s>
 	<s>Deathbringer Thoctar</s>
@@ -2443,6 +2486,7 @@
 	<s>Deepwood Legate</s>
 	<s>Deepwood Tantiv</s>
 	<s>Deepwood Wolverine</s>
+	<s>Defang</s>
 	<s>Defender en-Vec</s>
 	<s>Defender of Chaos</s>
 	<s>Defender of Law</s>
@@ -2461,6 +2505,7 @@
 	<s>Deflection</s>
 	<s>Deft Duelist</s>
 	<s>Deftblade Elite</s>
+	<s>Defy Death</s>
 	<s>Defy Gravity</s>
 	<s>Dega Disciple</s>
 	<s>Dega Sanctuary</s>
@@ -2468,7 +2513,7 @@
 	<s>Deglamer</s>
 	<s>Dehydration</s>
 	<s>Deity of Scars</s>
-	<s>Déjà Vu</s>
+	<s>Dejà Vu</s>
 	<s>Delay</s>
 	<s>Delaying Shield</s>
 	<s>Delif's Cone</s>
@@ -2495,8 +2540,11 @@
 	<s>Demonic Consultation</s>
 	<s>Demonic Dread</s>
 	<s>Demonic Hordes</s>
+	<s>Demonic Rising</s>
+	<s>Demonic Taskmaster</s>
 	<s>Demonic Torment</s>
 	<s>Demonic Tutor</s>
+	<s>Demonlord of Ashmouth</s>
 	<s>Demonmail Hauberk</s>
 	<s>Demon's Herald</s>
 	<s>Demon's Horn</s>
@@ -2519,6 +2567,8 @@
 	<s>Descendant of Kiyomaro</s>
 	<s>Descendant of Masumaro</s>
 	<s>Descendant of Soramaro</s>
+	<s>Descendants' Path</s>
+	<s>Descent into Madness</s>
 	<s>Desecrated Earth</s>
 	<s>Desecration Elemental</s>
 	<s>Desecrator Hag</s>
@@ -2529,6 +2579,7 @@
 	<s>Desert Twister</s>
 	<s>Deserted Temple</s>
 	<s>Desertion</s>
+	<s>Desolate Lighthouse</s>
 	<s>Desolation</s>
 	<s>Desolation Angel</s>
 	<s>Desolation Giant</s>
@@ -2553,6 +2604,7 @@
 	<s>Devastating Dreams</s>
 	<s>Devastating Summons</s>
 	<s>Devastation</s>
+	<s>Devastation Tide</s>
 	<s>Research // Development (Development)</s>
 	<s>Devil's Play</s>
 	<s>Devoted Caretaker</s>
@@ -2566,6 +2618,7 @@
 	<s>Devouring Rage</s>
 	<s>Devouring Strossus</s>
 	<s>Devouring Swarm</s>
+	<s>Devout Chaplain</s>
 	<s>Devout Harpist</s>
 	<s>Devout Lightcaster</s>
 	<s>Devout Monk</s>
@@ -2603,6 +2656,7 @@
 	<s>Dire Undercurrents</s>
 	<s>Dire Wolves</s>
 	<s>Diregraf Captain</s>
+	<s>Diregraf Escort</s>
 	<s>Diregraf Ghoul</s>
 	<s>Dirge of Dread</s>
 	<s>Dirtcowl Wurm</s>
@@ -2667,6 +2721,7 @@
 	<s>Divert</s>
 	<s>Divination</s>
 	<s>Divine Congregation</s>
+	<s>Divine Deflection</s>
 	<s>Divine Favor</s>
 	<s>Divine Intervention</s>
 	<s>Divine Light</s>
@@ -2785,11 +2840,13 @@
 	<s>Dread Reaper</s>
 	<s>Dread Return</s>
 	<s>Dread Slag</s>
+	<s>Dread Slaver</s>
 	<s>Dread Specter</s>
 	<s>Dread Statuary</s>
 	<s>Dread Warlock</s>
 	<s>Dread Wight</s>
 	<s>Dreadship Reef</s>
+	<s>Dreadwaters</s>
 	<s>Dreadwing</s>
 	<s>Dream Cache</s>
 	<s>Dream Chisel</s>
@@ -2829,6 +2886,7 @@
 	<s>Drinker of Sorrow</s>
 	<s>Dripping Dead</s>
 	<s>Dripping-Tongue Zubera</s>
+	<s>Driver of the Dead</s>
 	<s>Drogskol Captain</s>
 	<s>Drogskol Reaver</s>
 	<s>Dromad Purebred</s>
@@ -2862,12 +2920,15 @@
 	<s>Druid of the Anima</s>
 	<s>Druidic Satchel</s>
 	<s>Druid's Call</s>
+	<s>Druid's Familiar</s>
+	<s>Druids' Repository</s>
 	<s>Drumhunter</s>
 	<s>Dry Spell</s>
 	<s>Dryad Arbor</s>
 	<s>Dryad Sophisticate</s>
 	<s>Dryad's Caress</s>
 	<s>Dryad's Favor</s>
+	<s>Dual Casting</s>
 	<s>Dual Nature</s>
 	<s>Duct Crawler</s>
 	<s>Due Respect</s>
@@ -2955,6 +3016,7 @@
 	<s>Earthshaker</s>
 	<s>Earwig Squad</s>
 	<s>Eastern Paladin</s>
+	<s>Eaten by Spiders</s>
 	<s>Eater of Days</s>
 	<s>Eater of the Dead</s>
 	<s>Ebon Dragon</s>
@@ -3027,6 +3089,7 @@
 	<s>Elfhame Palace</s>
 	<s>Elfhame Sanctuary</s>
 	<s>Elgaud Inquisitor</s>
+	<s>Elgaud Shieldmate</s>
 	<s>El-Hajjâj</s>
 	<s>Elite Archers</s>
 	<s>Elite Cat Warrior</s>
@@ -3082,6 +3145,7 @@
 	<s>Elvish Vanguard</s>
 	<s>Elvish Visionary</s>
 	<s>Elvish Warrior</s>
+	<s>Emancipation Angel</s>
 	<s>Embalmed Brawler</s>
 	<s>Embargo</s>
 	<s>Ember Beast</s>
@@ -3184,6 +3248,7 @@
 	<s>Entomb</s>
 	<s>Entomber Exarch</s>
 	<s>Entrails Feaster</s>
+	<s>Entreat the Angels</s>
 	<s>Entropic Eidolon</s>
 	<s>Entropic Specter</s>
 	<s>Envelop</s>
@@ -3240,6 +3305,7 @@
 	<s>Essence Filter</s>
 	<s>Essence Flare</s>
 	<s>Essence Fracture</s>
+	<s>Essence Harvest</s>
 	<s>Essence Leak</s>
 	<s>Essence of the Wild</s>
 	<s>Essence Scatter</s>
@@ -3282,6 +3348,7 @@
 	<s>Everglove Courier</s>
 	<s>Everlasting Torment</s>
 	<s>Evermind</s>
+	<s>Evernight Shade</s>
 	<s>Evershrike</s>
 	<s>Evil Eye of Orms-by-Gore</s>
 	<s>Evil Eye of Urborg</s>
@@ -3327,6 +3394,7 @@
 	<s>Explosive Revelation</s>
 	<s>Explosive Vegetation</s>
 	<s>Expunge</s>
+	<s>Exquisite Blood</s>
 	<s>Exsanguinate</s>
 	<s>Extinction</s>
 	<s>Extinguish</s>
@@ -3381,6 +3449,7 @@
 	<s>Faith's Fetters</s>
 	<s>Faith's Shield</s>
 	<s>Falkenrath Aristocrat</s>
+	<s>Falkenrath Exterminator</s>
 	<s>Falkenrath Marauders</s>
 	<s>Falkenrath Noble</s>
 	<s>Falkenrath Torturer</s>
@@ -3420,6 +3489,7 @@
 	<s>Fanning the Flames</s>
 	<s>Far Wanderings</s>
 	<s>Farbog Boneflinger</s>
+	<s>Farbog Explorer</s>
 	<s>Farewell to Arms</s>
 	<s>Farhaven Elf</s>
 	<s>Farmstead</s>
@@ -3451,6 +3521,7 @@
 	<s>Favor of the Overbeing</s>
 	<s>Favor of the Woods</s>
 	<s>Favorable Destiny</s>
+	<s>Favorable Winds</s>
 	<s>Fear</s>
 	<s>Feast of Blood</s>
 	<s>Feast of Flesh</s>
@@ -3496,6 +3567,7 @@
 	<s>Fertile Ground</s>
 	<s>Fertile Imagination</s>
 	<s>Fertilid</s>
+	<s>Fervent Cathar</s>
 	<s>Fervent Charge</s>
 	<s>Fervent Denial</s>
 	<s>Fervor</s>
@@ -3510,6 +3582,7 @@
 	<s>Festival of Trokin</s>
 	<s>Fetid Heath</s>
 	<s>Fetid Horror</s>
+	<s>Fettergeist</s>
 	<s>Feudkiller's Verdict</s>
 	<s>Fever Charm</s>
 	<s>Fevered Convulsions</s>
@@ -3702,6 +3775,7 @@
 	<s>Flow of Ideas</s>
 	<s>Flow of Maggots</s>
 	<s>Flowering Field</s>
+	<s>Flowering Lumberknot</s>
 	<s>Flowstone Armor</s>
 	<s>Flowstone Blade</s>
 	<s>Flowstone Channeler</s>
@@ -3930,7 +4004,9 @@
 	<s>Galina's Knight</s>
 	<s>Gallantry</s>
 	<s>Gallowbraid</s>
+	<s>Gallows at Willow Hill</s>
 	<s>Gallows Warden</s>
+	<s>Galvanic Alchemist</s>
 	<s>Galvanic Arc</s>
 	<s>Galvanic Blast</s>
 	<s>Galvanic Juggernaut</s>
@@ -3941,6 +4017,7 @@
 	<s>Game Preserve</s>
 	<s>Gamekeeper</s>
 	<s>Game-Trail Changeling</s>
+	<s>Gang of Devils</s>
 	<s>Gang of Elk</s>
 	<s>Gangrenous Goliath</s>
 	<s>Gangrenous Zombies</s>
@@ -3978,6 +4055,8 @@
 	<s>Gaze of Pain</s>
 	<s>Gaze of the Gorgon</s>
 	<s>Geist of Saint Traft</s>
+	<s>Geist Snatch</s>
+	<s>Geist Trappers</s>
 	<s>Geistcatcher's Rig</s>
 	<s>Geistflame</s>
 	<s>Geist-Honored Monk</s>
@@ -4048,6 +4127,7 @@
 	<s>Ghost Warden</s>
 	<s>Ghostfire</s>
 	<s>Ghostflame Sliver</s>
+	<s>Ghostform</s>
 	<s>Ghosthelm Courier</s>
 	<s>Ghost-Lit Nourisher</s>
 	<s>Ghost-Lit Raider</s>
@@ -4056,8 +4136,10 @@
 	<s>Ghost-Lit Warder</s>
 	<s>Ghostly Changeling</s>
 	<s>Ghostly Flame</s>
+	<s>Ghostly Flicker</s>
 	<s>Ghostly Possession</s>
 	<s>Ghostly Prison</s>
+	<s>Ghostly Touch</s>
 	<s>Ghostly Visit</s>
 	<s>Ghostly Wings</s>
 	<s>Ghosts of the Damned</s>
@@ -4065,6 +4147,7 @@
 	<s>Ghostway</s>
 	<s>Ghoulcaller's Bell</s>
 	<s>Ghoulcaller's Chant</s>
+	<s>Ghoulflesh</s>
 	<s>Ghoulraiser</s>
 	<s>Ghoul's Feast</s>
 	<s>Ghoultree</s>
@@ -4118,6 +4201,7 @@
 	<s>Gilt-Leaf Palace</s>
 	<s>Gilt-Leaf Seer</s>
 	<s>Giltspire Avenger</s>
+	<s>Gisela, Blade of Goldnight</s>
 	<s>Gitaxian Probe</s>
 	<s>Glacial Chasm</s>
 	<s>Glacial Crevasses</s>
@@ -4169,6 +4253,7 @@
 	<s>Glittering Wish</s>
 	<s>Global Ruin</s>
 	<s>Gloom</s>
+	<s>Gloom Surgeon</s>
 	<s>Gloomdrifter</s>
 	<s>Gloomhunter</s>
 	<s>Gloomlance</s>
@@ -4343,6 +4428,8 @@
 	<s>Goldmeadow Harrier</s>
 	<s>Goldmeadow Lookout</s>
 	<s>Goldmeadow Stalwart</s>
+	<s>Goldnight Commander</s>
+	<s>Goldnight Redeemer</s>
 	<s>Golem Artisan</s>
 	<s>Golem Foundry</s>
 	<s>Golem's Heart</s>
@@ -4412,6 +4499,7 @@
 	<s>Grave Bramble</s>
 	<s>Grave Consequences</s>
 	<s>Grave Defiler</s>
+	<s>Grave Exchange</s>
 	<s>Grave Pact</s>
 	<s>Grave Peril</s>
 	<s>Grave Robbers</s>
@@ -4506,6 +4594,7 @@
 	<s>Grip of Amnesia</s>
 	<s>Grip of Chaos</s>
 	<s>Griptide</s>
+	<s>Griselbrand</s>
 	<s>Gristle Grinner</s>
 	<s>Gristleback</s>
 	<s>Grixis Battlemage</s>
@@ -4528,6 +4617,7 @@
 	<s>Ground Rift</s>
 	<s>Ground Seal</s>
 	<s>Groundbreaker</s>
+	<s>Grounded</s>
 	<s>Groundling Pouncer</s>
 	<s>Groundskeeper</s>
 	<s>Groundswell</s>
@@ -4544,6 +4634,7 @@
 	<s>Gruul Signet</s>
 	<s>Gruul Turf</s>
 	<s>Gruul War Plow</s>
+	<s>Gryff Vanguard</s>
 	<s>Guan Yu, Sainted Warrior</s>
 	<s>Guan Yu's 1,000-Li March</s>
 	<s>Guard Dogs</s>
@@ -4568,6 +4659,7 @@
 	<s>Guile</s>
 	<s>Guiltfeeder</s>
 	<s>Guilty Conscience</s>
+	<s>Guise of Fire</s>
 	<s>Gulf Squid</s>
 	<s>Guma</s>
 	<s>Gurzigost</s>
@@ -4644,6 +4736,7 @@
 	<s>Hankyu</s>
 	<s>Hanna, Ship's Navigator</s>
 	<s>Hanna's Custody</s>
+	<s>Hanweir Lancer</s>
 	<s>Hanweir Watchkeep</s>
 	<s>Hapless Researcher</s>
 	<s>Harabaz Druid</s>
@@ -4672,6 +4765,7 @@
 	<s>Harvest Pyre</s>
 	<s>Harvest Wurm</s>
 	<s>Harvester Druid</s>
+	<s>Harvester of Souls</s>
 	<s>Hasran Ogress</s>
 	<s>Hatchet Bully</s>
 	<s>Hatching Plans</s>
@@ -4682,6 +4776,7 @@
 	<s>Haunted Cadaver</s>
 	<s>Haunted Crossroads</s>
 	<s>Haunted Fengraf</s>
+	<s>Haunted Guardian</s>
 	<s>Haunting Apparition</s>
 	<s>Haunting Echoes</s>
 	<s>Haunting Hymn</s>
@@ -4689,6 +4784,8 @@
 	<s>Haunting Wind</s>
 	<s>Havengul Lich</s>
 	<s>Havengul Runebinder</s>
+	<s>Havengul Skaab</s>
+	<s>Havengul Vampire</s>
 	<s>Havenwood Battleground</s>
 	<s>Havenwood Wurm</s>
 	<s>Havoc</s>
@@ -4760,6 +4857,7 @@
 	<s>Heedless One</s>
 	<s>Heidar, Rimewind Master</s>
 	<s>Heightened Awareness</s>
+	<s>Heirs of Stromkirk</s>
 	<s>Helionaut</s>
 	<s>Heliophial</s>
 	<s>Helium Squirter</s>
@@ -4794,6 +4892,7 @@
 	<s>Henge of Ramos</s>
 	<s>Herald of Leshrac</s>
 	<s>Herald of Serra</s>
+	<s>Herald of War</s>
 	<s>Herbal Poultice</s>
 	<s>Herd Gnarr</s>
 	<s>Heretic's Punishment</s>
@@ -4883,6 +4982,7 @@
 	<s>Hollowsage</s>
 	<s>Holy Armor</s>
 	<s>Holy Day</s>
+	<s>Holy Justiciar</s>
 	<s>Holy Light</s>
 	<s>Holy Strength</s>
 	<s>Homarid</s>
@@ -4891,6 +4991,7 @@
 	<s>Homarid Warrior</s>
 	<s>Homeward Path</s>
 	<s>Homicidal Brute</s>
+	<s>Homicidal Seclusion</s>
 	<s>Homing Sliver</s>
 	<s>Homura, Human Ascendant</s>
 	<s>Homura, Human Ascendant (Homura's Essence)</s>
@@ -4944,12 +5045,14 @@
 	<s>Hostility</s>
 	<s>Hot Springs</s>
 	<s>Hotheaded Giant</s>
+	<s>Hound of Griselbrand</s>
 	<s>Hour of Reckoning</s>
 	<s>Hoverguard Observer</s>
 	<s>Hoverguard Sweepers</s>
 	<s>Hovermyr</s>
 	<s>Howl from Beyond</s>
 	<s>Howl of the Night Pack</s>
+	<s>Howlgeist</s>
 	<s>Howling Banshee</s>
 	<s>Howling Fury</s>
 	<s>Howling Gale</s>
@@ -4965,6 +5068,7 @@
 	<s>Hulking Ogre</s>
 	<s>Hull Breach</s>
 	<s>Hum of the Radix</s>
+	<s>Human Frailty</s>
 	<s>Humble</s>
 	<s>Humble Budoka</s>
 	<s>Humility</s>
@@ -4979,6 +5083,7 @@
 	<s>Hungry Spriggan</s>
 	<s>Hunt Down</s>
 	<s>Hunted Dragon</s>
+	<s>Hunted Ghoul</s>
 	<s>Hunted Horror</s>
 	<s>Hunted Lammasu</s>
 	<s>Hunted Phantasm</s>
@@ -5180,6 +5285,7 @@
 	<s>Infiltrator's Magemark</s>
 	<s>Infinite Authority</s>
 	<s>Infinite Hourglass</s>
+	<s>Infinite Reflection</s>
 	<s>Inflame</s>
 	<s>Information Dealer</s>
 	<s>Infuse</s>
@@ -5242,6 +5348,7 @@
 	<s>Into the Maw of Hell</s>
 	<s>Into the North</s>
 	<s>Into the Roil</s>
+	<s>Into the Void</s>
 	<s>Into Thin Air</s>
 	<s>Intrepid Hero</s>
 	<s>Intruder Alarm</s>
@@ -5397,6 +5504,7 @@
 	<s>Johtull Wurm</s>
 	<s>Join the Ranks</s>
 	<s>Joiner Adept</s>
+	<s>Joint Assault</s>
 	<s>Jokulhaups</s>
 	<s>Jokulmorder</s>
 	<s>Jolrael, Empress of Beasts</s>
@@ -5408,8 +5516,8 @@
 	<s>Joraga Bard</s>
 	<s>Joraga Treespeaker</s>
 	<s>Joraga Warcaller</s>
-	<s>Jotun Grunt</s>
-	<s>Jotun Owl Keeper</s>
+	<s>Jötun Grunt</s>
+	<s>Jötun Owl Keeper</s>
 	<s>Journey of Discovery</s>
 	<s>Journey to Nowhere</s>
 	<s>Journeyer's Kite</s>
@@ -5592,6 +5700,7 @@
 	<s>Kentaro, the Smiling Cat</s>
 	<s>Bushi Tenderfoot (Kenzo the Hardhearted)</s>
 	<s>Kessig Cagebreakers</s>
+	<s>Kessig Malcontents</s>
 	<s>Kessig Recluse</s>
 	<s>Kessig Wolf</s>
 	<s>Kessig Wolf Run</s>
@@ -5610,6 +5719,7 @@
 	<s>Killer Bees</s>
 	<s>Killer Instinct</s>
 	<s>Killer Whale</s>
+	<s>Killing Wave</s>
 	<s>Kill-Suit Cultist</s>
 	<s>Kiln Fiend</s>
 	<s>Kiln Walker</s>
@@ -5787,6 +5897,7 @@
 	<s>Krovikan Vampire</s>
 	<s>Krovikan Whispers</s>
 	<s>Kruin Outlaw</s>
+	<s>Kruin Striker</s>
 	<s>Kry Shield</s>
 	<s>Kudzu</s>
 	<s>Kukemssa Pirates</s>
@@ -5830,6 +5941,7 @@
 	<s>Lady Sun</s>
 	<s>Lady Zhurong, Warrior Queen</s>
 	<s>Lagac Lizard</s>
+	<s>Lair Delve</s>
 	<s>Lairwatch Giant</s>
 	<s>Lake of the Dead</s>
 	<s>Lambholt Elder</s>
@@ -5870,6 +5982,7 @@
 	<s>Last Stand</s>
 	<s>Last Word</s>
 	<s>Last-Ditch Effort</s>
+	<s>Latch Seeker</s>
 	<s>Latchkey Faerie</s>
 	<s>Lat-Nam's Legacy</s>
 	<s>Latulla, Keldon Overseer</s>
@@ -5910,6 +6023,7 @@
 	<s>Leaf-Crowned Elder</s>
 	<s>Leafdrake Roost</s>
 	<s>Leap</s>
+	<s>Leap of Faith</s>
 	<s>Leap of Flame</s>
 	<s>Leaping Lizard</s>
 	<s>Leashling</s>
@@ -6020,6 +6134,8 @@
 	<s>Lightning Greaves</s>
 	<s>Lightning Helix</s>
 	<s>Lightning Hounds</s>
+	<s>Lightning Mauler</s>
+	<s>Lightning Prowess</s>
 	<s>Lightning Reaver</s>
 	<s>Lightning Reflexes</s>
 	<s>Lightning Rift</s>
@@ -6106,6 +6222,7 @@
 	<s>Lodestone Myr</s>
 	<s>Logic Knot</s>
 	<s>Lone Missionary</s>
+	<s>Lone Revenant</s>
 	<s>Lone Wolf</s>
 	<s>Lonely Sandbar</s>
 	<s>Longbow Archer</s>
@@ -6190,6 +6307,7 @@
 	<s>Luminous Wake</s>
 	<s>Lumithread Field</s>
 	<s>Lunar Avenger</s>
+	<s>Lunar Mystic</s>
 	<s>Lunge</s>
 	<s>Lunk Errant</s>
 	<s>Lure</s>

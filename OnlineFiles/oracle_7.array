@@ -445,6 +445,15 @@ Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
 		<string>Tempest Rare</string>
 	</array>
 	<array>
+		<string>Hanweir Lancer</string>
+		<string>2R</string>
+		<string>Creature  - Human Knight</string>
+		<string>(2/2)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Hanweir Lancer is paired with another creature, both creatures have first strike.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Hanweir Watchkeep</string>
 		<string>2R</string>
 		<string>Creature  - Human Warrior Werewolf</string>
@@ -681,6 +690,15 @@ Harvest Pyre deals X damage to target creature.</string>
 		<string>Judgment Common</string>
 	</array>
 	<array>
+		<string>Harvester of Souls</string>
+		<string>4BB</string>
+		<string>Creature  - Demon</string>
+		<string>(5/5)</string>
+		<string>Deathtouch
+Whenever another nontoken creature dies, you may draw a card.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Hasran Ogress</string>
 		<string>BB</string>
 		<string>Creature  - Ogre</string>
@@ -765,6 +783,14 @@ Morph {1}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it fac
 		<string>Dark Ascension Common</string>
 	</array>
 	<array>
+		<string>Haunted Guardian</string>
+		<string>2</string>
+		<string>Artifact Creature  - Construct</string>
+		<string>(2/1)</string>
+		<string>Defender, first strike</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Haunting Apparition</string>
 		<string>1UB</string>
 		<string>Creature  - Spirit</string>
@@ -822,6 +848,23 @@ Haunting Misery deals X damage to target player.</string>
 		<string>(2/2)</string>
 		<string>{2}{U}, {T}, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield, then put a +1/+1 counter on each Zombie creature you control.</string>
 		<string>Dark Ascension Rare</string>
+	</array>
+	<array>
+		<string>Havengul Skaab</string>
+		<string>5U</string>
+		<string>Creature  - Zombie Horror</string>
+		<string>(4/5)</string>
+		<string>Whenever Havengul Skaab attacks, return another creature you control to its owner's hand.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
+		<string>Havengul Vampire</string>
+		<string>3R</string>
+		<string>Creature  - Vampire</string>
+		<string>(2/2)</string>
+		<string>Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.
+Whenever another creature dies, put a +1/+1 counter on Havengul Vampire.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Havenwood Battleground</string>
@@ -1438,6 +1481,15 @@ At the beginning of your draw step, draw an additional card.</string>
 		<string>Prophecy Rare</string>
 	</array>
 	<array>
+		<string>Heirs of Stromkirk</string>
+		<string>2RR</string>
+		<string>Creature  - Vampire</string>
+		<string>(2/2)</string>
+		<string>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Helionaut</string>
 		<string>2W</string>
 		<string>Creature  - Human Soldier</string>
@@ -1739,6 +1791,16 @@ When Herald of Leshrac leaves the battlefield, each player gains control of each
 		<string>Flying, vigilance
 Echo {2}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</string>
 		<string>Urza's Saga Rare</string>
+	</array>
+	<array>
+		<string>Herald of War</string>
+		<string>3WW</string>
+		<string>Creature  - Angel</string>
+		<string>(3/3)</string>
+		<string>Flying
+Whenever Herald of War attacks, put a +1/+1 counter on it. 
+Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Herbal Poultice</string>
@@ -2510,6 +2572,14 @@ Enchanted creature gets +0/+2.
 		<string>Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Invasion Common, Legends Common</string>
 	</array>
 	<array>
+		<string>Holy Justiciar</string>
+		<string>3W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(2/1)</string>
+		<string>{2}{W}, {T}: Tap target creature. If that creature is a Zombie, exile it.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Holy Light</string>
 		<string>2W</string>
 		<string>Instant</string>
@@ -2577,6 +2647,14 @@ Whenever there are four tide counters on Homarid, remove all tide counters from 
 		<string>(5/1)</string>
 		<string>At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.</string>
 		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Homicidal Seclusion</string>
+		<string>4B</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>As long as you control exactly one creature, that creature gets +3/+1 and has lifelink.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Homing Sliver</string>
@@ -3021,6 +3099,15 @@ Hotheaded Giant enters the battlefield with two -1/-1 counters on it unless you'
 		<string>Eventide Common</string>
 	</array>
 	<array>
+		<string>Hound of Griselbrand</string>
+		<string>2RR</string>
+		<string>Creature  - Elemental Hound</string>
+		<string>(2/2)</string>
+		<string>Double strike
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Hour of Reckoning</string>
 		<string>4WWW</string>
 		<string>Sorcery</string>
@@ -3070,6 +3157,15 @@ When Hoverguard Sweepers enters the battlefield, you may return up to two target
 		<string></string>
 		<string>Put a 2/2 green Wolf creature token onto the battlefield for each Forest you control.</string>
 		<string>Magic 2010 Uncommon, Shadowmoor Uncommon</string>
+	</array>
+	<array>
+		<string>Howlgeist</string>
+		<string>5G</string>
+		<string>Creature  - Spirit Wolf</string>
+		<string>(4/2)</string>
+		<string>Creatures with power less than Howlgeist's power can't block it.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Howling Banshee</string>
@@ -3197,6 +3293,14 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
 		<string>Mirrodin Rare</string>
 	</array>
 	<array>
+		<string>Human Frailty</string>
+		<string>B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target Human creature.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Humble</string>
 		<string>1W</string>
 		<string>Instant</string>
@@ -3312,6 +3416,14 @@ Whenever Hungry Spriggan attacks, it gets +3/+3 until end of turn.</string>
 		<string>Flying, haste
 When Hunted Dragon enters the battlefield, put three 2/2 white Knight creature tokens with first strike onto the battlefield under target opponent's control.</string>
 		<string>Ravnica: City of Guilds Rare</string>
+	</array>
+	<array>
+		<string>Hunted Ghoul</string>
+		<string>B</string>
+		<string>Creature  - Zombie</string>
+		<string>(1/2)</string>
+		<string>Hunted Ghoul can't block Humans.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Hunted Horror</string>

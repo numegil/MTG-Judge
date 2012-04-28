@@ -1169,6 +1169,14 @@ You may pay {X} rather than pay the mana cost for Samurai spells you cast, where
 		<string>Innistrad Rare</string>
 	</array>
 	<array>
+		<string>Kessig Malcontents</string>
+		<string>2R</string>
+		<string>Creature  - Human Warrior</string>
+		<string>(3/1)</string>
+		<string>When Kessig Malcontents enters the battlefield, it deals damage to target player equal to the number of Humans you control.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Kessig Recluse</string>
 		<string>2GG</string>
 		<string>Creature  - Spider</string>
@@ -1320,6 +1328,14 @@ Gotcha Whenever an opponent says "Kill" or "Destroy," you may say "Gotcha" If yo
 		<string>(3/5)</string>
 		<string>{U}: Killer Whale gains flying until end of turn.</string>
 		<string>Beatdown Box Set Uncommon, Exodus Uncommon</string>
+	</array>
+	<array>
+		<string>Killing Wave</string>
+		<string>XB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>For each creature, its controller sacrifices it unless he or she pays X life.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Kill-Suit Cultist</string>
@@ -2321,7 +2337,7 @@ When Kor Aeronaut enters the battlefield, if it was kicked, target creature gain
 		<string>Creature  - Kor Scout</string>
 		<string>(2/2)</string>
 		<string>When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.</string>
-		<string>Zendikar Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Zendikar Common</string>
 	</array>
 	<array>
 		<string>Kor Chant</string>
@@ -2459,7 +2475,7 @@ Creatures can't attack you unless their controller pays {2} for each creature he
 		<string>+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.
 -2: Add {R} to your mana pool for each Mountain you control.
 -5: You get an emblem with "Mountains you control have ‘{T}: This land deals 1 damage to target creature or player.'"</string>
-		<string>Scars of Mirrodin Mythic Rare</string>
+		<string>Duel Decks: Venser vs. Koth Mythic Rare, Scars of Mirrodin Mythic Rare</string>
 	</array>
 	<array>
 		<string>Koth's Courier</string>
@@ -2856,6 +2872,14 @@ When Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 
 		<string>First strike
 At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.</string>
 		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Kruin Striker</string>
+		<string>1R</string>
+		<string>Creature  - Human Warrior</string>
+		<string>(2/1)</string>
+		<string>Whenever another creature enters the battlefield under your control, Kruin Striker gets +1/+0 and gains trample until end of turn.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Kry Shield</string>

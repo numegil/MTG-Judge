@@ -727,7 +727,16 @@ When Patagia Viper enters the battlefield, sacrifice it unless {U} was spent to 
 		<string>Instant</string>
 		<string></string>
 		<string>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.</string>
-		<string>Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Conflux Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Conflux Uncommon</string>
+	</array>
+	<array>
+		<string>Pathbreaker Wurm</string>
+		<string>4GG</string>
+		<string>Creature  - Wurm</string>
+		<string>(6/4)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Pathbreaker Wurm is paired with another creature, both creatures have trample.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Pathrazer of Ulamog</string>
@@ -1007,7 +1016,7 @@ Draw a card.</string>
 		<string>Instant</string>
 		<string></string>
 		<string>Return target creature you control and target creature you don't control to their owners' hands.</string>
-		<string>Ravnica: City of Guilds Common</string>
+		<string>Avacyn Restored Common, Ravnica: City of Guilds Common</string>
 	</array>
 	<array>
 		<string>Peer Pressure</string>
@@ -2405,7 +2414,7 @@ At the beginning of your upkeep, you get a poison counter.</string>
 		<string>(1/1)</string>
 		<string>Flying
 When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</string>
-		<string>Worldwake Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Worldwake Common</string>
 	</array>
 	<array>
 		<string>Pili-Pala</string>
@@ -2431,6 +2440,14 @@ When Pilgrim's Eye enters the battlefield, you may search your library for a bas
 		<string>(5/5)</string>
 		<string>When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.</string>
 		<string>Portal Rare</string>
+	</array>
+	<array>
+		<string>Pillar of Flame</string>
+		<string>R</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Pillar of Flame deals 2 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Pillar of the Paruns</string>
@@ -2838,7 +2855,7 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
 		<string>Basic Land  - Plains</string>
 		<string></string>
 		<string>W</string>
-		<string>Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
+		<string>Avacyn Restored Land, Avacyn Restored Land, Avacyn Restored Land, Duel Decks: Venser vs. Koth Land, Duel Decks: Venser vs. Koth Land, Duel Decks: Venser vs. Koth Land, Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
 	</array>
 	<array>
 		<string>Planar Birth</string>
@@ -2991,7 +3008,7 @@ Whenever a player casts a spell, that player flips a coin. If he or she loses th
 		<string>(1/1)</string>
 		<string>First strike
 Landfall - Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.</string>
-		<string>Zendikar Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Zendikar Common</string>
 	</array>
 	<array>
 		<string>Plated Pegasus</string>
@@ -3249,6 +3266,14 @@ Whenever enchanted creature deals combat damage to a player, put that many 1/1 g
 		<string></string>
 		<string>Whenever a land enters the battlefield under an opponent's control, that player loses 2 life and you gain 2 life.</string>
 		<string>Shadowmoor Rare</string>
+	</array>
+	<array>
+		<string>Polluted Dead</string>
+		<string>4B</string>
+		<string>Creature  - Zombie</string>
+		<string>(3/3)</string>
+		<string>When Polluted Dead dies, destroy target land.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Polluted Delta</string>
@@ -3639,6 +3664,16 @@ Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 co
 		<string>Nemesis Rare</string>
 	</array>
 	<array>
+		<string>Predator's Gambit</string>
+		<string>B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +2/+1.
+Enchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Predator's Strike</string>
 		<string>1G</string>
 		<string>Instant</string>
@@ -3735,7 +3770,7 @@ Whenever Preeminent Captain attacks, you may put a Soldier creature card from yo
 		<string>Sorcery</string>
 		<string></string>
 		<string>Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</string>
-		<string>Magic 2011 Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Magic 2011 Common</string>
 	</array>
 	<array>
 		<string>Presence of Gond</string>
@@ -3973,7 +4008,7 @@ Search your library for a basic land card, put that card onto the battlefield, t
 		<string>Creature  - Elemental Shapeshifter</string>
 		<string>(*/*)</string>
 		<string>As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.</string>
-		<string>Planar Chaos Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Planar Chaos Common</string>
 	</array>
 	<array>
 		<string>Primal Rage</string>
@@ -3982,6 +4017,14 @@ Search your library for a basic land card, put that card onto the battlefield, t
 		<string></string>
 		<string>Creatures you control have trample. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</string>
 		<string>Tenth Edition Uncommon, Stronghold Uncommon</string>
+	</array>
+	<array>
+		<string>Primal Surge</string>
+		<string>8GG</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Exile the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you do, repeat this process.</string>
+		<string>Avacyn Restored Mythic Rare</string>
 	</array>
 	<array>
 		<string>Primal Whisperer</string>
@@ -5239,7 +5282,7 @@ Threshold - As long as seven or more cards are in your graveyard, Putrid Imp get
 		<string>(1/1)</string>
 		<string>Pygmy Pyrosaur can't block.
 {R}: Pygmy Pyrosaur gets +1/+0 until end of turn.</string>
-		<string>Seventh Edition Common, Urza's Legacy Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Seventh Edition Common, Urza's Legacy Common</string>
 	</array>
 	<array>
 		<string>Pygmy Razorback</string>

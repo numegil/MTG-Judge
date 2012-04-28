@@ -26,6 +26,7 @@
 	<string>Abuna Acolyte</string>
 	<string>Abuna's Chant</string>
 	<string>Abundance</string>
+	<string>Abundant Growth</string>
 	<string>Abyssal Gatekeeper</string>
 	<string>Abyssal Horror</string>
 	<string>Abyssal Hunter</string>
@@ -120,6 +121,7 @@
 	<string>Agent of Masks</string>
 	<string>Agent of Shauku</string>
 	<string>Agent of Stromgald</string>
+	<string>Aggravate</string>
 	<string>Aggravated Assault</string>
 	<string>Aggression</string>
 	<string>Aggressive Urge</string>
@@ -177,6 +179,8 @@
 	<string>Aladdin's Ring</string>
 	<string>Alarum</string>
 	<string>Albino Troll</string>
+	<string>Alchemist's Apprentice</string>
+	<string>Alchemist's Refuge</string>
 	<string>Alchor's Tomb</string>
 	<string>Aleatory</string>
 	<string>Alert Shu Infantry</string>
@@ -213,6 +217,7 @@
 	<string>Altar's Reap</string>
 	<string>Alter Reality</string>
 	<string>Aluren</string>
+	<string>Amass the Components</string>
 	<string>Ambassador Laquatus</string>
 	<string>Ambassador Oak</string>
 	<string>Amber Prison</string>
@@ -274,6 +279,8 @@
 	<string>Angel of Despair</string>
 	<string>Angel of Flight Alabaster</string>
 	<string>Angel of Fury</string>
+	<string>Angel of Glory's Rise</string>
+	<string>Angel of Jubilation</string>
 	<string>Angel of Light</string>
 	<string>Angel of Mercy</string>
 	<string>Angel of Retribution</string>
@@ -281,6 +288,7 @@
 	<string>Angelfire Crusader</string>
 	<string>Angelheart Vial</string>
 	<string>Angelic Arbiter</string>
+	<string>Angelic Armaments</string>
 	<string>Angelic Benediction</string>
 	<string>Angelic Blessing</string>
 	<string>Angelic Chorus</string>
@@ -298,6 +306,7 @@
 	<string>Angel's Grace</string>
 	<string>Angel's Herald</string>
 	<string>Angel's Mercy</string>
+	<string>Angel's Tomb</string>
 	<string>Angel's Trumpet</string>
 	<string>Angelsong</string>
 	<string>Anger</string>
@@ -348,6 +357,7 @@
 	<string>Apocalypse Hydra</string>
 	<string>Apostle's Blessing</string>
 	<string>Apothecary Initiate</string>
+	<string>Appetite for Brains</string>
 	<string>Apprentice Necromancer</string>
 	<string>Apprentice Sorcerer</string>
 	<string>Apprentice Wizard</string>
@@ -372,6 +382,7 @@
 	<string>Arcades Sabboth</string>
 	<string>Arcane Denial</string>
 	<string>Arcane Laboratory</string>
+	<string>Arcane Melee</string>
 	<string>Arcane Sanctum</string>
 	<string>Arcane Spyglass</string>
 	<string>Arcane Teachings</string>
@@ -402,6 +413,7 @@
 	<string>Archmage Ascension</string>
 	<string>Archon of Justice</string>
 	<string>Archon of Redemption</string>
+	<string>Archwing Dragon</string>
 	<string>Arc-Slogger</string>
 	<string>Arctic Flats</string>
 	<string>Arctic Foxes</string>
@@ -569,6 +581,7 @@
 	<string>Autumn Willow</string>
 	<string>Autumn's Veil</string>
 	<string>Kitsune Mystic (Autumn-Tail, Kitsune Sage)</string>
+	<string>Avacyn, Angel of Hope</string>
 	<string>Avacynian Priest</string>
 	<string>Avacyn's Collar</string>
 	<string>Avacyn's Pilgrim</string>
@@ -700,7 +713,9 @@
 	<string>Baneslayer Angel</string>
 	<string>Banewasp Affliction</string>
 	<string>Banishing Knack</string>
+	<string>Banishing Stroke</string>
 	<string>Banishment Decree</string>
+	<string>Banners Raised</string>
 	<string>Banshee</string>
 	<string>Banshee's Blade</string>
 	<string>Bant Battlemage</string>
@@ -774,6 +789,7 @@
 	<string>Battle Cry</string>
 	<string>Battle Frenzy</string>
 	<string>Battle Hurda</string>
+	<string>Battle Hymn</string>
 	<string>Battle Mastery</string>
 	<string>Battle of Wits</string>
 	<string>Battle Rampart</string>
@@ -908,6 +924,7 @@
 	<string>Blade of the Sixth Pride</string>
 	<string>Blade Sliver</string>
 	<string>Blade Splicer</string>
+	<string>Bladed Bracers</string>
 	<string>Bladed Pinions</string>
 	<string>Bladed Sentinel</string>
 	<string>Blademane Baku</string>
@@ -945,6 +962,7 @@
 	<string>Blessing</string>
 	<string>Blessing of Leeches</string>
 	<string>Blessing of the Nephilim</string>
+	<string>Blessings of Nature</string>
 	<string>Blight</string>
 	<string>Blight Mamba</string>
 	<string>Blight Sickle</string>
@@ -987,6 +1005,7 @@
 	<string>Bloated Toad</string>
 	<string>Blockade Runner</string>
 	<string>Blockbuster</string>
+	<string>Blood Artist</string>
 	<string>Blood Celebrant</string>
 	<string>Blood Clock</string>
 	<string>Blood Crypt</string>
@@ -1020,6 +1039,7 @@
 	<string>Bloodfire Dwarf</string>
 	<string>Bloodfire Infusion</string>
 	<string>Bloodfire Kavu</string>
+	<string>Bloodflow Connoisseur</string>
 	<string>Bloodghast</string>
 	<string>Bloodgift Demon</string>
 	<string>Bloodhall Ooze</string>
@@ -1124,6 +1144,7 @@
 	<string>Bonesplitter Sliver</string>
 	<string>Bonethorn Valesk</string>
 	<string>Boneyard Wurm</string>
+	<string>Bonfire of the Damned</string>
 	<string>Booby Trap</string>
 	<string>Book Burning</string>
 	<string>Book of Rass</string>
@@ -1151,7 +1172,7 @@
 	<string>Borrowing the East Wind</string>
 	<string>Boseiju, Who Shelters All</string>
 	<string>Bosh, Iron Golem</string>
-	<string>Bosium Strip</string>
+	<string>Bösium Strip</string>
 	<string>Bosk Banneret</string>
 	<string>Bosom Buddy</string>
 	<string>Bottle Gnomes</string>
@@ -1166,6 +1187,7 @@
 	<string>Bountiful Harvest</string>
 	<string>Bounty Hunter</string>
 	<string>Bounty of the Hunt</string>
+	<string>Bower Passage</string>
 	<string>Brace for Impact</string>
 	<string>Brackwater Elemental</string>
 	<string>Braid of Fire</string>
@@ -1274,6 +1296,7 @@
 	<string>Browbeat</string>
 	<string>Brown Ouphe</string>
 	<string>Browse</string>
+	<string>Bruna, Light of Alabaster</string>
 	<string>Brush with Death</string>
 	<string>Brushland</string>
 	<string>Brushstroke Paintermage</string>
@@ -1289,6 +1312,7 @@
 	<string>Budoka Gardener</string>
 	<string>Budoka Pupil</string>
 	<string>Builder's Bane</string>
+	<string>Builder's Blessing</string>
 	<string>Bull Aurochs</string>
 	<string>Bull Cerodon</string>
 	<string>Bull Elephant</string>
@@ -1304,6 +1328,7 @@
 	<string>Burgeoning</string>
 	<string>Buried Alive</string>
 	<string>Buried Ruin</string>
+	<string>Burn at the Stake</string>
 	<string>Burn the Impure</string>
 	<string>Burn Trail</string>
 	<string>Burning Cinder Fury of Crimson Chaos Fire</string>
@@ -1333,9 +1358,10 @@
 	<string>Bursting Beebles</string>
 	<string>Bushi Tenderfoot</string>
 	<string>Boom // Bust (Bust)</string>
+	<string>Butcher Ghoul</string>
 	<string>Butcher of Malakir</string>
 	<string>Butcher Orgg</string>
-	<string>Butcher’s Cleaver</string>
+	<string>Butcher's Cleaver</string>
 	<string>Cabal Archon</string>
 	<string>Cabal Coffers</string>
 	<string>Cabal Conditioning</string>
@@ -1378,6 +1404,7 @@
 	<string>Call to Glory</string>
 	<string>Call to Heel</string>
 	<string>Call to Mind</string>
+	<string>Call to Serve</string>
 	<string>Call to the Grave</string>
 	<string>Call to the Kindred</string>
 	<string>Call to the Netherworld</string>
@@ -1419,6 +1446,7 @@
 	<string>Capricious Efreet</string>
 	<string>Capricious Sorcerer</string>
 	<string>Capsize</string>
+	<string>Captain of the Mists</string>
 	<string>Captain of the Watch</string>
 	<string>Captain Sisay</string>
 	<string>Captain's Maneuver</string>
@@ -1489,9 +1517,11 @@
 	<string>Cateran Slaver</string>
 	<string>Cateran Summons</string>
 	<string>Caterwauling Boggart</string>
+	<string>Cathars' Crusade</string>
 	<string>Cathartic Adept</string>
 	<string>Cathedral Membrane</string>
 	<string>Cathedral of Serra</string>
+	<string>Cathedral Sanctifier</string>
 	<string>Cathodion</string>
 	<string>Cauldron Dance</string>
 	<string>Cauldron Haze</string>
@@ -1509,6 +1539,7 @@
 	<string>Cave-In</string>
 	<string>Cavern Crawler</string>
 	<string>Cavern Harpy</string>
+	<string>Cavern of Souls</string>
 	<string>Cavern Thoctar</string>
 	<string>Caverns of Despair</string>
 	<string>Caves of Koilos</string>
@@ -1591,6 +1622,7 @@
 	<string>Chameleon Colossus</string>
 	<string>Chameleon Spirit</string>
 	<string>Champion Lancer</string>
+	<string>Champion of Lambholt</string>
 	<string>Champion of the Parish</string>
 	<string>Champion's Drake</string>
 	<string>Champion's Helm</string>
@@ -1823,6 +1855,7 @@
 	<string>Cloudpost</string>
 	<string>Cloudreach Cavalry</string>
 	<string>Cloudseeder</string>
+	<string>Cloudshift</string>
 	<string>Cloudskate</string>
 	<string>Cloudstone Curio</string>
 	<string>Cloudthresher</string>
@@ -1881,6 +1914,7 @@
 	<string>Commandeer</string>
 	<string>Commander Eesha</string>
 	<string>Commander Greven il-Vec</string>
+	<string>Commander's Authority</string>
 	<string>Commando Raid</string>
 	<string>Common Cause</string>
 	<string>Common Courtesy</string>
@@ -1912,6 +1946,7 @@
 	<string>Congregation at Dawn</string>
 	<string>Conjurer's Ban</string>
 	<string>Conjurer's Bauble</string>
+	<string>Conjurer's Closet</string>
 	<string>Conquer</string>
 	<string>Conquering Manticore</string>
 	<string>Conqueror's Pledge</string>
@@ -1985,6 +2020,7 @@
 	<string>Corpse Dance</string>
 	<string>Corpse Harvester</string>
 	<string>Corpse Lunge</string>
+	<string>Corpse Traders</string>
 	<string>Corpsehatch</string>
 	<string>Corpulent Corpse</string>
 	<string>Corrosion</string>
@@ -2046,6 +2082,7 @@
 	<string>Crashing Boars</string>
 	<string>Crashing Centaur</string>
 	<string>Crater Hellion</string>
+	<string>Craterhoof Behemoth</string>
 	<string>Craven Giant</string>
 	<string>Craven Knight</string>
 	<string>Craw Giant</string>
@@ -2081,6 +2118,7 @@
 	<string>Crimson Manticore</string>
 	<string>Crimson Roc</string>
 	<string>Crimson Wisps</string>
+	<string>Crippling Chill</string>
 	<string>Crippling Fatigue</string>
 	<string>Cromat</string>
 	<string>Crookclaw Elder</string>
@@ -2194,6 +2232,7 @@
 	<string>Curse of the Pierced Heart</string>
 	<string>Curse of Thirst</string>
 	<string>Curse of Wizardry</string>
+	<string>Cursebreak</string>
 	<string>Cursecatcher</string>
 	<string>Cursed Flesh</string>
 	<string>Cursed Land</string>
@@ -2244,7 +2283,8 @@
 	<string>Dance of Shadows</string>
 	<string>Dance of the Dead</string>
 	<string>Dancing Scimitar</string>
-	<string>Dandan</string>
+	<string>Dandân</string>
+	<string>Dangerous Wager</string>
 	<string>Daraja Griffin</string>
 	<string>Darba</string>
 	<string>Darien, King of Kjeldor</string>
@@ -2260,6 +2300,7 @@
 	<string>Dark Favor</string>
 	<string>Dark Hatchling</string>
 	<string>Dark Heart of the Wood</string>
+	<string>Dark Impostor</string>
 	<string>Dark Maze</string>
 	<string>Dark Offering</string>
 	<string>Dark Privilege</string>
@@ -2351,6 +2392,7 @@
 	<string>Dead Ringers</string>
 	<string>Dead Weight</string>
 	<string>Deadapult</string>
+	<string>Deadeye Navigator</string>
 	<string>Deadfall</string>
 	<string>Deadhead</string>
 	<string>Dead-Iron Sledge</string>
@@ -2385,6 +2427,7 @@
 	<string>Death Stroke</string>
 	<string>Death Ward</string>
 	<string>Death Watch</string>
+	<string>Death Wind</string>
 	<string>Death Wish</string>
 	<string>Deathbringer Liege</string>
 	<string>Deathbringer Thoctar</string>
@@ -2443,6 +2486,7 @@
 	<string>Deepwood Legate</string>
 	<string>Deepwood Tantiv</string>
 	<string>Deepwood Wolverine</string>
+	<string>Defang</string>
 	<string>Defender en-Vec</string>
 	<string>Defender of Chaos</string>
 	<string>Defender of Law</string>
@@ -2461,6 +2505,7 @@
 	<string>Deflection</string>
 	<string>Deft Duelist</string>
 	<string>Deftblade Elite</string>
+	<string>Defy Death</string>
 	<string>Defy Gravity</string>
 	<string>Dega Disciple</string>
 	<string>Dega Sanctuary</string>
@@ -2468,7 +2513,7 @@
 	<string>Deglamer</string>
 	<string>Dehydration</string>
 	<string>Deity of Scars</string>
-	<string>Déjà Vu</string>
+	<string>Dejà Vu</string>
 	<string>Delay</string>
 	<string>Delaying Shield</string>
 	<string>Delif's Cone</string>
@@ -2495,8 +2540,11 @@
 	<string>Demonic Consultation</string>
 	<string>Demonic Dread</string>
 	<string>Demonic Hordes</string>
+	<string>Demonic Rising</string>
+	<string>Demonic Taskmaster</string>
 	<string>Demonic Torment</string>
 	<string>Demonic Tutor</string>
+	<string>Demonlord of Ashmouth</string>
 	<string>Demonmail Hauberk</string>
 	<string>Demon's Herald</string>
 	<string>Demon's Horn</string>
@@ -2519,6 +2567,8 @@
 	<string>Descendant of Kiyomaro</string>
 	<string>Descendant of Masumaro</string>
 	<string>Descendant of Soramaro</string>
+	<string>Descendants' Path</string>
+	<string>Descent into Madness</string>
 	<string>Desecrated Earth</string>
 	<string>Desecration Elemental</string>
 	<string>Desecrator Hag</string>
@@ -2529,6 +2579,7 @@
 	<string>Desert Twister</string>
 	<string>Deserted Temple</string>
 	<string>Desertion</string>
+	<string>Desolate Lighthouse</string>
 	<string>Desolation</string>
 	<string>Desolation Angel</string>
 	<string>Desolation Giant</string>
@@ -2553,6 +2604,7 @@
 	<string>Devastating Dreams</string>
 	<string>Devastating Summons</string>
 	<string>Devastation</string>
+	<string>Devastation Tide</string>
 	<string>Research // Development (Development)</string>
 	<string>Devil's Play</string>
 	<string>Devoted Caretaker</string>
@@ -2566,6 +2618,7 @@
 	<string>Devouring Rage</string>
 	<string>Devouring Strossus</string>
 	<string>Devouring Swarm</string>
+	<string>Devout Chaplain</string>
 	<string>Devout Harpist</string>
 	<string>Devout Lightcaster</string>
 	<string>Devout Monk</string>
@@ -2603,6 +2656,7 @@
 	<string>Dire Undercurrents</string>
 	<string>Dire Wolves</string>
 	<string>Diregraf Captain</string>
+	<string>Diregraf Escort</string>
 	<string>Diregraf Ghoul</string>
 	<string>Dirge of Dread</string>
 	<string>Dirtcowl Wurm</string>
@@ -2667,6 +2721,7 @@
 	<string>Divert</string>
 	<string>Divination</string>
 	<string>Divine Congregation</string>
+	<string>Divine Deflection</string>
 	<string>Divine Favor</string>
 	<string>Divine Intervention</string>
 	<string>Divine Light</string>
@@ -2785,11 +2840,13 @@
 	<string>Dread Reaper</string>
 	<string>Dread Return</string>
 	<string>Dread Slag</string>
+	<string>Dread Slaver</string>
 	<string>Dread Specter</string>
 	<string>Dread Statuary</string>
 	<string>Dread Warlock</string>
 	<string>Dread Wight</string>
 	<string>Dreadship Reef</string>
+	<string>Dreadwaters</string>
 	<string>Dreadwing</string>
 	<string>Dream Cache</string>
 	<string>Dream Chisel</string>
@@ -2829,6 +2886,7 @@
 	<string>Drinker of Sorrow</string>
 	<string>Dripping Dead</string>
 	<string>Dripping-Tongue Zubera</string>
+	<string>Driver of the Dead</string>
 	<string>Drogskol Captain</string>
 	<string>Drogskol Reaver</string>
 	<string>Dromad Purebred</string>
@@ -2862,12 +2920,15 @@
 	<string>Druid of the Anima</string>
 	<string>Druidic Satchel</string>
 	<string>Druid's Call</string>
+	<string>Druid's Familiar</string>
+	<string>Druids' Repository</string>
 	<string>Drumhunter</string>
 	<string>Dry Spell</string>
 	<string>Dryad Arbor</string>
 	<string>Dryad Sophisticate</string>
 	<string>Dryad's Caress</string>
 	<string>Dryad's Favor</string>
+	<string>Dual Casting</string>
 	<string>Dual Nature</string>
 	<string>Duct Crawler</string>
 	<string>Due Respect</string>
@@ -2955,6 +3016,7 @@
 	<string>Earthshaker</string>
 	<string>Earwig Squad</string>
 	<string>Eastern Paladin</string>
+	<string>Eaten by Spiders</string>
 	<string>Eater of Days</string>
 	<string>Eater of the Dead</string>
 	<string>Ebon Dragon</string>
@@ -3027,6 +3089,7 @@
 	<string>Elfhame Palace</string>
 	<string>Elfhame Sanctuary</string>
 	<string>Elgaud Inquisitor</string>
+	<string>Elgaud Shieldmate</string>
 	<string>El-Hajjâj</string>
 	<string>Elite Archers</string>
 	<string>Elite Cat Warrior</string>
@@ -3082,6 +3145,7 @@
 	<string>Elvish Vanguard</string>
 	<string>Elvish Visionary</string>
 	<string>Elvish Warrior</string>
+	<string>Emancipation Angel</string>
 	<string>Embalmed Brawler</string>
 	<string>Embargo</string>
 	<string>Ember Beast</string>
@@ -3184,6 +3248,7 @@
 	<string>Entomb</string>
 	<string>Entomber Exarch</string>
 	<string>Entrails Feaster</string>
+	<string>Entreat the Angels</string>
 	<string>Entropic Eidolon</string>
 	<string>Entropic Specter</string>
 	<string>Envelop</string>
@@ -3240,6 +3305,7 @@
 	<string>Essence Filter</string>
 	<string>Essence Flare</string>
 	<string>Essence Fracture</string>
+	<string>Essence Harvest</string>
 	<string>Essence Leak</string>
 	<string>Essence of the Wild</string>
 	<string>Essence Scatter</string>
@@ -3282,6 +3348,7 @@
 	<string>Everglove Courier</string>
 	<string>Everlasting Torment</string>
 	<string>Evermind</string>
+	<string>Evernight Shade</string>
 	<string>Evershrike</string>
 	<string>Evil Eye of Orms-by-Gore</string>
 	<string>Evil Eye of Urborg</string>
@@ -3327,6 +3394,7 @@
 	<string>Explosive Revelation</string>
 	<string>Explosive Vegetation</string>
 	<string>Expunge</string>
+	<string>Exquisite Blood</string>
 	<string>Exsanguinate</string>
 	<string>Extinction</string>
 	<string>Extinguish</string>
@@ -3381,6 +3449,7 @@
 	<string>Faith's Fetters</string>
 	<string>Faith's Shield</string>
 	<string>Falkenrath Aristocrat</string>
+	<string>Falkenrath Exterminator</string>
 	<string>Falkenrath Marauders</string>
 	<string>Falkenrath Noble</string>
 	<string>Falkenrath Torturer</string>
@@ -3420,6 +3489,7 @@
 	<string>Fanning the Flames</string>
 	<string>Far Wanderings</string>
 	<string>Farbog Boneflinger</string>
+	<string>Farbog Explorer</string>
 	<string>Farewell to Arms</string>
 	<string>Farhaven Elf</string>
 	<string>Farmstead</string>
@@ -3451,6 +3521,7 @@
 	<string>Favor of the Overbeing</string>
 	<string>Favor of the Woods</string>
 	<string>Favorable Destiny</string>
+	<string>Favorable Winds</string>
 	<string>Fear</string>
 	<string>Feast of Blood</string>
 	<string>Feast of Flesh</string>
@@ -3496,6 +3567,7 @@
 	<string>Fertile Ground</string>
 	<string>Fertile Imagination</string>
 	<string>Fertilid</string>
+	<string>Fervent Cathar</string>
 	<string>Fervent Charge</string>
 	<string>Fervent Denial</string>
 	<string>Fervor</string>
@@ -3510,6 +3582,7 @@
 	<string>Festival of Trokin</string>
 	<string>Fetid Heath</string>
 	<string>Fetid Horror</string>
+	<string>Fettergeist</string>
 	<string>Feudkiller's Verdict</string>
 	<string>Fever Charm</string>
 	<string>Fevered Convulsions</string>
@@ -3702,6 +3775,7 @@
 	<string>Flow of Ideas</string>
 	<string>Flow of Maggots</string>
 	<string>Flowering Field</string>
+	<string>Flowering Lumberknot</string>
 	<string>Flowstone Armor</string>
 	<string>Flowstone Blade</string>
 	<string>Flowstone Channeler</string>
@@ -3930,7 +4004,9 @@
 	<string>Galina's Knight</string>
 	<string>Gallantry</string>
 	<string>Gallowbraid</string>
+	<string>Gallows at Willow Hill</string>
 	<string>Gallows Warden</string>
+	<string>Galvanic Alchemist</string>
 	<string>Galvanic Arc</string>
 	<string>Galvanic Blast</string>
 	<string>Galvanic Juggernaut</string>
@@ -3941,6 +4017,7 @@
 	<string>Game Preserve</string>
 	<string>Gamekeeper</string>
 	<string>Game-Trail Changeling</string>
+	<string>Gang of Devils</string>
 	<string>Gang of Elk</string>
 	<string>Gangrenous Goliath</string>
 	<string>Gangrenous Zombies</string>
@@ -3978,6 +4055,8 @@
 	<string>Gaze of Pain</string>
 	<string>Gaze of the Gorgon</string>
 	<string>Geist of Saint Traft</string>
+	<string>Geist Snatch</string>
+	<string>Geist Trappers</string>
 	<string>Geistcatcher's Rig</string>
 	<string>Geistflame</string>
 	<string>Geist-Honored Monk</string>
@@ -4048,6 +4127,7 @@
 	<string>Ghost Warden</string>
 	<string>Ghostfire</string>
 	<string>Ghostflame Sliver</string>
+	<string>Ghostform</string>
 	<string>Ghosthelm Courier</string>
 	<string>Ghost-Lit Nourisher</string>
 	<string>Ghost-Lit Raider</string>
@@ -4056,8 +4136,10 @@
 	<string>Ghost-Lit Warder</string>
 	<string>Ghostly Changeling</string>
 	<string>Ghostly Flame</string>
+	<string>Ghostly Flicker</string>
 	<string>Ghostly Possession</string>
 	<string>Ghostly Prison</string>
+	<string>Ghostly Touch</string>
 	<string>Ghostly Visit</string>
 	<string>Ghostly Wings</string>
 	<string>Ghosts of the Damned</string>
@@ -4065,6 +4147,7 @@
 	<string>Ghostway</string>
 	<string>Ghoulcaller's Bell</string>
 	<string>Ghoulcaller's Chant</string>
+	<string>Ghoulflesh</string>
 	<string>Ghoulraiser</string>
 	<string>Ghoul's Feast</string>
 	<string>Ghoultree</string>
@@ -4118,6 +4201,7 @@
 	<string>Gilt-Leaf Palace</string>
 	<string>Gilt-Leaf Seer</string>
 	<string>Giltspire Avenger</string>
+	<string>Gisela, Blade of Goldnight</string>
 	<string>Gitaxian Probe</string>
 	<string>Glacial Chasm</string>
 	<string>Glacial Crevasses</string>
@@ -4169,6 +4253,7 @@
 	<string>Glittering Wish</string>
 	<string>Global Ruin</string>
 	<string>Gloom</string>
+	<string>Gloom Surgeon</string>
 	<string>Gloomdrifter</string>
 	<string>Gloomhunter</string>
 	<string>Gloomlance</string>
@@ -4343,6 +4428,8 @@
 	<string>Goldmeadow Harrier</string>
 	<string>Goldmeadow Lookout</string>
 	<string>Goldmeadow Stalwart</string>
+	<string>Goldnight Commander</string>
+	<string>Goldnight Redeemer</string>
 	<string>Golem Artisan</string>
 	<string>Golem Foundry</string>
 	<string>Golem's Heart</string>
@@ -4412,6 +4499,7 @@
 	<string>Grave Bramble</string>
 	<string>Grave Consequences</string>
 	<string>Grave Defiler</string>
+	<string>Grave Exchange</string>
 	<string>Grave Pact</string>
 	<string>Grave Peril</string>
 	<string>Grave Robbers</string>
@@ -4506,6 +4594,7 @@
 	<string>Grip of Amnesia</string>
 	<string>Grip of Chaos</string>
 	<string>Griptide</string>
+	<string>Griselbrand</string>
 	<string>Gristle Grinner</string>
 	<string>Gristleback</string>
 	<string>Grixis Battlemage</string>
@@ -4528,6 +4617,7 @@
 	<string>Ground Rift</string>
 	<string>Ground Seal</string>
 	<string>Groundbreaker</string>
+	<string>Grounded</string>
 	<string>Groundling Pouncer</string>
 	<string>Groundskeeper</string>
 	<string>Groundswell</string>
@@ -4544,6 +4634,7 @@
 	<string>Gruul Signet</string>
 	<string>Gruul Turf</string>
 	<string>Gruul War Plow</string>
+	<string>Gryff Vanguard</string>
 	<string>Guan Yu, Sainted Warrior</string>
 	<string>Guan Yu's 1,000-Li March</string>
 	<string>Guard Dogs</string>
@@ -4568,6 +4659,7 @@
 	<string>Guile</string>
 	<string>Guiltfeeder</string>
 	<string>Guilty Conscience</string>
+	<string>Guise of Fire</string>
 	<string>Gulf Squid</string>
 	<string>Guma</string>
 	<string>Gurzigost</string>
@@ -4644,6 +4736,7 @@
 	<string>Hankyu</string>
 	<string>Hanna, Ship's Navigator</string>
 	<string>Hanna's Custody</string>
+	<string>Hanweir Lancer</string>
 	<string>Hanweir Watchkeep</string>
 	<string>Hapless Researcher</string>
 	<string>Harabaz Druid</string>
@@ -4672,6 +4765,7 @@
 	<string>Harvest Pyre</string>
 	<string>Harvest Wurm</string>
 	<string>Harvester Druid</string>
+	<string>Harvester of Souls</string>
 	<string>Hasran Ogress</string>
 	<string>Hatchet Bully</string>
 	<string>Hatching Plans</string>
@@ -4682,6 +4776,7 @@
 	<string>Haunted Cadaver</string>
 	<string>Haunted Crossroads</string>
 	<string>Haunted Fengraf</string>
+	<string>Haunted Guardian</string>
 	<string>Haunting Apparition</string>
 	<string>Haunting Echoes</string>
 	<string>Haunting Hymn</string>
@@ -4689,6 +4784,8 @@
 	<string>Haunting Wind</string>
 	<string>Havengul Lich</string>
 	<string>Havengul Runebinder</string>
+	<string>Havengul Skaab</string>
+	<string>Havengul Vampire</string>
 	<string>Havenwood Battleground</string>
 	<string>Havenwood Wurm</string>
 	<string>Havoc</string>
@@ -4760,6 +4857,7 @@
 	<string>Heedless One</string>
 	<string>Heidar, Rimewind Master</string>
 	<string>Heightened Awareness</string>
+	<string>Heirs of Stromkirk</string>
 	<string>Helionaut</string>
 	<string>Heliophial</string>
 	<string>Helium Squirter</string>
@@ -4794,6 +4892,7 @@
 	<string>Henge of Ramos</string>
 	<string>Herald of Leshrac</string>
 	<string>Herald of Serra</string>
+	<string>Herald of War</string>
 	<string>Herbal Poultice</string>
 	<string>Herd Gnarr</string>
 	<string>Heretic's Punishment</string>
@@ -4883,6 +4982,7 @@
 	<string>Hollowsage</string>
 	<string>Holy Armor</string>
 	<string>Holy Day</string>
+	<string>Holy Justiciar</string>
 	<string>Holy Light</string>
 	<string>Holy Strength</string>
 	<string>Homarid</string>
@@ -4891,6 +4991,7 @@
 	<string>Homarid Warrior</string>
 	<string>Homeward Path</string>
 	<string>Homicidal Brute</string>
+	<string>Homicidal Seclusion</string>
 	<string>Homing Sliver</string>
 	<string>Homura, Human Ascendant</string>
 	<string>Homura, Human Ascendant (Homura's Essence)</string>
@@ -4944,12 +5045,14 @@
 	<string>Hostility</string>
 	<string>Hot Springs</string>
 	<string>Hotheaded Giant</string>
+	<string>Hound of Griselbrand</string>
 	<string>Hour of Reckoning</string>
 	<string>Hoverguard Observer</string>
 	<string>Hoverguard Sweepers</string>
 	<string>Hovermyr</string>
 	<string>Howl from Beyond</string>
 	<string>Howl of the Night Pack</string>
+	<string>Howlgeist</string>
 	<string>Howling Banshee</string>
 	<string>Howling Fury</string>
 	<string>Howling Gale</string>
@@ -4965,6 +5068,7 @@
 	<string>Hulking Ogre</string>
 	<string>Hull Breach</string>
 	<string>Hum of the Radix</string>
+	<string>Human Frailty</string>
 	<string>Humble</string>
 	<string>Humble Budoka</string>
 	<string>Humility</string>
@@ -4979,6 +5083,7 @@
 	<string>Hungry Spriggan</string>
 	<string>Hunt Down</string>
 	<string>Hunted Dragon</string>
+	<string>Hunted Ghoul</string>
 	<string>Hunted Horror</string>
 	<string>Hunted Lammasu</string>
 	<string>Hunted Phantasm</string>
@@ -5180,6 +5285,7 @@
 	<string>Infiltrator's Magemark</string>
 	<string>Infinite Authority</string>
 	<string>Infinite Hourglass</string>
+	<string>Infinite Reflection</string>
 	<string>Inflame</string>
 	<string>Information Dealer</string>
 	<string>Infuse</string>
@@ -5242,6 +5348,7 @@
 	<string>Into the Maw of Hell</string>
 	<string>Into the North</string>
 	<string>Into the Roil</string>
+	<string>Into the Void</string>
 	<string>Into Thin Air</string>
 	<string>Intrepid Hero</string>
 	<string>Intruder Alarm</string>
@@ -5397,6 +5504,7 @@
 	<string>Johtull Wurm</string>
 	<string>Join the Ranks</string>
 	<string>Joiner Adept</string>
+	<string>Joint Assault</string>
 	<string>Jokulhaups</string>
 	<string>Jokulmorder</string>
 	<string>Jolrael, Empress of Beasts</string>
@@ -5408,8 +5516,8 @@
 	<string>Joraga Bard</string>
 	<string>Joraga Treespeaker</string>
 	<string>Joraga Warcaller</string>
-	<string>Jotun Grunt</string>
-	<string>Jotun Owl Keeper</string>
+	<string>Jötun Grunt</string>
+	<string>Jötun Owl Keeper</string>
 	<string>Journey of Discovery</string>
 	<string>Journey to Nowhere</string>
 	<string>Journeyer's Kite</string>
@@ -5592,6 +5700,7 @@
 	<string>Kentaro, the Smiling Cat</string>
 	<string>Bushi Tenderfoot (Kenzo the Hardhearted)</string>
 	<string>Kessig Cagebreakers</string>
+	<string>Kessig Malcontents</string>
 	<string>Kessig Recluse</string>
 	<string>Kessig Wolf</string>
 	<string>Kessig Wolf Run</string>
@@ -5610,6 +5719,7 @@
 	<string>Killer Bees</string>
 	<string>Killer Instinct</string>
 	<string>Killer Whale</string>
+	<string>Killing Wave</string>
 	<string>Kill-Suit Cultist</string>
 	<string>Kiln Fiend</string>
 	<string>Kiln Walker</string>
@@ -5787,6 +5897,7 @@
 	<string>Krovikan Vampire</string>
 	<string>Krovikan Whispers</string>
 	<string>Kruin Outlaw</string>
+	<string>Kruin Striker</string>
 	<string>Kry Shield</string>
 	<string>Kudzu</string>
 	<string>Kukemssa Pirates</string>
@@ -5830,6 +5941,7 @@
 	<string>Lady Sun</string>
 	<string>Lady Zhurong, Warrior Queen</string>
 	<string>Lagac Lizard</string>
+	<string>Lair Delve</string>
 	<string>Lairwatch Giant</string>
 	<string>Lake of the Dead</string>
 	<string>Lambholt Elder</string>
@@ -5870,6 +5982,7 @@
 	<string>Last Stand</string>
 	<string>Last Word</string>
 	<string>Last-Ditch Effort</string>
+	<string>Latch Seeker</string>
 	<string>Latchkey Faerie</string>
 	<string>Lat-Nam's Legacy</string>
 	<string>Latulla, Keldon Overseer</string>
@@ -5910,6 +6023,7 @@
 	<string>Leaf-Crowned Elder</string>
 	<string>Leafdrake Roost</string>
 	<string>Leap</string>
+	<string>Leap of Faith</string>
 	<string>Leap of Flame</string>
 	<string>Leaping Lizard</string>
 	<string>Leashling</string>
@@ -6020,6 +6134,8 @@
 	<string>Lightning Greaves</string>
 	<string>Lightning Helix</string>
 	<string>Lightning Hounds</string>
+	<string>Lightning Mauler</string>
+	<string>Lightning Prowess</string>
 	<string>Lightning Reaver</string>
 	<string>Lightning Reflexes</string>
 	<string>Lightning Rift</string>
@@ -6106,6 +6222,7 @@
 	<string>Lodestone Myr</string>
 	<string>Logic Knot</string>
 	<string>Lone Missionary</string>
+	<string>Lone Revenant</string>
 	<string>Lone Wolf</string>
 	<string>Lonely Sandbar</string>
 	<string>Longbow Archer</string>
@@ -6190,6 +6307,7 @@
 	<string>Luminous Wake</string>
 	<string>Lumithread Field</string>
 	<string>Lunar Avenger</string>
+	<string>Lunar Mystic</string>
 	<string>Lunge</string>
 	<string>Lunk Errant</string>
 	<string>Lure</string>
@@ -6213,11 +6331,13 @@
 	<string>Lys Alana Scarblade</string>
 	<string>Lyzolda, the Blood Witch</string>
 	<string>Ma Chao, Western Warrior</string>
+	<string>Maalfeld Twins</string>
 	<string>Macabre Waltz</string>
 	<string>Macetail Hystrodon</string>
 	<string>Machinate</string>
 	<string>Mad Auntie</string>
 	<string>Mad Dog</string>
+	<string>Mad Prophet</string>
 	<string>Madblind Mountain</string>
 	<string>Maddening Imp</string>
 	<string>Maddening Wind</string>
@@ -6296,7 +6416,9 @@
 	<string>Malfegor</string>
 	<string>Spite // Malice (Malice)</string>
 	<string>Malicious Advice</string>
+	<string>Malicious Intent</string>
 	<string>Malignant Growth</string>
+	<string>Malignus</string>
 	<string>Mammoth Harness</string>
 	<string>Mammoth Umbra</string>
 	<string>Man of Measure</string>
@@ -6378,6 +6500,7 @@
 	<string>Markov Warlord</string>
 	<string>Markov's Servant</string>
 	<string>Maro</string>
+	<string>Marrow Bats</string>
 	<string>Marrow Chomper</string>
 	<string>Marrow Shards</string>
 	<string>Marrow-Gnawer</string>
@@ -6418,6 +6541,7 @@
 	<string>Mask of the Mimic</string>
 	<string>Masked Admirers</string>
 	<string>Masked Gorgon</string>
+	<string>Mass Appeal</string>
 	<string>Mass Calcify</string>
 	<string>Mass Hysteria</string>
 	<string>Mass of Ghouls</string>
@@ -6491,6 +6615,7 @@
 	<string>Mending Hands</string>
 	<string>Meng Huo, Barbarian King</string>
 	<string>Meng Huo's Horde</string>
+	<string>Mental Agony</string>
 	<string>Mental Discipline</string>
 	<string>Mental Misstep</string>
 	<string>Mental Note</string>
@@ -6564,10 +6689,12 @@
 	<string>Midnight Banshee</string>
 	<string>Midnight Charm</string>
 	<string>Midnight Covenant</string>
+	<string>Midnight Duelist</string>
 	<string>Midnight Guard</string>
 	<string>Midnight Haunting</string>
 	<string>Midnight Ritual</string>
 	<string>Midsummer Revel</string>
+	<string>Midvast Protector</string>
 	<string>Might of Alara</string>
 	<string>Might of Oaks</string>
 	<string>Might of Old Krosa</string>
@@ -6710,6 +6837,7 @@
 	<string>Mist Dragon</string>
 	<string>Mist Leopard</string>
 	<string>Mist of Stagnation</string>
+	<string>Mist Raven</string>
 	<string>Mistbind Clique</string>
 	<string>Mistblade Shinobi</string>
 	<string>Mistfolk</string>
@@ -6725,6 +6853,7 @@
 	<string>Mistform Wakecaster</string>
 	<string>Mistform Wall</string>
 	<string>Mistform Warchief</string>
+	<string>Misthollow Griffin</string>
 	<string>Mistmeadow Skulk</string>
 	<string>Mistmeadow Witch</string>
 	<string>Mistmoon Griffin</string>
@@ -6819,17 +6948,20 @@
 	<string>Moonhold</string>
 	<string>Moonlace</string>
 	<string>Moonlight Bargain</string>
+	<string>Moonlight Geist</string>
 	<string>Moonlit Strider</string>
 	<string>Moonlit Wake</string>
 	<string>Moonmist</string>
 	<string>Moonring Island</string>
 	<string>Moonring Mirror</string>
 	<string>Moonscarred Werewolf</string>
+	<string>Moonsilver Spear</string>
 	<string>Moonveil Dragon</string>
 	<string>Moonwing Moth</string>
 	<string>Moor Fiend</string>
 	<string>Moorish Cavalry</string>
 	<string>Moorland Haunt</string>
+	<string>Moorland Inquisitor</string>
 	<string>Morale</string>
 	<string>Morality Shift</string>
 	<string>Moratorium Stone</string>
@@ -7027,6 +7159,7 @@
 	<string>Narcolepsy</string>
 	<string>Narcomoeba</string>
 	<string>Narrow Escape</string>
+	<string>Narstad Scrapper</string>
 	<string>Narwhal</string>
 	<string>Nath of the Gilt-Leaf</string>
 	<string>Nath's Buffoon</string>
@@ -7034,6 +7167,7 @@
 	<string>Natural Affinity</string>
 	<string>Natural Balance</string>
 	<string>Natural Emergence</string>
+	<string>Natural End</string>
 	<string>Natural Order</string>
 	<string>Natural Selection</string>
 	<string>Natural Spring</string>
@@ -7057,6 +7191,7 @@
 	<string>Naya Panorama</string>
 	<string>Naya Sojourners</string>
 	<string>Near-Death Experience</string>
+	<string>Nearheath Pilgrim</string>
 	<string>Nearheath Stalker</string>
 	<string>Nebuchadnezzar</string>
 	<string>Neck Snap</string>
@@ -7065,6 +7200,7 @@
 	<string>Necratog</string>
 	<string>Necravolver</string>
 	<string>Necrite</string>
+	<string>Necrobite</string>
 	<string>Necrogen Censer</string>
 	<string>Necrogen Mists</string>
 	<string>Necrogen Scudder</string>
@@ -7107,6 +7243,7 @@
 	<string>Nemesis Trap</string>
 	<string>Nephalia Drownyard</string>
 	<string>Nephalia Seakite</string>
+	<string>Nephalia Smuggler</string>
 	<string>Nessian Courser</string>
 	<string>Nest Invader</string>
 	<string>Nested Ghoul</string>
@@ -7119,6 +7256,7 @@
 	<string>Netherborn Phalanx</string>
 	<string>Netter en-Dal</string>
 	<string>Nettle Sentinel</string>
+	<string>Nettle Swine</string>
 	<string>Nettletooth Djinn</string>
 	<string>Nettlevine Blight</string>
 	<string>Nettling Curse</string>
@@ -7172,6 +7310,7 @@
 	<string>Nightscape Familiar</string>
 	<string>Nightscape Master</string>
 	<string>Nightshade Assassin</string>
+	<string>Nightshade Peddler</string>
 	<string>Nightshade Schemers</string>
 	<string>Nightshade Seer</string>
 	<string>Nightshade Stinger</string>
@@ -7475,6 +7614,7 @@
 	<string>Ostiary Thrull</string>
 	<string>Ostracize</string>
 	<string>Otarian Juggernaut</string>
+	<string>Otherworld Atlas</string>
 	<string>Otherworldly Journey</string>
 	<string>Oubliette</string>
 	<string>Ouphe Vandals</string>
@@ -7485,6 +7625,7 @@
 	<string>Outrage Shaman</string>
 	<string>Outrider en-Kor</string>
 	<string>Outrider of Jhess</string>
+	<string>Outwit</string>
 	<string>Overabundance</string>
 	<string>Overbeing of Myth</string>
 	<string>Overblaze</string>
@@ -7600,6 +7741,7 @@
 	<string>Path of Anger's Flame</string>
 	<string>Path of Peace</string>
 	<string>Path to Exile</string>
+	<string>Pathbreaker Wurm</string>
 	<string>Pathrazer of Ulamog</string>
 	<string>Patriarch's Bidding</string>
 	<string>Patriarch's Desire</string>
@@ -7796,6 +7938,7 @@
 	<string>Pili-Pala</string>
 	<string>Pillage</string>
 	<string>Pillaging Horde</string>
+	<string>Pillar of Flame</string>
 	<string>Pillar of the Paruns</string>
 	<string>Pillar Tombs of Aku</string>
 	<string>Pillarfield Ox</string>
@@ -7893,6 +8036,7 @@
 	<string>Pollen Remedy</string>
 	<string>Pollenbright Wings</string>
 	<string>Polluted Bonds</string>
+	<string>Polluted Dead</string>
 	<string>Polluted Delta</string>
 	<string>Polluted Mire</string>
 	<string>Polymorph</string>
@@ -7938,6 +8082,7 @@
 	<string>Predator Dragon</string>
 	<string>Predator Ooze</string>
 	<string>Predator, Flagship</string>
+	<string>Predator's Gambit</string>
 	<string>Predator's Strike</string>
 	<string>Predatory Advantage</string>
 	<string>Predatory Focus</string>
@@ -7979,6 +8124,7 @@
 	<string>Primal Order</string>
 	<string>Primal Plasma</string>
 	<string>Primal Rage</string>
+	<string>Primal Surge</string>
 	<string>Primal Whisperer</string>
 	<string>Primalcrux</string>
 	<string>Primeval Force</string>
@@ -8236,6 +8382,7 @@
 	<string>Raging Gorilla</string>
 	<string>Raging Kavu</string>
 	<string>Raging Minotaur</string>
+	<string>Raging Poltergeist</string>
 	<string>Raging Ravine</string>
 	<string>Raging River</string>
 	<string>Raging Spirit</string>
@@ -8251,6 +8398,7 @@
 	<string>Rain of Rust</string>
 	<string>Rain of Salt</string>
 	<string>Rain of Tears</string>
+	<string>Rain of Thorns</string>
 	<string>Rainbow Crow</string>
 	<string>Rainbow Efreet</string>
 	<string>Rainbow Vale</string>
@@ -8442,6 +8590,7 @@
 	<string>Reflecting Pool</string>
 	<string>Reflex Sliver</string>
 	<string>Reflexes</string>
+	<string>Reforge the Soul</string>
 	<string>Refraction Trap</string>
 	<string>Refresh</string>
 	<string>Refreshing Rain</string>
@@ -8495,6 +8644,7 @@
 	<string>Rend Spirit</string>
 	<string>Rendclaw Trow</string>
 	<string>Rending Vines</string>
+	<string>Renegade Demon</string>
 	<string>Renegade Doppelganger</string>
 	<string>Renegade Troops</string>
 	<string>Renegade Warlord</string>
@@ -8542,6 +8692,7 @@
 	<string>Restless Dead</string>
 	<string>Restless Dreams</string>
 	<string>Restock</string>
+	<string>Restoration Angel</string>
 	<string>Restore Balance</string>
 	<string>Restrain</string>
 	<string>Resurrection</string>
@@ -8566,6 +8717,7 @@
 	<string>Revelsong Horn</string>
 	<string>Revenant</string>
 	<string>Revenant Patriarch</string>
+	<string>Revenge of the Hunted</string>
 	<string>Reverberate</string>
 	<string>Reverberation</string>
 	<string>Revered Dead</string>
@@ -8616,6 +8768,7 @@
 	<string>Riddle of Lightning</string>
 	<string>Riddlekeeper</string>
 	<string>Riddlesmith</string>
+	<string>Riders of Gavony</string>
 	<string>Ridge Rannet</string>
 	<string>Ridged Kusite</string>
 	<string>Ridgeline Rager</string>
@@ -8630,6 +8783,7 @@
 	<string>Riftwing Cloudskate</string>
 	<string>Righteous Aura</string>
 	<string>Righteous Avengers</string>
+	<string>Righteous Blow</string>
 	<string>Righteous Cause</string>
 	<string>Righteous Charge</string>
 	<string>Righteous Fury</string>
@@ -8652,6 +8806,7 @@
 	<string>Rings of Brighthearth</string>
 	<string>Ringskipper</string>
 	<string>Riot Devils</string>
+	<string>Riot Ringleader</string>
 	<string>Riot Spikes</string>
 	<string>Rip-Clan Crasher</string>
 	<string>Riptide</string>
@@ -8681,6 +8836,7 @@
 	<string>Rite of Flame</string>
 	<string>Rite of Passage</string>
 	<string>Rite of Replication</string>
+	<string>Rite of Ruin</string>
 	<string>Rites of Flourishing</string>
 	<string>Rites of Initiation</string>
 	<string>Rites of Refusal</string>
@@ -8782,6 +8938,7 @@
 	<string>Rorix Bladewing</string>
 	<string>Rosheen Meanderer</string>
 	<string>Rot Wolf</string>
+	<string>Rotcrown Ghoul</string>
 	<string>Roterothopter</string>
 	<string>Rotlung Reanimator</string>
 	<string>Rotted Hystrix</string>
@@ -8844,6 +9001,7 @@
 	<string>Runic Repetition</string>
 	<string>Rupture</string>
 	<string>Rupture Spire</string>
+	<string>Rush of Blood</string>
 	<string>Rush of Knowledge</string>
 	<string>Rushing River</string>
 	<string>Rushing-Tide Zubera</string>
@@ -8994,7 +9152,7 @@
 	<string>Sarpadian Empires, Vol. VII</string>
 	<string>Sasaya, Orochi Ascendant</string>
 	<string>Sasaya, Orochi Ascendant (Sasaya's Essence)</string>
-	<string>Sauté</string>
+	<string>Saute</string>
 	<string>Savaen Elves</string>
 	<string>Savage Beating</string>
 	<string>Savage Conception</string>
@@ -9019,6 +9177,7 @@
 	<string>Scab-Clan Mauler</string>
 	<string>Scabland</string>
 	<string>Scald</string>
+	<string>Scalding Devil</string>
 	<string>Scalding Salamander</string>
 	<string>Scalding Tarn</string>
 	<string>Scalding Tongs</string>
@@ -9104,6 +9263,7 @@
 	<string>Scrapbasket</string>
 	<string>Scrapdiver Serpent</string>
 	<string>Scrapheap</string>
+	<string>Scrapskin Drake</string>
 	<string>Scrapyard Salvo</string>
 	<string>Screaming Fury</string>
 	<string>Screaming Seahawk</string>
@@ -9119,6 +9279,8 @@
 	<string>Screeching Sliver</string>
 	<string>Scrib Nibblers</string>
 	<string>Scrivener</string>
+	<string>Scroll of Avacyn</string>
+	<string>Scroll of Griselbrand</string>
 	<string>Scroll of Origins</string>
 	<string>Scroll Rack</string>
 	<string>Scroll Thief</string>
@@ -9160,9 +9322,10 @@
 	<string>Seal of Removal</string>
 	<string>Seal of Strength</string>
 	<string>Sealed Fate</string>
-	<string>Séance</string>
+	<string>Seance</string>
 	<string>Search for Survivors</string>
 	<string>Search for Tomorrow</string>
+	<string>Searchlight Geist</string>
 	<string>Searing Blaze</string>
 	<string>Searing Flesh</string>
 	<string>Searing Meditation</string>
@@ -9183,6 +9346,7 @@
 	<string>Secluded Glen</string>
 	<string>Secluded Steppe</string>
 	<string>Second Chance</string>
+	<string>Second Guess</string>
 	<string>Second Sight</string>
 	<string>Second Sunrise</string>
 	<string>Second Thoughts</string>
@@ -9260,6 +9424,8 @@
 	<string>Sentry Oak</string>
 	<string>Septic Rats</string>
 	<string>Seraph</string>
+	<string>Seraph of Dawn</string>
+	<string>Seraph Sanctuary</string>
 	<string>Serendib Djinn</string>
 	<string>Serendib Efreet</string>
 	<string>Serendib Sorcerer</string>
@@ -9378,6 +9544,7 @@
 	<string>Sheltered Valley</string>
 	<string>Sheltering Ancient</string>
 	<string>Sheltering Prayers</string>
+	<string>Sheltering Word</string>
 	<string>Sheoldred, Whispering One</string>
 	<string>Shepherd of Rot</string>
 	<string>Shepherd of the Lost</string>
@@ -9507,6 +9674,7 @@
 	<string>Siege-Gang Commander</string>
 	<string>Sift</string>
 	<string>Sift Through Sands</string>
+	<string>Sigarda, Host of Herons</string>
 	<string>Sighted-Caste Sorcerer</string>
 	<string>Sightless Ghoul</string>
 	<string>Sigil Blessing</string>
@@ -9545,6 +9713,7 @@
 	<string>Silver Seraph</string>
 	<string>Silver Wyvern</string>
 	<string>Silverback Ape</string>
+	<string>Silverblade Paladin</string>
 	<string>Silverchase Fox</string>
 	<string>Silverclaw Griffin</string>
 	<string>Silvercoat Lion</string>
@@ -9720,6 +9889,7 @@
 	<string>Slavering Nulls</string>
 	<string>Slay</string>
 	<string>Slayer of the Wicked</string>
+	<string>Slayers' Stronghold</string>
 	<string>Sleep</string>
 	<string>Sleeper Agent</string>
 	<string>Sleeper's Guile</string>
@@ -9787,6 +9957,7 @@
 	<string>Snapping Drake</string>
 	<string>Snapping Thragg</string>
 	<string>Snapsail Glider</string>
+	<string>Snare the Skies</string>
 	<string>Snarling Undorak</string>
 	<string>Sneak Attack</string>
 	<string>Sneaky Homunculus</string>
@@ -9846,7 +10017,9 @@
 	<string>Soltari Visionary</string>
 	<string>Somber Hoverguard</string>
 	<string>Somberwald Dryad</string>
+	<string>Somberwald Sage</string>
 	<string>Somberwald Spider</string>
+	<string>Somberwald Vigilante</string>
 	<string>Somnomancer</string>
 	<string>Somnophore</string>
 	<string>Song of Blood</string>
@@ -9900,6 +10073,7 @@
 	<string>Soul Net</string>
 	<string>Soul Nova</string>
 	<string>Soul of Magma</string>
+	<string>Soul of the Harvest</string>
 	<string>Soul Parry</string>
 	<string>Soul Reap</string>
 	<string>Soul Rend</string>
@@ -9917,6 +10091,7 @@
 	<string>Soulblast</string>
 	<string>Soulbound Guardians</string>
 	<string>Soulbright Flamekin</string>
+	<string>Soulcage Fiend</string>
 	<string>Soulcatcher</string>
 	<string>Soulcatchers' Aerie</string>
 	<string>Souldrinker</string>
@@ -9967,8 +10142,10 @@
 	<string>Spectral Cloak</string>
 	<string>Spectral Flight</string>
 	<string>Spectral Force</string>
+	<string>Spectral Gateguards</string>
 	<string>Spectral Guardian</string>
 	<string>Spectral Lynx</string>
+	<string>Spectral Prison</string>
 	<string>Spectral Procession</string>
 	<string>Spectral Rider</string>
 	<string>Spectral Searchlight</string>
@@ -10068,6 +10245,7 @@
 	<string>Spire Owl</string>
 	<string>Spire Serpent</string>
 	<string>Spirit</string>
+	<string>Spirit Away</string>
 	<string>Spirit Cairn</string>
 	<string>Spirit en-Dal</string>
 	<string>Spirit en-Kor</string>
@@ -10255,6 +10433,7 @@
 	<string>Sterling Grove</string>
 	<string>Stern Judge</string>
 	<string>Stern Marshal</string>
+	<string>Stern Mentor</string>
 	<string>Stern Proctor</string>
 	<string>Steward of Valeron</string>
 	<string>Stifle</string>
@@ -10280,6 +10459,7 @@
 	<string>Stoic Champion</string>
 	<string>Stoic Ephemera</string>
 	<string>Stoic Rebuttal</string>
+	<string>Stolen Goods</string>
 	<string>Stolen Grain</string>
 	<string>Stomp and Howl</string>
 	<string>Stomper Cub</string>
@@ -10307,6 +10487,7 @@
 	<string>Stonewood Invocation</string>
 	<string>Stonewood Invoker</string>
 	<string>Stonework Puma</string>
+	<string>Stonewright</string>
 	<string>Stony Silence</string>
 	<string>Stonybrook Angler</string>
 	<string>Stonybrook Banneret</string>
@@ -10638,6 +10819,8 @@
 	<string>Talruum Piper</string>
 	<string>Talus Paladin</string>
 	<string>Tamanoa</string>
+	<string>Tamiyo, the Moon Sage</string>
+	<string>Tandem Lookout</string>
 	<string>Tangle</string>
 	<string>Tangle Angler</string>
 	<string>Tangle Asp</string>
@@ -10750,6 +10933,7 @@
 	<string>Temporal Fissure</string>
 	<string>Temporal Isolation</string>
 	<string>Temporal Manipulation</string>
+	<string>Temporal Mastery</string>
 	<string>Temporal Spring</string>
 	<string>Temporary Insanity</string>
 	<string>Temporary Truce</string>
@@ -10769,6 +10953,7 @@
 	<string>Teremko Griffin</string>
 	<string>Terminal Moraine</string>
 	<string>Terminate</string>
+	<string>Terminus</string>
 	<string>Teroh's Faithful</string>
 	<string>Teroh's Vanguard</string>
 	<string>Terra Eternal</string>
@@ -10778,6 +10963,7 @@
 	<string>Terramorphic Expanse</string>
 	<string>Terrarion</string>
 	<string>Terravore</string>
+	<string>Terrifying Presence</string>
 	<string>Territorial Baloth</string>
 	<string>Territorial Dispute</string>
 	<string>Terror</string>
@@ -10808,6 +10994,7 @@
 	<string>Thallid Germinator</string>
 	<string>Thallid Shell-Dweller</string>
 	<string>That Which Was Taken</string>
+	<string>Thatcher Revolt</string>
 	<string>Thaumatog</string>
 	<string>Thawing Glaciers</string>
 	<string>The Abyss</string>
@@ -10897,6 +11084,7 @@
 	<string>Thraben Militia</string>
 	<string>Thraben Purebloods</string>
 	<string>Thraben Sentry</string>
+	<string>Thraben Valiant</string>
 	<string>Thran Dynamo</string>
 	<string>Thran Forge</string>
 	<string>Thran Foundry</string>
@@ -10951,6 +11139,7 @@
 	<string>Thundering Tanadon</string>
 	<string>Thundering Wurm</string>
 	<string>Thundermare</string>
+	<string>Thunderous Wrath</string>
 	<string>Thunderscape Apprentice</string>
 	<string>Thunderscape Battlemage</string>
 	<string>Thunderscape Familiar</string>
@@ -10959,6 +11148,7 @@
 	<string>Thunderstaff</string>
 	<string>Thunder-Thrash Elder</string>
 	<string>Thwart</string>
+	<string>Tibalt, the Fiend-Blooded</string>
 	<string>Tibor and Lumia</string>
 	<string>Ticking Gnomes</string>
 	<string>Tidal Bore</string>
@@ -10985,6 +11175,7 @@
 	<string>Tilling Treefolk</string>
 	<string>Timber Protector</string>
 	<string>Timber Wolves</string>
+	<string>Timberland Guide</string>
 	<string>Timberland Ruins</string>
 	<string>Timberline Ridge</string>
 	<string>Timbermare</string>
@@ -11079,6 +11270,7 @@
 	<string>Tormented Pariah</string>
 	<string>Tormented Soul</string>
 	<string>Tormentor Exarch</string>
+	<string>Tormentor's Trident</string>
 	<string>Tormod's Crypt</string>
 	<string>Tornado</string>
 	<string>Tornado Elemental</string>
@@ -11177,6 +11369,7 @@
 	<string>Traveler's Cloak</string>
 	<string>Traveling Plague</string>
 	<string>Treacherous Link</string>
+	<string>Treacherous Pit-Dweller</string>
 	<string>Treacherous Urge</string>
 	<string>Treacherous Vampire</string>
 	<string>Treacherous Werewolf</string>
@@ -11237,6 +11430,8 @@
 	<string>Trip Wire</string>
 	<string>Triskelavus</string>
 	<string>Triskelion</string>
+	<string>Triumph of Cruelty</string>
+	<string>Triumph of Ferocity</string>
 	<string>Triumph of the Hordes</string>
 	<string>Trokin High Guard</string>
 	<string>Troll Ascetic</string>
@@ -11255,6 +11450,7 @@
 	<string>Trumpet Blast</string>
 	<string>Trumpeting Armodon</string>
 	<string>Trusted Advisor</string>
+	<string>Trusted Forcemage</string>
 	<string>Trusty Machete</string>
 	<string>Truth or Tale</string>
 	<string>Trygon Predator</string>
@@ -11313,6 +11509,7 @@
 	<string>Typhoid Rats</string>
 	<string>Typhoon</string>
 	<string>Tyrannize</string>
+	<string>Tyrant of Discord</string>
 	<string>Tyrranax</string>
 	<string>Uba Mask</string>
 	<string>Uktabi Drake</string>
@@ -11327,6 +11524,7 @@
 	<string>Ulvenwald Bear</string>
 	<string>Ulvenwald Mystics</string>
 	<string>Ulvenwald Primordials</string>
+	<string>Ulvenwald Tracker</string>
 	<string>Umara Raptor</string>
 	<string>Umbilicus</string>
 	<string>Umbra Mystic</string>
@@ -11338,11 +11536,13 @@
 	<string>Unbreathing Horde</string>
 	<string>Unburden</string>
 	<string>Unburial Rites</string>
+	<string>Uncanny Speed</string>
 	<string>Unchecked Growth</string>
 	<string>Uncle Istvan</string>
 	<string>Uncontrollable Anger</string>
 	<string>Uncontrolled Infestation</string>
 	<string>Undead Alchemist</string>
+	<string>Undead Executioner</string>
 	<string>Undead Gladiator</string>
 	<string>Undead Leotau</string>
 	<string>Undead Slayer</string>
@@ -11367,6 +11567,7 @@
 	<string>Unforge</string>
 	<string>Unfulfilled Desires</string>
 	<string>Unhallowed Cathar</string>
+	<string>Unhallowed Pact</string>
 	<string>Unhinge</string>
 	<string>Unholy Citadel</string>
 	<string>Unholy Fiend</string>
@@ -11491,8 +11692,10 @@
 	<string>Vampiric Touch</string>
 	<string>Vampiric Tutor</string>
 	<string>Vampirism</string>
+	<string>Vanguard's Shield</string>
 	<string>Vanish into Memory</string>
 	<string>Vanishing</string>
+	<string>Vanishment</string>
 	<string>Vanquish</string>
 	<string>Vapor Snag</string>
 	<string>Vapor Snare</string>
@@ -11586,6 +11789,7 @@
 	<string>Vertigo</string>
 	<string>Vertigo Spawn</string>
 	<string>Vesper Ghoul</string>
+	<string>Vessel of Endless Rest</string>
 	<string>Vesuva</string>
 	<string>Vesuvan Doppelganger</string>
 	<string>Vesuvan Shapeshifter</string>
@@ -11603,6 +11807,7 @@
 	<string>Vex</string>
 	<string>Vexing Arcanix</string>
 	<string>Vexing Beetle</string>
+	<string>Vexing Devil</string>
 	<string>Vexing Shusher</string>
 	<string>Vexing Sphinx</string>
 	<string>Vhati il-Dal</string>
@@ -11643,6 +11848,7 @@
 	<string>Vigilant Drake</string>
 	<string>Vigilant Martyr</string>
 	<string>Vigilant Sentry</string>
+	<string>Vigilante Justice</string>
 	<string>Vigor</string>
 	<string>Vigor Mortis</string>
 	<string>Vigorous Charge</string>
@@ -11736,6 +11942,7 @@
 	<string>Voice of Grace</string>
 	<string>Voice of Law</string>
 	<string>Voice of Reason</string>
+	<string>Voice of the Provinces</string>
 	<string>Voice of the Woods</string>
 	<string>Voice of Truth</string>
 	<string>Voiceless Spirit</string>
@@ -11783,6 +11990,7 @@
 	<string>Vorinclex, Voice of Hunger</string>
 	<string>Vorosh, the Hunter</string>
 	<string>Vorrac Battlehorns</string>
+	<string>Vorstclaw</string>
 	<string>Votary of the Conclave</string>
 	<string>Vow of Duty</string>
 	<string>Vow of Flight</string>
@@ -11888,6 +12096,7 @@
 	<string>Wandering Mage</string>
 	<string>Wandering Ones</string>
 	<string>Wandering Stream</string>
+	<string>Wandering Wolf</string>
 	<string>Wanderlust</string>
 	<string>Wanderwine Hub</string>
 	<string>Wanderwine Prophets</string>
@@ -12067,6 +12276,7 @@
 	<string>Wild Aesthir</string>
 	<string>Wild Cantor</string>
 	<string>Wild Colos</string>
+	<string>Wild Defiance</string>
 	<string>Wild Dogs</string>
 	<string>Wild Elephant</string>
 	<string>Wild Evocation</string>
@@ -12094,6 +12304,7 @@
 	<string>Wildheart Invoker</string>
 	<string>Wildsize</string>
 	<string>Wildslayer Elves</string>
+	<string>Wildwood Geist</string>
 	<string>Willbender</string>
 	<string>Will-o'-the-Wisp</string>
 	<string>Willow Dryad</string>
@@ -12133,6 +12344,7 @@
 	<string>Wing Splicer</string>
 	<string>Wing Storm</string>
 	<string>Wingbeat Warrior</string>
+	<string>Wingcrafter</string>
 	<string>Winged Coatl</string>
 	<string>Winged Sliver</string>
 	<string>Wingrattle Scarecrow</string>
@@ -12196,6 +12408,8 @@
 	<string>Wolfbitten Captive</string>
 	<string>Wolfbriar Elemental</string>
 	<string>Wolfhunter's Quiver</string>
+	<string>Wolfir Avenger</string>
+	<string>Wolfir Silverheart</string>
 	<string>Wolf-Skull Shaman</string>
 	<string>Wolverine Pack</string>
 	<string>Wonder</string>
@@ -12328,6 +12542,7 @@
 	<string>Yellow Scarves General</string>
 	<string>Yellow Scarves Troops</string>
 	<string>Yet Another Aether Vortex</string>
+	<string>Yew Spirit</string>
 	<string>Yixlid Jailer</string>
 	<string>Yoke of the Damned</string>
 	<string>Yoked Plowbeast</string>
@@ -12346,9 +12561,11 @@
 	<string>Zap</string>
 	<string>Zealot il-Vec</string>
 	<string>Zealots en-Dal</string>
+	<string>Zealous Conscripts</string>
 	<string>Zealous Guardian</string>
 	<string>Zealous Inquisitor</string>
 	<string>Zealous Persecution</string>
+	<string>Zealous Strike</string>
 	<string>Zebra Unicorn</string>
 	<string>Zedruu the Greathearted</string>
 	<string>Zektar Shrine Expedition</string>

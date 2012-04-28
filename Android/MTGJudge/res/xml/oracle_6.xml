@@ -154,7 +154,7 @@ Sacrifice Gaea's Touch: Add {G}{G} to your mana pool.</string>
 		<string>(3/3)</string>
 		<string>Flying
 Whenever Galepowder Mage attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.</string>
-		<string>Lorwyn Rare</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Lorwyn Rare</string>
 	</array>
 	<array>
 		<string>Galina's Knight</string>
@@ -183,6 +183,14 @@ Cumulative upkeep-Pay 1 life. (At the beginning of your upkeep, put an age count
 		<string>Weatherlight Rare</string>
 	</array>
 	<array>
+		<string>Gallows at Willow Hill</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>{3}, {T}, Tap three untapped Humans you control: Destroy target creature. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Gallows Warden</string>
 		<string>4W</string>
 		<string>Creature  - Spirit</string>
@@ -190,6 +198,15 @@ Cumulative upkeep-Pay 1 life. (At the beginning of your upkeep, put an age count
 		<string>Flying
 Other Spirit creatures you control get +0/+1.</string>
 		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Galvanic Alchemist</string>
+		<string>2U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/4)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Galvanic Alchemist is paired with another creature, each of those creatures has "{2}{U}: Untap this creature."</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Galvanic Arc</string>
@@ -277,6 +294,14 @@ Whenever another creature dies, untap Galvanic Juggernaut.</string>
 		<string>Changeling (This card is every creature type at all times.)
 Trample</string>
 		<string>Morningtide Common</string>
+	</array>
+	<array>
+		<string>Gang of Devils</string>
+		<string>5R</string>
+		<string>Creature  - Devil</string>
+		<string>(3/3)</string>
+		<string>When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Gang of Elk</string>
@@ -602,6 +627,23 @@ Regenerate target creature. At end of combat, destroy all creatures that blocked
 		<string>Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat.</string>
 		<string>Innistrad Mythic Rare</string>
+	</array>
+	<array>
+		<string>Geist Snatch</string>
+		<string>2UU</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Counter target creature spell. Put a 1/1 blue Spirit creature token with flying onto the battlefield.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
+		<string>Geist Trappers</string>
+		<string>4G</string>
+		<string>Creature  - Human Warrior</string>
+		<string>(3/5)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Geist Trappers is paired with another creature, both creatures have reach.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Geistcatcher's Rig</string>
@@ -985,7 +1027,7 @@ Undying (When this creature dies, if it had no +1/+1 counters on it, return it t
 		<string>Creature  - Elemental Beast</string>
 		<string>(4/4)</string>
 		<string>Landfall - Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.</string>
-		<string>Zendikar Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Zendikar Uncommon</string>
 	</array>
 	<array>
 		<string>Ghalma's Warden</string>
@@ -1213,6 +1255,14 @@ Ghostfire deals 3 damage to target creature or player.</string>
 		<string>Time Spiral Uncommon</string>
 	</array>
 	<array>
+		<string>Ghostform</string>
+		<string>1U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Up to two target creatures are unblockable this turn.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Ghosthelm Courier</string>
 		<string>2U</string>
 		<string>Creature  - Human Wizard</string>
@@ -1284,6 +1334,14 @@ Channel - {3}{U}, Discard Ghost-Lit Warder: Counter target spell unless its cont
 		<string>Ice Age Rare</string>
 	</array>
 	<array>
+		<string>Ghostly Flicker</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Ghostly Possession</string>
 		<string>2W</string>
 		<string>Enchantment  - Aura</string>
@@ -1300,6 +1358,15 @@ Prevent all combat damage that would be dealt to and dealt by enchanted creature
 		<string></string>
 		<string>Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.</string>
 		<string>Magic: The Gathering-Commander Uncommon, Champions of Kamigawa Uncommon</string>
+	</array>
+	<array>
+		<string>Ghostly Touch</string>
+		<string>1U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has "Whenever this creature attacks, you may tap or untap target permanent."</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Ghostly Visit</string>
@@ -1358,6 +1425,15 @@ Discard a card: Return enchanted creature to its owner's hand.</string>
 		<string></string>
 		<string>Choose one - Return target creature card from your graveyard to your hand; or return two target Zombie cards from your graveyard to your hand.</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Ghoulflesh</string>
+		<string>B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Ghoulraiser</string>
@@ -1812,6 +1888,16 @@ Tap seven untapped Druids you control: Gain control of all lands target player c
 		<string>Conflux Rare</string>
 	</array>
 	<array>
+		<string>Gisela, Blade of Goldnight</string>
+		<string>4RWW</string>
+		<string>Legendary Creature  - Angel</string>
+		<string>(5/5)</string>
+		<string>Flying, first strike
+If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.
+If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.</string>
+		<string>Avacyn Restored Mythic Rare</string>
+	</array>
+	<array>
 		<string>Gitaxian Probe</string>
 		<string>(U/P)</string>
 		<string>Sorcery</string>
@@ -2261,6 +2347,14 @@ Activated abilities of white enchantments cost {3} more to activate.</string>
 		<string>Masters Edition IV Rare, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
 	</array>
 	<array>
+		<string>Gloom Surgeon</string>
+		<string>1B</string>
+		<string>Creature  - Spirit</string>
+		<string>(2/1)</string>
+		<string>If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Gloomdrifter</string>
 		<string>3B</string>
 		<string>Creature  - Zombie Minion</string>
@@ -2292,7 +2386,7 @@ Threshold - As long as seven or more cards are in your graveyard, Gloomdrifter h
 		<string>(3/3)</string>
 		<string>Reach
 Gloomwidow can block only creatures with flying.</string>
-		<string>Shadowmoor Uncommon</string>
+		<string>Avacyn Restored Uncommon, Shadowmoor Uncommon</string>
 	</array>
 	<array>
 		<string>Gloomwidow's Feast</string>
@@ -3707,6 +3801,23 @@ Whenever Goldenglow Moth blocks, you may gain 4 life.</string>
 		<string>Lorwyn Uncommon</string>
 	</array>
 	<array>
+		<string>Goldnight Commander</string>
+		<string>3W</string>
+		<string>Creature  - Human Cleric Soldier</string>
+		<string>(2/2)</string>
+		<string>Whenever another creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
+		<string>Goldnight Redeemer</string>
+		<string>4WW</string>
+		<string>Creature  - Angel</string>
+		<string>(4/4)</string>
+		<string>Flying
+When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Golem Artisan</string>
 		<string>5</string>
 		<string>Artifact Creature  - Golem</string>
@@ -4138,8 +4249,8 @@ All creatures block each turn if able.</string>
 		<string>G</string>
 		<string>Creature  - Human Wizard</string>
 		<string>(1/1)</string>
-		<string>{W}, {T}: Target creature gains first strike until end of turn.
-{R}, {T}: Granger Guildmage deals 1 damage to target creature or player and 1 damage to you.</string>
+		<string>{R}, {T}: Granger Guildmage deals 1 damage to target creature or player and 1 damage to you.
+{W}, {T}: Target creature gains first strike until end of turn.</string>
 		<string>Mirage Common</string>
 	</array>
 	<array>
@@ -4293,6 +4404,14 @@ Draw a card.</string>
 		<string>When Grave Defiler enters the battlefield, reveal the top four cards of your library. Put all Zombie cards revealed this way into your hand and the rest on the bottom of your library in any order.
 {1}{B}: Regenerate Grave Defiler.</string>
 		<string>Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Grave Exchange</string>
+		<string>4BB</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return target creature card from your graveyard to your hand. Target player sacrifices a creature.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Grave Pact</string>
@@ -4714,7 +4833,7 @@ Whenever Greater Harvester deals combat damage to a player, that player sacrific
 		<string>(4/4)</string>
 		<string>Greater Stone Spirit can't be blocked by creatures with flying.
 {2}{R}: Until end of turn, target creature gets +0/+2 and gains "{R}: This creature gets +1/+0 until end of turn."</string>
-		<string>Coldsnap Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Coldsnap Uncommon</string>
 	</array>
 	<array>
 		<string>Greater Werewolf</string>
@@ -5108,6 +5227,15 @@ Draw a card.</string>
 		<string>Dark Ascension Common</string>
 	</array>
 	<array>
+		<string>Griselbrand</string>
+		<string>4BBBB</string>
+		<string>Legendary Creature  - Demon</string>
+		<string>(7/7)</string>
+		<string>Flying, lifelink
+Pay 7 life: Draw seven cards.</string>
+		<string>Avacyn Restored Mythic Rare</string>
+	</array>
+	<array>
 		<string>Gristle Grinner</string>
 		<string>4B</string>
 		<string>Creature  - Zombie</string>
@@ -5294,6 +5422,15 @@ At the beginning of the end step, sacrifice Groundbreaker.</string>
 		<string>Planar Chaos Rare</string>
 	</array>
 	<array>
+		<string>Grounded</string>
+		<string>1G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature loses flying.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Groundling Pouncer</string>
 		<string>1(G/U)</string>
 		<string>Creature  - Faerie</string>
@@ -5430,6 +5567,15 @@ When Gruul Turf enters the battlefield, return a land you control to its owner's
 		<string>Creatures you control have trample.
 {1}{R}{G}: Gruul War Plow becomes a 4/4 Juggernaut artifact creature until end of turn.</string>
 		<string>Guildpact Rare</string>
+	</array>
+	<array>
+		<string>Gryff Vanguard</string>
+		<string>4U</string>
+		<string>Creature  - Human Knight</string>
+		<string>(3/2)</string>
+		<string>Flying
+When Gryff Vanguard enters the battlefield, draw a card.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Guan Yu, Sainted Warrior</string>
@@ -5642,6 +5788,15 @@ Whenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life fo
 		<string>Enchant creature
 Whenever enchanted creature deals damage, Guilty Conscience deals that much damage to that creature.</string>
 		<string>Scourge Common</string>
+	</array>
+	<array>
+		<string>Guise of Fire</string>
+		<string>R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature gets +1/-1 and attacks each turn if able.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Gulf Squid</string>

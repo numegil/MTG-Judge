@@ -22,82 +22,82 @@ triggers.array
 4
 
 oracle_names_only.array
-4
+5
 
 oracle_0.array
-3
+5
 
 oracle_1.array
-3
+5
 
 oracle_2.array
-3
+5
 
 oracle_3.array
-4
+5
 
 oracle_4.array
-3
+5
 
 oracle_5.array
-3
+5
 
 oracle_6.array
-3
+5
 
 oracle_7.array
-3
+5
 
 oracle_8.array
-3
+5
 
 oracle_9.array
-3
+5
 
 oracle_10.array
-3
+5
 
 oracle_11.array
-3
+5
 
 oracle_12.array
-3
+5
 
 oracle_13.array
-3
+5
 
 oracle_14.array
-3
+5
 
 oracle_15.array
-3
+5
 
 oracle_16.array
-3
+5
 
 oracle_17.array
-3
+5
 
 oracle_18.array
-3
+5
 
 oracle_19.array
-3
+5
 
 oracle_20.array
-3
+5
 
 oracle_21.array
-3
+5
 
 oracle_22.array
-3
+5
 
 oracle_23.array
-3
+5
 
 oracle_24.array
-3
+5
 
 oracle_25.array
-3
+5

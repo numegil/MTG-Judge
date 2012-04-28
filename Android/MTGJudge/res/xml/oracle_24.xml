@@ -245,6 +245,14 @@ Noninstant, nonsorcery cards on top of a library are in play under their owner's
 		<string>Unhinged Rare</string>
 	</array>
 	<array>
+		<string>Yew Spirit</string>
+		<string>4G</string>
+		<string>Creature  - Spirit Treefolk</string>
+		<string>(3/3)</string>
+		<string>{2}{G}{G}: Yew Spirit gets +X/+X until end of turn, where X is its power.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Yixlid Jailer</string>
 		<string>1B</string>
 		<string>Creature  - Zombie Wizard</string>

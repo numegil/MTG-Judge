@@ -119,6 +119,14 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
 		<string>Innistrad Uncommon</string>
 	</array>
 	<array>
+		<string>Ulvenwald Tracker</string>
+		<string>G</string>
+		<string>Creature  - Human Shaman</string>
+		<string>(1/1)</string>
+		<string>{1}{G}, {T}: Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Umara Raptor</string>
 		<string>2U</string>
 		<string>Creature  - Bird Ally</string>
@@ -215,6 +223,14 @@ Flashback {3}{W} (You may cast this card from your graveyard for its flashback c
 		<string>Innistrad Uncommon</string>
 	</array>
 	<array>
+		<string>Uncanny Speed</string>
+		<string>1R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +3/+0 and gains haste until end of turn.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Unchecked Growth</string>
 		<string>2G</string>
 		<string>Instant  - Arcane</string>
@@ -257,6 +273,14 @@ When enchanted land becomes tapped, destroy it.</string>
 		<string>If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.
 Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.</string>
 		<string>Innistrad Rare</string>
+	</array>
+	<array>
+		<string>Undead Executioner</string>
+		<string>3B</string>
+		<string>Creature  - Zombie</string>
+		<string>(2/2)</string>
+		<string>When Undead Executioner dies, you may have target creature get -2/-2 until end of turn.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Undead Gladiator</string>
@@ -456,6 +480,15 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</string>
 		<string>(2/1)</string>
 		<string>Unhallowed Cathar can't block.</string>
 		<string>Dark Ascension Common</string>
+	</array>
+	<array>
+		<string>Unhallowed Pact</string>
+		<string>2B</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+When enchanted creature dies, return that card to the battlefield under your control.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Unhinge</string>
@@ -1086,7 +1119,7 @@ Clap your hands twice: Tap or untap Urza's Contact Lenses.</string>
 	</array>
 	<array>
 		<string>Urza's Factory</string>
-		<string>Land  - Urza’s</string>
+		<string>Land  - Urza's</string>
 		<string></string>
 		<string>{T}: Add {1} to your mana pool.
 {7}, {T}: Put a 2/2 colorless Assembly-Worker artifact creature token onto the battlefield.</string>
@@ -1127,7 +1160,7 @@ Creature spells of the chosen type cost {2} less to cast.</string>
 	</array>
 	<array>
 		<string>Urza's Mine</string>
-		<string>Land  - Urza’s Mine</string>
+		<string>Land  - Urza's Mine</string>
 		<string></string>
 		<string>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</string>
 		<string>Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Ninth Edition Uncommon, Eighth Edition Uncommon, Fifth Edition Common, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Antiquities Uncommon, Antiquities Common, Antiquities Uncommon, Antiquities Common</string>
@@ -1142,7 +1175,7 @@ Creature spells of the chosen type cost {2} less to cast.</string>
 	</array>
 	<array>
 		<string>Urza's Power Plant</string>
-		<string>Land  - Urza’s Power-Plant</string>
+		<string>Land  - Urza's Power-Plant</string>
 		<string></string>
 		<string>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</string>
 		<string>Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Ninth Edition Uncommon, Eighth Edition Uncommon, Fifth Edition Common, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Antiquities Uncommon, Antiquities Common, Antiquities Common, Antiquities Uncommon</string>
@@ -1173,7 +1206,7 @@ Urza's Rage deals 3 damage to target creature or player. If Urza's Rage was kick
 	</array>
 	<array>
 		<string>Urza's Tower</string>
-		<string>Land  - Urza’s Tower</string>
+		<string>Land  - Urza's Tower</string>
 		<string></string>
 		<string>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</string>
 		<string>Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Masters Edition IV Land, Ninth Edition Uncommon, Eighth Edition Uncommon, Fifth Edition Common, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Chronicles Uncommon, Antiquities Uncommon, Antiquities Common, Antiquities Uncommon, Antiquities Uncommon</string>

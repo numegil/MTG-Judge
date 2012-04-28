@@ -192,6 +192,14 @@ When you control no Islands, sacrifice Dandân.</string>
 		<string>Time Spiral "Timeshifted" Special, Fifth Edition Common, Chronicles Common, Arabian Nights Common</string>
 	</array>
 	<array>
+		<string>Dangerous Wager</string>
+		<string>1R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Discard your hand, then draw two cards.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Daraja Griffin</string>
 		<string>3W</string>
 		<string>Creature  - Griffin</string>
@@ -316,6 +324,15 @@ When Dark Hatchling enters the battlefield, destroy target nonblack creature. It
 		<string></string>
 		<string>Sacrifice a Forest: You gain 3 life.</string>
 		<string>Ravnica: City of Guilds Uncommon, The Dark Common</string>
+	</array>
+	<array>
+		<string>Dark Impostor</string>
+		<string>2B</string>
+		<string>Creature  - Vampire Assassin</string>
+		<string>(2/2)</string>
+		<string>{4}{B}{B}: Exile target creature and put a +1/+1 counter on Dark Impostor.
+Dark Impostor has all activated abilities of all creature cards exiled with it.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Dark Maze</string>
@@ -1107,6 +1124,15 @@ Enchanted creature gets -2/-2.</string>
 		<string>Planeshift Rare</string>
 	</array>
 	<array>
+		<string>Deadeye Navigator</string>
+		<string>4UU</string>
+		<string>Creature  - Spirit</string>
+		<string>(5/5)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Deadeye Navigator is paired with another creature, each of those creatures has "{1}{U}: Exile this creature, then return it to the battlefield under your control."</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Deadfall</string>
 		<string>2G</string>
 		<string>Enchantment</string>
@@ -1385,6 +1411,14 @@ At the beginning of your upkeep, if Death Spark is in your graveyard with a crea
 		<string>Enchant creature
 When enchanted creature dies, its controller loses life equal to its power and you gain life equal to its toughness.</string>
 		<string>Visions Common</string>
+	</array>
+	<array>
+		<string>Death Wind</string>
+		<string>XB</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets -X/-X until end of turn.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Death Wish</string>
@@ -1893,6 +1927,15 @@ Whenever Deep-Slumber Titan is dealt damage, untap it.</string>
 		<string>Mercadian Masques Common</string>
 	</array>
 	<array>
+		<string>Defang</string>
+		<string>1W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Prevent all damage that would be dealt by enchanted creature.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Defender en-Vec</string>
 		<string>3W</string>
 		<string>Creature  - Human Cleric</string>
@@ -2048,6 +2091,14 @@ Shroud (This creature can't be the target of spells or abilities.)</string>
 		<string>Legions Common</string>
 	</array>
 	<array>
+		<string>Defy Death</string>
+		<string>3WW</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return target creature card from your graveyard to the battlefield. If it's an Angel, put two +1/+1 counters on it.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Defy Gravity</string>
 		<string>U</string>
 		<string>Instant</string>
@@ -2111,7 +2162,7 @@ Deity of Scars enters the battlefield with two -1/-1 counters on it.
 		<string>Eventide Rare</string>
 	</array>
 	<array>
-		<string>Déjà Vu</string>
+		<string>Dejà Vu</string>
 		<string>2U</string>
 		<string>Sorcery</string>
 		<string></string>
@@ -2244,7 +2295,7 @@ When you cast Demigod of Revenge, return all cards named Demigod of Revenge from
 		<string>Sorcery</string>
 		<string></string>
 		<string>Destroy target artifact or land.</string>
-		<string>Magic 2011 Common, Zendikar Common, Tenth Edition Common, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon</string>
+		<string>Avacyn Restored Common, Magic 2011 Common, Zendikar Common, Tenth Edition Common, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon</string>
 	</array>
 	<array>
 		<string>Demon</string>
@@ -2326,6 +2377,23 @@ At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes an
 		<string>Masters Edition IV Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare</string>
 	</array>
 	<array>
+		<string>Demonic Rising</string>
+		<string>3BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your end step, if you control exactly one creature, put a 5/5 black Demon creature token with flying onto the battlefield.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
+		<string>Demonic Taskmaster</string>
+		<string>2B</string>
+		<string>Creature  - Demon</string>
+		<string>(4/3)</string>
+		<string>Flying
+At the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Demonic Torment</string>
 		<string>2B</string>
 		<string>Enchantment  - Aura</string>
@@ -2342,6 +2410,16 @@ Prevent all combat damage that would be dealt by enchanted creature.</string>
 		<string></string>
 		<string>Search your library for a card and put that card into your hand. Then shuffle your library.</string>
 		<string>Masters Edition IV Rare, Duel Decks: Divine vs. Demonic Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+	</array>
+	<array>
+		<string>Demonlord of Ashmouth</string>
+		<string>2BB</string>
+		<string>Creature  - Demon</string>
+		<string>(5/4)</string>
+		<string>Flying
+When Demonlord of Ashmouth enters the battlefield, exile it unless you sacrifice another creature.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Demonmail Hauberk</string>
@@ -2530,6 +2608,22 @@ When Dermoplasm is turned face up, you may put a creature card with morph from y
 		<string>Saviors of Kamigawa Common</string>
 	</array>
 	<array>
+		<string>Descendants' Path</string>
+		<string>2G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, reveal the top card of your library. If it's a creature card that shares a creature type with a creature you control, you may cast that card without paying its mana cost. Otherwise, put that card on the bottom of your library.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
+		<string>Descent into Madness</string>
+		<string>3BB</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>At the beginning of your upkeep, put a despair counter on Descent into Madness, then each player exiles X permanents he or she controls and/or cards from his or her hand, where X is the number of despair counters on Descent into Madness.</string>
+		<string>Avacyn Restored Mythic Rare</string>
+	</array>
+	<array>
 		<string>Desecrated Earth</string>
 		<string>4B</string>
 		<string>Sorcery</string>
@@ -2612,11 +2706,19 @@ Prevent all damage that would be dealt to Desert Nomads by Deserts.</string>
 		<string>Classic Sixth Edition Rare, Visions Rare</string>
 	</array>
 	<array>
+		<string>Desolate Lighthouse</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{1}{U}{R}, {T}: Draw a card, then discard a card.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Desolation</string>
 		<string>1BB</string>
 		<string>Enchantment</string>
 		<string></string>
-		<string>At the beginning of each end step, each player who tapped a land for mana this turn sacrifices a land. If a Plains is sacrificed this way, Desolation deals 2 damage to that Plains's controller.</string>
+		<string>At the beginning of each end step, each player who tapped a land for mana this turn sacrifices a land. Desolation deals 2 damage to each player who sacrificed a Plains this way.</string>
 		<string>Visions Uncommon</string>
 	</array>
 	<array>
@@ -2811,6 +2913,15 @@ Put two X/X red Elemental creature tokens onto the battlefield.</string>
 		<string>Masters Edition IV Rare, Starter 1999 Rare, Portal Rare</string>
 	</array>
 	<array>
+		<string>Devastation Tide</string>
+		<string>3UU</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Return all nonland permanents to their owners' hands.
+Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Devil's Play</string>
 		<string>XR</string>
 		<string>Sorcery</string>
@@ -2913,6 +3024,14 @@ Sacrifice a creature: Regenerate Devouring Strossus.</string>
 		<string>Flying
 Sacrifice a creature: Devouring Swarm gets +1/+1 until end of turn.</string>
 		<string>Magic 2012 Common</string>
+	</array>
+	<array>
+		<string>Devout Chaplain</string>
+		<string>2W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(2/2)</string>
+		<string>{T}, Tap two untapped Humans you control: Exile target artifact or enchantment.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Devout Harpist</string>
@@ -3230,6 +3349,15 @@ Whenever a black creature enters the battlefield under your control, you may hav
 Other Zombie creatures you control get +1/+1.
 Whenever another Zombie you control dies, target opponent loses 1 life.</string>
 		<string>Dark Ascension Uncommon</string>
+	</array>
+	<array>
+		<string>Diregraf Escort</string>
+		<string>G</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Diregraf Ghoul</string>
@@ -3772,6 +3900,14 @@ Conspire (As you cast this spell, you may tap two untapped creatures you control
 		<string>You gain 2 life for each creature target player controls.
 Suspend 5-{1}{W} (Rather than cast this card from your hand, you may pay {1}{W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</string>
 		<string>Time Spiral Common</string>
+	</array>
+	<array>
+		<string>Divine Deflection</string>
+		<string>XW</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Prevent the next X damage that would be dealt to you and/or permanents you control this turn. If damage is prevented this way, Divine Deflection deals that much damage to target creature or player.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Divine Favor</string>
@@ -4323,7 +4459,7 @@ Sacrifice Downdraft: Downdraft deals 2 damage to each creature with flying.</str
 		<string></string>
 		<string>You may sacrifice a Mountain rather than pay Downhill Charge's mana cost.
 Target creature gets +X/+0 until end of turn, where X is the number of Mountains you control.</string>
-		<string>Nemesis Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Nemesis Common</string>
 	</array>
 	<array>
 		<string>Dowsing Shaman</string>
@@ -4792,6 +4928,14 @@ Dread Slag gets -4/-4 for each card in your hand.</string>
 		<string>Dissension Rare</string>
 	</array>
 	<array>
+		<string>Dread Slaver</string>
+		<string>3BB</string>
+		<string>Creature  - Zombie Horror</string>
+		<string>(3/5)</string>
+		<string>Whenever a creature dealt damage by Dread Slaver this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Dread Specter</string>
 		<string>3B</string>
 		<string>Creature  - Specter</string>
@@ -4831,6 +4975,14 @@ Dread Slag gets -4/-4 for each card in your hand.</string>
 {1}, {T}: Put a storage counter on Dreadship Reef.
 {1}, Remove X storage counters from Dreadship Reef: Add X mana in any combination of {U} and/or {B} to your mana pool.</string>
 		<string>Magic: The Gathering-Commander Uncommon, Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Dreadwaters</string>
+		<string>3U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of lands you control.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Dreadwing</string>
@@ -5169,6 +5321,14 @@ Whenever Dripping Dead deals combat damage to a creature, destroy that creature.
 		<string>Champions of Kamigawa Common</string>
 	</array>
 	<array>
+		<string>Driver of the Dead</string>
+		<string>3B</string>
+		<string>Creature  - Vampire</string>
+		<string>(3/2)</string>
+		<string>When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Drogskol Captain</string>
 		<string>1WU</string>
 		<string>Creature  - Spirit Soldier</string>
@@ -5446,6 +5606,24 @@ Whenever enchanted creature is dealt damage, its controller puts that many 1/1 g
 		<string>Odyssey Uncommon</string>
 	</array>
 	<array>
+		<string>Druid's Familiar</string>
+		<string>3G</string>
+		<string>Creature  - Bear</string>
+		<string>(2/2)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
+		<string>Druids' Repository</string>
+		<string>1GG</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature you control attacks, put a charge counter on Druids' Repository.
+Remove a charge counter from Druids' Repository: Add one mana of any color to your mana pool.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Drumhunter</string>
 		<string>3G</string>
 		<string>Creature  - Human Druid Warrior</string>
@@ -5494,6 +5672,15 @@ Whenever enchanted creature is dealt damage, its controller puts that many 1/1 g
 		<string>Enchant creature
 Enchanted creature has forestwalk. (It's unblockable as long as defending player controls a Forest.)</string>
 		<string>Magic 2011 Common</string>
+	</array>
+	<array>
+		<string>Dual Casting</string>
+		<string>1R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has "{R}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy."</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Dual Nature</string>

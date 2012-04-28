@@ -135,6 +135,14 @@ Spells that players wearing at least one item of women's clothing play cost {1} 
 		<string>Rise of the Eldrazi Common</string>
 	</array>
 	<array>
+		<string>Lair Delve</string>
+		<string>2G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Reveal the top two cards of your library. Put all creature and land cards revealed this way into your hand and the rest on the bottom of your library in any order.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Lairwatch Giant</string>
 		<string>5W</string>
 		<string>Creature  - Giant Warrior</string>
@@ -473,6 +481,14 @@ Counter target spell.</string>
 		<string></string>
 		<string>Sacrifice any number of creatures. Last-Ditch Effort deals that much damage to target creature or player.</string>
 		<string>Urza's Legacy Uncommon</string>
+	</array>
+	<array>
+		<string>Latch Seeker</string>
+		<string>1UU</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/1)</string>
+		<string>Latch Seeker is unblockable.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Latchkey Faerie</string>
@@ -815,6 +831,14 @@ Enchanted land has "{G}{U}, {T}: Put a 2/2 green and blue Drake creature token w
 		<string>Target creature gains flying until end of turn.
 Draw a card.</string>
 		<string>Stronghold Common</string>
+	</array>
+	<array>
+		<string>Leap of Faith</string>
+		<string>2W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gains flying until end of turn. Prevent all damage that would be dealt to that creature this turn.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Leap of Flame</string>
@@ -1769,6 +1793,24 @@ Equip {0}</string>
 		<string>Mercadian Masques Common</string>
 	</array>
 	<array>
+		<string>Lightning Mauler</string>
+		<string>1R</string>
+		<string>Creature  - Human Berserker</string>
+		<string>(2/1)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Lightning Mauler is paired with another creature, both creatures have haste.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
+		<string>Lightning Prowess</string>
+		<string>2R</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has haste and "{T}: This creature deals 1 damage to target creature or player."</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Lightning Reaver</string>
 		<string>3BR</string>
 		<string>Creature  - Zombie Beast</string>
@@ -2089,7 +2131,7 @@ Sacrifice a land: Lithatog gets +1/+1 until end of turn.</string>
 		<string>Creature  - Insect</string>
 		<string>(7/7)</string>
 		<string>At the beginning of your upkeep, sacrifice Lithophage unless you sacrifice a Mountain.</string>
-		<string>Mercadian Masques Rare</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Mercadian Masques Rare</string>
 	</array>
 	<array>
 		<string>Little Girl</string>
@@ -2510,6 +2552,15 @@ Counter target spell unless its controller pays {X}.</string>
 		<string>(2/1)</string>
 		<string>When Lone Missionary enters the battlefield, you gain 4 life.</string>
 		<string>Rise of the Eldrazi Common</string>
+	</array>
+	<array>
+		<string>Lone Revenant</string>
+		<string>3UU</string>
+		<string>Creature  - Spirit</string>
+		<string>(4/4)</string>
+		<string>Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Lone Wolf</string>
@@ -3226,6 +3277,14 @@ Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it fac
 		<string>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
 Remove a +1/+1 counter from Lunar Avenger: Lunar Avenger gains your choice of flying, first strike, or haste until end of turn.</string>
 		<string>Fifth Dawn Uncommon</string>
+	</array>
+	<array>
+		<string>Lunar Mystic</string>
+		<string>2UU</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>Whenever you cast an instant spell, you may pay {1}. If you do, draw a card.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Lunge</string>

@@ -38,6 +38,15 @@ Whenever Zealot il-Vec attacks and isn't blocked, you may have it deal 1 damage 
 		<string>Exodus Uncommon</string>
 	</array>
 	<array>
+		<string>Zealous Conscripts</string>
+		<string>4R</string>
+		<string>Creature  - Human Warrior</string>
+		<string>(3/3)</string>
+		<string>Haste
+When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Zealous Guardian</string>
 		<string>(W/U)</string>
 		<string>Creature  - Kithkin Soldier</string>
@@ -60,6 +69,14 @@ Whenever Zealot il-Vec attacks and isn't blocked, you may have it deal 1 damage 
 		<string></string>
 		<string>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.</string>
 		<string>Alara Reborn Uncommon</string>
+	</array>
+	<array>
+		<string>Zealous Strike</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +2/+2 and gains first strike until end of turn.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Zebra Unicorn</string>

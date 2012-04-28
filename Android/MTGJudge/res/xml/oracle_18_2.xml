@@ -256,6 +256,14 @@ Morph {4}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it 
 		<string>Scars of Mirrodin Common</string>
 	</array>
 	<array>
+		<string>Snare the Skies</string>
+		<string>G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.)</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Snarling Undorak</string>
 		<string>2GG</string>
 		<string>Creature  - Beast</string>
@@ -407,7 +415,7 @@ Enchanted creature has flying.
 		<string>Soaring Seacliff enters the battlefield tapped.
 When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.
 {T}: Add {U} to your mana pool.</string>
-		<string>Zendikar Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Zendikar Common</string>
 	</array>
 	<array>
 		<string>Soilshaper</string>
@@ -763,6 +771,14 @@ Flying</string>
 		<string>Dark Ascension Common</string>
 	</array>
 	<array>
+		<string>Somberwald Sage</string>
+		<string>2G</string>
+		<string>Creature  - Human Druid</string>
+		<string>(0/1)</string>
+		<string>{T}: Add three mana of any one color to your mana pool. Spend this mana only to cast creature spells.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Somberwald Spider</string>
 		<string>4G</string>
 		<string>Creature  - Spider</string>
@@ -770,6 +786,14 @@ Flying</string>
 		<string>Reach (This creature can block creatures with flying.)
 Morbid - Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Somberwald Vigilante</string>
+		<string>R</string>
+		<string>Creature  - Human Warrior</string>
+		<string>(1/1)</string>
+		<string>Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Somnomancer</string>
@@ -1235,6 +1259,15 @@ Whenever enchanted creature is dealt damage, you gain that much life.</string>
 		<string>Champions of Kamigawa Common</string>
 	</array>
 	<array>
+		<string>Soul of the Harvest</string>
+		<string>4GG</string>
+		<string>Creature  - Elemental</string>
+		<string>(6/6)</string>
+		<string>Trample
+Whenever another nontoken creature enters the battlefield under your control, you may draw a card.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Soul Parry</string>
 		<string>1W</string>
 		<string>Instant</string>
@@ -1376,6 +1409,14 @@ Soulblast deals damage to target creature or player equal to the total power of 
 		<string>(2/1)</string>
 		<string>{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.</string>
 		<string>Duel Decks: Jace vs. Chandra Common, Lorwyn Common</string>
+	</array>
+	<array>
+		<string>Soulcage Fiend</string>
+		<string>1BB</string>
+		<string>Creature  - Demon</string>
+		<string>(3/2)</string>
+		<string>When Soulcage Fiend dies, each player loses 3 life.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Soulcatcher</string>
@@ -1806,6 +1847,15 @@ Whenever Spectral Force attacks, if defending player controls no black permanent
 		<string>Time Spiral Rare</string>
 	</array>
 	<array>
+		<string>Spectral Gateguards</string>
+		<string>4W</string>
+		<string>Creature  - Spirit Soldier</string>
+		<string>(2/5)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Spectral Gateguards is paired with another creature, both creatures have vigilance.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Spectral Guardian</string>
 		<string>2WW</string>
 		<string>Creature  - Spirit</string>
@@ -1821,6 +1871,16 @@ Whenever Spectral Force attacks, if defending player controls no black permanent
 		<string>Protection from green
 {B}: Regenerate Spectral Lynx.</string>
 		<string>Apocalypse Rare</string>
+	</array>
+	<array>
+		<string>Spectral Prison</string>
+		<string>1U</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+When enchanted creature becomes the target of a spell, sacrifice Spectral Prison.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Spectral Procession</string>
@@ -2195,7 +2255,7 @@ When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it 
 		<string>(5/6)</string>
 		<string>Flying
 When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</string>
-		<string>Magic 2012 Rare</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Magic 2012 Rare</string>
 	</array>
 	<array>
 		<string>Sphinx Sovereign</string>
@@ -2637,7 +2697,7 @@ At the beginning of each end step, if Spiny Starfish regenerated this turn, put 
 		<string>Sorcery</string>
 		<string></string>
 		<string>Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.</string>
-		<string>Zendikar Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Zendikar Common</string>
 	</array>
 	<array>
 		<string>Spire Golem</string>
@@ -2681,6 +2741,16 @@ Metalcraft - As long as you control three or more artifacts, Spire Serpent gets 
 		<string>(1/1)</string>
 		<string>Flying</string>
 		<string>Duel Decks: Divine vs. Demonic Common</string>
+	</array>
+	<array>
+		<string>Spirit Away</string>
+		<string>5UU</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+You control enchanted creature.
+Enchanted creature gets +2/+2 and has flying.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Spirit Cairn</string>
@@ -4149,7 +4219,7 @@ When Steel Leaf Paladin enters the battlefield, return a green or white creature
 		<string>Enchant creature
 As long as enchanted creature is white, it gets +1/+1 and has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)
 As long as enchanted creature is blue, it gets +1/+1 and is unblockable.</string>
-		<string>Shadowmoor Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Shadowmoor Common</string>
 	</array>
 	<array>
 		<string>Steel Overseer</string>
@@ -4282,6 +4352,15 @@ At the beginning of the end step, if you control no Goblins, sacrifice Stenchski
 		<string>(2/2)</string>
 		<string>{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.</string>
 		<string>Portal Rare</string>
+	</array>
+	<array>
+		<string>Stern Mentor</string>
+		<string>3U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/2)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Stern Mentor is paired with another creature, each of those creatures has "{T}: Target player puts the top two cards of his or her library into his or her graveyard."</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Stern Proctor</string>
@@ -4505,6 +4584,14 @@ Counter target spell.</string>
 		<string>Scars of Mirrodin Common</string>
 	</array>
 	<array>
+		<string>Stolen Goods</string>
+		<string>3U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target opponent exiles cards from the top of his or her library until he or she exiles a nonland card. Until end of turn, you may cast that card without paying its mana cost.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Stolen Grain</string>
 		<string>4BB</string>
 		<string>Sorcery</string>
@@ -4566,7 +4653,7 @@ As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Sto
 		<string>Creature  - Giant</string>
 		<string>(3/4)</string>
 		<string>{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.</string>
-		<string>Magic 2010 Uncommon, Masters Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Magic 2010 Uncommon, Masters Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
 	</array>
 	<array>
 		<string>Stone Golem</string>
@@ -4733,6 +4820,15 @@ Target creature gets +5/+5 and gains shroud until end of turn. (It can't be the 
 		<string>(2/2)</string>
 		<string></string>
 		<string>Zendikar Common</string>
+	</array>
+	<array>
+		<string>Stonewright</string>
+		<string>R</string>
+		<string>Creature  - Human Shaman</string>
+		<string>(1/1)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Stonewright is paired with another creature, each of those creatures has "{R}: This creature gets +1/+0 until end of turn."</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Stony Silence</string>
@@ -5942,7 +6038,7 @@ Whenever Sun Titan enters the battlefield or attacks, you may return target perm
 		<string>(4/5)</string>
 		<string>Flying
 When Sunblast Angel enters the battlefield, destroy all tapped creatures.</string>
-		<string>Scars of Mirrodin Rare</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Scars of Mirrodin Rare</string>
 	</array>
 	<array>
 		<string>Suncrusher</string>
@@ -6624,7 +6720,7 @@ Sutured Ghoul's power is equal to the total power of the exiled cards and its to
 		<string>Basic Land  - Swamp</string>
 		<string></string>
 		<string>B</string>
-		<string>Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
+		<string>Avacyn Restored Land, Avacyn Restored Land, Avacyn Restored Land, Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Premium Deck Series: Graveborn Land, Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
 	</array>
 	<array>
 		<string>Swamp Mosquito</string>

@@ -494,12 +494,29 @@ When enchanted creature dies, that creature's controller loses life equal to its
 		<string>Eventide Common</string>
 	</array>
 	<array>
+		<string>Banishing Stroke</string>
+		<string>5W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Put target artifact, creature, or enchantment on the bottom of its owner's library.
+Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Banishment Decree</string>
 		<string>3WW</string>
 		<string>Instant</string>
 		<string></string>
 		<string>Put target artifact, creature, or enchantment on top of its owner's library.</string>
 		<string>Mirrodin Besieged Common</string>
+	</array>
+	<array>
+		<string>Banners Raised</string>
+		<string>R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Creatures you control get +1/+0 until end of turn.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Banshee</string>
@@ -917,7 +934,7 @@ Bartel Runeaxe can't be the target of Aura spells.</string>
 		<string>Sorcery</string>
 		<string></string>
 		<string>Each player sacrifices two creatures.</string>
-		<string>Duel Decks: Divine vs. Demonic Uncommon, Mirrodin Uncommon</string>
+		<string>Avacyn Restored Uncommon, Duel Decks: Divine vs. Demonic Uncommon, Mirrodin Uncommon</string>
 	</array>
 	<array>
 		<string>Baru, Fist of Krosa</string>
@@ -1116,6 +1133,14 @@ Nongreen creatures you control get +1/+0 until end of turn.</string>
 		<string>(3/3)</string>
 		<string>First strike</string>
 		<string>Worldwake Common</string>
+	</array>
+	<array>
+		<string>Battle Hymn</string>
+		<string>1R</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Add {R} to your mana pool for each creature you control.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Battle Mastery</string>
@@ -2274,6 +2299,16 @@ Golem creatures you control have first strike.</string>
 		<string>New Phyrexia Rare</string>
 	</array>
 	<array>
+		<string>Bladed Bracers</string>
+		<string>1</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +1/+1.
+As long as equipped creature is a Human or an Angel, it has vigilance.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Bladed Pinions</string>
 		<string>2</string>
 		<string>Artifact  - Equipment</string>
@@ -2595,6 +2630,15 @@ At the beginning of your upkeep, you lose 1 life.
 		<string>Enchant creature
 Enchanted creature gets +1/+1 for each of its colors.</string>
 		<string>Dissension Uncommon</string>
+	</array>
+	<array>
+		<string>Blessings of Nature</string>
+		<string>4G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Distribute four +1/+1 counters among any number of target creatures.
+Miracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Blight</string>
@@ -2961,6 +3005,14 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</string>
 		<string>Ravnica: City of Guilds Uncommon</string>
 	</array>
 	<array>
+		<string>Blood Artist</string>
+		<string>1B</string>
+		<string>Creature  - Vampire</string>
+		<string>(0/1)</string>
+		<string>Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Blood Celebrant</string>
 		<string>B</string>
 		<string>Creature  - Human Cleric</string>
@@ -3212,7 +3264,7 @@ Threshold - As long as seven or more cards are in your graveyard, Bloodcurdler g
 		<string>Creature  - Giant</string>
 		<string>(6/6)</string>
 		<string>{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.</string>
-		<string>Tenth Edition Rare, Ninth Edition Rare, Apocalypse Rare</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Tenth Edition Rare, Ninth Edition Rare, Apocalypse Rare</string>
 	</array>
 	<array>
 		<string>Bloodfire Dwarf</string>
@@ -3237,7 +3289,15 @@ Threshold - As long as seven or more cards are in your graveyard, Bloodcurdler g
 		<string>Creature  - Kavu</string>
 		<string>(2/2)</string>
 		<string>{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.</string>
-		<string>Apocalypse Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Apocalypse Uncommon</string>
+	</array>
+	<array>
+		<string>Bloodflow Connoisseur</string>
+		<string>2B</string>
+		<string>Creature  - Vampire</string>
+		<string>(1/1)</string>
+		<string>Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Bloodghast</string>
@@ -4057,7 +4117,7 @@ When Bone Shredder enters the battlefield, destroy target nonartifact, nonblack 
 		<string></string>
 		<string>As an additional cost to cast Bone Splinters, sacrifice a creature.
 Destroy target creature.</string>
-		<string>Shards of Alara Common</string>
+		<string>Avacyn Restored Common, Shards of Alara Common</string>
 	</array>
 	<array>
 		<string>Bone to Ash</string>
@@ -4136,6 +4196,15 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. 
 		<string>(*/*)</string>
 		<string>Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.</string>
 		<string>Innistrad Uncommon</string>
+	</array>
+	<array>
+		<string>Bonfire of the Damned</string>
+		<string>XXR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Bonfire of the Damned deals X damage to target player and each creature he or she controls.
+Miracle {X}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</string>
+		<string>Avacyn Restored Mythic Rare</string>
 	</array>
 	<array>
 		<string>Booby Trap</string>
@@ -4236,7 +4305,7 @@ Borderland Behemoth gets +4/+4 for each other Giant you control.</string>
 		<string>Creature  - Human Scout</string>
 		<string>(2/2)</string>
 		<string>When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.</string>
-		<string>Magic 2010 Common</string>
+		<string>Avacyn Restored Common, Magic 2010 Common</string>
 	</array>
 	<array>
 		<string>Boreal Centaur</string>
@@ -4364,7 +4433,7 @@ First strike</string>
 		<string>Planechase Rare, Mirrodin Rare</string>
 	</array>
 	<array>
-		<string>Bosium Strip</string>
+		<string>Bösium Strip</string>
 		<string>3</string>
 		<string>Artifact</string>
 		<string></string>
@@ -4499,6 +4568,14 @@ Whenever you cast a Spirit or Arcane spell, you may gain life equal to that spel
 		<string>You may exile a green card from your hand rather than pay Bounty of the Hunt's mana cost.
 Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.</string>
 		<string>Masters Edition II Rare, Alliances Uncommon</string>
+	</array>
+	<array>
+		<string>Bower Passage</string>
+		<string>1G</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Creatures with flying can't block creatures you control.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Brace for Impact</string>
@@ -5438,6 +5515,15 @@ Each other creature named Brothers Yamazaki gets +2/+2 and has haste.</string>
 		<string>Masters Edition II Uncommon, Classic Sixth Edition Uncommon, Alliances Uncommon</string>
 	</array>
 	<array>
+		<string>Bruna, Light of Alabaster</string>
+		<string>3WWU</string>
+		<string>Legendary Creature  - Angel</string>
+		<string>(5/5)</string>
+		<string>Flying, vigilance
+Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.</string>
+		<string>Avacyn Restored Mythic Rare</string>
+	</array>
+	<array>
 		<string>Brush with Death</string>
 		<string>2B</string>
 		<string>Sorcery</string>
@@ -5571,6 +5657,14 @@ At the beginning of the end step, if there are two or more ki counters on Budoka
 		<string>Mirage Common</string>
 	</array>
 	<array>
+		<string>Builder's Blessing</string>
+		<string>3W</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Untapped creatures you control get +0/+2.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Bull Aurochs</string>
 		<string>1G</string>
 		<string>Creature  - Aurochs</string>
@@ -5695,6 +5789,15 @@ If any PLAYER does not perform all the prescribed actions in the correct order, 
 		<string>{T}: Add {1} to your mana pool.
 {2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.</string>
 		<string>Magic 2012 Uncommon</string>
+	</array>
+	<array>
+		<string>Burn at the Stake</string>
+		<string>2RRR</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>As an additional cost to cast Burn at the Stake, tap any number of untapped creatures you control.
+Burn at the Stake deals damage to target creature or player equal to three times the number of creatures tapped this way.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Burn the Impure</string>
@@ -5951,6 +6054,14 @@ Burst Lightning deals 2 damage to target creature or player. If Burst Lightning 
 		<string>Planar Chaos Rare</string>
 	</array>
 	<array>
+		<string>Butcher Ghoul</string>
+		<string>1B</string>
+		<string>Creature  - Zombie</string>
+		<string>(1/1)</string>
+		<string>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Butcher of Malakir</string>
 		<string>5BB</string>
 		<string>Creature  - Vampire Warrior</string>
@@ -5968,7 +6079,7 @@ Whenever Butcher of Malakir or another creature you control dies, each opponent 
 		<string>Onslaught Rare</string>
 	</array>
 	<array>
-		<string>Butcher’s Cleaver</string>
+		<string>Butcher's Cleaver</string>
 		<string>3</string>
 		<string>Artifact  - Equipment</string>
 		<string></string>

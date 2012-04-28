@@ -132,7 +132,7 @@ Threshold - {3}{B}{B}, {T}: Target creature gets -2/-2 until end of turn. Activa
 		<string>Creature  - Merfolk Rogue</string>
 		<string>(4/4)</string>
 		<string>At the beginning of your upkeep, return a permanent you control to its owner's hand.</string>
-		<string>Eventide Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Eventide Uncommon</string>
 	</array>
 	<array>
 		<string>Cackling Counterpart</string>
@@ -363,6 +363,15 @@ When the chosen color isn't the most common color among nontoken permanents the 
 		<string></string>
 		<string>Return target instant or sorcery card from your graveyard to your hand.</string>
 		<string>Magic 2011 Uncommon</string>
+	</array>
+	<array>
+		<string>Call to Serve</string>
+		<string>1W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant nonblack creature
+Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Call to the Grave</string>
@@ -722,6 +731,15 @@ Enchanted creature gets +1/+1.
 		<string>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
 Return target permanent to its owner's hand.</string>
 		<string>Tempest Common</string>
+	</array>
+	<array>
+		<string>Captain of the Mists</string>
+		<string>2U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(2/3)</string>
+		<string>Whenever another Human enters the battlefield under your control, untap Captain of the Mists.
+{1}{U}, {T}: You may tap or untap target permanent.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Captain of the Watch</string>
@@ -1323,6 +1341,14 @@ Each Elemental you control can't be blocked except by two or more creatures.</st
 		<string>Lorwyn Common</string>
 	</array>
 	<array>
+		<string>Cathars' Crusade</string>
+		<string>3WW</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Cathartic Adept</string>
 		<string>U</string>
 		<string>Creature  - Human Wizard</string>
@@ -1346,6 +1372,14 @@ When Cathedral Membrane dies during combat, it deals 6 damage to each creature i
 		<string></string>
 		<string>White legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</string>
 		<string>Legends Uncommon</string>
+	</array>
+	<array>
+		<string>Cathedral Sanctifier</string>
+		<string>W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(1/1)</string>
+		<string>When Cathedral Sanctifier enters the battlefield, you gain 3 life.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Cathodion</string>
@@ -1494,6 +1528,15 @@ Cave-In deals 2 damage to each creature and each player.</string>
 When Cavern Harpy enters the battlefield, return a blue or black creature you control to its owner's hand.
 Pay 1 life: Return Cavern Harpy to its owner's hand.</string>
 		<string>Planeshift Common</string>
+	</array>
+	<array>
+		<string>Cavern of Souls</string>
+		<string>Land</string>
+		<string></string>
+		<string>As Cavern of Souls enters the battlefield, choose a creature type.
+{T}: Add {1} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Cavern Thoctar</string>
@@ -2194,6 +2237,15 @@ Chameleon Spirit's power and toughness are each equal to the number of permanent
 		<string>Masters Edition IV Rare, Starter 1999 Rare</string>
 	</array>
 	<array>
+		<string>Champion of Lambholt</string>
+		<string>1GG</string>
+		<string>Creature  - Human Warrior</string>
+		<string>(1/1)</string>
+		<string>Creatures with power less than Champion of Lambholt's power can't block creatures you control.
+Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Champion of the Parish</string>
 		<string>W</string>
 		<string>Creature  - Human Soldier</string>
@@ -2694,7 +2746,7 @@ Whenever Charnelhoard Wurm deals damage to an opponent, you may return target ca
 		<string>(4/4)</string>
 		<string>{R}: Chartooth Cougar gets +1/+0 until end of turn.
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)</string>
-		<string>Magic: The Gathering-Commander Common, Duel Decks: Jace vs. Chandra Common, Scourge Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Magic: The Gathering-Commander Common, Duel Decks: Jace vs. Chandra Common, Scourge Common</string>
 	</array>
 	<array>
 		<string>Chasm Drake</string>
@@ -4010,7 +4062,7 @@ Whenever Clockwork Vorrac attacks or blocks, remove a +1/+1 counter from it at e
 		<string>Creature  - Shapeshifter</string>
 		<string>(0/0)</string>
 		<string>You may have Clone enter the battlefield as a copy of any creature on the battlefield.</string>
-		<string>Magic 2011 Rare, Magic 2010 Rare, Tenth Edition Rare, Ninth Edition Rare, Onslaught Rare, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Rare, Magic 2011 Rare, Magic 2010 Rare, Tenth Edition Rare, Ninth Edition Rare, Onslaught Rare, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon</string>
 	</array>
 	<array>
 		<string>Clone Shell</string>
@@ -4213,6 +4265,14 @@ Whenever you cast a Spirit or Arcane spell, you may put the top X cards of targe
 		<string>Flying
 {U}, {T}, Discard a card: Put a 1/1 blue Faerie creature token named Cloud Sprite onto the battlefield. It has flying and "Cloud Sprite can block only creatures with flying."</string>
 		<string>Future Sight Uncommon</string>
+	</array>
+	<array>
+		<string>Cloudshift</string>
+		<string>W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Exile target creature you control, then return that card to the battlefield under your control.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Cloudskate</string>
@@ -4720,6 +4780,15 @@ When Commander Greven il-Vec enters the battlefield, sacrifice a creature.</stri
 		<string>Tempest Rare</string>
 	</array>
 	<array>
+		<string>Commander's Authority</string>
+		<string>4W</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant creature
+Enchanted creature has "At the beginning of your upkeep, put a 1/1 white Human creature token onto the battlefield."</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Commando Raid</string>
 		<string>2R</string>
 		<string>Instant</string>
@@ -4979,6 +5048,14 @@ Draw a card.</string>
 		<string></string>
 		<string>{T}, Sacrifice Conjurer's Bauble: Put up to one target card from your graveyard on the bottom of your library. Draw a card.</string>
 		<string>Fifth Dawn Common</string>
+	</array>
+	<array>
+		<string>Conjurer's Closet</string>
+		<string>5</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Conquer</string>
@@ -5488,7 +5565,7 @@ When Coral Atoll enters the battlefield, sacrifice it unless you return an untap
 		<string>Creature  - Merfolk Soldier</string>
 		<string>(1/1)</string>
 		<string>Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.</string>
-		<string>Mirage Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Mirage Uncommon</string>
 	</array>
 	<array>
 		<string>Coral Helm</string>
@@ -5619,6 +5696,14 @@ Return the top creature card of your graveyard to the battlefield. That creature
 		<string>As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.
 Corpse Lunge deals damage equal to the exiled card's power to target creature.</string>
 		<string>Innistrad Common</string>
+	</array>
+	<array>
+		<string>Corpse Traders</string>
+		<string>3B</string>
+		<string>Creature  - Human Rogue</string>
+		<string>(3/3)</string>
+		<string>{2}{B}, Sacrifice a creature: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Corpsehatch</string>
@@ -5757,7 +5842,7 @@ Enchanted creature has fear. (It can't be blocked except by artifact creatures a
 		<string>Creature  - Elemental</string>
 		<string>(2/2)</string>
 		<string>Landfall - Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.</string>
-		<string>Worldwake Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Worldwake Common</string>
 	</array>
 	<array>
 		<string>Cosi's Trickster</string>
@@ -6142,6 +6227,15 @@ When Crater Hellion enters the battlefield, it deals 4 damage to each other crea
 		<string>Urza's Saga Rare</string>
 	</array>
 	<array>
+		<string>Craterhoof Behemoth</string>
+		<string>5GGG</string>
+		<string>Creature  - Beast</string>
+		<string>(5/5)</string>
+		<string>Haste
+When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.</string>
+		<string>Avacyn Restored Mythic Rare</string>
+	</array>
+	<array>
 		<string>Craven Giant</string>
 		<string>2R</string>
 		<string>Creature  - Giant</string>
@@ -6448,6 +6542,15 @@ Whenever Crimson Roc blocks a creature without flying, Crimson Roc gets +1/+0 an
 		<string>Target creature becomes red and gains haste until end of turn.
 Draw a card.</string>
 		<string>Shadowmoor Common</string>
+	</array>
+	<array>
+		<string>Crippling Chill</string>
+		<string>2U</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Tap target creature. It doesn't untap during its controller's next untap step.
+Draw a card.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Crippling Fatigue</string>
@@ -6946,7 +7049,7 @@ When Crypt Champion enters the battlefield, sacrifice it unless {R} was spent to
 		<string>Creature  - Zombie</string>
 		<string>(2/1)</string>
 		<string>Sacrifice Crypt Creeper: Exile target card from a graveyard.</string>
-		<string>Odyssey Common</string>
+		<string>Avacyn Restored Common, Odyssey Common</string>
 	</array>
 	<array>
 		<string>Crypt of Agadeem</string>
@@ -6988,7 +7091,7 @@ When Crypt Champion enters the battlefield, sacrifice it unless {R} was spent to
 		<string>Creature  - Worm Beast</string>
 		<string>(1/4)</string>
 		<string>When Cryptic Annelid enters the battlefield, scry 1, then scry 2, then scry 3. (To scry X, look at the top X cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</string>
-		<string>Future Sight Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Future Sight Uncommon</string>
 	</array>
 	<array>
 		<string>Cryptic Command</string>
@@ -7431,6 +7534,14 @@ At the beginning of enchanted player's upkeep, Curse of Thirst deals damage to t
 		<string>As Curse of Wizardry enters the battlefield, choose a color.
 Whenever a player casts a spell of the chosen color, that player loses 1 life.</string>
 		<string>Rise of the Eldrazi Uncommon</string>
+	</array>
+	<array>
+		<string>Cursebreak</string>
+		<string>1W</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target enchantment. You gain 2 life.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Cursecatcher</string>

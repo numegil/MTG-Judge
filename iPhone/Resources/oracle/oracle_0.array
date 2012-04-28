@@ -211,6 +211,16 @@ Entwine {2} (Choose both if you pay the entwine cost.)</string>
 		<string>Tenth Edition Rare, Urza's Saga Rare</string>
 	</array>
 	<array>
+		<string>Abundant Growth</string>
+		<string>G</string>
+		<string>Enchantment  - Aura</string>
+		<string></string>
+		<string>Enchant land
+When Abundant Growth enters the battlefield, draw a card.
+Enchanted land has "{T}: Add one mana of any color to your mana pool."</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Abyssal Gatekeeper</string>
 		<string>1B</string>
 		<string>Creature  - Horror</string>
@@ -765,7 +775,7 @@ If Aether Figment was kicked, it enters the battlefield with two +1/+1 counters 
 		<string>(0/5)</string>
 		<string>Defender; reach (This creature can block creatures with flying.)
 Whenever Aether Membrane blocks a creature, return that creature to its owner's hand at end of combat.</string>
-		<string>Planar Chaos Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Planar Chaos Uncommon</string>
 	</array>
 	<array>
 		<string>Aether Mutation</string>
@@ -1006,6 +1016,14 @@ When Ageless Sentinels blocks, it becomes a Bird Giant, and it loses defender. (
 		<string>(1/1)</string>
 		<string>{R}: Add {B} to your mana pool.</string>
 		<string>Alliances Common, Alliances Common</string>
+	</array>
+	<array>
+		<string>Aggravate</string>
+		<string>3RR</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Aggravate deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Aggravated Assault</string>
@@ -1502,6 +1520,22 @@ When Alabaster Dragon dies, shuffle it into its owner's library.</string>
 		<string>Duel Decks: Garruk vs. Liliana Uncommon, Urza's Saga Uncommon</string>
 	</array>
 	<array>
+		<string>Alchemist's Apprentice</string>
+		<string>1U</string>
+		<string>Creature  - Human Wizard</string>
+		<string>(1/1)</string>
+		<string>Sacrifice Alchemist's Apprentice: Draw a card.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
+		<string>Alchemist's Refuge</string>
+		<string>Land</string>
+		<string></string>
+		<string>{T}: Add {1} to your mana pool.
+{G}{U}, {T}: You may cast nonland cards this turn as though they had flash.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Alchor's Tomb</string>
 		<string>4</string>
 		<string>Artifact</string>
@@ -1806,6 +1840,14 @@ Flashback {1}{U} (You may cast this card from your graveyard for its flashback c
 		<string></string>
 		<string>Any player may play creature cards with converted mana cost 3 or less without paying their mana cost and as though they had flash.</string>
 		<string>Tempest Rare</string>
+	</array>
+	<array>
+		<string>Amass the Components</string>
+		<string>3U</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Draw three cards, then put a card from your hand on the bottom of your library.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Ambassador Laquatus</string>
@@ -2321,6 +2363,25 @@ When Angel of Fury is put into your graveyard from the battlefield, you may shuf
 		<string>Masters Edition II Rare, Portal Second Age Rare</string>
 	</array>
 	<array>
+		<string>Angel of Glory's Rise</string>
+		<string>5WW</string>
+		<string>Creature  - Angel</string>
+		<string>(4/6)</string>
+		<string>Flying
+When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
+		<string>Angel of Jubilation</string>
+		<string>1WWW</string>
+		<string>Creature  - Angel</string>
+		<string>(3/3)</string>
+		<string>Flying
+Other nonblack creatures you control get +1/+1.
+Players can't pay life or sacrifice creatures to cast spells or activate abilities.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Angel of Light</string>
 		<string>4W</string>
 		<string>Creature  - Angel</string>
@@ -2381,6 +2442,15 @@ When Angel of Salvation enters the battlefield, prevent the next 5 damage that w
 Each opponent who cast a spell this turn can't attack with creatures.
 Each opponent who attacked with a creature this turn can't cast spells.</string>
 		<string>Magic: The Gathering-Commander Rare, Magic 2011 Rare</string>
+	</array>
+	<array>
+		<string>Angelic Armaments</string>
+		<string>3</string>
+		<string>Artifact  - Equipment</string>
+		<string></string>
+		<string>Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types.
+Equip {4}</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Angelic Benediction</string>
@@ -2477,7 +2547,7 @@ Whenever Angelic Protector becomes the target of a spell or ability, Angelic Pro
 		<string></string>
 		<string>Creatures you control get +0/+1.
 Sacrifice Angelic Shield: Return target creature to its owner's hand.</string>
-		<string>Invasion Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Invasion Uncommon</string>
 	</array>
 	<array>
 		<string>Angelic Voices</string>
@@ -2492,8 +2562,8 @@ Sacrifice Angelic Shield: Return target creature to its owner's hand.</string>
 		<string>1W</string>
 		<string>Creature  - Wall</string>
 		<string>(0/4)</string>
-		<string>Defender, flying (This creature can't attack, and it can block creatures with flying.)</string>
-		<string>Tenth Edition Common, Odyssey Common, Portal Second Age Common</string>
+		<string>Defender, flying</string>
+		<string>Avacyn Restored Common, Tenth Edition Common, Odyssey Common, Portal Second Age Common</string>
 	</array>
 	<array>
 		<string>Angel's Feather</string>
@@ -2526,7 +2596,15 @@ You can't lose the game this turn and your opponents can't win the game this tur
 		<string>Instant</string>
 		<string></string>
 		<string>You gain 7 life.</string>
-		<string>Magic 2012 Common, Magic 2010 Common</string>
+		<string>Avacyn Restored Common, Magic 2012 Common, Magic 2010 Common</string>
+	</array>
+	<array>
+		<string>Angel's Tomb</string>
+		<string>3</string>
+		<string>Artifact</string>
+		<string></string>
+		<string>Whenever a creature enters the battlefield under your control, you may have Angel's Tomb become a 3/3 white Angel artifact creature with flying until end of turn.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Angel's Trumpet</string>
@@ -2553,7 +2631,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</string>
 		<string>(2/2)</string>
 		<string>Haste
 As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.</string>
-		<string>Magic: The Gathering-Commander Uncommon, Judgment Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Magic: The Gathering-Commander Uncommon, Judgment Uncommon</string>
 	</array>
 	<array>
 		<string>Angry Mob</string>
@@ -2961,6 +3039,14 @@ Target artifact or creature you control gains protection from artifacts or from 
 		<string>Shadowmoor Common</string>
 	</array>
 	<array>
+		<string>Appetite for Brains</string>
+		<string>B</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Target opponent reveals his or her hand. You choose a card from it with converted mana cost 4 or greater and exile that card.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Apprentice Necromancer</string>
 		<string>1B</string>
 		<string>Creature  - Zombie Wizard</string>
@@ -3167,6 +3253,14 @@ You draw a card at the beginning of the next turn's upkeep.</string>
 		<string>Seventh Edition Uncommon, Urza's Saga Uncommon</string>
 	</array>
 	<array>
+		<string>Arcane Melee</string>
+		<string>4U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Instant and sorcery spells cost {2} less to cast.</string>
+		<string>Avacyn Restored Rare</string>
+	</array>
+	<array>
 		<string>Arcane Sanctum</string>
 		<string>Land</string>
 		<string></string>
@@ -3332,7 +3426,7 @@ Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies,
 		<string>Creature  - Angel</string>
 		<string>(5/5)</string>
 		<string>Flying, vigilance</string>
-		<string>Starter 1999 Rare, Classic Sixth Edition Rare, Portal Second Age Rare, Portal Rare, Visions Rare</string>
+		<string>Avacyn Restored Uncommon, Starter 1999 Rare, Classic Sixth Edition Rare, Portal Second Age Rare, Portal Rare, Visions Rare</string>
 	</array>
 	<array>
 		<string>Archangel of Strife</string>
@@ -3433,6 +3527,15 @@ When Archon of Justice dies, exile target permanent.</string>
 		<string>Flying
 Whenever Archon of Redemption or another creature with flying enters the battlefield under your control, you may gain life equal to that creature's power.</string>
 		<string>Worldwake Rare</string>
+	</array>
+	<array>
+		<string>Archwing Dragon</string>
+		<string>2RR</string>
+		<string>Creature  - Dragon</string>
+		<string>(4/4)</string>
+		<string>Flying, haste
+At the beginning of the end step, return Archwing Dragon to its owner's hand.</string>
+		<string>Avacyn Restored Rare</string>
 	</array>
 	<array>
 		<string>Arc-Slogger</string>
@@ -3763,7 +3866,7 @@ At the beginning of your draw step, Armageddon Clock deals damage equal to the n
 		<string>Artifact</string>
 		<string></string>
 		<string>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.</string>
-		<string>Magic: The Gathering-Commander Common, Duel Decks: Knights vs. Dragons Common, Conflux Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Magic: The Gathering-Commander Common, Duel Decks: Knights vs. Dragons Common, Conflux Common</string>
 	</array>
 	<array>
 		<string>Armistice</string>
@@ -4335,6 +4438,14 @@ Destroy target nonblack attacking creature.</string>
 		<string>Planechase Uncommon, Time Spiral "Timeshifted" Special, Invasion Uncommon, Invasion Uncommon</string>
 	</array>
 	<array>
+		<string>Assault // Battery (Battery)</string>
+		<string>3G</string>
+		<string>Sorcery</string>
+		<string></string>
+		<string>Put a 3/3 green Elephant creature token onto the battlefield.</string>
+		<string>Planechase Uncommon, Time Spiral "Timeshifted" Special, Invasion Uncommon, Invasion Uncommon</string>
+	</array>
+	<array>
 		<string>Assault Griffin</string>
 		<string>3W</string>
 		<string>Creature  - Griffin</string>
@@ -4397,7 +4508,7 @@ Whenever another Donkey comes into play, untap target creature and gain control 
 		<string>2W</string>
 		<string>Enchantment</string>
 		<string></string>
-		<string>Whenever a player cycles a card, you may exile target creature. If you do, return the exiled card to the battlefield under its owner's control at the beginning of the next end step.</string>
+		<string>Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.</string>
 		<string>Onslaught Uncommon</string>
 	</array>
 	<array>
@@ -4499,7 +4610,7 @@ Sacrifice Augur of Skulls: Target player discards two cards. Activate this abili
 		<string>(1/1)</string>
 		<string>Flying
 When Augury Owl enters the battlefield, scry 3. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</string>
-		<string>Magic 2011 Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Magic 2011 Common</string>
 	</array>
 	<array>
 		<string>Auntie's Hovel</string>
@@ -4852,6 +4963,15 @@ Trample</string>
 		<string></string>
 		<string>Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.</string>
 		<string>Magic 2012 Uncommon, Magic 2011 Uncommon</string>
+	</array>
+	<array>
+		<string>Avacyn, Angel of Hope</string>
+		<string>5WWW</string>
+		<string>Legendary Creature  - Angel</string>
+		<string>(8/8)</string>
+		<string>Flying, vigilance
+Avacyn, Angel of Hope and other permanents you control are indestructible.</string>
+		<string>Avacyn Restored Mythic Rare</string>
 	</array>
 	<array>
 		<string>Avacynian Priest</string>
@@ -5426,7 +5546,7 @@ Whenever a creature dealt damage by Axelrod Gunnarson this turn dies, you gain 1
 		<string>Azorius Chancery enters the battlefield tapped.
 When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
 {T}: Add {W}{U} to your mana pool.</string>
-		<string>Magic: The Gathering-Commander Common, Dissension Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Magic: The Gathering-Commander Common, Dissension Common</string>
 	</array>
 	<array>
 		<string>Azorius First-Wing</string>
@@ -5495,14 +5615,6 @@ Prevent all combat damage that would be dealt to target creature this turn.</str
 		<string>(1/2)</string>
 		<string>You may play two additional lands on each of your turns.</string>
 		<string>Champions of Kamigawa Rare</string>
-	</array>
-	<array>
-		<string>Assault // Battery (Battery)</string>
-		<string>3G</string>
-		<string>Sorcery</string>
-		<string></string>
-		<string>Put a 3/3 green Elephant creature token onto the battlefield.</string>
-		<string>Planechase Uncommon, Time Spiral "Timeshifted" Special, Invasion Uncommon, Invasion Uncommon</string>
 	</array>
 </array>
 </plist>

@@ -249,6 +249,15 @@ Sacrifice a creature: Falkenrath Aristocrat is indestructible this turn. If the 
 		<string>Dark Ascension Mythic Rare</string>
 	</array>
 	<array>
+		<string>Falkenrath Exterminator</string>
+		<string>1R</string>
+		<string>Creature  - Vampire Archer</string>
+		<string>(1/1)</string>
+		<string>Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.
+{2}{R}: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Falkenrath Marauders</string>
 		<string>3RR</string>
 		<string>Creature  - Vampire Warrior</string>
@@ -568,6 +577,14 @@ Threshold - If seven or more cards are in your graveyard, instead search your li
 		<string>Dark Ascension Uncommon</string>
 	</array>
 	<array>
+		<string>Farbog Explorer</string>
+		<string>2W</string>
+		<string>Creature  - Human Scout</string>
+		<string>(2/3)</string>
+		<string>Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Farewell to Arms</string>
 		<string>1BB</string>
 		<string>Enchantment</string>
@@ -832,6 +849,14 @@ Whenever enchanted creature blocks, you gain 3 life.</string>
 Enchanted creature gets +1/+2 as long as it's white.
 Enchanted creature has shroud as long as its controller controls another creature. (It can't be the target of spells or abilities.)</string>
 		<string>Mirage Uncommon</string>
+	</array>
+	<array>
+		<string>Favorable Winds</string>
+		<string>1U</string>
+		<string>Enchantment</string>
+		<string></string>
+		<string>Creatures you control with flying get +1/+1.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Fear</string>
@@ -1217,6 +1242,15 @@ Whenever enchanted land is tapped for mana, its controller adds one mana of any 
 		<string>Magic: The Gathering-Commander Common, Archenemy Common, Planechase Common, Morningtide Common</string>
 	</array>
 	<array>
+		<string>Fervent Cathar</string>
+		<string>2R</string>
+		<string>Creature  - Human Knight</string>
+		<string>(2/1)</string>
+		<string>Haste
+When Fervent Cathar enters the battlefield, target creature can't block this turn.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Fervent Charge</string>
 		<string>1WBR</string>
 		<string>Enchantment</string>
@@ -1336,6 +1370,15 @@ Draw a card.</string>
 		<string>(1/2)</string>
 		<string>{B}: Fetid Horror gets +1/+1 until end of turn.</string>
 		<string>Mirage Common</string>
+	</array>
+	<array>
+		<string>Fettergeist</string>
+		<string>2U</string>
+		<string>Creature  - Spirit</string>
+		<string>(3/4)</string>
+		<string>Flying
+At the beginning of your upkeep, sacrifice Fettergeist unless you pay {1} for each other creature you control.</string>
+		<string>Avacyn Restored Uncommon</string>
 	</array>
 	<array>
 		<string>Feudkiller's Verdict</string>
@@ -1505,7 +1548,7 @@ Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a b
 		<string>Creature  - Elemental Hound</string>
 		<string>(2/2)</string>
 		<string>{R}: Fiery Hellhound gets +1/+0 until end of turn.</string>
-		<string>Magic 2012 Common, Magic 2011 Common, Magic 2010 Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Magic 2012 Common, Magic 2011 Common, Magic 2010 Common</string>
 	</array>
 	<array>
 		<string>Fiery Justice</string>
@@ -2671,7 +2714,7 @@ Whenever a player cycles a card, return Fleeting Aven to its owner's hand.</stri
 		<string></string>
 		<string>Target creature gets -1/-0 until end of turn.
 Draw a card.</string>
-		<string>Rise of the Eldrazi Common</string>
+		<string>Avacyn Restored Common, Rise of the Eldrazi Common</string>
 	</array>
 	<array>
 		<string>Fleeting Image</string>
@@ -2882,7 +2925,7 @@ Sacrifice Floating Shield: Target creature gains protection from the chosen colo
 		<string></string>
 		<string>Flood Plain enters the battlefield tapped.
 {T}, Sacrifice Flood Plain: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.</string>
-		<string>Mirage Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Mirage Uncommon</string>
 	</array>
 	<array>
 		<string>Floodbringer</string>
@@ -2993,6 +3036,14 @@ Flow of Maggots can't be blocked by non-Wall creatures.</string>
 		<string>Enchant land
 Enchanted land has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn."</string>
 		<string>Prophecy Uncommon</string>
+	</array>
+	<array>
+		<string>Flowering Lumberknot</string>
+		<string>3G</string>
+		<string>Creature  - Treefolk</string>
+		<string>(5/5)</string>
+		<string>Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Flowstone Armor</string>
@@ -3603,7 +3654,7 @@ Draw a card at the beginning of the next turn's upkeep.</string>
 		<string>Basic Land  - Forest</string>
 		<string></string>
 		<string>G</string>
-		<string>Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
+		<string>Avacyn Restored Land, Avacyn Restored Land, Avacyn Restored Land, Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land</string>
 	</array>
 	<array>
 		<string>Forest Bear</string>

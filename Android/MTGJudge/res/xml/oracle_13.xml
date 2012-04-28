@@ -268,6 +268,14 @@ When Narcomoeba is put into your graveyard from your library, you may put it ont
 		<string>Duel Decks: Phyrexia vs. the Coalition Common, Zendikar Common</string>
 	</array>
 	<array>
+		<string>Narstad Scrapper</string>
+		<string>5</string>
+		<string>Artifact Creature  - Construct</string>
+		<string>(3/3)</string>
+		<string>{2}: Narstad Scrapper gets +1/+0 until end of turn.</string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Narwhal</string>
 		<string>2UU</string>
 		<string>Creature  - Whale</string>
@@ -325,6 +333,14 @@ When Nath's Elite enters the battlefield, clash with an opponent. If you win, pu
 		<string>When Natural Emergence enters the battlefield, return a red or green enchantment you control to its owner's hand.
 Lands you control are 2/2 creatures with first strike. They're still lands.</string>
 		<string>Planeshift Rare</string>
+	</array>
+	<array>
+		<string>Natural End</string>
+		<string>2G</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Destroy target artifact or enchantment. You gain 3 life.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Natural Order</string>
@@ -519,6 +535,15 @@ Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</string>
 		<string>Rise of the Eldrazi Rare</string>
 	</array>
 	<array>
+		<string>Nearheath Pilgrim</string>
+		<string>1W</string>
+		<string>Creature  - Human Cleric</string>
+		<string>(2/1)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Nearheath Stalker</string>
 		<string>4R</string>
 		<string>Creature  - Vampire Rogue</string>
@@ -584,6 +609,14 @@ If Necravolver was kicked with its {W} kicker, it enters the battlefield with a 
 		<string>(2/2)</string>
 		<string>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.</string>
 		<string>Masters Edition II Common, Fifth Edition Common, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common</string>
+	</array>
+	<array>
+		<string>Necrobite</string>
+		<string>2B</string>
+		<string>Instant</string>
+		<string></string>
+		<string>Target creature gains deathtouch until end of turn. Regenerate it.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Necrogen Censer</string>
@@ -960,6 +993,14 @@ Flying</string>
 		<string>Dark Ascension Common</string>
 	</array>
 	<array>
+		<string>Nephalia Smuggler</string>
+		<string>U</string>
+		<string>Creature  - Human Rogue</string>
+		<string>(1/1)</string>
+		<string>{3}{U}, {T}: Exile another target creature you control, then return that card to the battlefield under your control.</string>
+		<string>Avacyn Restored Uncommon</string>
+	</array>
+	<array>
 		<string>Nessian Courser</string>
 		<string>2G</string>
 		<string>Creature  - Centaur Warrior</string>
@@ -1062,6 +1103,14 @@ Whenever you cast a green spell, you may untap Nettle Sentinel.</string>
 		<string>Eventide Common</string>
 	</array>
 	<array>
+		<string>Nettle Swine</string>
+		<string>3G</string>
+		<string>Creature  - Boar</string>
+		<string>(4/3)</string>
+		<string></string>
+		<string>Avacyn Restored Common</string>
+	</array>
+	<array>
 		<string>Nettletooth Djinn</string>
 		<string>3G</string>
 		<string>Creature  - Djinn</string>
@@ -1130,7 +1179,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. 
 		<string>(2/1)</string>
 		<string>Neurok Invisimancer is unblockable.
 When Neurok Invisimancer enters the battlefield, target creature is unblockable this turn.</string>
-		<string>Scars of Mirrodin Common</string>
+		<string>Duel Decks: Venser vs. Koth Common, Scars of Mirrodin Common</string>
 	</array>
 	<array>
 		<string>Neurok Prodigy</string>
@@ -1220,7 +1269,7 @@ The named card can't be cast.</string>
 		<string>New Benalia enters the battlefield tapped.
 When New Benalia enters the battlefield, scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 {T}: Add {W} to your mana pool.</string>
-		<string>Future Sight Uncommon</string>
+		<string>Duel Decks: Venser vs. Koth Uncommon, Future Sight Uncommon</string>
 	</array>
 	<array>
 		<string>New Frontiers</string>
@@ -1542,6 +1591,15 @@ When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}
 When Nightshade Assassin enters the battlefield, you may reveal X black cards in your hand. If you do, target creature gets -X/-X until end of turn.
 Madness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</string>
 		<string>Time Spiral Uncommon</string>
+	</array>
+	<array>
+		<string>Nightshade Peddler</string>
+		<string>1G</string>
+		<string>Creature  - Human Druid</string>
+		<string>(1/1)</string>
+		<string>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Nightshade Peddler is paired with another creature, both creatures have deathtouch.</string>
+		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
 		<string>Nightshade Schemers</string>
