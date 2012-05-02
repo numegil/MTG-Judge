@@ -18,6 +18,7 @@ Replace all instances of û with u
 Replace all instances of é with e
 Replace all instances of Ž with e
 Replace all instances of ‰ with a
+Replace all instances of ‰ with a (Dand‰n and El-Hajj‰j)
 
 Fix Individual Cards:
 

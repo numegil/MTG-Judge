@@ -28,11 +28,11 @@
 	</array>
 	<array>
 		<string>triggers.array</string>
-		<string>4</string>
+		<string>6</string>
 	</array>
 	<array>
 		<string>oracle_names_only.array</string>
-		<string>5</string>
+		<string>6</string>
 	</array>
 	<array>
 		<string>oracle_0.array</string>
@@ -48,11 +48,11 @@
 	</array>
 	<array>
 		<string>oracle_3.array</string>
-		<string>5</string>
+		<string>6</string>
 	</array>
 	<array>
 		<string>oracle_4.array</string>
-		<string>5</string>
+		<string>6</string>
 	</array>
 	<array>
 		<string>oracle_5.array</string>

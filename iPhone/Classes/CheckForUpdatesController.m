@@ -154,6 +154,8 @@
 
 -(void) startDownloading:(NSString*) fileName
 {
+    [[UIApplication sharedApplication] setIdleTimerDisabled:YES];
+    
 	NSURL *remoteURL = [NSURL URLWithString:[self.baseURL stringByAppendingString:fileName]];
 	// Create the request.
 	NSURLRequest *theRequest=[NSURLRequest requestWithURL:remoteURL
@@ -247,6 +249,8 @@
         [self.statusLabel setText:@"Successfully updated!"];
         
         tryAgainButton.hidden = FALSE;
+        
+        [[UIApplication sharedApplication] setIdleTimerDisabled:NO];
     }
 }
 

@@ -812,11 +812,11 @@ As long as Elgaud Shieldmate is paired with another creature, both creatures hav
 		<string>Avacyn Restored Common</string>
 	</array>
 	<array>
-		<string>El-Hajjâj</string>
+		<string>El-Hajjaj</string>
 		<string>1BB</string>
 		<string>Creature  - Human Wizard</string>
 		<string>(1/1)</string>
-		<string>Whenever El-Hajjâj deals damage, you gain that much life.</string>
+		<string>Whenever El-Hajjaj deals damage, you gain that much life.</string>
 		<string>Fourth Edition Rare, Revised Edition Rare, Arabian Nights Rare</string>
 	</array>
 	<array>
