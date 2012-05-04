@@ -30,7 +30,7 @@ Fix Individual Cards:
 
 To Update Comprehensive Rules:
 
-1) Copy and paste portions of the new version of the rules (from the .txt version of the Comp Rules) into the relevant files:  Glossary goes in "GlossaryPre.txt", main bulk of rules goes in "CompRules_PreConvert.txt"
+1) Copy and paste portions of the new version of the rules (from the .txt version of the Comp Rules) into the relevant files:  Glossary goes in "CompRulesGlossary_PreConvert.txt", main bulk of rules goes in "CompRules_PreConvert.txt"
 2) Compile and run ConvertCompRulestoHtml.java
 3) Toggle the comments in ConvertCompRulesToHtml.java (see source code)
 4) Compile and run it again

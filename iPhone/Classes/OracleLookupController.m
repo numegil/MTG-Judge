@@ -110,6 +110,12 @@
         
 		NSString *fileName = [documentsDirectory stringByAppendingFormat:@"/oracle_%d.array",firstLetter];
 		NSMutableArray *newArray = [NSMutableArray arrayWithContentsOfFile:fileName];
+        
+        if(newArray == nil)
+        {
+            NSLog(@"Failed to load oracle file!");
+        }
+        
 		[oracleData replaceObjectAtIndex:firstLetter withObject:newArray];
 	}
 	

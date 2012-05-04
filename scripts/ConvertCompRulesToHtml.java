@@ -16,11 +16,11 @@ public class ConvertCompRulesToHtml
 
         // Toggle these comments:  (run with one pair of lines commented out the first time, then the second pair the second time to convert both files).
         
-		//BufferedReader in = new BufferedReader(new FileReader("CompRules_PreConvert.txt"));
-		//PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("CompRules.txt")));
+		BufferedReader in = new BufferedReader(new FileReader("CompRules_PreConvert.txt"));
+		PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("CompRules.txt")));
 
-		BufferedReader in = new BufferedReader(new FileReader("CompRulesGlossary_PreConvert.txt"));
-		PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("CompRulesGlossary.txt")));
+		//BufferedReader in = new BufferedReader(new FileReader("CompRulesGlossary_PreConvert.txt"));
+		//PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("CompRulesGlossary.txt")));
 
 
 		String line = in.readLine();

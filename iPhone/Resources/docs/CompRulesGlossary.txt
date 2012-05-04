@@ -397,7 +397,7 @@ Emperor Variant
 A multiplayer variant played among three-player teams. See rule <a href=mtgjudge://809>809</a>, "Emperor Variant."
 
 Enchant
-A keyword ability that restricts what an Aura spell can target and what an Aura permanent can be attached to. See rule <a href=mtgjudge://303>303</a>, "Enchantments," and rule <a href=mtgjudge://702.5>702.5</a>, "Enchant."
+A keyword ability that defines what an Aura spell can target and what an Aura permanent can be attached to. See rule <a href=mtgjudge://303>303</a>, "Enchantments," and rule <a href=mtgjudge://702.5>702.5</a>, "Enchant."
 
 Enchantment
 A card type. An enchantment is a permanent. See rule <a href=mtgjudge://303>303</a>, "Enchantments." See also Aura.
@@ -433,7 +433,7 @@ Equipment
 An artifact subtype. Equipment can be attached to creatures. See rule <a href=mtgjudge://301>301</a>, "Artifacts," and rule <a href=mtgjudge://702.6>702.6</a>, "Equip."
 
 Evasion Ability
-An ability that restricts what creatures can block an attacking creature. See rules <a href=mtgjudge://509.1b>509.1b</a> - c.
+An ability that restricts what creatures can block an attacking creature. See rules <a href=mtgjudge://509.1b>509.1b</a>-c.
 
 Event
 Anything that happens in a game. See rule <a href=mtgjudge://700.1>700.1</a>.
@@ -774,8 +774,11 @@ A multiplayer game or a two-player series of games (usually best-two-of-three) p
 Maximum Hand Size
 The number of cards in hand a player must discard down to during his or her cleanup step. See rule <a href=mtgjudge://402.2>402.2</a> and <a href=mtgjudge://514.1>514.1</a>.
 
+Miracle
+A keyword ability that lets you cast a spell for a reduced cost if it's the first card you draw in a turn. See rule <a href=mtgjudge://702.92>702.92</a>, "Miracle."
+
 Modal, Mode
-A spell or ability is "modal" if it has two or more options preceded by "Choose one  -- ," "Choose two  -- ," "Choose one or both  -- ," or "[a specified player] chooses one  -- ." Each option is a "mode." See rule <a href=mtgjudge://700.2>700.2</a>.
+A spell or ability is "modal" if it has two or more options preceded by "Choose one -- ," "Choose two -- ," "Choose one or both -- ," "Choose one or more -- ," or "[a specified player] chooses one -- ." Each option is a "mode." See rule <a href=mtgjudge://700.2>700.2</a>.
 
 Modular
 A keyword ability that has a permanent enter the battlefield with +1/+1 counters on it and can move those counters to other artifact creatures. See rule <a href=mtgjudge://702.41>702.41</a>, "Modular."
@@ -854,7 +857,7 @@ Option
 An additional rule or set of rules that can be used in a multiplayer game. See rule <a href=mtgjudge://800.2>800.2</a>.
 
 Oracle
-The reference that contains the up-to-date wordings (in English) for all tournament-legal cards. A card's Oracle text can be found using the Gatherer card database at <http://gatherer.wizards.com>. See rule <a href=mtgjudge://108.1>108.1</a>.
+The reference that contains the up-to-date wordings (in English) for all tournament-legal cards. A card's Oracle text can be found using the Gatherer card database at http://gatherer.wizards.com. See rule <a href=mtgjudge://108.1>108.1</a>.
 
 Outside the Game
 An object is "outside the game" if it isn't in any of the game's zones. See rule <a href=mtgjudge://400.10>400.10</a>.
@@ -1126,6 +1129,9 @@ Some older cards were printed with the term "snow-covered" in their rules text. 
 Sorcery
 A card type. A sorcery is not a permanent. See rule <a href=mtgjudge://307>307</a>, "Sorceries."
 
+Soulbond
+A keyword ability that makes creatures better by pairing them together. See rule <a href=mtgjudge://702.93>702.93</a>, "Soulbond."
+
 Soulshift
 A keyword ability that lets a player return a card from his or her graveyard to his or her hand. See rule <a href=mtgjudge://702.44>702.44</a>, "Soulshift."
 
@@ -1193,7 +1199,7 @@ Successfully Cast (Obsolete)
 A term that was printed on some older cards. In general, cards that referred to a spell being "successfully cast" have received errata in the Oracle card reference to simply refer to a spell being "cast."
 
 Summon (Obsolete)
-Older creature cards were printed with "Summon [creature type]" on their type lines. All such cards have received errata in the Oracle card reference to say "Creature  --  [creature type]." (Many of these cards' creature types have also been updated.) See Creature.
+Older creature cards were printed with "Summon [creature type]" on their type lines. All such cards have received errata in the Oracle card reference to say "Creature --  [creature type]." (Many of these cards' creature types have also been updated.) See Creature.
 
 Summoning Sickness Rule
 Informal term for a player's inability to attack with a creature or to activate its abilities that include the tap symbol or the untap symbol unless the creature has been under that player's control since the beginning of that player's most recent turn. See rule <a href=mtgjudge://302.6>302.6</a>. See also Haste.
@@ -1330,7 +1336,7 @@ Type Line
 Part of a card. The type line is printed directly below the illustration and contains the card's card type(s), subtype(s), and/or supertype(s). See rule <a href=mtgjudge://205>205</a>, "Type Line."
 
 Type-Changing Effect
-An effect that changes an object's card type, subtype, and/or supertype. See rules <a href=mtgjudge://205.1a>205.1a</a> - b, <a href=mtgjudge://305.7>305.7</a>, and <a href=mtgjudge://613.1d>613.1d</a>.
+An effect that changes an object's card type, subtype, and/or supertype. See rules <a href=mtgjudge://205.1a>205.1a</a>-b, <a href=mtgjudge://305.7>305.7</a>, and <a href=mtgjudge://613.1d>613.1d</a>.
 
 Typecycling
 A variant of the cycling ability. See rule <a href=mtgjudge://702.27>702.27</a>, "Cycling."
@@ -1416,3 +1422,4 @@ A place where objects can be during a game. See section 4, "Zones."
 
 Zone-Change Triggers
 Trigger events that involve objects changing zones. See rule <a href=mtgjudge://603.6>603.6</a>.
+

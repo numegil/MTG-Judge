@@ -7,7 +7,7 @@ CompRulesContents.txt
 3
 
 CompRules.txt
-3
+4
 
 FCE.txt
 3
@@ -16,10 +16,10 @@ Banned.txt
 3
 
 CompRulesGlossary.txt
-3
+4
 
 triggers.array
-6
+7
 
 oracle_names_only.array
 6

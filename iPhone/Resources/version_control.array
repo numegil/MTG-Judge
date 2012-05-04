@@ -16,7 +16,7 @@
 	</array>
 	<array>
 		<string>CompRules.txt</string>
-		<string>3</string>
+		<string>4</string>
 	</array>
 	<array>
 		<string>FCE.txt</string>
@@ -24,11 +24,11 @@
 	</array>
 	<array>
 		<string>CompRulesGlossary.txt</string>
-		<string>3</string>
+		<string>4</string>
 	</array>
 	<array>
 		<string>triggers.array</string>
-		<string>6</string>
+		<string>7</string>
 	</array>
 	<array>
 		<string>oracle_names_only.array</string>
@@ -39,7 +39,7 @@
 		<string>5</string>
 	</array>
 	<array>
-		<string>5oracle_1.array</string>
+		<string>oracle_1.array</string>
 		<string>5</string>
 	</array>
 	<array>
