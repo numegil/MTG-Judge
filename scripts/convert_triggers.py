@@ -5,6 +5,7 @@
 # IMPORTANT:  Don't forget to replace ˆ with o
 # IMPORTANT:  Don't forget to replace Dand‚n with Dandân
 # Fix Dandan, Il-Hajjaj, Jotun Grunt, Seance
+# Make living weapon triggers mandatory
 
 print "IMPORTANT:  Don't forget to make character replacements (see source of this file)"
 
